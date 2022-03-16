@@ -175,7 +175,7 @@ class RobustEvaluation:
                 screenplays_folder, 
                 screenplays_line_numbers_file,
                 names_file="data/names.txt",
-                data_folder="data/"
+                results_folder="results/"
                 ):
 
         #####################################################################
@@ -255,7 +255,7 @@ class RobustEvaluation:
 
         self.ann = ann
         self.names_file = names_file
-        self.data_folder = data_folder
+        self.results_folder = results_folder
 
     def evaluate(self, gold_key, sys_key):
 
@@ -443,20 +443,25 @@ class RobustEvaluation:
         precision_df["prob"] = recall_df["prob"] = f1_df["prob"] = probs
         precision_df["type"] = recall_df["type"] = f1_df["type"] = types
 
-        precision_df.to_csv(os.path.join(self.data_folder, "precision.csv"), index=False)
-        recall_df.to_csv(os.path.join(self.data_folder, "recall.csv"), index=False)
-        f1_df.to_csv(os.path.join(self.data_folder, "f1.csv"), index=False)
+        results_folder = os.path.join(self.results_folder, "robust_evaluation")
+        os.makedirs(results_folder, exist_ok=True)
+
+        precision_df.to_csv(os.path.join(results_folder, "precision.csv"), index=False)
+        recall_df.to_csv(os.path.join(results_folder, "recall.csv"), index=False)
+        f1_df.to_csv(os.path.join(results_folder, "f1.csv"), index=False)
 
         #####################################################################
         #### create 9x9 subplots for each tag
         #####################################################################
-        
+
         for tag in ["S","N","C","D","T"]:
 
-            for metric, df in zip(["F1, precision, recall"], [f1_df, precision_df, recall_df]):
+            os.makedirs(os.path.join(results_folder, tag), exist_ok=True)
 
-                original = df.loc[(df.error == "no error") & (df.type == "original"), tag]
-                contiguous = df.loc[(df.error == "no error") & (df.type == "contiguous"), tag]
+            for metric, df in zip(["F1", "precision", "recall"], [f1_df, precision_df, recall_df]):
+
+                original = df.loc[(df.error == "no error") & (df.type == "original"), tag].values[0]
+                contiguous = df.loc[(df.error == "no error") & (df.type == "contiguous"), tag].values[0]
 
                 fig, axs = plt.subplots(3, 3)
 
@@ -487,5 +492,5 @@ class RobustEvaluation:
                 ax = axs[0, 0]
                 ax.bar(["original", "contiguous"], [original, contiguous], color=["b","r"])
 
-                fig.savefig(os.path.join(self.data_folder, "{}-{}.png".format(tag, metric)))
+                fig.savefig(os.path.join(results_folder, "{}/{}-{}.png".format(tag, tag, metric)))
                 plt.close("all")

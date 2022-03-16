@@ -24,7 +24,7 @@ if __name__=="__main__":
     
     elif args["mode"] == "evaluate-parser-robust":
         robust_eval = RobustEvaluation(annotator_1, annotator_2, annotator_3, \
-                        screenplays_folder, line_indices, names_file=args["names_file"], data_folder=args["data"])
+                        screenplays_folder, line_indices, names_file=args["names_file"], results_folder=args["results"])
         robust_eval.robust_evaluate()
 
     elif args["mode"] == "evaluate-gdi":
