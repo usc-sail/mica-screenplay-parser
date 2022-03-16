@@ -1,0 +1,9 @@
+matplotlib==3.5.1
+statsmodels==0.12.2
+numpy==1.21.2
+pandas==1.2.3
+docopt==0.6.2
+python_docx==0.8.11
+tqdm==4.63.0
+docx==0.2.4
+krippendorff==0.5.1
