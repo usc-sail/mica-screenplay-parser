@@ -1,0 +1,3109 @@
+M:          VAMPIRE ACADEMY
+0: 
+M:              "Pilot"
+0: 
+M:            Written by
+0: 
+M: Marguerite MacIntyre & Julie Plec
+0: 
+0: 
+0: 
+0: 
+M: Based on the book by Richelle Mead
+0: 
+0: 
+0: 
+0: 
+M:                                Network Draft 7/16/21
+M:                        Revised Network Draft 7/26/21
+0: M: VA 101 - Revised Network Draft (7/26/21)                      1.
+0: 
+0: 
+S:   INT. CHANGING SALON - NIGHT
+0: 
+N:   Tulle. Satin. A pin in the hair, a bauble in the ear. Bubbles
+N:   of champagne and perhaps even the smoking remnants of a joint
+N:   in a nearby dish by a Victorian setee.
+0: 
+N:   Camera REVEALS two fresh-faced young women in front of a long
+N:   mirror. ROSE MARIE HATHAWAY, 18, and VASILISSA DRAGOMIR
+N:   (LISSA), 18, formally dressed and elegant.
+0: 
+N:   Could be a Jane Austen movie except no empire waists, and...
+0: 
+C:                       ROSE
+D:             I look like a fucking macaroon.
+0: 
+N:   She downs her champagne. Lissa, used to Rose saying it like
+N:   it is, plops a sparkling tiara on Rose’s head.
+0: 
+C:                       LISSA
+D:             And now you look like a princess.
+0: 
+C:                       ROSE
+E:                 (holding up her glass)
+D:             If I were a princess, the champagne
+D:             wouldn’t be empty.
+0: 
+C:                       LISSA
+D:             Allow me, Your Highness.
+0: 
+N:   She fills their glasses, laughing as the bubbles spill over.
+N:   Rose sips the champagne before it overflows her glass, the
+N:   tiara slipping as she bends over. She pulls it off --
+0: 
+C:                       ROSE
+D:             How do you even wear this thing? I
+D:             just lost a hundred strands.
+0: 
+N:   -- and places it on the head of its rightful owner.
+0: 
+C:                       LISSA
+D:             Heavy is the head, thin is the
+D:             hair.
+0: 
+N:   Now they’re back at the mirror for last looks. Two lovely
+N:   young women, best friends at the prime of their lives.
+0: 
+C:                        LISSA (CONT'D)
+D:             Rose, if anyone looks like a
+D:             macaroon, it’s me. You look
+D:             beautiful.
+0: 
+N:   Rose smiles her thanks. Playing dress-up isn’t her thing, but
+N:   she knows she looks good.
+0: N: VA 101 - Revised Network Draft (7/26/21)                   2.
+0: 
+0: 
+C:                       ROSE
+D:             We look beautiful, Lissa. Head to
+D:             toe.
+0: 
+N:   Rose lifts the skirts of her party dress to reveal a well-
+N:   worn pair of shit-kicker boots.
+0: 
+C:                       ROSE (CONT'D)
+D:             Let’s party.
+0: 
+N:   Lissa grins and raises her glass. As they CLINK --
+0: 
+S:   EXT. ROYAL PALACE - NIGHT
+0: 
+N:   The FLASH of a PHOTOGRAPHER’S BULB as dozens of decked out
+N:   partygoers move up the carpet-lined stone staircase that
+N:   leads to an enormous CASTLE, lit up for a gala.
+0: 
+N:   Jewels and gowns and bespoke tuxedos abound as the arrivals
+N:   are projected onto a wall that lines the street -- this
+N:   kingdom’s version of E! Red Carpet Arrivals.
+0: 
+N:   A parade of LIMOUSINES crawls towards the entrance.
+0: 
+S:   EXT. CASTLE GATES - NIGHT
+0: 
+N:   A massive gate marks the entrance of St. Vladimir’s Royal
+N:   Court. The seat of the MOROI VAMPIRE KINGDOM. The castle
+N:   glitters high in the distance as the taillights of limos head
+N:   up the hillside.
+0: 
+N:   INSIDE the gates, in position, are FIVE DHAMPIR GUARDIANS.
+0: 
+N:   The night is quiet. Perhaps too quiet. One of the Guardians
+N:   squints. Is something out there?
+0: 
+N:   REVERSE to show nothing but wooded fields and a long lonely
+N:   road. We’re in the middle of nowhere.
+0: 
+S:   INT./EXT. LIMO - NIGHT
+0: 
+N:   At the castle, a window lowers to reveal VICTOR DASHKOV, 50s.
+N:   Handsome and sophisticated. A GUARDIAN peers in.
+0: 
+C:                       VICTOR
+D:             Victor Dashkov.
+0: 
+N:   Victor’s eyes FLASH GOLD -- the Royal calling card for entry.
+0: 
+C:                       VICTOR (CONT'D)
+D:             My daughters. Sonya Karp. Mia Karp.
+0: 
+N:   Inside, SONYA, 23, quiet, careful, and decidedly odd, flashes
+N:   her eyes. However hers flash SILVER.
+0: N: VA 101 - Revised Network Draft (7/26/21)                   3.
+0: 
+0: 
+C:                       GUARDIAN
+D:             One Royal Moroi, one non. And the
+D:             third?
+0: 
+N:   MIA, 18, sits back in her seat. Refusing to play.
+0: 
+C:                        VICTOR
+D:             Mia...
+0: 
+C:                       MIA
+D:             The Guardians make us suffer
+D:             through this every time.
+0: 
+C:                       VICTOR
+D:             It’s security protocol.
+0: 
+C:                       MIA
+D:             It’s humiliating.
+0: 
+C:                       SONYA
+E:                 (don’t make a scene)
+D:             Only if you care about such things.
+0: 
+C:                       MIA
+D:             How can they not know who I am?
+0: 
+C:                       VICTOR
+D:             Mia, darling. Be a sport.
+0: 
+N:   Annoyed, Mia flashes her eyes at the Guardian. Silver.
+0: 
+C:                        GUARDIAN
+E:                 (ticking the box)
+D:             Non-Royal.
+0: 
+C:                       MIA
+E:                 (sharp)
+D:             Not for long.
+0: 
+N:   They disembark from the car heading for the red carpet as we
+N:   DRONE UP to see the castle in all its glory.
+0: 
+S:   INT. BALLROOM - PALACE - NIGHT
+0: 
+N:   ECU ON a silver swizzle stick with a razor sharp tip as it
+N:   pricks a finger. As the blood pools on the tip -- WIDEN to
+N:   reveal a SEXY BARTENDER, who allows the DROP OF BLOOD to fall
+N:   in like a maraschino cherry. Rose grabs it and a blood-free
+N:   glass with one hand. In her other are two more flutes.
+0: 
+N:   As she moves through the majestic ballroom in search of
+N:   Lissa, we see the party through her eyes, a classy but sexy
+N:   mash up of Royal fantasy and Studio 54.
+0: N: VA 101 - Revised Network Draft (7/26/21)                      4.
+0: 
+0: 
+N:   A stunningly dressed WOMAN magically makes her fingertips
+N:   emit a shower of sparks, the embers lighting up the air.
+0: 
+N:   **Note: Every Moroi vampire, whether Royal or not, is able to
+N:   perform basic Elemental Magic. Nothing too strong -- the
+N:   equivalent of a parlor trick. We will call them Fire Users,
+N:   Water Users, Earth Users, Air Users.**
+0: 
+N:   A WATER USER in a LIME GREEN METALLIC SUIT and hair to match
+N:   waves his hand over a martini glass, causing the gin to swirl
+N:   and part until the olive is free to be plucked out.
+0: 
+N:   A bevy of Young Royals gather around an elaborate water pipe;
+N:   a Fire User using magic to heat it, as a Water User spins the
+N:   vapor into various shapes before being inhaled.
+0: 
+N:   Through partially closed velvet curtains, we catch a glimpse
+N:   of two ROYAL MOROI PARTYGOERS exposing their FANGS and
+N:   sinking their teeth into the neck of a rapturous HUMAN. As
+N:   the human lets his head fall back in ecstasy...
+0: 
+N:   Rose passes a line of Guardians, holding her foot out like a
+N:   handshake to MIKHAIL, 20s, who slyly taps her boot with his
+N:   similar one as a hello. The humorless ALBERTA, 30s, scolds:
+0: 
+C:                       ALBERTA
+D:             Rose. Behave.
+0: 
+C:                       ROSE
+E:                 (never)
+D:             Always, Alberta.
+0: 
+N:   As Rose continues on, linger with Alberta and Mikhail.
+0: 
+C:                       ALBERTA
+D:             Don’t encourage her.
+0: 
+C:                       MIKHAIL
+D:             She’s the guest of a Moroi
+D:             Princess. Let her have some fun.
+0: 
+C:                       ALBERTA
+D:             Guardians are not here to have fun.
+0: 
+C:                       MIKHAIL
+D:             She’s a Novice. Cut her some slack.
+0: 
+C:                       ALBERTA
+D:             The last thing Rose Hathaway needs.
+0: 
+N:   Mikhail spots Sonya entering. His eyes light up, but one look
+N:   from Alberta keeps him firmly in his place.
+0: N: VA 101 - Revised Network Draft (7/26/21)                   5.
+0: 
+0: 
+N:   Mia falls in beside Sonya as her eyes scan the party. Victor
+N:   already pressing flesh in the background. As Sonya clocks a
+N:   ROYAL IN FULL MARIE ANTOINETTE drag, including a bird cage
+N:   holding a live finch in her wig --
+0: 
+C:                       MIA
+D:             I don’t see Andre --
+0: 
+C:                        SONYA
+E:                 (voice raised)
+D:             A BIRD IS NOT A TOY.
+E:                 (then)
+D:             Perhaps you should activate your
+D:             stalker beacon.
+0: 
+C:                       MIA
+E:                 (embarrassed by Sonya)
+D:             It’s not stalking if one’s engaged.
+0: 
+C:                       SONYA
+E:                 (correcting her)
+D:             Promised --
+0: 
+C:                        MIA
+D:             Promised to be engaged.
+E:                 (then)
+D:             Don’t be jelly, Sonya. It doesn’t
+D:             suit you. Although, not much does.
+0: 
+N:   She wanders off, leaving Sonya unfazed and unaware of
+N:   Mikhail’s eyes on her from afar.
+0: 
+N:   A Queen’s FOOTMAN passes her rolling an enormous CAKE past
+N:   portraits of the QUEEN from her teenage years spanning
+N:   decades -- and clusters of Royals in heated political debate.
+N:   Beneath the frothy facade lay deep divisions.
+0: 
+N:   Finally the Footman approaches the Queen herself, ancient but
+N:   stately, as she receives the DRAGOMIR FAMILY: Lissa, her
+N:   charismatic brother ANDRE and their PARENTS.
+0: 
+C:                       THE QUEEN’S ANCIENT HERALD
+D:             The Dragomirs, Your Majesty.
+0: 
+N:   The Queen waves him away from her ear, annoyed.
+0: 
+C:                       QUEEN
+D:             Clarence would introduce his mother
+D:             to his father. How are my
+D:             delightful Dragomirs?
+0: 
+C:                       LISSA’S DAD
+D:             Pleased to be celebrating your
+D:             200th birthday, Your Majesty.
+0: N: VA 101 - Revised Network Draft (7/26/21)                    6.
+0: 
+0: 
+N:   Andre bows to her, all charm.
+0: 
+C:                       ANDRE
+D:             Happy Birthday, Fair Lady. You
+D:             don’t look a day over eighty.
+0: 
+C:                       QUEEN
+D:             Andre, my dear, you’re a cheeky
+D:             rascal. And a lovely liar.
+0: 
+N:   Having finally spotted him, Mia steps in next to Andre,
+N:   sliding her hand through his arm as she curtsies --
+0: 
+C:                       MIA
+D:             Happy Birthday from me as well,
+D:             Your Majesty.
+0: 
+N:   The Queen’s eyes glide over hers to find Lissa behind her.
+0: 
+C:                       QUEEN
+D:             Ah, Princess Vasilissa, the angel
+D:             to your brother Andre’s devil.
+0: 
+C:                       LISSA
+D:             He is shameless, Your Majesty.
+E:                 (teasing)
+D:             How shall he be punished?
+0: 
+C:                       QUEEN
+D:             Being King of the Commonwealth will
+D:             be punishment enough.
+0: 
+N:   Andre’s eyes catch a beautiful woman’s across the room. This
+N:   is TATIANA, 25. All lips and legs and brains. Noticing --
+0: 
+C:                       QUEEN (CONT'D)
+D:             Though surely he’ll find something
+D:             to cheer him once he’s king.
+0: 
+C:                       VICTOR
+E:                 (approaching)
+D:             Now Your Majesty, you know there
+D:             will have to be an actual election.
+0: 
+N:   Victor places a hand on Mia’s shoulder. Centering her.
+0: 
+C:                       QUEEN
+D:             Pfft, a formality. Who would deny
+D:             me my pick for successor?
+0: 
+N:   As the Dragomir’s greet Victor warmly, and the adults chatter
+N:   about politics, Mia’s sharp gaze lands on --
+0: N: VA 101 - Revised Network Draft (7/26/21)                      7.
+0: 
+0: 
+N:   Tatiana eye-fucking Andre from afar. After giving him a
+N:   subtle head tilt, Tatiana turns away, passing --
+0: 
+N:   Rose, who finally spots Lissa making a beeline for her.
+0: 
+C:                       LISSA
+D:             Bubbles, perfect.
+0: 
+N:   She takes two glasses from Rose just as she’s BUMPED by a
+N:   CARELESS PARTYGOER. One glass slips, but Rose’s free hand
+N:   shoots out with supernatural speed, catching it mid-air.
+0: 
+C:                        LISSA (CONT'D)
+D:             Nice.
+0: 
+N:   Calling after the sloppy party-goer --
+0: 
+C:                       ROSE
+D:             Excuse you!
+0: 
+N:   The Partygoer shoots some sparks into the air with his finger
+N:   spelling “sorry, Rose.” As the girls laugh MARIE CONTA,
+N:   middle-aged Royal, stares at Rose, sniping to another ROYAL.
+0: 
+C:                       MARIE
+D:             What are the Dragomir’s thinking
+D:             letting Lissa invite that girl
+D:             everywhere she goes? A Guardian’s
+D:             place is at the gates.
+0: 
+S:   EXT. GATES - NIGHT
+0: 
+N:   POV from the woods towards the gates. Perhaps something IS
+N:   out there. Watching. Waiting.
+0: 
+N:   CLOSE on a GUARDIAN as his head SNAPS to attention. What did
+N:   he just hear? He motions to his PARTNERS. Two of them fall
+N:   into flank position immediately, withdrawing SILVER STAKES
+N:   from their weapon belts. As the gates start to open --
+0: 
+S:   INT. BALLROOM - NIGHT
+0: 
+N:   WHOOSH! Music plays as A ROYAL MOROI waves their hand over
+N:   the enormous cake and its 200 candles ignite in FIRE.
+0: 
+N:   Rose and Lissa gently push through the crowd to get a better
+N:   view as the Queen steps up to her cake, aided by Victor. Mia
+N:   lingers behind her father, looking around for Andre.
+0: 
+C:                       ROSE
+D:             Looks like Mia lost her prince.
+0: N: VA 101 - Revised Network Draft (7/26/21)                      8.
+0: 
+0: 
+C:                       LISSA
+D:             I’m amazed she let him out of her
+D:             sight long enough to lose him.
+E:                 (speaking of)
+D:             Where is Andre?
+0: 
+T:                                                     CUT TO:
+0: 
+S:   INT. COAT CHECK - NIGHT
+0: 
+N:   Andre has Tatiana pressed up against the wall, hidden by
+N:   hanging coats as they fuck in the coat check. The sound of
+N:   voices singing Happy Birthday (Moroi-style) startles him.
+0: 
+C:                       ANDRE
+D:             Shit. I have to go --
+0: 
+N:   He tries to pull away, but she tightens her grip until they
+N:   both finish. Then, both catching their breaths --
+0: 
+C:                       TATIANA
+D:             Never leave a girl undone, Andre.
+D:             Not even for the Queen.
+0: 
+N:   As he pulls himself together --
+0: 
+C:                       ANDRE
+D:             Lovely to meet you...?
+0: 
+C:                        TATIANA
+D:             Tatiana.
+0: 
+N:   He grins, then dashes out, disappearing around the bend of a
+N:   long hallway just as we CUT TO:
+0: 
+S:   EXT. GATES - NIGHT
+0: 
+N:   Three Guardians move across the road as a unit. Movement in
+N:   the grasses lining the road grabs one Guardian’s attention --
+0: 
+N:   -- as a black BIRD takes flight from the brush, its wings
+N:   flapping in the startled Guardian’s face.
+0: 
+N:   He relaxes, sheaths his stake. He turns to the others, when --
+0: 
+N:   WHAM! Something HITS him hard, tackling him. We hear SNARLS.
+0: 
+C:                        GUARDIAN
+D:             STRIGOI!
+0: 
+S:   INT. BALLROOM - NIGHT
+0: 
+N:   Andre hurries up to a prime spot near the Queen just as the
+N:   birthday song finishes. He throws Rose and Lissa a wink.
+0: N: VA 101 - Revised Network Draft (7/26/21)                    9.
+0: 
+0: 
+N:   The old Queen struggles to blow out the candles. Giving up,
+N:   she closes her eyes. An unseen WIND begins to blow, building
+N:   until every last candle has gone out. Over hearty applause --
+0: 
+C:                       QUEEN
+D:             I may be older than iron, but I can
+D:             still work my way around Elemental
+D:             Magic.
+0: 
+C:                       CROWD MEMBER
+D:             Air Users Forever!
+0: 
+N:   That starts the rest of the crowd shouting, Earth Users, Fire
+N:   Users, Water Users. As the chanting takes on a rancorous
+N:   edge, Andre looks to the Queen for permission to address the
+N:   crowd. At her nod, he steps forward.
+0: 
+C:                       ANDRE
+D:             Yes. Air Users Forever — and don’t
+D:             forget Water Users Forever —
+E:                 (Water Users cheer)
+D:             And what about Earth Users and Fire
+D:             Users?
+0: 
+N:   More cheers. Near the Queen, HIGH PRIESTESS IRENA, 50s,
+N:   clever and political, pipes up:
+0: 
+C:                       HIGH PRIESTESS IRENA
+D:             Ever the politician, Andre. Can’t
+D:             you choose one?
+0: 
+N:   The crowd titters nervously. These two don’t see eye to eye.
+N:   Then, Andre, effortlessly charming, and entirely sincere --
+0: 
+C:                       ANDRE
+D:             Irena, how can I choose my right
+D:             hand over my left? My heart over my
+D:             brain? Alone, they’re weak.
+D:             Together they’re strong. A strong
+D:             state cares for all its citizens.
+0: 
+C:                       MARIE CONTA
+E:                 (pointed)
+D:             Define citizens?
+0: 
+N:   Andre looks at Lissa and Rose, both watching him, rapt.
+0: 
+C:                       ANDRE
+D:             Those we walk through life with,
+D:             shoulder to shoulder. Those we
+D:             love, no matter our differences.
+D:             Those we fight for.
+E:                 (to Rose)
+D:             And those who fight for us.
+0: N: VA 101 - Revised Network Draft (7/26/21)                  10.
+0: 
+0: 
+N:   Though Marie and Irena don’t look happy, Victor and the Queen
+N:   exchange a proud look.
+0: 
+C:                       ANDRE (CONT'D)
+D:             To me, that sounds like everyone in
+D:             this room. The Royal Moroi who
+D:             value our heritage. The Non-Royal
+D:             Moroi who keep our society going.
+D:             And... the Dhampir Guardians, of
+D:             whom we expect so much.
+0: 
+N:   Surprised murmurs from the Moroi. As the Guardians try to
+N:   cover their shock at being honored, Andre makes his point --
+0: 
+C:                       ANDRE (CONT'D)
+D:             We share the same history. We fight
+D:             the same enemy. And the Strigoi
+D:             don’t care if we’re Royal or Non-
+D:             Royal Moroi, or if we’re half
+D:             Moroi, half human like the Dhampir
+D:             Guardians. They want us all dead.
+E:                 (to the now hushed crowd)
+D:             Like these two hands, and like this
+D:             head and this heart, imagine what
+D:             we could achieve if we faced the
+D:             future as one kingdom, united.
+0: 
+N:   A silent beat -- followed by thunderous applause. Lissa and
+N:   Rose beam, as Tatiana watches, a sly smile on her lips. Then:
+0: 
+C:                       QUEEN
+E:                 (teasing Andre)
+D:             What a scene stealer you are. And
+D:             what happened to the music? I
+D:             thought this was a party!
+0: 
+N:   The crowd cheers, MUSIC RISES. Hundreds of rose petals fall
+N:   as the party kicks in to high gear and as Lissa pulls Rose to
+N:   the dance floor, not a care in the world, INTERCUT:
+0: 
+S:   EXT. GATES - NIGHT
+0: 
+N:   The Guardians are fighting something ferocious, silhouetted
+N:   by the bright perimeter lights. Whatever it is, it’s strong
+N:   and unrelenting. One Guardian takes a hit --
+0: 
+N:   More chaos, and snarls outside the gates. Punches thrown,
+N:   teeth bared, blood and spittle flying. Another Guardian gets
+N:   LAUNCHED from the scrum, flying twenty feet back.
+0: 
+N:   INSIDE - Alberta gets an alert on her earpiece. A tilt of the
+N:   head sends Mikhail and two Guardians out. Moving quickly but
+N:   stealthily so as not to grab attention. As the party goes on…
+0: N: VA 101 - Revised Network Draft (7/26/21)                     11.
+0: 
+0: 
+N:   OUTSIDE - Mikhail and the two Guardians arrive at the gates
+N:   to find a Guardian dogpile atop their unidentified assailant.
+N:   HISSES and SCREECHES from below as they try to restrain it.
+0: 
+N:   One of the Guardians raises his stake, but a GNARLY HAND
+N:   whips out from the scrum and grabs the Guardian’s wrist,
+N:   BREAKING IT with a snap. As the Guardian falls back, Mikhail
+N:   is there, driving his stake into the center of the scrum. A
+N:   hideous SHRIEK and then, finally, blissful silence.
+0: 
+N:   INSIDE - Mikhail and the Guardians calmly return to the
+N:   party, none of the privileged Royals aware of any danger.
+0: 
+N:   That’s how it works. The Guardians protect the Moroi vampires
+N:   from random Strigoi vampire attacks. It’s the way it has
+N:   always been (but not the way it will always be).
+0: 
+N:   As camera lingers on the spirited Rose and Lissa dancing
+N:   without a care in the world... CUT TO:
+0: 
+S:   EXT. LONG COUNTRY ROAD/INT. SUV - NIGHT
+0: 
+N:   A LIMO flies down the road. Inside, Lissa and Rose are
+N:   ribbing Andre as the parents try to keep the peace.
+0: 
+C:                       LISSA
+D:             Darlingest, Delightfulest Andre,
+D:             future king of all the land...
+0: 
+C:                       ROSE
+D:             Oh to be the Chosen One...
+0: 
+C:                       ANDRE
+D:             Go ahead. Laugh it up.
+0: 
+C:                       LISSA’S DAD
+D:             Careful or when he’s king he’ll
+D:             have you thrown in the dungeons.
+0: 
+C:                       ANDRE
+D:             When I’m king I’ll be getting rid
+D:             of the dungeons. Change is coming.
+0: 
+C:                       LISSA’S DAD
+D:             Winning the crowd is one thing. The
+D:             only ones who matter are the heads
+D:             of the twelve families. Win them
+D:             over, and you’ll be able to make
+D:             real change as king.
+0: 
+N:   Rose calls up to the Guardian in the front seat.
+0: N: VA 101 - Revised Network Draft (7/26/21)          12.
+0: 
+0: 
+C:                       ROSE
+D:             Sebastian, you’re going to be the
+D:             King’s Guardian --
+0: 
+N:   SEBASTIAN, 30, strong, steady, turns around.
+0: 
+C:                       SEBASTIAN
+D:             Not with the way you’re climbing in
+D:             the rankings.
+0: 
+C:                       ROSE
+D:             I’ve already got a job lined up
+D:             when school is done, thank you.
+0: 
+N:   She leans into Lissa, a BFF nudge.
+0: 
+C:                       SEBASTIAN
+D:             Only Rose Hathaway would pass up
+D:             the top Guardian spot in the world.
+0: 
+C:                       ROSE
+D:             Who wants to guard a king when I
+D:             can protect my best friend?
+0: 
+C:                       ANDRE
+D:             That’s Rose settled. At least one
+D:             of you has a plan.
+0: 
+C:                       LISSA
+D:             Oh, I have a plan. Finish school,
+D:             and then ask the new king, who I
+D:             happen to have an in with, for a
+D:             dispensation so Rose and I can see
+D:             the world. The outside world. And
+D:             every museum in it.
+0: 
+C:                       ANDRE
+E:                 (teasing)
+D:             And who’s going to take care of our
+D:             aging parents?
+0: 
+C:                       LISSA’S MOM
+D:             Not funny, Andre.
+0: 
+C:                       LISSA
+D:             I’m going if I have to forge the
+D:             dispensation myself.
+0: 
+C:                       ANDRE
+D:             I don’t know, Liss. They’re not
+D:             getting any younger.
+E:                 (in a fake kingly voice)
+D:             What we want and what we must do
+D:             can be very different things.
+0: N: VA 101 - Revised Network Draft (7/26/21)                    13.
+0: 
+0: 
+N:   Lissa hits his arm, all in good fun.
+0: 
+C:                          ANDRE (CONT'D)
+D:             Hey --
+0: 
+N:   Suddenly THE CAR SHIFTS like a SONIC BOOM has hit. Everyone
+N:   is ROCKED from their seats in SLOW-MOTION. Shock and horror
+N:   as we RAMP SPEED INTO REAL-TIME --
+0: 
+N:   The limo FLIPS on the road, as though something catapulted it
+N:   into the air. Sparks and screams and fire. CUT TO:
+0: 
+S:   EXT. LONG COUNTRY ROAD - NIGHT
+0: 
+N:   An empty road. An orange light in the far distance. The light
+N:   gets closer and closer, until we realize it’s the burning
+N:   fireball of a limousine skidding upside down along the road.
+N:   It FLIES STRAIGHT TOWARDS CAMERA and we -- SMASH TO TITLES.
+0: 
+S:   EXT. CEMETERY - DAWN
+0: 
+N:   Atop an ancient parapet with a view to the sea, a RAGGED
+N:   WARRIOR ANGEL CARVED FROM STONE stands sentinel over a
+N:   cloistered cemetery. Below we find THREE NAMES FRESHLY ETCHED
+N:   IN ONYX. ERIC DRAGOMIR. RHEA DRAGOMIR. ANDRE DRAGOMIR.
+0: 
+N:   Lissa lays three calla lilies to honor her family. Behind
+N:   her, family friend and tacit uncle, Victor Dashkov, waits.
+N:   The weight of her grief shows through as he shepherds her
+N:   toward the entrance and a waiting limo --
+0: 
+S:   EXT. ST. VLADIMIR’S ACADEMY - DUSK
+0: 
+N:   Perched on a turret, Rose watches as that same limo travels
+N:   the hillside up from the gates.
+0: 
+N:   Tucking something in her jacket, she checks no one’s watching
+N:   -- then PARKOURS TO A LOWER TURRET, THEN ANOTHER, all speed,
+N:   grace, and supernatural athleticism.
+0: 
+S:   EXT. ST. VLADIMIR’S ACADEMY - DUSK
+0: 
+N:   The car pulls to a stop in front of the entrance to St.
+N:   Vladimir’s Academy, sprawling grounds lit by bright lights.
+0: 
+N:   Rose lands unseen nearby. As a door opens, she rushes up --
+0: 
+C:                          ROSE
+D:             Lissa...
+0: 
+N:   -- and suddenly finds   herself FLAT ON HER BACK, a muscled arm
+N:   pinning her down. Her   eyes lock on her assailant’s. Intense,
+N:   focused, belonging to   a very handsome face. She stares at
+N:   him, wind knocked out   of her in more ways than one.
+0: N: VA 101 - Revised Network Draft (7/26/21)                   14.
+0: 
+0: 
+N:   This is DIMITRI, 25, no-nonsense and stoic. At least on the
+N:   outside. Inside are wells of emotion always kept in check.
+0: 
+N:   Victor emerges from the car, opening an umbrella to block the
+N:   setting sun.
+0: 
+C:                       VICTOR
+D:             It’s all right. Rose won’t harm
+D:             Lissa.
+0: 
+C:                       DIMITRI
+D:             She has something.
+E:                 (to Rose)
+D:             Show me.
+0: 
+N:   Rose pulls a small carved wooden unicorn from her jacket.
+N:   Flustered and a little pissed.
+0: 
+C:                       ROSE
+D:             It’s a super-dangerous welcome home
+D:             gift.
+0: 
+N:   Still holding her, Dimitri looks to the gift, then to Rose --
+N:   a tiny chemical beat passing between them, before --
+0: 
+C:                          LISSA (O.C.)
+D:             I love it.
+0: 
+N:   Rose turns her head to see Lissa, standing underneath her own
+N:   parasol. She smiles --
+0: 
+C:                       LISSA (CONT'D)
+D:             I mean, I’m not twelve... but...
+0: 
+C:                       ROSE
+E:                 (beaming)
+D:             Shut up. It’s fucking adorable.
+0: 
+N:   Rose scrambles to her feet. The girls barrel into each other.
+N:   They hug, laugh, swing each other around.
+0: 
+N:   As they settle, Rose takes Lissa’s face in her hands. Asks
+N:   with her eyes, you okay? Lissa’s eyes glint with tears: No,
+N:   but I’m trying.
+0: 
+N:   Dimitri watches the girls, observing the powerful intimacy of
+N:   their friendship. Rose gives Lissa a final nod, like a
+N:   promise to always be there, then takes charge.
+0: 
+C:                       ROSE (CONT'D)
+D:             Nice to see you, Victor. I’m taking
+D:             Lissa back to the dorm.
+0: 
+N:   Dimitri starts to follow, but Victor holds him back --
+0: N: VA 101 - Revised Network Draft (7/26/21)                    15.
+0: 
+0: 
+C:                       VICTOR
+D:             They’re within the wards. They’ll
+D:             be fine.
+0: 
+N:   As Rose escorts Lissa away --
+0: 
+C:                       ROSE
+D:             Who is that guy?
+0: 
+C:                       LISSA
+E:                 (don’t kill the messenger)
+D:             That is Dimitri... My new Guardian.
+0: 
+N:   As Rose looks back, her stare boring a hole through his
+N:   skull, their eyes locking again from afar...
+0: 
+C:                       ROSE (PRELAP)
+D:             But I’m your Guardian.
+0: 
+S:   EXT. ST. VLADIMIR’S CAMPUS - NIGHT
+0: 
+N:   Rose and Lissa cross the brightly lit campus drawing glances,
+N:   hellos, and furtive whispers from students in posh uniforms.
+N:   But all Rose can focus on is --
+0: 
+C:                       ROSE
+D:             Or I will be when I graduate.
+0: 
+C:                       LISSA
+D:             Shouldn’t you be heading to class?
+0: 
+C:                       ROSE
+D:             They kept us apart for three
+D:             months. Class can wait. And don’t
+D:             deflect. We don’t need that guy.
+D:             I’ve got your back. Always.
+0: 
+C:                       LISSA
+D:             I guess they want someone with
+D:             field experience now that I’m the
+D:             Head of the Dragomir Family.
+D:             Whatever that means. Family of one.
+0: 
+N:   This is heartbreaking, but Rose knows how to handle it.
+0: 
+C:                       ROSE
+D:             No. Don’t get sad yet. I have a
+D:             whole thing planned involving a lot
+D:             of booze and sloppy drunk tears.
+D:             We’re not gonna let Dimitri ruin it
+D:             or our plans for the future.
+0: N: VA 101 - Revised Network Draft (7/26/21)                  16.
+0: 
+0: 
+C:                        LISSA
+E:                 (alright then)
+D:             Sloppy drunk sounds good. After a
+D:             nap...
+E:                 (also)
+D:             He is good looking, though.
+0: 
+C:                       ROSE
+E:                 (stubborn)
+D:             I didn’t notice.
+0: 
+N:   As they move towards the building that contains the dorms...
+0: 
+C:                       DIMITRI (PRELAP)
+D:             Will Rose Hathaway be a problem?
+0: 
+S:   INT. ALBERTA’S OFFICE - GUARDIAN HEADQUARTERS - NIGHT
+0: 
+N:   Dimitri is with Victor and Alberta.
+0: 
+C:                       ALBERTA
+D:             Rose is always a problem. She’s one
+D:             of our best Novices, but she’s a
+D:             handful.
+0: 
+C:                       VICTOR
+D:             The girls have been friends their
+D:             whole lives. We’ve spoiled them,
+D:             let them break all the rules, even
+D:             let them be roommates in the Royal
+D:             Dorms. Is it any surprise Rose has
+D:             certain expectations?
+0: 
+C:                       ALBERTA
+D:             A Guardian’s duty is to do as
+D:             they’re told.
+0: 
+C:                       VICTOR
+D:             That may be, but this is a big
+D:             change for both of them. As the new
+D:             Head of Family, Lissa is an
+D:             important Royal. With her parents
+D:             and brother gone, she’ll need Rose
+D:             more than ever. For her sake,
+D:             you’ll have to navigate that
+D:             relationship carefully. The last
+D:             thing Lissa needs is more stress.
+0: 
+C:                       DIMITRI
+D:             With all due respect, I’m not a
+D:             nanny. My job is protection.
+0: 
+C:                       VICTOR
+D:             A word that can take many forms.
+0: N: VA 101 - Revised Network Draft (7/26/21)                   17.
+0: 
+0: 
+N:   As Dimitri takes this in...
+0: 
+S:   INT. GIRLS’ DORM ROOM - NIGHT
+0: 
+N:   Finally “home” in their room, as Lissa adds Rose’s gift to a
+N:   bevvy of carved unicorns on her dresser. Referring to each:
+0: 
+C:                       LISSA
+D:             From when I broke my collarbone,
+D:             when I broke up with Antonia Diaz,
+D:             my first hangover. And now...
+0: 
+C:                       ROSE
+E:                 (holding up a black dress)
+D:             ...Should we burn this?
+0: 
+C:                       LISSA
+D:             Please. I never want to wear black
+D:             again.
+0: 
+C:                       ROSE
+D:             I wish I’d been with you.
+0: 
+C:                       LISSA
+D:             I tried. Victor said your place was
+D:             at school, in training. That Royal
+D:             mourning was for family only.
+0: 
+N:   Rose winces. Weren’t they her family too?
+0: 
+C:                       ROSE
+D:             Victor, who isn’t a blood relation
+D:             either?
+0: 
+C:                       LISSA
+D:             He was my parent’s best friend; and
+D:             as my godfather, he’s the boss.
+E:                 (then, a smile)
+D:             But not for long.
+0: 
+C:                       ROSE
+E:                 (grinning)
+D:             Not for long. First, graduation.
+D:             Then, every piece of art for you --
+D:             and pizza for me -- in Europe --
+0: 
+C:                       LISSA
+D:             -- and then the world.
+0: 
+N:   Rose finds a pouch jammed with prescription medicines.
+0: 
+C:                       ROSE
+D:             Um... Not sure these will pass
+D:             through human customs...
+0: N: VA 101 - Revised Network Draft (7/26/21)                  18.
+0: 
+0: 
+C:                       LISSA
+D:             ...Unlike you, I didn’t make it out
+D:             of the accident totally unscathed.
+0: 
+N:   At the mention of the accident, Rose grows quiet. Then --
+0: 
+C:                       ROSE
+E:                 (re the pills)
+D:             No wonder it was so hard to get you
+D:             on the phone.
+0: 
+C:                       LISSA
+D:             ...I hated taking them... The only
+D:             thing worse was not taking them.
+0: 
+C:                         ROSE
+D:             Oh, Liss.
+0: 
+C:                        LISSA
+D:             They said I was all bruised up and
+D:             my arm was broken. But I couldn’t
+D:             feel my body. All I could feel was
+D:             my insides shaking. Like I was
+D:             trapped inside with all this
+D:             feeling and nowhere to go to get
+D:             away from it. So they started
+D:             giving me drugs.
+E:                 (then)
+D:             But there isn’t a pill in the world
+D:             strong enough to make it better.
+0: 
+C:                        ROSE
+E:                 (soft)
+D:             I wish I could.
+0: 
+C:                       LISSA
+D:             I know. Just being with you helps.
+0: 
+C:                       ROSE
+D:             Good.
+E:                 (considering the meds)
+D:             Though maybe my plan will involve
+D:             less booze than expected.
+0: 
+C:                       LISSA
+D:             It’s okay. I’m tapering off. And I
+D:             don’t wanna blow my surprise party.
+0: 
+C:                       ROSE
+D:             What surprise party?
+0: 
+C:                       LISSA
+E:                 (a knowing smile)
+D:             Thanks, Rose.
+E:                       (MORE)
+0: N: VA 101 - Revised Network Draft (7/26/21)                  19.
+0: 
+C:                       LISSA (CONT'D)
+D:             All I want is for things to go back
+D:             to normal. You lying badly is a
+D:             nice first step.
+0: 
+N:   Rose grabs sunglasses and a hat. Holding them out to Lissa.
+0: 
+C:                       ROSE
+D:             Do me a favor later? Bring these.
+D:             And act surprised?
+0: 
+N:   PRELAP: Marie Conta: “The accident that took Andre and his
+N:   family has wounded us all, Your Majesty...”
+0: 
+S:   INT. QUEEN’S PRIVY CHAMBER - NIGHT
+0: 
+N:   Marie Conta addresses the Queen.
+0: 
+C:                       MARIE CONTA
+D:             ...and though I loathe to speak ill
+D:             of the dead --
+0: 
+C:                       QUEEN
+D:             You will anyway?
+0: 
+C:                       MARIE CONTA
+D:             I hope Andre’s policies will be
+D:             buried with him. We need strong
+D:             leadership now. I assume you’ll
+D:             name your successor soon? I have
+D:             some thoughts --
+0: 
+N:   The Queen perks up as Victor arrives at the door.
+0: 
+C:                       QUEEN
+D:             And I have a date with an old
+D:             friend. You’re excused, Marie.
+0: 
+N:   Irritated at being brushed aside --
+0: 
+C:                       MARIE CONTA
+D:             Yes, Your Majesty.
+0: 
+N:   She exits as Victor enters.
+0: 
+C:                       QUEEN
+D:             You see what I’m up against?
+D:             Sniveling children. Instead of
+D:             mourning the man who could unite
+D:             them, these idiots are all
+D:             scrambling for the crown. All of
+D:             them for personal gain. Not a
+D:             compassionate soul among them...
+E:                 (feeling her years)
+C:             I adored Andre.
+E:                       (MORE)
+0: N: VA 101 - Revised Network Draft (7/26/21)                  20.
+0: 
+C:                       QUEEN (CONT'D)
+D:             He was no saint, which I suppose
+D:             made me like him all the more...
+D:             Losing him now...
+0: 
+C:                       VICTOR
+D:             With no one to bridge the divide...
+0: 
+C:                       QUEEN
+E:                 (shaking it off)
+D:             Enough. There’s work to be done.
+D:             You must prepare Lissa for her role
+D:             as Head of the Dragomir Family.
+0: 
+C:                       VICTOR
+D:             It won’t be easy for her. You know
+D:             she was planning to apply for a
+D:             Royal Dispensation so she could
+D:             study art at a human university.
+0: 
+C:                       QUEEN
+D:             Those dreams are done. Lissa will
+D:             finish her schooling and take her
+D:             place within the Royal Court.
+0: 
+C:                         VICTOR
+D:             And Rose?
+0: 
+C:                       QUEEN
+D:             When she completes her training,
+D:             we’ll find her a placement in one
+D:             of the other provinces.
+0: 
+C:                       VICTOR
+D:             She won’t like that.
+0: 
+C:                       QUEEN
+D:             Moroi come first. Rose knows that.
+D:             She’ll do her duty.
+0: 
+S:   EXT. ST. VLADIMIR’S ACADEMY - PRIVATE GARDEN - DAWN
+0: 
+N:   Rose leads Lissa towards a GAZEBO tucked away behind
+N:   manicured shrubbery. Lissa’s parasol gets snagged on a tree.
+N:   Sunlight hits her face.
+0: 
+C:                         LISSA
+D:             Ow.
+0: 
+N:   She steps back under the umbrella.
+0: 
+C:                       ROSE
+D:             Easy. You can’t wear third degree
+D:             burns to your surprise party.
+0: N: VA 101 - Revised Network Draft (7/26/21)                     21.
+0: 
+0: 
+N:   As they round the bend -- SURPRISE! Lissa feigns surprise as
+N:   she surveys the Moroi in their sunglasses and stylish clothes
+N:   taking shade under the gazebo. Meanwhile, Novices bask in the
+N:   sunlight they get so little of living by the Moroi schedule -
+N:   - one in which school and social time are at night, while
+N:   sleep and illicit activities happen during the day.
+0: 
+N:   MASON, a fun hunky Novice, who everyone knows has a huge
+N:   thing for Rose, approaches with drinks.
+0: 
+C:                       MASON
+D:             Lissa -- Rose isn’t the only one
+D:             who missed you.
+0: 
+C:                       ROSE
+D:             Mason helped me plan this.
+0: 
+C:                       LISSA
+D:             Meaning Rose told you what she
+D:             wanted and you did all the work?
+0: 
+C:                       ROSE
+D:             No fair. I helped.
+0: 
+C:                       MASON
+D:             Whatever you say, Rose.
+0: 
+N:   Lissa spots Mia all in black. Seeing --
+0: 
+C:                       ROSE
+D:             Mia’s really working it.
+0: 
+C:                       LISSA
+D:             I feel sorry for her.
+0: 
+C:                       MASON
+D:             I don’t. She just wants attention.
+0: 
+C:                       ROSE
+D:             And we didn’t throw you a party to
+D:             talk about Mia. Drink up.
+0: 
+N:   JUMP CUT: Party hijinks, St. Vlad’s style. Novices show off
+N:   physical skills, diving through WATER RINGS that hang in the
+N:   air, courtesy of Moroi Water Users.
+0: 
+N:   At a makeshift bar, MEREDITH, 18, a matter-of-fact Novice,
+N:   whips up cocktails, her nerd-brain excited by the various
+N:   combinations.
+0: 
+N:   Rose dirty dances with Mason. On a nearby lounge, JESSE,
+N:   Royal Moroi, 18, makes out with a ROYAL GIRL, while two ROYAL
+N:   BOYS make out with each other.
+0: N: VA 101 - Revised Network Draft (7/26/21)                  22.
+0: 
+0: 
+N:   Tipsy now, Lissa’s surrounded by friends, enjoying herself.
+N:   REVERSING we see Mia watching her as she orders a drink.
+0: 
+C:                       MIA
+D:             Vodka tonic.
+0: 
+C:                       MEREDITH
+D:             Wouldn’t you like something more --
+0: 
+C:                       MIA
+E:                 (a cold glance)
+D:             Extra lime.
+0: 
+C:                       MEREDITH
+D:             Last thing you need is more acid.
+0: 
+N:   Meredith mixes as Mia frowns. What’s that supposed to mean?
+0: 
+C:                       MEREDITH (CONT'D)
+D:             Aren’t you hot in all that?
+0: 
+C:                       MIA
+D:             I’m in mourning.
+0: 
+C:                       MEREDITH
+D:             Right. Andre. Your...almost fiancé.
+0: 
+C:                       MIA
+D:             Excuse me, we were very close.
+0: 
+C:                       MEREDITH
+E:                 (hands her a drink)
+D:             Sorry for your loss.
+0: 
+C:                       MIA
+D:             This isn’t what I ordered.
+0: 
+N:   Meredith levels her with a look.
+0: 
+C:                       MEREDITH
+D:             Maybe not. But it’s what you want.
+0: 
+N:   Yep, that’s chemistry between them. It unsettles Mia.
+0: 
+C:                       MIA
+D:             What do you know about what I want?
+D:             How dare you talk to me like that.
+E:                 (...takes a sip)
+D:             What’s in this?
+0: 
+C:                       MEREDITH
+D:             Basil. It’s complex and fragrant.
+0: N: VA 101 - Revised Network Draft (7/26/21)                  23.
+0: 
+0: 
+C:                       MIA
+D:             Well, it’s a ridiculous thing to
+D:             put in a drink...
+0: 
+C:                       MEREDITH
+D:             You want another?
+0: 
+C:                        MIA
+D:             Yes.
+0: 
+N:   Rose and Lissa approach the bar, seeing too late that Mia is
+N:   there. Rose turns to walk away to avoid her, but Lissa is
+N:   kind and a little bit drunk. Steps forward.
+0: 
+C:                       LISSA
+D:             How are you, Mia?
+0: 
+C:                       MIA
+D:             I’m grieving, Lissa.
+E:                 (pointed)
+D:             With dignity.
+0: 
+N:   Rose hears this and spins back, but Lissa can handle herself.
+0: 
+C:                       LISSA
+D:             Rose... Have a drink. And one for
+D:             me -- Meredith?
+0: 
+C:                       MIA
+D:             I wouldn’t if I were you. I hear
+D:             you have a big day tomorrow.
+0: 
+C:                       LISSA
+D:             I’ve taken more than one exam with
+D:             a hangover. I think I can manage an
+D:             early morning at the Royal Court
+D:             with your dad.
+0: 
+C:                       MIA
+D:             Head of a Family isn’t something
+D:             you can fake your way through.
+D:             Looks like no more dancing through
+D:             life and being best friends with
+D:             Guardians...
+0: 
+C:                       ROSE
+D:             Looks like more Royal advice from
+D:             Non-Royal Mia...
+0: 
+N:   Still, they know she’s right. The old days of being together
+N:   doing whatever they wanted, whenever they wanted it, are in
+N:   jeopardy. As the girls consider their fate -- CUT TO BLACK.
+0: N: VA 101 - Revised Network Draft (7/26/21)                    24.
+0: 
+0: 
+S:   EXT. ST. VLADIMIR'S ACADEMY - DUSK
+0: 
+N:   It’s magic hour on the quiet campus. Whereas humans would be
+N:   settling down for dinner, vampires are rising for breakfast.
+0: 
+N:   Lights come on one by one, illuminating the falling shadows.
+0: 
+S:   INT. CHURCH ARCHIVES – NIGHT (DAY 2)
+0: 
+N:   Seated at a desk in a candlelit vaulted room of brick and
+N:   stone, a fuzzy headed Lissa tries to focus as Sonya sets an
+N:   ANCIENT PARCHMENT in front of her. As she stares at the
+N:   indecipherable script (WRITTEN IN “OLD MOROI”), to Victor --
+0: 
+C:                       LISSA
+D:             It might help if we flicked on an
+D:             actual light.
+0: 
+C:                       SONYA
+D:             That would damage the paper.
+0: 
+C:                       LISSA
+D:             Oh. Of course.
+E:                 (looking down at it)
+D:             Not sure it would help anyway...
+0: 
+C:                       VICTOR
+D:             You only need to recite this small
+D:             passage.
+0: 
+C:                          LISSA
+D:             Recite...?
+0: 
+C:                       VICTOR
+D:             For the consecration. Tradition
+D:             dictates when there’s a new Head of
+D:             the Family they be blessed in the
+D:             presence of all the others.
+0: 
+C:                       LISSA
+D:             Recite Old Moroi in front of
+D:             people? Today?
+0: 
+C:                       VICTOR
+D:             I need to see the High Priestess.
+D:             You’ll be fine.
+0: 
+N:   Victor leaves. Sonya follows, then looks back at Lissa,
+N:   curious. When Lissa looks up, Sonya smiles.
+0: 
+C:                       SONYA
+D:             That’s a beautiful yellow you’re
+D:             wearing.
+0: N: VA 101 - Revised Network Draft (7/26/21)                     25.
+0: 
+0: 
+N:   Lissa looks down at her black and white school uniform.
+0: 
+C:                       LISSA
+D:             Okaaay. See ya, Sonya.
+0: 
+N:   Lissa looks at the paper, tries to sound it out. Rising, she
+N:   paces, mumbles, squints at the odd writing. Then, suddenly --
+0: 
+N:   ALL THE CANDLES FLICKER OUT. Lissa looks around, creeped
+N:   out... After a beat -- THEY FLICKER BACK ON...
+0: 
+N:   Lissa freezes. Then -- A WARM FLAME OF LIGHT APPEARS OVER HER
+N:   PARCHMENT making it far easier to see. Suspecting a prank --
+0: 
+C:                       LISSA (CONT'D)
+D:             All right. Who’s there?
+0: 
+C:                       MALE VOICE
+D:             Thought you could use some light.
+0: 
+N:   Emerging from an alcove is CHRISTIAN OZERA. Smoldering,
+N:   brilliant, wounded, and a new student at St. Vlad's. The two
+N:   hold their gaze for a beat, an instant chemistry between
+N:   them. But there’s something more, something they can’t
+N:   pinpoint. Realizing she’s staring, Lissa raises her chin --
+0: 
+C:                       LISSA
+D:             And you are?
+0: 
+C:                        CHRISTIAN
+D:             New.
+0: 
+N:   She waits for more. Then, wondering if this next admission
+N:   will drive her away -- he almost dares her with it --
+0: 
+C:                       CHRISTIAN (CONT'D)
+D:             I’m Christian Ozera.
+0: 
+C:                        LISSA
+D:             ...Oh...
+0: 
+N:   Armoring up, he adds with snark --
+0: 
+C:                       CHRISTIAN
+D:             And just to get it out of the way:
+D:             No, I don’t know why my parents
+D:             decided to turn Strigoi. And since
+D:             they’re dead I can’t ask them.
+0: 
+N:   Not sure how to take this, Lissa bites back --
+0: N: VA 101 - Revised Network Draft (7/26/21)                  26.
+0: 
+0: 
+C:                       LISSA
+D:             So you, what, just hang around
+D:             church archives waiting for girls
+D:             to... need a light?
+0: 
+C:                       CHRISTIAN
+D:             Or I might have some questions
+D:             about where you go after you die.
+0: 
+N:   And click. That’s it. The connection - loss. Both orphans.
+0: 
+C:                       LISSA
+D:             ...I’m sorry about your parents.
+0: 
+C:                       CHRISTIAN
+E:                 (armor coming down)
+D:             I’m sorry about yours.
+0: 
+N:   A beat as they look at the only other person with any idea of
+N:   how they feel. Then, a bit desperate --
+0: 
+C:                       LISSA
+D:             So, you actually read this stuff?
+0: 
+C:                       CHRISTIAN
+D:             I’ve gotten better at it. It’s
+D:             really... kind of... beautiful.
+0: 
+C:                       LISSA
+D:             I don’t suppose you have any idea
+D:             what this third line means?
+0: 
+N:   He comes closer to see the parchment.
+0: 
+C:                       CHRISTIAN
+D:             It’s a vow of protection. The head
+D:             of each family takes an oath to
+D:             fight against demons.
+0: 
+C:                        LISSA
+E:                 (fuck)
+D:             Wonderful...
+0: 
+N:   Moving closer, he reaches for it. Reads in English —
+0: 
+C:                        CHRISTIAN
+D:             With my body and my life I swear to
+D:             defend against all demons living
+D:             and dead, and any who would stray
+D:             from what is right.
+E:                 (then)
+D:             Say it with me.
+0: N: VA 101 - Revised Network Draft (7/26/21)                    27.
+0: 
+0: 
+N:   Both holding it now, their hands touching, they read off the
+N:   paper together in the Old Moroi language, intensely aware of
+N:   each other as they do. He turns to her; they’re so close.
+0: 
+C:                         CHRISTIAN (CONT'D)
+D:               Where’s the rest of it?
+0: 
+C:                         LISSA
+E:                   (breath catching)
+D:               ...There’s more?
+0: 
+N:   Then -- footsteps. Lissa turns to see Victor arriving.
+0: 
+C:                         VICTOR
+D:               Ready?
+0: 
+C:                         LISSA
+D:               ...I wouldn’t be, except...
+0: 
+N:   She turns back to Christian but he’s gone. Off Victor’s look:
+0: 
+C:                         LISSA (CONT'D)
+D:               ...Except, I didn’t want to
+D:               disappoint you.
+0: 
+N:   As she follows him out --
+0: 
+S:   INT. PALACE CATHEDRAL – NIGHT
+0: 
+N:   SACRED   MOROI MUSIC fills the cathedral as a PROCESSION OF
+N:   TWELVE   ROYAL MOROI dressed in matching ceremonial robes move
+N:   toward   the altar. Among them, and the youngest by far, is
+N:   Lissa,   feeling very small.
+0: 
+N:   The cathedral is full of Royal spectators -- including
+N:   students in head to toe St. Vladimir’s Royal uniforms.
+0: 
+N:   As Victor watches with the Queen, Christian enters, receiving
+N:   dirty looks, especially from Marie. Ignoring them, he takes a
+N:   spot on an aisle. As he lands, THREE ROYAL MOROI in the aisle
+N:   move to another. There is no doubt, Christian is an outcast.
+0: 
+N:   As the processional reaches the altar, it splits, leaving
+N:   Lissa alone. High Priestess Irena nods. Lissa, nervous,
+N:   recites her oath in Old Moroi.
+0: 
+C:                         LISSA
+D:               With my body and my life I swear to
+D:               defend against... against all...
+0: 
+N:   She looks out and spots a judgmental Marie Conta. Then --
+N:   Christian in the back. Oddly comforted, she continues —
+0: N: VA 101 - Revised Network Draft (7/26/21)                    28.
+0: 
+0: 
+C:                       LISSA (CONT'D)
+D:             Against all demons living and dead,
+D:             and any who would stray from what
+D:             is right.
+0: 
+N:   The Queen watches as Lissa and Christian share a smile.
+N:   Watching as Lissa’s warmth melts Christian’s armor.
+0: 
+S:   EXT. ST. VLADIMIR'S ACADEMY - TRAINING FIELD - NIGHT
+0: 
+N:   Rose exits the dorms. Stops when she sees Dimitri standing
+N:   outside, eyes straight ahead in Guardian-mode. Confused --
+0: 
+C:                       ROSE
+D:             You know we have magic wards around
+D:             the gates to keep us safe. Lissa
+D:             doesn’t need a 24/7 detail.
+0: 
+C:                       DIMITRI
+E:                 (without looking her way)
+D:             Lissa’s still at the church. Royals
+D:             only.
+0: 
+C:                       ROSE
+D:             So you’re just...having a staring
+D:             contest with the air?
+0: 
+C:                       DIMITRI
+D:             You’ve studied perimeter control.
+0: 
+C:                       ROSE
+D:             Yes. Got an A.
+0: 
+C:                       DIMITRI
+D:             What’s around this perimeter? Don’t
+D:             look, just tell me.
+0: 
+C:                       ROSE
+D:             Street clear, gates secured,
+D:             rooftop empty, turrets contained.
+0: 
+C:                       DIMITRI
+D:             How do you know?
+0: 
+C:                       ROSE
+D:             I’ve trained for years to know
+D:             every inch of this place.
+0: 
+C:                       DIMITRI
+D:             Exactly. You’re able to operate on
+D:             instinct because you are intimately
+D:             familiar with your surroundings.
+D:             But I’m new here. A lot to learn in
+D:             a little time.
+E:                       (MORE)
+0: N: VA 101 - Revised Network Draft (7/26/21)                  29.
+0: 
+C:                       DIMITRI (CONT'D)
+D:             So I suppose you can say I’m having
+D:             a staring contest with the street,
+D:             the gates, the rooftops and the
+D:             turrets.
+0: 
+N:   He still hasn’t looked her way. She studies him. Then grins.
+0: 
+C:                       ROSE
+D:             You’re kind of a Guardian nerd,
+D:             aren’t you?
+0: 
+N:   At this, he nearly cracks a smile. She starts walking away.
+N:   Toying with him a little.
+0: 
+C:                       ROSE (CONT'D)
+D:             It’s cool. Respect. Do your thing,
+D:             Perimeter-man. But just know, I
+D:             plan on getting your job when I
+D:             graduate.
+0: 
+C:                       DIMITRI
+D:             I agree. Lissa would be in
+D:             perfectly good hands with the best
+D:             Guardian at St. Vladimir’s Academy.
+0: 
+C:                          ROSE
+D:             Thank you.
+0: 
+C:                       DIMITRI
+D:             Although that may be hard, given
+D:             your ranking.
+0: 
+C:                       ROSE
+D:             I’m number one. I’m always number
+D:             one.
+0: 
+C:                       DIMITRI
+D:             Then perhaps you’re not as good at
+D:             Perimeter Control as you think.
+0: 
+N:   Rose looks at him, confused. His gaze shifts to something
+N:   behind her. She turns, following his gaze to see --
+0: 
+N:   The LEADERBOARD above the training field. Rose Hathaway is
+N:   listed in FIFTH PLACE. Mason in first.
+0: 
+C:                       ROSE
+D:             What the fuck --
+0: 
+S:   EXT. TRAINING FIELD - NIGHT
+0: 
+N:   Rose chases Alberta who leads warm-up drills through rows of
+N:   Guardian Novices working in perfect precision.
+0: N: VA 101 - Revised Network Draft (7/26/21)                  30.
+0: 
+0: 
+C:                       ROSE
+D:             How am I fifth?
+0: 
+C:                       ALBERTA
+D:             You missed class yesterday.
+D:             Automatic ten demerits. It’s very
+D:             tight in the top five.
+0: 
+C:                       ROSE
+D:             I missed class to welcome Lissa
+D:             back to school.
+0: 
+C:                       ALBERTA
+D:             Find me a Strigoi who will accept
+D:             that excuse and we’ll talk.
+0: 
+N:   A nod of her head tells Rose to fall in line with the group.
+N:   Frustrated, Rose does. Mason throws her a sexy grin.
+0: 
+C:                       MASON
+D:             Game on, Hathaway.
+0: 
+C:                       ROSE
+D:             Don’t get comfortable, Mace.
+0: 
+N:   Rose goes through the warm-ups. Her body is fierce and fluid,
+N:   but her mind is racing. Across the yard, she spots Dimitri
+N:   back in position. She doesn’t notice, but his eyes flick to
+N:   watch her for just a moment. She has made an impression.
+0: 
+S:   INT. GIRLS' DORM ROOM - DUSK
+0: 
+N:   Back to bedtime. The girls prepare for bed, a lot on their
+N:   minds. Lissa notices Rose is uncharacteristically silent.
+0: 
+C:                       LISSA
+D:             Wanna do Worst Day Ever?
+0: 
+C:                       ROSE
+D:             Oh my god, yes. Me first.
+0: 
+N:   Lissa sits on the floor, legs crossed. Rose lies down, her
+N:   head in Lissa’s lap. She stares up at her, unleashing --
+0: 
+C:                       ROSE (CONT'D)
+D:             First, Alberta’s on some mission to
+D:             bring me down, and I’ve had Mia’s
+D:             stupid voice in my head all day,
+D:             and Dimitri’s a dick. And now that
+D:             he’s assigned to you, I’m afraid
+D:             they’ll never let me be your
+D:             Guardian out in the world after
+D:             graduation. Anyway, I pretty much
+D:             hate everyone. Except you... What?
+0: N: VA 101 - Revised Network Draft (7/26/21)                  31.
+0: 
+0: 
+C:                       LISSA
+E:                 (smiling)
+D:             Your well-intentioned outrage is my
+D:             favorite thing about you.
+0: 
+C:                       ROSE
+D:             Good, because I’m pretty sure
+D:             you’re stuck with it forever.
+0: 
+C:                       LISSA
+D:             Okay. A. Don’t worry about Dimitri.
+D:             And B. Do not listen to Mia. We
+D:             know who we are. And where we’re
+D:             going. Pretty soon our biggest
+D:             problem will be finding Feeders for
+D:             me and Italian food for you.
+0: 
+C:                       ROSE
+D:             Preferably in Italy... And how was
+D:             your day?
+0: 
+C:                       LISSA
+D:             Well, I had to speak Ancient Moroi
+D:             in front of a hundred Royals.
+0: 
+C:                        ROSE
+D:             Oof.
+0: 
+C:                       LISSA
+D:             And Victor said from now on I have
+D:             to be up, dressed and pretty by
+D:             7pm. Oh, and I’m not allowed to
+D:             drink anymore.
+0: 
+C:                       ROSE
+D:             Jesus. You win. Switch.
+0: 
+N:   They switch positions and now Lissa’s head is in Rose’s lap.
+0: 
+C:                       ROSE (CONT'D)
+D:             Maybe that’s not the worst thing,
+D:             though, with all those meds you’re
+D:             taking.
+0: 
+C:                       LISSA
+D:             No. I’m totally off those now.
+E:                 (off Rose’s surprise)
+D:             No one wants a pill-popping
+D:             princess.
+0: 
+C:                       ROSE
+D:             They can’t put a timeline on grief.
+0: N: VA 101 - Revised Network Draft (7/26/21)                  32.
+0: 
+0: 
+C:                       LISSA
+D:             It’s fine. I’m tired of living in a
+D:             fog.
+0: 
+N:   Rose looks down at her. Gently --
+0: 
+C:                       ROSE
+D:             What do you see now that the fog is
+D:             lifting?
+0: 
+C:                       LISSA
+D:             ...I miss them.
+0: 
+N:   Rose nods. They sit in silence feeling the weight of this.
+N:   Lissa closes her eyes, letting her exhaustion wash over her.
+N:   Rose sits silently while her friend falls asleep.
+0: 
+S:   EXT. ACADEMY/EXT. VICTOR’S HOUSE – DAY
+0: 
+N:   The campus is deserted as Moroi ready for bed. Except for
+N:   Sonya, who is surrounded by several birds, seeming happier
+N:   amongst animals than humans. As she hums and feeds them, one
+N:   flies off toward Victor’s house where —
+0: 
+S:   INT. MIA’S BEDROOM – DAY
+0: 
+N:   VICTOR enters to find Mia in her PJ’s looking out a window.
+0: 
+C:                       VICTOR
+D:             Anything interesting out there?
+0: 
+C:                       MIA
+D:             Just Sonya, the bird lady.
+0: 
+C:                       VICTOR
+D:             Be gentle on your sister.
+0: 
+C:                       MIA
+D:             I am. Sometimes. But really...
+0: 
+N:   He glances at a JEWELED NECKLACE on Mia’s vanity.
+0: 
+C:                       VICTOR
+D:             You need to give that to Lissa.
+0: 
+C:                       MIA
+D:             I do not. And anyway, I’m wearing
+D:             it to the reception tomorrow.
+0: 
+C:                       VICTOR
+D:             ...I’m sorry, Mia. It’s Royals
+D:             only. The Queen was very insistent.
+0: N: VA 101 - Revised Network Draft (7/26/21)          33.
+0: 
+0: 
+C:                       MIA
+D:             So that’s it? One minute I’m the
+D:             future king’s fiancée and the next
+D:             I’m invisible? I’m keeping the
+D:             necklace.
+0: 
+C:                       VICTOR
+D:             It’s a Dragomir family heirloom.
+0: 
+C:                       MIA
+D:             And a Dragomir gave it to me.
+0: 
+C:                       VICTOR
+E:                 (gently)
+D:             With Andre dead, you can’t keep it.
+0: 
+C:                       MIA
+D:             I was so close. I know everyone
+D:             thinks it was just an arranged
+D:             marriage, that you wheedled a favor
+D:             from the Queen. But she adored
+D:             Andre. She only allowed it because
+D:             he asked her. He thought I was
+D:             smart. He may not have loved me; I
+D:             didn’t love him. That way. But we
+D:             were good together... I would have
+D:             made a great queen.
+0: 
+C:                       VICTOR
+D:             There’s a lot you can do without
+D:             ever sitting on a throne.
+0: 
+C:                       MIA
+D:             You’re Royal. You don’t get it. The
+D:             only way to wield power is to have
+D:             power. Thanks to being adopted,
+D:             Sonya and I live with the trappings
+D:             of royalty, but the restrictions of
+D:             not being Royal.
+0: 
+C:                       VICTOR
+D:             Having the ear of the Queen can be
+D:             just as powerful...and the Queen
+D:             has big plans for Lissa.
+0: 
+N:   Mia turns back to the window.
+0: 
+C:                       MIA
+D:             Lissa is a twit... And what is up
+D:             with Sonya and those fucking birds?
+0: N: VA 101 - Revised Network Draft (7/26/21)                      34.
+0: 
+0: 
+S:   EXT. VICTOR’S HOUSE - GROUNDS - DAY
+0: 
+N:   We go back to Sonya as she watches a bird soar overhead.
+N:   Suddenly it’s joined by another...then another. The sky
+N:   shifts, the world becoming stylized. The day darkens.
+0: 
+N:   More birds gather into a murmuration of starlings, and now
+N:   instead of Sonya down below, we find Rose staring up at the
+N:   sky in fascination. The mood is gothic, ethereal (if it feels
+N:   like a dream sequence, that’s because it is).
+0: 
+N:   The birds move and shift, flying lower to the ground. Rose is
+N:   startled by this. They take the shape of a MAN. The Bird Man
+N:   starts moving towards Rose. As it gets closer, the birds
+N:   disperse, revealing an ACTUAL man in their place. It’s ANDRE.
+N:   Bloody. Skin torn, teeth smashed. Horrifically injured.
+0: 
+C:                       ROSE
+E:                 (terrified whisper)
+D:             Andre.
+0: 
+S:   INT. GIRLS' DORM ROOM - DAY
+0: 
+N:   Rose BOLTS up in her bed, covered in sweat, breathing
+N:   heavily. She looks around to get her bearings, seeing --
+0: 
+N:   Lissa is in bed, thrashing around in the midst of a terrible
+N:   night terror. Rose scrambles over to Lissa’s bed, shaking
+N:   Lissa awake. Lissa looks at her, wild-eyed, but then --
+0: 
+C:                         LISSA
+D:             Rose.
+0: 
+C:                       ROSE
+D:             Shhhh. You’re having a bad dream.
+0: 
+N:   Lissa nods, her eyes drooping again. As she drifts off --
+0: 
+C:                       LISSA
+D:             All those birds...
+0: 
+N:   Rose’s head snaps in her direction. Did she and Lissa just
+N:   have the same dream? CUT TO BLACK.
+0: 
+S:   INT. ROYAL FEEDING CHAMBER – NIGHT
+0: 
+N:   CLOSE ON THE   FACE OF A   HUMAN WOMAN, eyes wide as a pair of
+N:   fangs search   her neck.   She begins to pant. Is that fear? No,
+N:   it’s desire.   She grips   her right hand with her left to keep
+N:   from pulling   whoever’s   attached to those fangs in.
+0: 
+N:   Finally the fangs pop the surface of her skin and sink slowly
+N:   in. A gasp of pleasure escapes her lips. REVEAL Jesse seated
+N:   behind her, feeding from her neck.
+0: N: VA 101 - Revised Network Draft (7/26/21)                  35.
+0: 
+0: 
+N:   He’s among a row of RECLINERS in a spa-like setting, where a
+N:   dozen ATTRACTIVE HUMANS, all high from the bite, lie in
+N:   various states of repose as Royals enjoy their ‘breakfast.’
+0: 
+N:   Lissa enters. Looking for the COORDINATOR, she sees him
+N:   watching Jesse, who’s going to town on his Feeder’s neck. As
+N:   the Feeder’s eyes roll back into her head from blood loss --
+0: 
+C:                       COORDINATOR
+D:             Mr. Zeklos. This is your second
+D:             warning. We have rules. This is a
+D:             human Feeder, to be respected.
+0: 
+N:   The picture of smug Royal privilege, Jesse wipes his mouth --
+0: 
+C:                       JESSE
+D:             And you’re a Non-Royal nobody. So
+D:             piss off.
+0: 
+C:                       LISSA
+D:             Leave him alone, Jesse.
+0: 
+N:   Covering his annoyance, Jesse takes his leave. As he goes,
+N:   the Coordinator waves Lissa toward one of the Feeders. An
+N:   older woman, ALICE, 50s, with a perma-stoner grin.
+0: 
+C:                       LISSA (CONT'D)
+D:             Hey, Alice. Haven’t seen you in a
+D:             while.
+0: 
+C:                       ALICE
+D:             I’ve been working in the Non-Royal
+D:             feeding chamber. I think I aged
+D:             out. But one of the skinny hot
+D:             Feeders fainted and here I am.
+0: 
+C:                       LISSA
+D:             How are you? What does Carly have
+D:             to say about life out in the human
+D:             side of things?
+0: 
+C:                       ALICE
+D:             Well, according to my daughter,
+D:             it’s a cesspool of poverty, racism,
+D:             and don’t even get her started on
+D:             carbon emissions. Which is why your
+D:             neck of the woods is so much more
+D:             appealing to an old lady like me.
+D:             No pun intended.
+0: 
+N:   As they chat, Lissa sits behind her, getting comfortable.
+0: N: VA 101 - Revised Network Draft (7/26/21)                  36.
+0: 
+0: 
+C:                       LISSA
+D:             It’s only a matter of time before
+D:             Rose and I finally get to see it
+D:             for ourselves.
+0: 
+C:                       ALICE
+D:             Don’t know why you’d bother. Except
+D:             Shake Shack. You vamps eat, right?
+0: 
+C:                       LISSA
+D:             Sometimes. You ready?
+0: 
+N:   Alice nods. Lissa arches her neck and delicate FANGS appear.
+N:   As she gently bites into Alice, who falls into bliss --
+0: 
+C:                       ALICE
+D:             Oh that’s nice...
+0: 
+N:   ANGLE ON THE DOOR, where Mia enters (still in black). Her
+N:   eyes scan the room, finding Lissa. She heads over.
+0: 
+N:   Lissa releases Alice’s neck and raises her head to find the
+N:   Dragomir necklace dangling from Mia’s outstretched hand.
+0: 
+C:                       MIA
+D:             I guess this is yours now.
+0: 
+C:                          LISSA
+D:             Thank you.
+0: 
+N:   Able to see how much this bothers Mia --
+0: 
+C:                       LISSA (CONT'D)
+D:             I like your dress. It’s really nice
+D:             for you to mourn him this way.
+0: 
+C:                          MIA
+D:             Thank you.
+0: 
+C:                       LISSA
+D:             You have such an eye for fashion.
+D:             Any idea what I should be wearing
+D:             to the reception tonight?
+0: 
+C:                       MIA
+D:             I wouldn’t know. I’m not invited.
+0: 
+C:                       LISSA
+D:             Oh, I’m sorry -- I didn’t realize --
+0: 
+N:   At that, the Coordinator approaches Mia.
+0: 
+C:                       COORDINATOR
+D:             This is a Royal Feeding Chamber.
+0: N: VA 101 - Revised Network Draft (7/26/21)                  37.
+0: 
+0: 
+C:                       MIA
+E:                 (snappish)
+D:             Do you see me feeding?
+0: 
+C:                       LISSA
+D:             She’s with me.
+0: 
+C:                       COORDINATOR
+D:             I’m afraid it doesn’t matter,
+D:             Princess. That’s the rule.
+0: 
+N:   Mia darkens. She hates this. Lissa feels terrible.
+0: 
+C:                       LISSA
+D:             Well, then we’ll both go.
+0: 
+N:   As they exit, Mia steals a look at Lissa, remembering her
+N:   father’s words about power.
+0: 
+C:                       MIA
+D:             Definitely floor length. It says
+D:             cocktail attire but Marie Conta and
+D:             all the girls from that family
+D:             notoriously overdress to make
+D:             everyone else look like garbage.
+0: 
+N:   They head through the door... MUSIC UP:
+0: 
+S:   EXT. TRAINING GROUNDS – NIGHT
+0: 
+N:   CLOSE ON THE LEADERBOARD. Rose’s fifth place ranking mocking
+N:   her from above. She heads for the field stopping when she
+N:   sees Dimitri standing with Alberta.
+0: 
+N:   He gives her a polite nod. She nods back somewhat less
+N:   politely then makes a beeline for Mason. Alberta to Dimitri --
+0: 
+C:                       ALBERTA
+D:             It’s Friday. Challenge Day.
+E:                 (an eye on Rose)
+D:             The only day of the week it’s
+D:             possible to lift your score.
+0: 
+N:   Rose approaches Mason. Slaps a CHALLENGE CARD into his chest.
+0: 
+C:                       MASON
+D:             C’mon, already? I’ve only gotten to
+D:             be number one for like a day.
+0: 
+C:                       ROSE
+D:             I’m more comfortable on top.
+0: 
+C:                       MASON
+D:             Don’t I know it.
+0: N: VA 101 - Revised Network Draft (7/26/21)                   38.
+0: 
+0: 
+N:   A look flashes between them that doubles down on their
+N:   subtext. There’s some history there. CUT TO:
+0: 
+N:   Mikhail whistles the start of the Challenge Match. Rose and
+N:   Mason start to spar. They dip and move like elegant boxers,
+N:   no one throwing the first punch. Mason grins at her.
+0: 
+C:                       MASON (CONT'D)
+D:             C’mon. Make it hurt --
+0: 
+N:   BAM. Rose lands a brutal punch -- and they’re all in.
+0: 
+S:   INT. GIRLS' DORM ROOM - NIGHT
+0: 
+N:   Mia helps Lissa get ready. Piles and piles of dresses cover
+N:   both beds. Mia is good at this. She pulls pieces together,
+N:   using them unconventionally to build a stunning outfit. As
+N:   she places the Dragomir necklace around Lissa’s neck...
+0: 
+S:   EXT. TRAINING FIELD – NIGHT
+0: 
+N:   Challenge Night continues, as Rose and Mason spar, the other
+N:   Novices split in their allegiance, cheering on from the side.
+0: 
+N:   The fighting is a blend of primal hand-to-hand contact with
+N:   elements of Martial Arts. Guardians punch harder, run faster
+N:   and jump higher than ordinary humans.
+0: 
+N:   From the sidelines, Dimitri watches Rose in action. His face
+N:   doesn’t react, but inside he’s impressed.
+0: 
+N:   At the BUZZER, Rose and Mason stop, panting. Finally, Alberta
+N:   raises a WHITE CARD. Mason lets out a whoop.
+0: 
+C:                       ROSE
+D:             A fucking draw?
+0: 
+C:                       ALBERTA
+D:             Round two: weapons.
+0: 
+N:   Rose smirks. Game on. This is her sweet spot. As she grabs a
+N:   special training vest, putting it on...
+0: 
+S:   EXT. GIRLS’ DORM ROOM – NIGHT
+0: 
+N:   From the window we see Lissa exit her dorm, dressed to the
+N:   nines for her next event.
+0: 
+N:   REVERSE to reveal that Christian is watching her head off
+N:   into the night like Cinderella. As he gets an idea, CUT TO:
+0: N: VA 101 - Revised Network Draft (7/26/21)                  39.
+0: 
+0: 
+S:   INT. PALACE - NIGHT
+0: 
+N:   Mid-conversation with a FUSSY ROYAL at the Queen’s private
+N:   cocktail party, Lissa eyes champagne floating by on a tray...
+0: 
+C:                       LISSA
+D:             I had no idea there was so much to
+D:             know about tea...
+0: 
+C:                       FUSSY ROYAL
+D:             I’ve made quite a study of it. King
+D:             Abdullah never drank anything but
+D:             in his era. Except a little
+D:             rosewater now and again.
+0: 
+N:   AT THE ENTRANCE, Christian approaches in a bespoke suit,
+N:   looking very Royal. Recognizing him, the DOORMAN hesitates --
+0: 
+C:                       DOORMAN
+D:             I’m not sure you should be here.
+0: 
+N:   Christian’s eyes flash GOLD (a mark of a true Royal):
+0: 
+C:                       CHRISTIAN
+D:             I’m still an Ozera and my bloodline
+D:             still has a vote. You can’t keep me
+D:             out.
+0: 
+N:   No choice, the Doorman lets him in. Ignoring the disapproving
+N:   glances, Christian peers around. Finally, he sees Lissa.
+0: 
+N:   As though sensing she turns and sees Christian, their gaze
+N:   holding until someone cuts across the room, breaking it. They
+N:   circle through the crowd toward each other. Finally meeting,
+N:   neither quite knows what to say...
+0: 
+N:   Nearby Victor spots them. Not happy, he excuses himself from
+N:   his conversation. As he makes his way over –
+0: 
+S:   EXT. TRAINING FIELD – NIGHT
+0: 
+N:   Rose and Mason finish suiting up with vests that register if
+N:   your stake has reached your opponent’s heart.
+0: 
+C:                       DIMITRI
+D:             I’m impressed so far. Rose is half
+D:             Mason’s size but she’s using it as
+D:             an advantage.
+0: 
+C:                       ALBERTA
+D:             Yes, she’s quite good. But she’s
+D:             impossible to control.
+0: N: VA 101 - Revised Network Draft (7/26/21)                  40.
+0: 
+0: 
+C:                       DIMITRI
+D:             Everyone’s a little unpredictable
+D:             at her age.
+0: 
+C:                        ALBERTA
+D:             Trust me, she’ll do something to
+D:             fuck it up.
+E:                 (hitting the timer)
+D:             Rose, Mason. Time. First to three
+D:             hits wins.
+0: 
+T:   INTERCUT WITH LISSA’S EVENT
+0: 
+N:   ...Where, aware of all the disapproving stares --
+0: 
+C:                       LISSA
+D:             I’m surprised to see you here.
+0: 
+C:                       CHRISTIAN
+D:             It’s been a while since I’ve been
+D:             to one of these.
+0: 
+C:                       LISSA
+D:             Being here must be hard for you.
+0: 
+C:                       CHRISTIAN
+D:             It isn’t for you?
+0: 
+C:                       LISSA
+D:             It used to be easier. Now I’m
+D:             biding my time until I graduate and
+D:             get out of here.
+0: 
+C:                       CHRISTIAN
+D:             Aren’t we all.
+0: 
+C:                       LISSA
+D:             So why are you here?
+0: 
+C:                       CHRISTIAN
+E:                 (with a grin)
+D:             I just came to see if you needed an
+D:             Old Moroi tutor. Your heart’s in it
+D:             but your pronunciation is terrible.
+0: 
+N:   Lissa laughs, feeling her face flush as Victor reaches them.
+0: 
+C:                       VICTOR
+D:             The Queen is looking for you.
+0: 
+N:   With a curt nod to Christian, as Victor leads Lissa away —
+0: 
+N:   AT THE FIELD deep into the fight, Rose struggles to reach
+N:   Mason’s heart. Then DING. Mason has hit hers.
+0: N: VA 101 - Revised Network Draft (7/26/21)                  41.
+0: 
+0: 
+N:   Frustrated, Rose eyes Mason as they spar. DING. He hit it
+N:   again. But this time Rose clocked how. DING. She gets a hit
+N:   in. As they continue —
+0: 
+N:   AT THE EVENT, as Lissa looks back to Christian --
+0: 
+C:                       VICTOR (CONT'D)
+D:             Christian Ozera is a non-starter.
+D:             His parents chose to turn Strigoi.
+D:             That is a mortal sin. The last
+D:             thing you need is the church
+D:             against you.
+0: 
+C:                       LISSA
+D:             Why does anyone care who I like?
+D:             Can’t I be left alone to live my
+D:             life the way I want to?
+0: 
+N:   Victor laughs ruefully, then gently:
+0: 
+C:                       VICTOR
+D:             Oh, Lissa. That is the opposite of
+D:             what your life will be.
+E:                 (switching gears)
+D:             We need to discuss your schedule.
+D:             With so many families in town for
+D:             St. Vladimir’s Day, and your
+D:             installation as the leader of the
+D:             Dragomir’s, there will be several
+D:             privy Council meetings. Attendance
+D:             is mandatory. Also...
+0: 
+N:   As Victor carries on, Lissa sees Christian, who, aware of
+N:   disapproving eyes on him, quietly slips away.
+0: 
+C:                       VICTOR (CONT'D)
+D:             ...The other Heads of Families will
+D:             be inviting you to a series of less
+D:             formal events, also mandatory.
+D:             Starting tomorrow --
+0: 
+C:                        LISSA
+D:             No.
+0: 
+N:   Victor looks up. Lissa’s face flushes, anxiety creeping in.
+0: 
+C:                       LISSA (CONT'D)
+D:             I don’t want this. I’m not Andre. I
+D:             don’t want any of this.
+0: 
+C:                       VICTOR
+E:                 (compassionate but firm)
+D:             What we want and what we must do
+D:             are often miles apart.
+0: N: VA 101 - Revised Network Draft (7/26/21)                     42.
+0: 
+0: 
+N:   Lissa’s breath catches as she --
+0: 
+N:   FLASHES BACK TO THE NIGHT OF THE ACCIDENT, seeing Andre --
+N:   only this time as he speaks --
+0: 
+C:                       ANDRE
+D:             What we want and what we must do
+D:             can be very different things...
+0: 
+N:   -- THE CAR SHIFTS like a SONIC BOOM has hit, his dialogue
+N:   bottoming out as we see him in SLOW-MOTION be sprayed with
+N:   flying glass. As blood begins pouring down his face -- --
+0: 
+N:   BACK TO Lissa as she starts to hyperventilate.
+0: 
+N:   AT THE FIELD, Rose goes in for Mason’s heart –-
+0: 
+N:   -- As Lissa’s panic rises, her vision starts to blur. Dizzy
+N:   now, as she reaches out to keep herself from falling --
+0: 
+N:   -- Rose, about to successfully complete the move – falters.
+0: 
+N:   Lissa starts to sink into a faint, Victor props her up as --
+0: 
+N:   Rose’s knees give, almost as though she is fainting too.
+0: 
+N:   DING. Mason gets the hit. Alberta gives Dimitri a ‘told you
+N:   so’ look. As Rose wonders what the fuck just happened, she
+T:   faints and we...CUT TO BLACK.
+0: 
+S:   INT. GIRLS’ DORM ROOM – DAY
+0: 
+N:   Rose enters, slinging her gym bag down, losing her hoodie --
+0: 
+C:                       ROSE
+D:             Sorry to wake you. I was in the
+D:             infirmary. This really weird thing
+D:             happened where --
+0: 
+N:   Rose looks at Lissa’s bed. Sees the covers are mussed, but
+T:   Lissa is gone. CUT TO:
+0: 
+S:   INT. DORM ROOFTOP - DAY
+0: 
+N:   Lissa stands in the sun staring at the sky. She’s still, even
+N:   peaceful as an angry rash starts to rise on her skin. Then --
+0: 
+C:                       ROSE
+D:             Lissa... What are you doing?
+0: 
+N:   Lissa turns to Rose. Tears standing in her eyes --
+0: N: VA 101 - Revised Network Draft (7/26/21)                     43.
+0: 
+0: 
+C:                       LISSA
+D:             I don’t know why I’m here. Andre
+D:             was the special one. He should have
+D:             lived, not me.
+0: 
+C:                       ROSE
+D:             Oh, Liss. That’s not true. It’s
+D:             just the grief talking. You’ve been
+D:             through so much.
+0: 
+C:                       LISSA
+D:             But it’s all a blur. I feel like
+D:             they were here, we were all here,
+D:             together. And then there was an
+D:             accident I can’t even remember --
+D:             and then they were gone... and I...
+0: 
+N:   Rose pulls Lissa into a protective hug. As she cries it out:
+0: 
+C:                       ROSE
+C:             I know... I know.
+E:                 (after a beat)
+D:             ...You really don’t remember
+D:             anything about that night?
+0: 
+C:                       LISSA
+D:             No. It’s all one big brain fog that
+D:             won’t clear.
+0: 
+C:                       ROSE
+D:             Mine’s more like a complete blank.
+0: 
+N:   Is that weird? Time will tell. As Lissa settles --
+0: 
+C:                       ROSE (CONT'D)
+D:             There you go. Just blow your nose.
+D:             Oh, okay. On my shirt’s fine.
+0: 
+N:   Then, suddenly knowing what Lissa needs, what they both need -
+0: 
+C:                       ROSE (CONT'D)
+D:             But Lissa? If we’re gonna sunbathe,
+D:             I know where I want to be.
+0: 
+S:   EXT. LAKE – DAY
+0: 
+N:   Rose pedals a well-worn bike with Lissa on the seat behind
+N:   her under her parasol, both girls giddy with freedom.
+0: 
+N:   As they arrive at the edge of a lake on the outskirts of
+N:   campus, past the gates, Lissa lights up. Rose smiles --
+0: N: VA 101 - Revised Network Draft (7/26/21)                  44.
+0: 
+0: 
+C:                       ROSE
+D:             This is the first place your family
+D:             took me.
+0: 
+C:                       LISSA
+D:             I remember. Right after I met you.
+D:             Standing all alone on Family Day.
+0: 
+C:                       ROSE
+D:             You ran straight up to me. Your
+D:             clothes were so clean I was afraid
+D:             your parents wouldn’t let you play
+D:             with me.
+0: 
+C:                       LISSA
+D:             They loved you.
+0: 
+C:                       ROSE
+D:             I didn’t know what a family was
+D:             until then.
+0: 
+N:   As that lands on Lissa --
+0: 
+C:                       LISSA
+D:             You keep asking if I’m going to be
+D:             okay. Are you?
+0: 
+C:                       ROSE
+D:             They were... everything a family
+D:             should be. You said Andre should be
+D:             here - I feel like Sebastian should
+D:             be too. He was a great Guardian to
+D:             Andre. But he died too. They were
+D:             all so strong... But somehow we’re
+D:             the survivors.
+0: 
+C:                       LISSA
+E:                 (beat, trying to deflect)
+D:             I guess that can be our band name.
+0: 
+C:                       ROSE
+D:             Well, it’s time we have our own
+D:             memorial. Our own chance to say
+D:             goodbye.
+0: 
+N:   She reaches into the backpack she has with her, and as she
+N:   pulls out TWO COLORFUL SKY LANTERNS we CUT TO:
+0: 
+S:   EXT. ACADEMY ROOFTOP – DAY
+0: 
+N:   Dimitri steals private time to do his physical and meditative
+N:   training on the roof under the sun as the campus sleeps. His
+N:   body is a temple, reflected in his flow.
+0: N: VA 101 - Revised Network Draft (7/26/21)                  45.
+0: 
+0: 
+N:   He looks out at the campus for a moment, a part of him always
+N:   on duty. Then, as he carries on with this regimen --
+0: 
+S:   EXT. LAKE – DAY
+0: 
+N:   Under the shade of the tree, Lissa and Rose hold hands. In
+N:   their free hand they each hold a lantern. Then Lissa, simply:
+0: 
+C:                       LISSA
+D:             Mom, Dad, Andre. We love you. And
+D:             we’ll never stop missing you. Be at
+D:             peace.
+0: 
+N:   They release the lanterns. After a beat...
+0: 
+C:                       LISSA (CONT'D)
+D:             Remember the first time we came
+D:             here?
+E:                 (a grin starting)
+D:             ...And I beat you to the pier.
+0: 
+C:                       ROSE
+D:             Did not. That’s crazy.
+0: 
+C:                       LISSA
+D:             I totally did. And I still can.
+0: 
+C:                       ROSE
+D:             You’ve never once beaten me to the -
+0: 
+N:   But Lissa BOLTS. Diving in the water she races to the Pier.
+0: 
+C:                       ROSE (CONT'D)
+D:             CHEATER --!
+0: 
+N:   As Rose dives in after her.
+0: 
+S:   EXT. ACADEMY ROOFTOP – DAY?
+0: 
+N:   Something catches Dimitri's peripheral vision. He looks up.
+N:   And sees two lanterns floating in the sky. And something
+N:   tells him to head to —
+0: 
+S:   INT. GIRLS’ DORM ROOM – DAY
+0: 
+N:   Dimitri knocks. No answer. He nods to DORM MATRON OKSANA, who
+N:   opens the door. She looks in, then opens the door wide so he
+N:   can see. The room is empty. The girls aren’t in their beds.
+0: 
+S:   EXT. LAKE – DAY
+0: 
+N:   The girls lie under a shaded tree, Lissa’s parasol giving her
+N:   extra protection from the sun.
+0: N: VA 101 - Revised Network Draft (7/26/21)                  46.
+0: 
+0: 
+C:                       LISSA
+D:             Thank you for that. I feel better
+D:             than I’ve felt in a while.
+0: 
+C:                       ROSE
+D:             You’re lucky you didn’t burn your
+D:             face off, but yeah, I know. I can
+D:             kind of feel it coming off of you.
+D:             Is that weird?
+0: 
+C:                       LISSA
+D:             Not really. You’ve always been
+D:             pretty tuned in to me.
+0: 
+C:                       ROSE
+C:             Yeah, I guess.
+E:                 (broaching carefully)
+D:             Though, since you got back, I’m
+D:             feeling all this stuff, but it
+D:             seems...more like your feelings.
+D:             Like, last night I got this flash
+D:             of panic and I knew you needed me.
+0: 
+C:                       LISSA
+D:             I was panicking. I did need you.
+0: 
+C:                       ROSE
+D:             That’s weird. Right?
+0: 
+C:                        LISSA
+D:             Very.
+0: 
+N:   As they think about this --
+0: 
+C:                       LISSA (CONT'D)
+D:             Earlier, when you found me on the
+D:             roof. How did you know I was there?
+0: 
+C:                       ROSE
+D:             I don’t know. I just... did.
+0: 
+N:   They look at each other, understanding that this isn’t
+N:   normal. But then a bird FLIES overhead and Rose checks the
+N:   sky, mindful of the time. The sun is getting low.
+0: 
+C:                       ROSE (CONT'D)
+D:             We should head back. It’s one thing
+D:             to be outside the wards in the sun,
+D:             but if we get caught out here
+D:             during Strigoi hours, we’re fucked.
+0: 
+C:                       LISSA
+D:             Fine. But I’m driving.
+0: N: VA 101 - Revised Network Draft (7/26/21)                     47.
+0: 
+0: 
+S:   EXT. COUNTRY ROAD - DUSK
+0: 
+N:   Lissa’s pedaling with Rose on the back, pumping hard.
+0: 
+C:                       ROSE
+D:             You’re stronger than you look.
+0: 
+C:                       LISSA
+E:                 (looking back)
+D:             Just because I’m not a Guardian --
+0: 
+N:    The bike hits a rock, tossing both girls to the ground.
+0: 
+C:                       LISSA (CONT'D)
+D:             Ow -- shit.
+0: 
+C:                       ROSE
+D:             Are you okay?
+0: 
+C:                       LISSA
+D:             Something’s bruised. Maybe my ego --
+0: 
+N:   Rose checks Lissa’s knee, which is torn up from the fall.
+0: 
+C:                       ROSE
+D:             Can you walk?
+0: 
+C:                       LISSA
+D:             Yeah. Sorry, Rose.
+0: 
+N:   Rose helps her to the bike. And sees the wheel is bent. Shit.
+N:   She checks the sky again. Sunset is nigh.
+0: 
+C:                       ROSE
+D:             Forget about walking. We need to
+D:             run.
+0: 
+N:   Rose grabs Lissa’s hand, pulling her along as she races
+T:   towards the Academy. CUT TO:
+0: 
+S:   INT. VICTOR’S HOUSE – DAY
+0: 
+N:   Victor, his voice panicked, into his phone --
+0: 
+C:                       VICTOR
+D:             You need to find her. Immediately.
+0: 
+S:   EXT. ACADEMY GATES – PRE-DUSK
+0: 
+N:   On the other end of the call, Dimitri nods to the Gatekeeper
+N:   to open the gate. Before he takes off in a full SPRINT --
+0: 
+C:                       DIMITRI
+D:             I’ll call as soon as I do.
+0: N: VA 101 - Revised Network Draft (7/26/21)                     48.
+0: 
+0: 
+S:   EXT. WOODS – NIGHT
+0: 
+N:   Rose and Lissa race back through the woods. In the growing
+N:   night, every snapping branch underfoot feels frightening.
+0: 
+N:   They approach a back GATE, split by a STONE WALL. Rose is
+N:   about to climb the wall, when suddenly she stops, sensing
+N:   something. A wave of unease, bordering on nausea.
+0: 
+C:                       LISSA
+D:             What’s wrong?
+0: 
+C:                       ROSE
+D:             I don’t know. I feel sick —
+0: 
+N:   Then -- something DROPS INTO FRAME behind Lissa. It’s
+N:   shadowed and snarling. Rose immediately LUNGES for Lissa --
+N:   grabbing her, using Lissa’s weight to her benefit (like
+N:   earlier with Mason) and HURLS her upwards. As Lissa lands on
+N:   the wall, their Pursuer follows -- hitting the top of the
+N:   wall and INCINERATING in a shocking electric FLASH.
+0: 
+C:                        LISSA
+D:             Rose...
+0: 
+C:                       ROSE
+D:             The wards worked. It’s dead.
+0: 
+N:   Lissa stares at the smoking dead Strigoi just inches from
+N:   her. Ew. She looks down in the nick of time to see --
+0: 
+C:                        LISSA
+D:             ROSE --
+0: 
+N:   Another Strigoi is BARRELLING towards Rose. Rose turns just a
+N:   beat too late and the Strigoi SLAMS into her, getting her up
+N:   against the wall. The Strigoi and Rose are nose-to-nose and
+N:   for the first time we get a look at it --
+0: 
+N:   Blazing red eyes. Long jagged fangs. Veins protruding. A
+N:   feral energy. The face of nightmares.
+0: 
+N:   Rose struggles against it, searching for a weakness to
+N:   exploit, but there is no escape from its grip.
+0: 
+N:   UP ABOVE, Lissa looks for some way, any way to help.
+0: 
+N:   Rose’s Strigoi EXTENDS ITS JAW to go in for the kill. Lissa
+N:   SCREAMS, when -- CRACK. The Strigoi FALLS, revealing --
+0: 
+N:   Dimitri standing behind it. A bloody stake in his hand. Rose
+N:   and Dimitri stare at each other. Both breathing heavily, both
+N:   terrified by what just happened. Rose can see it in his eyes.
+N:   She’s in trouble. Big trouble. So she deflects --
+0: N: VA 101 - Revised Network Draft (7/26/21)                  49.
+0: 
+0: 
+C:                       ROSE
+D:             Don’t suppose there’s any way you
+D:             could keep this just between us?
+0: 
+N:   Just then -- KLIEG LIGHTS everywhere. Busted. CUT TO BLACK.
+0: 
+S:   INT. GIRLS’ DORM ROOM - NIGHT
+0: 
+N:   Victor paces before an exhausted Lissa.
+0: 
+C:                       VICTOR
+D:             That kind of risk was unacceptable
+D:             at any time. Now, the future of the
+D:             Dragomir Family is in your hands.
+0: 
+C:                       LISSA
+D:             A tiny family with no Andre, in a
+D:             society with antiquated rules. What
+D:             does it even matter?
+0: 
+C:                       VICTOR
+D:             If you think the rules are
+D:             antiquated now, wait until you see
+D:             what happens if any of the vipers
+D:             jockeying for the crown get their
+D:             way. Andre’s rule meant change for
+D:             us. If the crown falls to the wrong
+D:             bloodline, any progress your
+D:             brother hoped to achieve -- will be
+D:             impossible. The Dragomir vote is
+D:             key to preventing that.
+0: 
+C:                       LISSA
+D:             Fine. You can tell me how to vote.
+0: 
+C:                       VICTOR
+D:             I could. And you could carry on
+D:             without a care in the world as the
+D:             empty vessel of leadership everyone
+D:             expects you to be. Is that how your
+D:             parents raised you?
+0: 
+N:   A long beat as she lets his words sink in.
+0: 
+C:                        LISSA
+D:             No. But they raised Andre to be
+D:             more.
+E:                 (then)
+D:             I’ll stay until the succession is
+D:             assured. Then I’ll graduate. And
+D:             get on with my life. Will that do?
+0: 
+N:   After a beat, Victor nods, resigned.
+0: N: VA 101 - Revised Network Draft (7/26/21)                  50.
+0: 
+0: 
+C:                       LISSA (CONT'D)
+D:             And please tell them not to be mad
+D:             at Rose.
+0: 
+N:   Almost laughing at her naivete --
+0: 
+C:                       VICTOR
+D:             Oh, Princess. We’re well beyond
+D:             that.
+0: 
+S:   EXT. ST. VLADIMIR’S - NIGHT
+0: 
+N:   Rose exits the administrative wing to find Dimitri standing
+N:   outside in his ‘spot.’ His eyes meet hers. Steely.
+0: 
+C:                       ROSE
+D:             No need. I just got an earful and
+D:             then some from Alberta.
+0: 
+N:   He doesn’t break her gaze. She stares at him, almost
+N:   challenging him. Then --
+0: 
+C:                       ROSE (CONT'D)
+D:             You saved me. Thank you.
+E:                 (off his silence)
+D:             I should’ve told you I was taking
+D:             Lissa outside of the wards. And I
+D:             should have built in more time on
+D:             our return for exigencies like the
+D:             bike getting damaged. But I got her
+D:             back in one piece. I made sure she
+D:             was protected. They come first.
+0: 
+N:   Dimitri finally speaks. Low and even, but hard.
+0: 
+C:                       DIMITRI
+D:             Protecting Lissa is my job. My only
+D:             role here is to ensure that nothing
+D:             happens to her. What you did was
+D:             reckless and impulsive. Yes, you’re
+D:             strong, but you’re a liability. And
+D:             tonight you almost got the person
+D:             you say you care about most in the
+D:             world killed.
+E:                 (eyes boring into hers)
+D:             There isn’t a rank low enough on
+D:             that board for you right now.
+0: 
+N:   Rose can’t respond. She knows he’s right.
+0: N: VA 101 - Revised Network Draft (7/26/21)                  51.
+0: 
+0: 
+S:   INT. GUARDIAN BARRACKS – LOUNGE - NIGHT
+0: 
+N:   Mason and other Novices finish breakfast in the lounge of
+N:   their barracks. More utilitarian than the Moroi dorms,
+N:   furthering the class distinction between the two.
+0: 
+N:   Rose enters with her duffle bag. As Mason watches, Rose heads
+N:   for one of the rooms, where -
+0: 
+S:   INT. GUARDIAN BARRACKS – WOMEN’S SLEEP ROOM - NIGHT
+0: 
+N:   A row of beds and desks. Meredith looks up from making her
+N:   bed as Rose enters.
+0: 
+C:                       MEREDITH
+D:             Guess you’re slumming it with the
+D:             rest of us now.
+0: 
+N:   As Rose wordlessly drops her bag onto an empty bed --
+0: 
+S:   INT. LISSA AND MIA’S DORM ROOM – NIGHT
+0: 
+N:   Lissa enters her new room and drops the bag she’s carrying.
+0: 
+C:                        MIA (O.S.)
+D:             I thought we’d be sisters, not
+D:             roommates.
+0: 
+N:   Lissa turns to find Mia, dressed in Saturday casual, who adds
+N:   to the woman on tap to be the next queen:
+0: 
+C:                       MIA (CONT'D)
+D:             You can have the window side if you
+D:             like.
+0: 
+N:   Lissa forces a smile. Then looks out the window and sees
+N:   Christian walking, alone. Aimless. He looks sad. She opens
+N:   her hand, looking down at Rose’s unicorn tucked in her palm.
+0: 
+S:   INT. GUARDIAN REC ROOM – NIGHT
+0: 
+N:   Rose is checking email on a computer, staring at the words –
+N:   “let me and yourself down. As a Guardian I was shocked at
+N:   your behavior. As your mother, I’m ashamed...” Then --
+0: 
+C:                        MASON
+D:             Rose?
+0: 
+N:   She looks up. He can see that whatever she was reading hurt.
+0: N: VA 101 - Revised Network Draft (7/26/21)                  52.
+0: 
+0: 
+C:                       ROSE
+D:             How come our mothers, the same
+D:             women who leave us on the doorstep
+D:             of this school as infants so they
+D:             can to go back to being Guardians,
+D:             still get to tell us what to do?
+0: 
+C:                       MASON
+D:             ...I wanted to see if you’re okay.
+0: 
+C:                       ROSE
+D:             You didn’t get that many good shots
+D:             in. I’ll live.
+0: 
+C:                       MASON
+D:             I didn’t mean that.
+0: 
+N:   Rose rises, and face to face with Mason --
+0: 
+C:                       ROSE
+D:             Mason, I really only have two uses
+D:             for you right now. And I’m not in
+D:             the mood to spar, so...
+0: 
+N:   She kisses him. Starts to pull at his shirt. He pulls away.
+0: 
+C:                       MASON
+D:             Whoa. Whoa. Wait a minute, Rose. I
+D:             can’t believe I’m actually going to
+D:             say this -- but I’m not here for
+D:             that. Now. In this moment. I
+D:             thought we could talk. With
+D:             everything that’s been going on, I
+D:             thought... I could be a friend.
+D:             Just pretend I’m Lissa. Don’t
+D:             laugh. What would she do now?
+0: 
+C:                       ROSE
+D:             ...You’d sit cross-legged... and
+D:             one of us would put our head in the
+D:             other’s lap and we’d argue over who
+D:             had the worst day -- which
+D:             obviously today I would win.
+0: 
+N:   Mason sits, crosses his legs. His lap is ready.
+0: 
+C:                       MASON
+D:             I’ll be the judge of that. Legit,
+D:             this had better be good.
+0: 
+N:   Rose smiles. Then lies down with her head in his lap.
+0: N: VA 101 - Revised Network Draft (7/26/21)                  53.
+0: 
+0: 
+C:                       ROSE
+D:             I just wanted to make Lissa feel
+D:             better...
+0: 
+S:   INT. MOROI DORM - HALLWAY - NIGHT
+0: 
+N:   Christian moves down the hall, most others keeping their
+N:   distance. He arrives at his door, where a small wrapped BOX
+N:   sits. He looks around, curious about and wary of its source.
+0: 
+N:   He opens it. Inside, Lissa’s unicorn, and a note: I wondered
+N:   if you knew how to say unicorn in Old Moroi?
+0: 
+N:   As he allows himself a touched smile.
+0: 
+S:   INT. LISSA AND MIA’S DORM ROOM – NIGHT
+0: 
+N:   Lissa dresses for yet another party. The dress. The pin in
+N:   her hair. She stares in the mirror, hollow. Then, a KNOCK --
+0: 
+N:   She opens the door to Dimitri holding an ornate wooden box:
+0: 
+C:                       DIMITIRI
+D:             This was left with the Matron for
+D:             you. I already checked it.
+0: 
+N:   He hands it to her, politely exiting. She checks it out. It
+N:   has a delicate pearl inlay. She opens it to find a parchment
+N:   scroll. She unrolls it, seeing the Old Moroi passage she was
+N:   working on earlier within a larger reading.
+0: 
+N:   As she opens the card that came inside the box, we hear --
+0: 
+C:                       CHRISTIAN (V.O.)
+D:             The passage you read today was an
+D:             oath to slay demons. The rest of
+D:             this passage, the parts that they
+D:             don’t feel the need to teach you,
+D:             says why. You fight for family, for
+D:             justice, and for love. I agree.
+D:             Christian. PS. I think unicorn in
+D:             Moroi? Is Lissa...
+0: 
+N:   As Lissa stares at these words, lit up...
+0: 
+C:                       VICTOR (PRELAP)
+D:             We were wrong about Lissa...
+0: 
+S:   INT. ROYAL COURT PRISON CELLS - NIGHT
+0: 
+N:   As the red eyes of a BOUND AND BEATEN STRIGOI glare from the
+N:   shadows of its cell, the Queen listens to Victor.
+0: N: VA 101 - Revised Network Draft (7/26/21)                    54.
+0: 
+0: 
+C:                       VICTOR
+D:             She’s not ready. Not emotionally or
+D:             any other way.
+0: 
+N:   WHAM! The Strigoi throws itself against the cage door.
+N:   Hissing and baring its fangs. The Queen doesn’t flinch.
+0: 
+C:                       QUEEN
+D:             Ready is a luxury we don’t have. We
+D:             already live our lives in quiet
+D:             dread, but with the Strigoi getting
+D:             bolder those lunatics on the right
+D:             will legislate the very air we
+D:             breathe in the name of keeping us
+D:             safe... While the pie-eyed dreamers
+D:             on the left whisper about releasing
+D:             the Guardians from their service,
+D:             threatening the very protections
+D:             our species needs to survive...
+0: 
+C:                       VICTOR
+D:             She doesn’t have a political bone
+D:             in her body.
+0: 
+C:                       QUEEN
+D:             Exactly. She is untainted, able to
+D:             see the good in all people.
+D:             Everything I was before the vipers
+D:             nest made me cynical and haggard.
+0: 
+C:                       VICTOR
+D:             You are hardly haggard, If you
+D:             could just hold on a bit longer...
+0: 
+C:                       QUEEN
+D:             I’m tired, Victor.
+0: 
+N:   WHAM! The Strigoi hits the cage again. Victor shoots a wary
+N:   look at it. The Queen remains unbothered.
+0: 
+C:                       QUEEN (CONT'D)
+D:             And I’d like to live out the rest
+D:             of my days in some semblance of
+D:             quiet. I think I’ve earned tha --
+0: 
+N:   But the Strigoi ATTACKS again, only this time the door RIPS
+N:   OPEN and it heads straight for her.
+0: 
+N:   The Queen’s GUARDIANS leap in and SLAM the Strigoi to the
+N:   ground. One grabs a BLADE and SLAMS it onto the Strigoi’s
+N:   neck, decapitating it. The Queen stares at its writhing body.
+0: N: VA 101 - Revised Network Draft (7/26/21)                  55.
+0: 
+0: 
+C:                       QUEEN (CONT'D)
+D:             We’re going to be late for the
+D:             party.
+0: 
+N:   As she sweeps away...
+0: 
+S:   INT. PALACE - BALLROOM - NIGHT
+0: 
+N:   ... We HEAR the CLINKS of GLASSES. As the Queen raises hers:
+0: 
+C:                       QUEEN
+D:             A toast to you all on St.
+D:             Vladimir’s feast day.
+E:                 (to Irena)
+D:             And to the service today. The last
+D:             I’ll witness as your sovereign. It
+D:             is time to name the next.
+0: 
+N:   The crowd is surprised. Irena and Marie Conta share a look.
+0: 
+C:                       HIGH PRIESTESS IRENA
+D:             Your Majesty, protocol demands the
+D:             announcement be made in a more
+D:             formal setting.
+0: 
+C:                       QUEEN
+D:             Protocol can kiss my aging Royal
+D:             buttocks. Protocol may be helpful
+D:             as a tool, but when the knife
+D:             wields the chef, it ceases to be of
+D:             use. I am ready to name my heir.
+0: 
+C:                       MARIE CONTA
+D:             We’ll still need to vote to approve
+D:             him, Your Majesty. Wouldn’t it be
+D:             prudent to survey the candidates
+D:             with the privy council first to
+D:             ensure a swift and unanimous vote
+D:             of the twelve families to approve?
+0: 
+C:                       QUEEN
+D:             I think we all know the likelihood
+D:             of a unanimous vote for any of the
+D:             so-called “frontrunners” here.
+0: 
+N:   “Frontrunner” Marie fights a scowl, as standing next to
+N:   Irena, Tatiana, sips champagne, enjoying the proceedings.
+0: 
+C:                       QUEEN (CONT'D)
+D:             But there is someone we’ve
+D:             overlooked... Having ruled since I
+D:             was a girl, I know the virtue of
+D:             youth, and of compassion in this
+D:             position. But I am old.
+E:                       (MORE)
+0: N: VA 101 - Revised Network Draft (7/26/21)                  56.
+0: 
+C:                       QUEEN (CONT'D)
+D:             And dare I say cynical. Still, fear
+D:             not, the future of the monarchy
+D:             will be in good hands.
+0: 
+N:   At that, the Queen turns to Lissa.
+0: 
+C:                       QUEEN (CONT'D)
+D:             As the next heir to the throne, I
+D:             name Vasilissa Dragomir.
+0: 
+N:   Lissa registers confusion, then fear. And as every eye in the
+N:   room lands on her --
+0: 
+S:   INT. GUARDIAN BARRACKS – WOMEN’S SLEEP ROOM - NIGHT
+0: 
+N:   Rose jerks awake, upset, feeling Lissa’s fear as we CUT TO --
+0: 
+S:   INT. PALACE - BALLROOM - NIGHT
+0: 
+N:   -- Where we find Lissa in the center of the ballroom looking
+N:   around helpless. As the ballroom erupts into scandalized
+N:   chatter --
+0: 
+0: 
+N:                           END OF EPISODE
+0: 

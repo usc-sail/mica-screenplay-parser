@@ -1,0 +1,1560 @@
+M:         LEGO TITAN
+0: 
+0: 
+0: 
+M: EP 116: "The Worthy Dreamer"
+0: 
+0: 
+M:         Written by
+0: 
+0: 
+M:        Ghia Godfree
+0: 
+0: 
+0: 
+0: 
+M:         D1 07.12.21
+0: S: 1   EXT. LANDING (DREAM WORLD) – DAY                              1
+0: 
+N:     OPEN ON ZOEY, astride ZION, swooping over the landing. She
+N:     scours the horizon for Oz’ rocket ship bus. From her vantage
+N:     point, we see --
+0: 
+N:     MATEO, IZZIE, Z BLOB, LOGAN and COOPER gathered together.
+N:     Logan looks up, locks eyes with her. Lifts a hand to wave,
+N:     then stops himself. Zoey swings Zion around, staying in the
+N:     air a little longer.
+0: 
+N:     ON Mateo, clocking the hurt in Logan’s eyes. Logan feels his
+N:     gaze.
+0: 
+C: 1                       LOGAN                                     1
+D:               Dude, what?
+0: 
+N:     Logan stomps off. Cooper shrugs, follows Logan over to the
+N:     other side of the landing. Mateo turns to Izzie, confused.
+0: 
+C: 2                       MATEO                                     2
+D:               What’s Logan’s problem?
+0: 
+C: 3                       IZZIE                                     3
+D:               Firstly, when is Logan NOT in a
+D:               mood? Secondly, he asked Zoey out,
+D:               but she shut him down hard.
+E:                   (shrugs)
+D:               Maybe she likes someone else.
+0: 
+N:     Mateo can’t help it -- he perks up. Exchanges a hopeful
+N:     glance with Z Blob, who flashes an encouraging grin. Mateo
+N:     cocks an eyebrow at Izzie.
+0: 
+C: 4                       MATEO                                     4
+D:               How do you know all this anyways?
+0: 
+N:     Izzie waggles her hands in front of her face mysteriously.
+0: 
+C: 5                       IZZIE                                     5
+D:               I see and know alllllllll.
+0: 
+N:     Mateo’s unsure whether to laugh or be worried. Zoey swoops by
+N:     overhead --
+0: 
+C: 6                       ZOEY                                      6
+D:               They’re here!
+0: 
+N:     Mateo looks up and spots OZ’S ROCKET SHIP BUS as --
+0: 
+0: 
+N: 2   TITLE SEQUENCE ROLLS                                          2
+0: 
+N:     Music swells... and we HARD CUT TO --
+0: N:      LEGO 07/12/21       "The Worthy Dreamer"                   2.
+0: 
+0: 
+S: 3      EXT. LANDING (DREAM WORLD) - DAY                              3
+0: 
+N:        MR. OZ, holding LUNA’S HOURGLASS, and ALBERT emerge from the
+N:        ship. Albert whistles loudly for everyone’s attention.
+0: 
+C: 7                          MR. OZ                                    7
+D:                  Huddle up. Let’s hear what Cooper’s
+D:                  figured out.
+0: 
+N:        Oz hands the Hourglass to Cooper, who steps forward.
+0: 
+C: 8                          COOPER                                    8
+D:                  Okay, the key to unlocking Luna’s
+D:                  Hourglass was realizing that things
+D:                  aren’t always what they seem.
+0: 
+C: 9                          LOGAN                                     9
+D:                  Dude, you sound like Mrs. C.
+0: 
+N:        Albert waggles his eyebrows at Logan disapprovingly as Cooper
+N:        gestures to THREE RINGS at the top, middle, and bottom of the
+N:        Hourglass. Each ring is emblazoned with DECORATIVE IMAGES.
+0: 
+C: 10                          COOPER                                  10
+D:                  See the symbols on these rings?
+D:                  They’re actually...
+E:                      (wait for it)
+D:                  A cryptex!
+0: 
+C: 11                         IZZIE                                    11
+D:                  A what-tex?
+0: 
+C: 12                         ALBERT                                   12
+D:                  Cryptex. It’s a kind of old-
+D:                  fashioned puzzle.
+0: 
+C: 13                         COOPER                                   13
+E:                      (excited)
+D:                  You rotate the rings into the
+D:                  correct position and boom! Puzzle
+D:                  solved and we’re on our way to
+D:                  Castle Nocturna.
+0: 
+N:        Excited, Izzie hugs Zoey then does a little victory dance.
+0: 
+C: 14                         IZZIE                                    14
+D:                  Going to the castle! Going to meet
+D:                  Luna! Going to have some awesome
+D:                  snacks!
+E:                      (off Albert’s stern look)
+D:                  And ask her how she defeated the
+D:                  Nightmare King.
+0: N:      LEGO 07/12/21       "The Worthy Dreamer"                      3.
+0: 
+0: 
+C: 15                         MATEO                                    15
+E:                      (to Cooper)
+D:                  So which symbols unlock the puzzle?
+0: 
+C: 16                         COOPER                                   16
+E:                      (prevaricating)
+D:                  Yeah, about that...
+0: 
+C: 17                         ZOEY                                     17
+D:                  You have no idea, do you?
+0: 
+C: 18                         COOPER                                   18
+E:                      (upbeat)
+D:                  Nope. But hey, it’s a start.
+0: 
+C: 19                         ALBERT                                   19
+E:                      (groans)
+D:                  There’s thousands of possible
+D:                  combinations to a cryptex. This
+D:                  could take forever.
+0: 
+N:        Oz and Albert look concerned but the kids are undeterred.
+0: 
+C: 20                         MATEO                                    20
+E:                      (determined)
+D:                  Not if we can help it. Let’s see
+D:                  the first ring, Coop.
+0: 
+N:        Cooper holds up the Hourglass -- the first ring is emblazoned
+N:        with letters, animals, flowers, etc. Mateo spots a MOON.
+0: 
+C: 21                         MATEO (CONT'D)                           21
+D:                  There! The moon could stand for
+D:                  Luna!
+0: 
+N:        Cooper spins the first ring so the moon symbol is in front.
+N:        As it CLICKS into place, the hourglass GLOWS.
+0: 
+C: 22                         ZOEY                                     22
+D:                  Sweet! Nice work, Mateo.
+0: 
+N:        Mateo grins under Zoey’s praise. Logan glares. As everyone
+N:        starts throwing out guesses for the second ring (some of
+N:        which Coop tries but don’t work) --
+0: 
+C: 23                         IZZIE                                    23
+E:                      (sotto, to Teo)
+D:                  Um, did Zoey just compliment you?
+0: 
+C: 24                         MATEO                                    24
+E:                      (sotto, to Izzie)
+D:                  Yeah, super weird.
+0: 
+N:        But Mateo’s wheels are spinning -- maybe Zoey likes him.
+0: N:      LEGO 07/12/21       "The Worthy Dreamer"                      4.
+0: 
+0: 
+C: 25                         LOGAN                                    25
+D:                  Look! An infinity symbol. That
+D:                  could refer to all the realms under
+D:                  a Dream Keeper’s protection.
+0: 
+N:        Cooper spins the infinity symbol to the front of the second
+N:        ring. As it CLICKS into place, the hourglass GLOWS again.
+N:        Logan fist pumps. Peeks at Zoey for a reaction. She’s giving
+N:        him nothing. She studies the third ring...
+0: 
+C: 26                         ZOEY                                     26
+D:                  Maybe that olive branch symbolizes
+D:                  peace.
+0: 
+N:        Cooper high-fives Zoey... spins the third ring into place...
+N:        all the symbols line up... and the Hourglass suddenly BLAZES
+N:        with light!
+0: 
+N:        Everyone shields their eyes... and then... all the sand falls
+N:        out! Cooper groans.
+0: 
+C: 27                         IZZIE                                    27
+D:                  That was s’posed to happen, right?
+0: 
+C: 28                         LOGAN                                    28
+D:                  Dude, you broke it!
+0: 
+N:        Our team deflates. Suddenly... WHOOSH! The sand zooms off
+N:        like a comet! As the others stare, stunned, Zoey leaps
+N:        astride Zion and takes to the skies.
+0: 
+C: 29                           ZOEY                                   29
+D:                  Zion, go!
+0: 
+N:        Oz recovers first, races for the Rocket Bus.
+0: 
+C: 30                         MR. OZ                                   30
+D:                  After that sand, Dream Chasers!
+0: 
+N:        As our team sprints towards the ship, CUT TO --
+0: 
+0: 
+S: 4      EXT. FANTASY REALM (DREAM WORLD) - DAY                           4
+0: 
+N:        CLOSE ON MRS. CASTILLO snoozing peacefully at the window of
+N:        her food truck.
+0: 
+N:        WIDEN OUT to reveal SEÑOR TORTUGA munching on a gingerbread
+N:        house as an annoyed GINGERBREAD COUPLE watch. Suddenly, the
+N:        couple catch sight of something O.S. and gape.
+0: 
+C: 31                         GINGERBREAD MAN                          31
+D:                  What the--?!?!
+0: N:      LEGO 07/12/21       "The Worthy Dreamer"                     5.
+0: 
+0: 
+N:        BAWOOSH! Oz’s rocket ship BLASTS by, blowing the gingerbread
+N:        couple off their feet.
+0: 
+N: 32                         GINGERBREAD MAN/GINGERBREAD WOMAN       32
+N:                  Whoooaaaa! / Oh sugar!
+0: 
+N:        Off Mrs. C undisturbed, snoring loudly, CUT TO --
+0: 
+0: 
+S: 5      INT. OZ’S ROCKET SHIP - DAY - CONTINUOUS                        5
+0: 
+N:        Z Blob jiggles happily in his seat from the velocity of the
+N:        bus rocketing through the dream ether. DREAM REALMS pass by
+N:        the bus windows in a blur.
+0: 
+N:        WIDEN OUT to reveal Mateo, Logan, Cooper, and Izzie in their
+N:        seats. Oz and Albert in front, manning the controls. Mateo
+N:        cranes his neck to see outside.
+0: 
+C: 33                         MATEO                                   33
+D:                  There’s Zoey!
+0: 
+C: 34                         LOGAN                                   34
+E:                      (worried)
+D:                  Where? Is she okay?
+0: 
+N:        Logan unbuckles his seatbelt and stands. Awkwardly leans
+N:        across Mateo to look out.
+0: 
+N:        OUTSIDE -- Zoey and Zion hot on the sand comet’s tail. They
+N:        bank left and right, following the comet’s every move.
+N:        Suddenly, WHOOSH! The sand comet flies straight up --
+0: 
+N:        Oz jerks the controls sharply. Takes the bus vertical. Logan
+N:        tumbles down the center aisle, hits the bulkhead door. THWAP!
+0: 
+C: 35                         MATEO                                   35
+E:                      (to Z Blob)
+D:                  Think Logan will ever learn to stay
+D:                  buckled in when Oz is at the wheel?
+0: 
+N:        Z Blob shakes his head ‘no’ as we CUT TO --
+0: 
+0: 
+S: 6      EXT. SKIES (DREAM WORLD) – CONTINUOUS                           6
+0: 
+N:        An epic shot of Zoey, Zion, and the rocket ship bus streaking
+N:        through puffy pink clouds of Dream Ether after the sand
+N:        comet. As the sand zooms higher and higher, the clouds get
+N:        thicker and thicker until...
+0: N:      LEGO 07/12/21         "The Worthy Dreamer"                    6.
+0: 
+0: 
+S: 7      INT. OZ’S ROCKET SHIP - DAY - CONTINUOUS                         7
+0: 
+N:        Oz and Albert peer out the window into a seemingly endless
+N:        layer of ominous, grey clouds.
+0: 
+C: 36                         ALBERT                                   36
+D:                  This is starting to feel like a
+D:                  wild goose chase, Oswald.
+0: 
+C: 37                         MR. OZ                                   37
+D:                  I’ve never understood that analogy.
+D:                  Are we the geese? Or the ones
+D:                  chasing the geese?
+0: 
+N:        ON Mateo and Z Blob, gazing intently out the window.
+0: 
+C: 38                         MATEO                                    38
+D:                  C’mon, castle. Please be here... we
+D:                  need Luna’s help to stop the Dark
+D:                  Army.
+0: 
+N:        As if in answer to Mateo’s plea, the clouds part and we
+N:        suddenly see... CASTLE NOCTURNA!
+0: 
+N:        It’s a CRYSTALLINE MEDIEVAL CASTLE towering over a barren
+N:        rocky realm. (Think Jim Henson’s Dark Crystal meets
+N:        Superman’s Fortress of Solitude.) The kind of place that
+N:        could only exist in the Dream World. The kids are awestruck.
+0: 
+C: 39                         MATEO/IZZIE/COOPER                       39
+D:                  Holy cow. / Daaaang. / Whoa.
+0: 
+N:        Nearing the end of their long search, Oz and Albert beam.
+0: 
+C: 40                         ALBERT                                   40
+D:                  We made it, old friend.
+0: 
+N:        Logan picks himself up off the floor to peer outside.
+0: 
+C: 41                          LOGAN                                   41
+E:                      (awed)
+D:                  It’s... it’s...
+0: 
+0: 
+S: 8      EXT. ROCKY REALM (DREAM WORLD) – MOMENTS LATER                   8
+0: 
+N:        ON Logan, aghast.
+0: 
+C: 42                         LOGAN                                    42
+E:                      (aghast)
+D:                  A pile of crap.
+0: N:      LEGO 07/12/21       "The Worthy Dreamer"                      7.
+0: 
+0: 
+N:        REVERSE to reveal Castle Nocturna’s true state. Up close, the
+N:        crystalline castle’s walls are dirty, dull and overgrown with
+N:        THICK VINES. The place is dormant, uninviting, and creepy.
+0: 
+N:        The sand swirls back into Luna’s Hourglass, settles inside.
+N:        Our team brightens. An expectant beat. Nothing happens.
+0: 
+C: 43                         MR. OZ                                   43
+D:                  Luna would never leave the castle
+D:                  in such a state.
+E:                      (stricken)
+D:                  She’s really gone...
+0: 
+N:        His worst fears seemingly realized, Oz is overcome with
+N:        emotion. Albert places a comforting hand on his shoulder.
+0: 
+C: 44                         COOPER                                   44
+D:                  So... we got this far for nothing?
+0: 
+C: 45                         MR. OZ                                   45
+E:                      (composes himself)
+D:                  Not necessarily. In our research,
+D:                  Albert and I discovered that Luna
+D:                  made a record of how to defeat the
+D:                  Nightmare King before she vanished.
+0: 
+C: 46                         ALBERT                                   46
+D:                  And Logan heard the Nightmare King
+D:                  say he wanted to erase the story of
+D:                  how he was defeated.
+0: 
+N:        Zoey’s head snaps up.
+0: 
+C: 47                         ZOEY                                     47
+D:                  You two think Luna left the book
+D:                  here...
+0: 
+C: 48                         MR. OZ                                   48
+D:                  Precisely. To the library!
+0: 
+N:        As our team approaches Castle Nocturna, Z Blob ducks inside
+N:        Mateo’s backpack. Mateo reassures him.
+0: 
+C: 49                         MATEO                                    49
+D:                  I know buddy. I wish this place
+D:                  didn’t look so dang scary, too.
+0: 
+N:        Off Z Blob peeking out, apprehensive, DISSOLVE TO --
+0: 
+0: 
+S: 9      INT. CASTLE NOCTURNA – GREAT HALL – MOMENTS LATER                9
+0: 
+N:        As the team enters the Hall, they look around, taking it all
+N:        in... dark shadows dot the edges of the room.
+0: N:      LEGO 07/12/21       "The Worthy Dreamer"                   8.
+0: 
+0: 
+N:        A long BANQUET TABLE in the middle is set for dinner but
+N:        covered in cobwebs. Dusty shields and tapestries decorate the
+N:        walls. The space feels eerie and dead.
+0: 
+C: 50                         LOGAN                                    50
+D:                  And I thought it was creepy
+D:                  outside.
+0: 
+N:        Izzie catches sight of a LARGE HERALDIC TAPESTRY that piques
+N:        her interest. It’s of a strange animal that our keen-eyed
+N:        viewers will recognize as a MANTICORE -- head of a man, body
+N:        of a lion, and a tail with a prickle of sharp spikes.
+0: 
+C: 51                         IZZIE                                    51
+D:                  Sweet, a manticore!
+0: 
+C: 52                         COOPER                                   52
+D:                  What’s a manticore?
+0: 
+C: 53                         IZZIE                                    53
+D:                  Only one of the most fearsome
+D:                  animals to ever walk the land!
+0: 
+C: 54                         ZOEY                                     54
+E:                      (scoffs)
+D:                  Manticore’s aren’t real.
+0: 
+C: 55                         IZZIE                                    55
+D:                  Don’t listen to her, Coop.
+D:                  Manticore’s ARE real. I’ve read
+D:                  about them in my mythology books.
+0: 
+N:        Zoey rolls her eyes -- the talk of myths proving her point.
+0: 
+C: 56                          IZZIE (CONT'D)                          56
+D:                  They’ve got the head of a man, the
+D:                  body of a lion, and the tail of a
+D:                  porcupine!
+0: 
+C: 57                         ZOEY                                     57
+D:                  A porcupine tail on a lion’s body?
+D:                  Not real. Not scary.
+0: 
+C: 58                         IZZIE                                    58
+E:                      (under her breath)
+D:                  I’d like to hear you say that with
+D:                  a quill sticking out of you.
+0: 
+C: 59                         LOGAN                                    59
+D:                  Um, guys? You need to see this...
+0: 
+N:        Our team heads over to Logan... peers into a dark alcove.
+N:        Recoils. Reveal the terrible tableau within -- CRYSTALLINE
+N:        DREAMLINGS frozen in terror.
+0: N:      LEGO 07/12/21         "The Worthy Dreamer"                    9.
+0: 
+0: 
+C: 60                         IZZIE                                    60
+D:                  Who would do this to Dreamlings?!
+0: 
+C: 61                         COOPER                                   61
+D:                  I thought Castle Nocturna was
+D:                  supposed to be safe!
+0: 
+N:        The kids shuffle around. Afraid. Oz tries to hide it, but
+N:        it’s clear he’s shook, too.
+0: 
+C: 62                         MR. OZ                                   62
+E:                      (totally unsure)
+D:                  Don’t worry, I’m sure whatever did
+D:                  this is long gone.
+0: 
+N:        Just then, the tapestries whip, disturbed by an eerie wind.
+N:        And then --
+0: 
+N:        SNAP! The sound of a tail cracking like a whip. WHOOSH! A
+N:        poisonous QUILL streaks through the air --
+0: 
+N:        SHUNK! The quill hits Oz and he turns to crystal!
+0: 
+C: 63                            ALBERT                                63
+D:                  Oswald!
+0: 
+N:        Izzie points to the quill, horrified.
+0: 
+C: 64                         IZZIE                                    64
+D:                  A manticore!
+0: 
+N:        Before anyone can react, Zion catches sight of something
+N:        slinking through the shadows... takes off after it!
+0: 
+N:        Zoey sprints after Zion. We hear the SNAP of a tail. Then
+N:        WHOOSH! A poisonous quill flies from the shadows and...
+N:        SHUNK! The QUILL pierces Zion’s side and he turns to crystal!
+0: 
+C: 65                            ZOEY                                  65
+D:                  Zion, NO!!
+0: 
+N:        The rest of the team catches up with Zoey as she throws her
+N:        arms around Zion.
+0: 
+C: 66                         ZOEY (CONT'D)                            66
+E:                      (distraught)
+D:                  I’ll fix this. Promise.
+0: 
+N:        Logan goes to grab Zoey’s arm, stops himself. Pleads.
+0: 
+C: 67                         LOGAN                                    67
+D:                  That thing’s going to take us out
+D:                  if we don’t move!
+0: N:      LEGO 07/12/21       "The Worthy Dreamer"                  10.
+0: 
+0: 
+N:        Zoey is reluctant to leave Zion, but Mateo pulls her away.
+0: 
+C: 68                         MATEO                                    68
+D:                  We gotta go!
+0: 
+N:        Panicked, the team races through large doors at the end of
+N:        the Great Hall and into...
+0: 
+0: 
+S: 10     INT. CASTLE NOCTURNA – HALLWAY – CONTINUOUS                  10
+0: 
+N:        A long hallway, grimy from years of neglect. Logan and Cooper
+N:        SLAM the doors shut. RAAAGHH! A giant roar echoes. The door
+N:        RATTLES with the force of something large but holds fast.
+0: 
+C: 69                         COOPER                                   69
+D:                  What do we do?
+0: 
+C: 70                         ALBERT                                   70
+D:                  Stay focused. Find the book.
+0: 
+C: 71                         ZOEY                                     71
+D:                  Screw that, I’m looking for a way
+D:                  to fix Zion.
+0: 
+N:        Logan opens his mouth to offer to help. Mateo beats him to
+N:        the punch.
+0: 
+C: 72                         MATEO                                    72
+D:                  I’ll go with you.
+0: 
+N:        BOOM! The door RATTLES again.
+0: 
+C: 73                         ALBERT                                   73
+D:                  Fine, just steer clear of the
+D:                  manticore. Everyone else, with me.
+0: 
+C: 74                          IZZIE                                   74
+E:                       (animal expert mode)
+D:                  Manticore’s usually only react when
+D:                  provoked. Maybe we can reason with
+D:                  him.
+0: 
+N:        On cue, BOOOOM! A large PAW PUNCHES through the door,
+N:        narrowly missing Izzie’s head! Wood splinters fly!
+0: 
+C: 75                         IZZIE (CONT'D)                           75
+D:                  On second thought... RUN!!
+0: 
+N:        They sprint away, desperate to put some distance between them
+N:        and the creature! All of a sudden --
+0: N:      LEGO 07/12/21       "The Worthy Dreamer"                     11.
+0: 
+0: 
+N:        KRAAAK! FWOOSH! The hallway breaks into several pieces that
+N:        SWING APART in different directions (think Hogwarts meets MC
+N:        Escher)! The kids stumble, trying to keep their balance.
+0: 
+C: 76                            MATEO/IZZIE/ZOEY/LOGAN/COOPER         76
+D:                  WHOAAAAAA!
+0: 
+N:        ON Zoey, as the piece she’s on tilts precariously, sending
+N:        her sliding towards the edge. She nimbly leaps from one piece
+N:        to another... trying to reunite with the others. But she’s
+N:        thwarted by the MC Escher-esque castle.
+0: 
+N:        Zoey spots Logan, on a piece with Izzie, gesturing for her to
+N:        jump to him.
+0: 
+C: 77                         LOGAN                                    77
+D:                  Zoey! Jump this way!
+0: 
+N:        At the same time, Mateo, on a piece with Z Blob, whooshes
+N:        past, too. Waves for Zoey to join him.
+0: 
+C: 78                         MATEO                                    78
+D:                  Zoey, we’re here!
+0: 
+N:        Zoey’s eyes dart from Mateo to Logan. She runs, leaps --
+0: 
+N:        WHAM! Knocks Mateo down. Lands on top of him!
+0: 
+C: 79                            MATEO (CONT'D)                        79
+D:                  Oof.
+0: 
+N:        From his prone position, Mateo sees Logan, crestfallen, as he
+N:        and Izzie are zoomed one way and Albert and Cooper another!
+0: 
+N:        Zoey scrambles to her feet, pulls Mateo up. But before they
+N:        have a chance to even catch their breath --
+0: 
+N:        SWOOSH! Their piece of hallway transforms into a circular
+N:        SLIDE. They WHOOSH around and around and down to --
+0: 
+0: 
+S: 11     INT. CASTLE NOCTURNA – CELLAR – CONTINUOUS                   11
+0: 
+N:        THUD! Mateo, Z Blob, and Zoey sprawl to a stop on the floor
+N:        of a vaulted cellar. The detritus of eons of Dream Keepers –
+N:        chests, furniture, books, paintings – stacked everywhere.
+0: 
+N:        Zoey jumps up to investigate.
+0: 
+C: 80                          ZOEY                                    80
+D:                  We could find something here to
+D:                  help Zion.
+0: N:      LEGO 07/12/21       "The Worthy Dreamer"                  12.
+0: 
+0: 
+N:        As Zoey starts looking, Z Blob nudges Mateo towards Zoey --
+N:        go join her.
+0: 
+C: 81                         MATEO                                 81
+E:                      (sotto to Z Blob)
+D:                  Unh-uh.
+0: 
+N:        Playing matchmaker, Z Blob is insistent. Mateo relents,
+N:        hesitantly walks over to where Zoey is engrossed in pulling
+N:        items out of a chest.
+0: 
+C: 82                         MATEO (CONT'D)                        82
+D:                  There must be centuries worth of
+D:                  Dream Keeper stuff in there.
+0: 
+C: 83                         ZOEY                                  83
+E:                      (grinning)
+D:                  Maybe we’ll find the book too!
+0: 
+N:        Zoey scooches over, making room for Mateo to join him. Z Blob
+N:        flashes Mateo a grin. Off Zoey and Mateo searching together --
+0: 
+0: 
+S: 12     INT. CASTLE NOCTURNA – APOTHECARY ROOM – CONTINUOUS       12
+0: 
+N:        Albert and Coop rifle through shelves stuffed with books and
+N:        old-fashioned glass bottles full of mysterious colorful
+N:        liquids and preserved strange-looking creatures.
+0: 
+N:        But uh-oh, they’re so focused, they don’t notice a glimpse of
+N:        TAWNY FUR pass by the open door. Albert cocks his head at a
+N:        faint rustle of wings.
+0: 
+C: 84                         ALBERT                                84
+D:                  Did you hear something?
+0: 
+C: 85                         COOPER                                85
+E:                      (oblivious)
+D:                  Nope.
+0: 
+N:        Albert shrugs and goes back to his task -- pulling books off
+N:        the shelf. Reaching for a book, Coop gets a cobweb stuck in
+N:        his hair.
+0: 
+C: 86                         COOPER (CONT'D)                       86
+D:                  Blech. Gross.
+0: 
+N:        Albert drops the heavy tomes on a nearby table. Dust billows.
+N:        He starts rifling through their pages.
+0: 
+C: 87                         ALBERT                                87
+D:                  These books aren’t going to look
+D:                  through themselves, Cooper.
+0: N:      LEGO 07/12/21         "The Worthy Dreamer"                13.
+0: 
+0: 
+N:        On Coop, still wrestling with the cobweb. Flailing around, he
+N:        accidentally swipes a glass bottle off the shelf. Catches it
+N:        before it hits the ground.
+0: 
+C: 88                         COOPER                                   88
+E:                      (reading the label)
+D:                  Siren’s song. Cool.
+0: 
+N:        At the same time that Coop turns to show Albert --
+0: 
+N:        SNAP! The flick of a tail and... WHOOSH! A poisonous QUILL
+N:        zooms through the air and hits Albert, who turns to crystal!
+0: 
+N:        WHIP TO Cooper, staring agog --
+0: 
+C: 89                           COOPER (CONT'D)                        89
+D:                  Oh cr--
+0: 
+N:        SNAP! WHOOSH! SHUNK! A quill lands in Cooper’s thigh. As he
+N:        turns to crystal, he drops the bottle...
+0: 
+N:        It SHATTERS against the floor... the eerie wails of SIREN’S
+N:        SONG fill the air.
+0: 
+N:        Off Cooper’s face, frozen in terror, we CUT TO --
+0: 
+0: 
+S: 13     INT. CASTLE NOCTURNA – HALLWAY – CONTINUOUS                  13
+0: 
+N:        Logan and Izzie creeping down the decrepit hallway. Busts of
+N:        former Dream Keepers line either side. They pause as the last
+N:        wails of the Siren’s Song reach their ears.
+0: 
+C: 90                         LOGAN                                    90
+E:                      (spooked)
+D:                  What was that?
+0: 
+C: 91                         IZZIE                                    91
+D:                  I don’t know.
+0: 
+N:        Izzie suddenly spots a bust of a young Luna adorned with a
+N:        CRYSTAL TIARA. Beelines for it.
+0: 
+C: 92                         LOGAN                                    92
+D:                  Wait, Izzie! Don’t touch that.
+0: 
+N:        Logan flinches as Izzie plucks the tiara off the bust,
+N:        ignoring him. Nothing happens. She flashes him a cocky grin.
+0: 
+C: 93                         LOGAN (CONT'D)                           93
+D:                  That could’ve been a trap.
+0: N:       LEGO 07/12/21       "The Worthy Dreamer"                  14.
+0: 
+0: 
+C: 94                          IZZIE                                    94
+D:                   Well it wasn’t. And now I’ve got
+D:                   this sweet tiara.
+0: 
+C: 95                          LOGAN                                    95
+D:                   We gotta stay focused and find the
+D:                   library. Yanno, where people keep
+D:                   their books?
+0: 
+C: 96                          IZZIE                                    96
+D:                   Isn’t that, yanno, too obvious for
+D:                   an all-powerful Dream Keeper?
+0: 
+C: 97                          LOGAN                                    97
+E:                       (taken aback)
+D:                   What? No, it’s logical.
+0: 
+N:         Izzie swings around, startling Logan. She takes him by the
+N:         shoulders and shakes him.
+0: 
+C: 98                          IZZIE                                    98
+D:                   Forget logic! Follow your heart.
+0: 
+N:         Too late, Izzie realizes what she’s said. Logan deflates.
+0: 
+C: 99                          LOGAN                                    99
+D:                   Yeah, tried that. Now Zoey hates
+D:                   me.
+0: 
+C: 100                         IZZIE                                   100
+D:                   She doesn’t hate you.
+E:                       (off Logan’s hope)
+D:                   Dislike you strongly? Yeah. But
+D:                   hey, that’s not hate.
+0: 
+N:         Logan sighs exasperated and stomps off down the hallway. As
+N:         Izzie hurries to catch up, CUT TO --
+0: 
+0: 
+S: 14      INT. CASTLE NOCTURNA – CELLAR – CONTINUOUS                   14
+0: 
+N:         CRASH! Mateo and Z Blob are startled from their searching by
+N:         a plate smashing against the wall. They look over to Zoey,
+N:         fists clenched, clearly pissed off.
+0: 
+C: 101                         ZOEY                                    101
+D:                   Ugh. There’s nothing here! It’s
+D:                   just a bunch of junk.
+0: 
+N:         Zoey holds up another plate. Looks ready to hurl it against
+N:         the wall. Mateo rushes to stop her.
+0: N:       LEGO 07/12/21       "The Worthy Dreamer"                  15.
+0: 
+0: 
+C: 102                         MATEO                                102
+D:                   Whoa, whoa. Evil manticore-thing
+D:                   hunting us, remember?
+0: 
+N:         Zoey puts down the plate.
+0: 
+C: 103                         MATEO (CONT'D)                       103
+D:                   C’mon, maybe the others have had
+D:                   better luck.
+0: 
+N:         A thunderous ROAR freezes them in place. Scared. No way out.
+0: 
+C: 104                         ZOEY                                 104
+E:                       (sotto)
+D:                   Quick, hide!
+0: 
+N:         Zoey gestures to a stack of large paintings leaning against
+N:         the wall. There’s a small space behind them. Zoey, Mateo, and
+N:         Z Blob dive for cover as --
+0: 
+N:         SCREEEEEECH! CLAWS scrape against a wall...
+0: 
+N:         Our trio huddle close... the scraping sound gets closer...
+N:         Zoey clasps Mateo’s hand...
+0: 
+N:         He glances down. Terrified but ecstatic. He squeezes Zoey’s
+N:         hand, she squeezes back. It’s dangerous and romantic.
+0: 
+N:         The clicking of CLAWED FEET pauses in front of their hiding
+N:         place. Our trio tense... fearing the worst --
+0: 
+N:         WHOOSH! The sound of wings flapping away. Whew! A beat. Then
+N:         Mateo, Zoey, and Z Blob emerge, relieved. Mateo and Zoey’s
+N:         hands are still intertwined.
+0: 
+C: 105                         MATEO                                105
+E:                       (with a ragged breath)
+D:                   That was a little too close.
+0: 
+N:         Zoey lets go of Mateo’s hand.
+0: 
+C: 106                         ZOEY                                 106
+D:                   Ugh, gross.
+0: 
+N:         Mateo jerks back, flustered.
+0: 
+C: 107                           MATEO                              107
+D:                   W-w-what?
+0: 
+N:         Zoey gestures to a portrait they were just hiding behind --
+N:         an idealized representation of the platonic love shared by
+N:         LUNA and MIGO. Luna gazes wistfully at Migo, who looks up at
+N:         her sweetly. (It’s done in the dreamy, art nouveau style of
+N:         Alphonse Mucha.)
+0: N:       LEGO 07/12/21       "The Worthy Dreamer"                  16.
+0: 
+0: 
+N:         Mateo considers the painting, confused.
+0: 
+C: 108                         MATEO (CONT'D)                       108
+D:                   What’s so gross about that?
+0: 
+C: 109                         ZOEY                                 109
+D:                   Forget it...
+0: 
+C: 110                         MATEO                                110
+D:                   No, really.
+0: 
+C: 111                         ZOEY                                 111
+D:                   Mateo! The Nightmare King is out
+D:                   there right now, wreaking havoc on
+D:                   the Dream World. We need to fix
+D:                   Zion and find Luna’s book.
+0: 
+C: 112                         MATEO                                112
+E:                       (blithely)
+D:                   So you’re avoiding my question?
+0: 
+C: 113                         ZOEY                                 113
+E:                       (blowing up)
+D:                   I don’t know why, okay? It just is!
+E: 114                   (searching)                                114
+D:                   Love’s stupid. People ghost you and
+D:                   you’re left alone. Happy?
+0: 
+C: 114                           MATEO                              114
+D:                   Wow.
+0: 
+C: 115                           ZOEY                               115
+D:                   Wow what?
+0: 
+C: 116                         MATEO                                116
+D:                   That’s an incredibly depressing
+D:                   point of view.
+0: 
+N: 111     Zoey huffs, exasperated, as we CUT TO --                 111
+0: 
+0: 
+S: 15      INT. CASTLE NOCTURNA – ROTUNDA – CONTINUOUS               15
+0: 
+N:         Logan and Izzie step inside a round room -- shadowed and
+N:         dark. Izzie stops in her tracks and stares upwards, awed.
+N:         Logan takes in the room quickly, turns on his heel to leave.
+0: 
+C: 117                         LOGAN                                117
+D:                   Welp, I’ve seen all I need to see.
+0: 
+C: 118                         IZZIE                                118
+D:                   Logan, look.
+0: N:       LEGO 07/12/21       "The Worthy Dreamer"                    17.
+0: 
+0: 
+C: 119                         LOGAN                                  119
+D:                   I did. No books. Not a library.
+0: 
+N:         Izzie grabs his arm and points upwards.
+0: 
+C: 120                         IZZIE                                  120
+D:                   Logan, look!
+0: 
+N:         Logan tilts his head back. Gapes at an incredible sight --
+0: 
+N:         The rotunda’s domed ceiling is constructed of gorgeous, multi-
+N:         colored STAINED-GLASS WINDOWS in the same dreamy style that
+N:         we saw in the painting of Luna and Migo.
+0: 
+N:         [Note: The windows are dusty on the inside and obscured by
+N:         THICK VINES covering the outside of the dome. Barely any
+N:         light streams in through the glass.]
+0: 
+C: 121                            LOGAN                               121
+D:                   Whoa.
+0: 
+C: 122                         IZZIE                                  122
+D:                   I have GOT to get a closer look.
+0: 
+N:         Izzie darts over to a rickety staircase... starts climbing...
+N:         reaches a narrow walkway around the base of the dome.
+0: 
+C: 123                         LOGAN                                  123
+D:                   Iz, we don’t have time for the
+D:                   grand tour!
+E:                       (under his breath)
+D:                   Remind me how I got stuck
+D:                   babysitting?
+0: 
+C: 124                         IZZIE                                  124
+E:                       (calls over her shoulder)
+D:                   I heard that.
+0: 
+N:         Izzie wipes at a spot of dirt on the inside of one window.
+N:         Through the glass she suddenly spots --
+0: 
+N:         A LEONINE EYE peering back at her. She gasps and flails
+N:         backwards, startled.
+0: 
+C: 125                         IZZIE (CONT'D)                         125
+E:                       (scared)
+D:                   The manticore!
+0: 
+N:         A loud ROAR shakes the glass. Izzie whips around.
+0: 
+C: 126                            IZZIE (CONT'D)                      126
+D:                   It saw me!
+0: N:       LEGO 07/12/21       "The Worthy Dreamer"                  18.
+0: 
+0: 
+C: 127                         LOGAN                                   127
+D:                   C’mon, let’s move!
+0: 
+N:         Izzie races down the stairs to join Logan. But when they turn
+N:         towards the door --
+0: 
+N:         RAAAGH!! The MANTICORE blocks their exit. And he’s a sight to
+N:         behold! The head and mane of a lion. The torso of a man.
+N:         Iridescent wings. He’d be stunning if his tail wasn’t
+N:         flicking ominously -- razor sharp porcupine quills glinting.
+0: 
+N:         A beat. Then all hell breaks loose. The manticore SNARLS.
+N:         Whips his tail around...
+0: 
+N:         Izzie dives out of the way. Logan POPS into his tiny blue
+N:         BEAST MODE and shrinks in size. WHOOSH! The quills barely
+N:         pass over his head!
+0: 
+N:         Izzie whips out her hourglass, begins to dreamcraft... the
+N:         sand swirls into a giant ANIME-STYLE SWORD!
+0: 
+C: 128                         IZZIE                                   128
+D:                   Bunzaibunga!!!
+0: 
+N:         Izzie grits her teeth, hefts her sword, and charges! The
+N:         manticore releases another flurry of quills... Izzie whacks
+N:         the projectiles off-course like a badass martial arts master.
+0: 
+C: 129                            IZZIE (CONT'D)                       129
+D:                   Lo-Lo, GO!
+0: 
+N:         Lo-Lo breaks for the door as the manticore releases a fresh
+N:         onslaught of quills. Izzie’s sword is a blur... she keeps
+N:         advancing... until --
+0: 
+N:         SHUNK! A quill pierces Izzie’s shoulder. She stares at it,
+N:         disbelieving --
+0: 
+C: 130                         IZZIE (CONT'D)                          130
+D:                   Oh poopers.
+0: 
+N:         Her sword clatters to the ground as she turns to crystal. As
+N:         the manticore flies after Lo-Lo, CUT TO --
+0: 
+0: 
+S: 16      INT. CASTLE NOCTURNA – GREAT HALL – CONTINUOUS               16
+0: 
+N:         Zoey, Mateo, and Z Blob cautiously enter the room. Zoey’s
+N:         eyes dart to Zion, still crystallized.
+0: 
+C: 131                         ZOEY                                    131
+D:                   I’m done running and hiding.
+0: N:       LEGO 07/12/21         "The Worthy Dreamer"                19.
+0: 
+0: 
+C: 132                         MATEO                                   132
+E:                       (glancing at Oz)
+D:                   Me too.
+0: 
+N:         A booming ROAR splits the air. Zoey steps closer to Mateo.
+0: 
+C: 133                         ZOEY                                    133
+E:                       (to Mateo)
+D:                   You sure you want to stay?
+0: 
+N:         Mateo steps closer to Zoey.
+0: 
+C: 134                            MATEO                                134
+D:                   Always.
+0: 
+N:         ON Mateo, feeling the intimacy of the moment... decides to
+N:         make a move... leans in for a kiss...
+0: 
+N:         BOOM! The doors slam open. Lo-Lo sprints inside! The
+N:         manticore inches away. The manticore picks Lo-Lo up in his
+N:         claws... hurls him across the room!
+0: 
+C: 135                            LO-LO                                135
+D:                   AHHHHHHH!!
+0: 
+N:         Lo-Lo CRASHES onto the banquet table -- sends place settings
+N:         flying! Zoey races to his side, worried.
+0: 
+C: 136                         ZOEY                                    136
+D:                   Are you okay?
+0: 
+N:         He shakes himself, POPS BACK into Logan.
+0: 
+C: 137                            LOGAN                                137
+D:                   I’m good.
+0: 
+N:         Zoey and Logan stare at each other. Awkward.
+0: 
+C: 138                         MATEO                                   138
+D:                   Uh, guys... little help here?
+0: 
+N:         WHIP TO Mateo and Z Blob, facing down an irate manticore.
+0: 
+N:         Zoey and Logan spring into action. They snatch cutlery off
+N:         the table and hurl it at the manticore, drawing his
+N:         attention. The manticore flicks his tail... quills THWICK
+N:         straight for them!
+0: 
+N:         Zoey flips out of the way. Logan dives behind a chair. THUNK!
+N:         THUNK! THUNK! Peers out to see a line of razor sharp quills
+N:         embedded in the chair.
+0: 
+N:         On Mateo. He whips out his HOURGLASS and turns to Z Blob...
+0: N:       LEGO 07/12/21       "The Worthy Dreamer"                  20.
+0: 
+0: 
+C: 139                         MATEO (CONT'D)                       139
+D:                   Ready, buddy?
+0: 
+N:         Z Blob grins. Mateo dreamcrafts Z Blob into a NOBLE STEED.
+N:         Grabs a LANCE off the wall and leaps astride. Charge!
+0: 
+N:         The manticore whips around to face them. GROWLS. Inches from
+N:         impact. Mateo thrusts the lance forward... the manticore
+N:         springs into the sky at the last second... the lance barely
+N:         misses him! As Mateo pulls up hard on the reins to bring Z
+N:         Blob around --
+0: 
+N:         SLAM! Two clawed feet right to Z Blob steed’s side, sending
+N:         him and Mateo to the ground. Z Blob turns back to his regular
+N:         form.
+0: 
+N:         ON Zoey wrenching a sword from one of the frozen Dreamlings.
+N:         She twirls it expertly.
+0: 
+C: 140                         ZOEY                                 140
+D:                   Let’s dance, furball.
+0: 
+N:         Zoey races towards the manticore, dragging her sword along
+N:         the ground and sending up a shower of SPARKS. It’s badass.
+N:         It’s easy to see why Mateo and Logan are in love -- we’re all
+N:         a little bit in love with Zoey. She slashes and feints, her
+N:         sword is a blur... but the manticore parries her every move
+N:         until --
+0: 
+N:         Zoey’s sword grazes the manticore’s side. He HOWLS in pain
+N:         and sweeps his wing around to knock Zoey off her feet!
+0: 
+C: 141                         LOGAN                                141
+D:                   Zoey!
+0: 
+N:         From Zoey’s POV, we see the manticore advance... out of the
+N:         corner of her eye, she spots Logan racing towards her.
+0: 
+C: 142                         ZOEY                                 142
+D:                   Don’t be an idiot!
+0: 
+C: 143                         LOGAN                                143
+E:                       (grits his teeth)
+D:                   Too late.
+0: 
+N:         The manticore flicks his tail... a quill flies straight for
+N:         Zoey... Logan leaps and... SHUNK! Logan drops to the ground,
+N:         crystallized. Zoey’s face crumples in anguish.
+0: 
+N:         As Zoey reacts to Logan getting turned into crystal, ANGLE ON
+N:         Mateo as he realizes -- Logan is the one Zoey likes.
+0: N:       LEGO 07/12/21       "The Worthy Dreamer"                  21.
+0: 
+0: 
+N:         But there’s no time to dwell on it. Mateo dreamcrafts a
+N:         barrage of arrows. THWICK! THWICK! They bounce harmlessly off
+N:         the manticore’s tough hide! And then --
+0: 
+N:         SNAP! The manticore cracks his tail like a whip firing quills
+N:         like arrows. SHUNK! SHUNK! Mateo and Z Blob are turned to
+N:         crystal!
+0: 
+N:         The manticore turns on Zoey -- last woman standing -- she
+N:         brandishes her CLOCK. But before she can wind time --
+0: 
+C: 144                         MANTICORE                               144
+D:                   Enough! Prove you are a worthy
+D:                   dreamer or be trapped
+D:                   forevermore...
+0: 
+N:         The manticore SNAPS open his wings, transitioning us to...
+0: 
+N:         TEMPTATION SEQUENCE
+0: 
+N:         Zoey’s startled to find herself in a crystal cave (think
+N:         Fortress of Solitude meets funhouse Hall of Mirrors). Cold.
+N:         Disconcerting. Zoey stares at her reflection, which morphs
+N:         into the manticore. He is everywhere and nowhere, cajoling.
+0: 
+C: 145                         MANTICORE (CONT'D)                      145
+D:                   I can see into your heart. I know
+D:                   what it desires.
+0: 
+C: 146                          ZOEY                                   146
+D:                   If you knew me, you’d know I’m
+D:                   heartless.
+0: 
+C: 147                          MANTICORE                              147
+D:                   Tsk, tsk. We both know that’s not
+D:                   true. I sense a deep loneliness in
+D:                   you, Zoey.
+0: 
+N:         That lands. Zoey flinches.
+0: 
+C: 148                         MANTICORE (CONT'D)                      148
+D:                   You may have a tough hide like me.
+D:                   But you’ve lost people and that
+D:                   takes a toll.
+0: 
+C: 149                         ZOEY                                    149
+D:                   You’re the reason I’m alone right
+D:                   now!
+0: 
+C: 150                         MANTICORE                               150
+D:                   Years ago, Luna tasked me with
+D:                   protecting the castle.
+E:                             (MORE)
+0: N:       LEGO 07/12/21       "The Worthy Dreamer"                    22.
+0: 
+C:                             MANTICORE (CONT'D)
+D:                   Not knowing what guise the
+D:                   Nightmare King would come in, I
+D:                   must be sure you’re not him. Prove
+D:                   it and I’ll let your friends go.
+0: 
+C: 151                         ZOEY                                   151
+E:                       (aghast)
+D:                   I’m not the Nightmare King!
+0: 
+C: 152                          MANTICORE                             152
+D:                   Exactly what the Nightmare King
+D:                   would say.
+0: 
+C: 153                         ZOEY                                   153
+E:                       (seething)
+D:                   I hate him. I’m going to stop him
+D:                   from ruining the Dream World.
+0: 
+C: 154                         MANTICORE                              154
+D:                   Ahh, the one place you feel safe.
+D:                   The one place you can be
+D:                   yourself...
+0: 
+C: 155                         ZOEY                                   155
+D:                   You said it. Not me.
+0: 
+N:         The manticore is suddenly next to Zoey. He curls a wing
+N:         around her, persuasive.
+0: 
+C: 156                         MANTICORE                              156
+D:                   But what if I could make the Dream
+D:                   World even better? Bring your
+D:                   parents back? Give you everything
+D:                   you could ever want...
+E:                       (beat, then)
+D:                   All you have to do is ask.
+0: 
+N:         The manticore gestures to where we see a silhouetted image of
+N:         a young Zoey holding hands with her parents. Zoey wavers,
+N:         clearly torn.
+0: 
+C: 157                         MANTICORE (CONT'D)                     157
+D:                   Wouldn’t you like to have a family?
+0: 
+N:         Zoey closes her eyes. We FLASH to: Zion nuzzling her; Izzie
+N:         hugging her; Cooper high-fiving her, Mateo huddling with her
+N:         behind the painting; and finally, Logan leaping in front of
+N:         her. She squares her shoulders and opens her eyes.
+0: 
+C: 158                         ZOEY                                   158
+D:                   <DEEP BREATH> I already have a
+D:                   family. So thanks but no thanks.
+D:                   I’m good.
+0: N:       LEGO 07/12/21       "The Worthy Dreamer"                     23.
+0: 
+0: 
+N:         With a SNAP of the manticore’s wings, we transition back to:
+0: 
+0: 
+S: 17      INT. CASTLE NOCTURNA - GREAT HALL - CONTINUOUS               17
+0: 
+N:         The manticore gets in Zoey’s face. Menacing. Opens his mouth
+N:         to flash his fangs. Zoey tenses, anticipating the worst...
+0: 
+C: 159                         MANTICORE                               159
+D:                   That. Was. AWESOME!!
+0: 
+N:         The manticore breaks into a HUGE GRIN. CLAPS his hands twice.
+N:         Air horn blasts. An explosion of CONFETTI. Zoey’s jaw drops
+N:         and she splutters as confetti rains down from the sky.
+0: 
+C: 160                         ZOEY                                    160
+D:                   W-w-what the heck?
+0: 
+N:         The manticore holds up his paw as if to say wait a sec. He
+N:         pulls a small voice modulator DEVICE off his neck. Crushes
+N:         it. Grins. Says in a much friendlier, higher-pitched voice:
+0: 
+C: 161                         MANTICORE                               161
+D:                   Whew, that’s better! You have no
+D:                   idea how happy I am to be done with
+D:                   the whole ‘scary manticore’
+D:                   routine. Now, where were we?
+0: 
+C: 162                           ZOEY                                  162
+D:                   Beats me.
+0: 
+C: 163                         MANTICORE                               163
+D:                   You did it! You passed Luna’s final
+D:                   test! And now...
+E:                       (ecstatic)
+D:                   I have someone to talk to again!!
+0: 
+N:         The manticore envelopes Zoey in a hug! She stares, dumb-
+N:         founded as KRAAAK! The crystal encasing Mateo, Logan, Oz, and
+N:         Z Blob breaks apart. It’s their turn to stare, stunned.
+0: 
+N:         Zion shakes himself, sending crystals TWINKLING to the
+N:         ground. Spotting the manticore, Zion growls and charges!
+0: 
+C: 164                         ZOEY                                    164
+D:                   Zion, wait! He’s okay!
+0: 
+N:         Zion slams to a stop. To everyone’s amazement, the manticore
+N:         scratches Zion -- and he actually likes it! Zion flops onto
+N:         his back for a belly rub.
+0: 
+C: 165                         MANTICORE                               165
+D:                   Who’s a good kitty? You’re a good
+D:                   kitty!
+0: N:       LEGO 07/12/21       "The Worthy Dreamer"                    24.
+0: 
+0: 
+N:         That unlikely sight greets Albert, Cooper, and Izzie, who
+N:         race in, looking for a fight. Come up short at the scene.
+0: 
+N:         Everyone stares, incredulous, as the manticore starts
+N:         enthusiastically shaking hands.
+0: 
+C: 166                         MANTICORE (CONT'D)                      166
+D:                   Hey! Hi! How you doin’?
+0: 
+C: 167                         COOPER                                  167
+D:                   Hold up. You’re friendly?!
+0: 
+C: 168                         MANTICORE                               168
+D:                   The friendliest!
+0: 
+N:         The manticore shakes Z Blob’s hand so exuberantly it sends Z
+N:         Blob bouncing up and down.
+0: 
+C: 169                         MANTICORE (CONT'D)                      169
+D:                   Love this green look you’ve got
+D:                   going on.
+0: 
+N:         The manticore moves on to Izzie, who grins.
+0: 
+C: 170                         IZZIE                                   170
+D:                   I told them you’d be a big ol’
+D:                   puffball once we got to know you!
+0: 
+C: 171                         MANTICORE                               171
+E:                       (bowing over her hand)
+D:                   Filipo Achaemenid Darius Cambysis
+D:                   at your service.
+0: 
+C: 172                         IZZIE                                   172
+D:                   Okay if I just call you Phil?
+0: 
+C: 173                         MANTICORE                               173
+D:                   Works for me!
+0: 
+N:         Phil gazes around at the sorry state the castle’s in.
+0: 
+C: 174                         MANTICORE (CONT'D)                      174
+D:                   I just wish I knew how to bring the
+D:                   castle back to life.
+0: 
+N:         He gestures to the Dreamlings, still frozen in crystal.
+0: 
+C: 175                         MANTICORE (CONT'D)                      175
+D:                   My home used to be filled with
+D:                   love, light, and creativity. But it
+D:                   vanished the day Luna left, leaving
+D:                   the castle’s heart broken. In fact,
+D:                   I haven’t even been able to breathe
+D:                   a proper flame since then.
+0: N:       LEGO 07/12/21       "The Worthy Dreamer"                  25.
+0: 
+0: 
+N:         Phil ROARS but all that emerges is a tiny puff of smoke. It
+N:         fizzles without a spark. Oz claps him on the back.
+0: 
+C: 176                         MR. OZ                               176
+D:                   We can’t have that, Phil. You were
+D:                   born to breathe fire.
+E:                       (beat, then)
+D:                   Now then, where is that throne...
+0: 
+N:         Our team watches as Oz bends over to examine the floor of the
+N:         Great Hall. He wanders aimlessly searching...
+0: 
+N:         ANGLE ON Mateo. He clocks Zoey sneaking a glance at Logan
+N:         standing off to the side. Mateo sidles over to have a quiet
+N:         conversation with Zoey.
+0: 
+C: 177                         MATEO                                177
+D:                   So you’re willing to face down a
+D:                   manticore but you won’t go on one
+D:                   date with Logan?
+0: 
+C: 178                         ZOEY                                 178
+D:                   I don’t have time for distractions.
+D:                   As long as the Nightmare King is
+D:                   out there, the Dream World isn’t
+D:                   safe.
+0: 
+C: 179                         MATEO                                179
+D:                   That’s true. But you’re not alone.
+D:                   You have all of us. And we make a
+D:                   great team.
+E:                       (then, gently)
+D:                   That’s not going to change if you
+D:                   give Logan a chance.
+0: 
+N:         Zoey fidgets, clearly torn.
+0: 
+C: 180                          MATEO (CONT'D)                      180
+E:                        (with a sigh)
+D:                   Zoey you’re fearless, go talk to
+D:                   him.
+0: 
+C: 181                         ZOEY                                 181
+E:                       (relenting)
+D:                   When did you get so smart?
+0: 
+C: 182                         MATEO                                182
+D:                   I’ve always been this smart?
+0: 
+N:         Zoey and Mateo exchange a smile -- it’s not romance but it is
+N:         friendship and for now, it’s good enough.
+0: 
+N:         ANGLE ON Logan, surprised to see Zoey walk up to stand close
+N:         beside him. She bumps his shoulder, playfully.
+0: N:       LEGO 07/12/21       "The Worthy Dreamer"                  26.
+0: 
+0: 
+C: 183                         ZOEY                                    183
+D:                   Hey.
+0: 
+C: 184                         LOGAN                                   184
+D:                   Hey.
+0: 
+N:         Logan grins like a doofus.
+0: 
+N:         ON Mateo watching them. Z Blob reaches up to clasp Mateo’s
+N:         hand sweetly. Nearby, Phil declares loudly:
+0: 
+C: 185                         MANTICORE                               185
+E:                       (re Oz)
+D:                   He’s mad as a hatter, isn’t he?
+0: 
+C: 186                         IZZIE                                   186
+D:                   For sure. But he usually knows what
+D:                   he’s doing.
+0: 
+N:         Just then --
+0: 
+C: 187                         MR. OZ                                  187
+D:                   Aha! Found it.
+0: 
+N:         Oz wipes the dust off an octagon shaped TILE in the floor.
+N:         It’s decorated with a large SUNBURST. He presses down on the
+N:         middle of the sun and --
+0: 
+N:         THWUNK! With a grinding of GEARS... the entire tile FLIPS
+N:         OVER! It rotates to reveal...
+0: 
+N:         A beautiful, crystal DAIS decorated with STARS and MOONS.
+N:         Atop the dais rests a gorgeous, grand THRONE. Befitting a
+N:         ruler of the Dream World. Our team lets out a startled GASP.
+0: 
+N:         Oz picks up Luna’s Hourglass. Gestures to an HOURGLASS shaped
+N:         INDENTATION in the throne.
+0: 
+N: 188                         MR. OZ (CONT'D)                         188
+N:                   Luna once told me about her
+N:                   failsafe. All that’s left is to
+N:                   slot her Hourglass in and bring the
+N:                   castle back online.
+0: 
+N:         Oz holds the hourglass out to Mateo.
+0: 
+N: 189                         MR. OZ (CONT'D)                         189
+N:                   Care to do the honors?
+0: 
+N:         Mateo looks around at his friends. The fact they’ve gotten
+N:         this far a testament to their strength as a team.
+0: 
+C: 190                         MATEO                                   190
+D:                   How ‘bout we all do the honors?
+0: N:       LEGO 07/12/21          "The Worthy Dreamer"               27.
+0: 
+0: 
+N:         Oz passes Mateo Luna’s Hourglass. The kids approach her
+N:         throne. Mateo slots the hourglass in. Together, Mateo, Izzie,
+N:         Cooper, Zoey, and Logan rotate the hourglass 180 degrees...
+0: 
+N:         As the sand starts to drain, a BEAM OF LIGHT shoots up from
+N:         the top of the hourglass!! Our team stares in awe. CUT TO --
+0: 
+0: 
+S: 18      EXT. CASTLE NOCTURNA - DAY - CONTINUOUS                      18
+0: 
+N:         The beam of light blazes brightly penetrating the grey dream
+N:         ether all around the castle. As the light hits the clouds,
+N:         they dissipate until the sun shines brightly on Castle
+N:         Nocturna slowly coming back to life!
+0: 
+N:         Vines recede, dirt disappears, the dingy walls regain their
+N:         luster until...
+0: 
+N:         We finally get to see Castle Nocturna in all its glory. It’s
+N:         a translucent, iridescent crystal fairy tale castle!
+0: 
+N:         The sound of CHEERS erupts as we CUT TO --
+0: 
+0: 
+S: 19      INT. CASTLE NOCTURNA - GREAT HALL - CONTINUOUS               19
+0: 
+N:         The interior of the Great Hall is transformed. It glitters
+N:         and glistens. Gold and white pristine banners hang from the
+N:         ceiling. Our team gazes in wonder. The Dreamlings shake free
+N:         from their crystal prisons.
+0: 
+N:         Phil ROARS his approval, letting loose a blast of FLAME that
+N:         forces everyone to dive for cover!
+0: 
+C: 191                            MANTICORE                         191
+D:                   Oopsies.
+0: 
+N:         As our team pick themselves up, the Dreamlings chitter
+N:         excitedly and dog-pile Phil. Izzie excitedly joins the fray.
+0: 
+C: 192                         IZZIE                                192
+D:                   So, Phil? Any awesome snacks up in
+D:                   heahhhh?
+0: 
+C: 193                         MANTICORE                            193
+D:                   Of course! Why I could tell you
+D:                   about legions of incredible meals
+D:                   served at that very banquet table.
+0: 
+C: 194                         IZZIE                                194
+D:                   Oooh, do tell.
+0: 
+N:         Izzie leans in, all ears. But Albert clears his throat and
+N:         steps forward, serious.
+0: N:       LEGO 07/12/21       "The Worthy Dreamer"                    28.
+0: 
+0: 
+C: 195                         ALBERT                                 195
+D:                   I hate to break up this cozy scene,
+D:                   but we need to find Luna’s book.
+0: 
+C: 196                         MR. OZ                                 196
+D:                   Albert’s right. The sooner we
+D:                   discover the key to defeating the
+D:                   Nightmare King, the better.
+0: 
+N:         Izzie grins, excited to drop a bombshell.
+0: 
+C: 197                         IZZIE                                  197
+D:                   What if I told you the book isn’t
+D:                   actually a book?
+0: 
+N:         Off her cryptic announcement, we PUSH IN on Logan’s HAT where
+N:         -- unbeknownst to our team -- the Nightmare King’s EYE
+N:         TRACKER blinks ominously.
+0: 
+T:                                                           CUT TO:
+0: 
+0: 
+S: 20      INT. SHADOWKEEP – GRIM REALM (DREAM WORLD) – CONTINUOUS     20
+0: 
+N:         As the DARK ARCHER looks on, the NIGHTMARE KING projects an
+N:         image from his staff:
+0: 
+N:         Our team... gathered together in Castle Nocturna...
+0: 
+C: 198                         DARK ARCHER                            198
+D:                   They’re closer than we thought.
+0: 
+C: 199                         NIGHTMARE KING                         199
+D:                   No matter. Tonight, we destroy
+D:                   Castle Nocturna once and for all!!
+0: 
+N:         As the DARK ARMY lets out an unholy cheer, we CUT TO BLACK...
+0: 
+N:         END OF EPISODE
+0: 

@@ -1,0 +1,2837 @@
+M:                                              TE
+M:                                             U
+M:                                           IT
+M:                               LEGO TITAN
+0: 
+0: 
+0: 
+0: 
+M:                                         ST
+M:                    EPISODE 108: "THE BIGGER PICTURE"
+M:                                   IN
+M:                               Written by
+M:                            IS
+M:                             Lizzi Oyebode
+M:                     AV
+0: 
+0: 
+M:                            D1 03.04.21
+M:                            D2 03.21.21
+M:               D
+0: 
+0: 
+0: 
+M:                D3 04.30.21 (115&116 minis combined)
+M:         A
+M:   N
+M: EE
+M: G
+0: 
+0: 
+0: 
+0: 
+M: LEGO Systems A/S
+0: S:      INT. TEO’S AND IZZIE’S ROOM - DAY
+0: 
+N:      IZZIE shuts off her K-POP ALARM from bed and sees on the
+N:      floor: a trembling TEO in his PJs rising into a PUSH-UP!
+0: 
+C:                          IZZIE
+D: 1              I’ve never seen you exercise, Teo.                  1
+D:                Why is this happening?
+0: 
+0: 
+0: 
+0: 
+C:                                               TE
+C:                          TEO
+D: 2              Can’t let Coop down for Sheep Week!                 2
+0: 
+N:      Teo’s arms almost give out on him. Izzie winces. But then...
+0: 
+0: 
+0: 
+0: 
+C:                                              U
+E:                          TEO (CONT'D)
+0: 
+0: 
+0: 
+0: 
+C:                                            IT
+D: 3              One!                                                3
+0: 
+N:      A push-up! ELATED, Z BLOB JUMPS on him! THUNK! Teo COLLAPSES!
+0: 
+0: 
+0: 
+0: 
+C:                                          ST
+D:      INT. TEO’S AND IZZIE’S APARTMENT - KITCHEN - A LITTLE LATER
+0: 
+C:                                    IN
+D:      JAY prepares lunch at the stove in his paramedic uniform. He
+D:      doesn’t spot Izzie enter in PJs and head for his open laptop!
+0: 
+C:                          IZZIE
+C:                          IS
+D: 4              OMG, Papi, are you online dating?!                  4
+0: 
+N:      Clang! Startled, Jay FUMBLES with a frying pan on the stove.
+N:                   AV
+0: 
+0: 
+C:                          JAY
+D: 5              Don’t sneak up on me like that!                     5
+0: 
+C:                          IZZIE
+D:               D
+0: 
+0: 
+0: 
+N: 6              That’s my teacher Ms. Ramos! Gross!                 6
+0: 
+C:                          JAY
+D:         A
+0: 
+0: 
+0: 
+0: 
+N: 7              Stop looking at my laptop right n--                 7
+N:   N
+0: 
+0: 
+0: 
+0: 
+C:                          IZZIE
+D: 8              And Pearl, the lady from your job?!                 8
+D: EE
+0: 
+0: 
+0: 
+0: 
+C:                          JAY
+D: 9              Izzie, I mean it!                                   9
+0: 
+C:                          IZZIE
+D: G
+0: 
+0: 
+0: 
+0: 
+N: 10             Is that the clerk from the bodega?!                10
+N:                Why is she in a bathing suit?! Eww!
+0: 
+N:      Jay scrambles over to SLAM his laptop shut! Then he SIGHS.
+0: 
+C:                          JAY
+D: 11             Ask permission before looking at                   11
+D:                stuff that’s not yours. Off you go.
+0: N:                            Pink Rev. (04/30/21)                 2.
+0: 
+0: 
+C:                          IZZIE
+D: 12             What about my homemade lunch?                     12
+0: 
+N:      They gaze over at the stove: lunch is officially burnt!
+0: 
+C:                          JAY
+D: 13             Get lunch at school today, OK?                    13
+0: 
+N:                          IZZIE
+0: 
+0: 
+0: 
+0: 
+C:                                             TE
+D: 14             That’s worse than being grounded--                14
+0: 
+C:                          JAY
+D: 15             Izzie, don’t tell Mateo. Not yet.                 15
+0: 
+0: 
+0: 
+0: 
+C:                                            U
+D:      She glances at his laptop then nods. A loud GROAN resounds
+0: 
+0: 
+0: 
+0: 
+C:                                          IT
+D:      from the kids’ room! Izzie answers before Jay can even ask.
+0: 
+N:                          IZZIE
+0: 
+0: 
+0: 
+0: 
+C:                                        ST
+D: 16             He needs Coop’s love at Sheep Week.               16
+0: 
+C:                          JAY
+D: 17             The team sports event your school                 17
+C:                                    IN
+D:                has every year? Nice.
+0: 
+0: 
+S:      EXT. CITY MIDDLE - DAY
+C:                            IS
+D:      Establishing. SCHOOLKIDS shuffle in. The school bell <RINGS>.
+D:                   AV
+0: 
+0: 
+S:      INT. CITY MIDDLE - HALLWAY - MOMENTS LATER
+0: 
+N:      Banners of SHEEP playing sports line it! The only kids left,
+N:      DALLAS and JAKE HOWL at a miffed LOGAN by his open locker.
+N:               D
+0: 
+0: 
+0: 
+C:                          LOGAN
+D: 18             Dallas, Jake, quit howling!                       18
+D:         A
+0: 
+0: 
+0: 
+0: 
+C:                          DALLAS
+D:   N
+0: 
+0: 
+0: 
+0: 
+N: 19             The Wolves! Best team name ever!                  19
+0: 
+C:                            LOGAN
+D: EE
+0: 
+0: 
+0: 
+0: 
+N: 20             You wish.                                         20
+0: 
+C:                          DALLAS
+D: 21             Logan, us Wolves are going to take                21
+D: G
+0: 
+0: 
+0: 
+0: 
+N:                you and those Dream Chasers down!
+0: 
+C:                          LOGAN
+D: 22             Fat chance! I’m City Middle’s top                 22
+D:                athlete, plus there’s no way we’re
+D:                meeting until the finals anyway--
+0: 
+N:      A meek MS. RUTH PUTNAM inches over, bags under her eyes.
+0: N:                          Pink Rev. (04/30/21)                 3.
+0: 
+0: 
+C:                          MS. PUTNAM
+D: 23             Gentlemen, make your way to class.                 23
+0: 
+N:      They don’t budge. Jake MOUTHS her words. The others CHUCKLE.
+0: 
+C:                          MS. PUTNAM (CONT'D)
+D: 24             One must refrain from congregating                 24
+D:                in the hall after the bell.
+0: 
+0: 
+0: 
+0: 
+C:                                            TE
+C:                          DALLAS
+E:                    (whispering to Logan)
+D: 25             Bet she’s just talking to herself--                25
+0: 
+0: 
+0: 
+0: 
+C:                                           U
+C:                          COACH JEFFREYS (O.S.)
+D: 26             You! Class now! Or no Sheep Week!                  26
+0: 
+0: 
+0: 
+0: 
+C:                                         IT
+D:      The boys ZIP by Ms. Putnam fast, almost knocking her over!
+0: 
+0: 
+0: 
+0: 
+C:                                       ST
+C:                          LOGAN
+D: 27             Our bad, Coach!                                    27
+0: 
+N:      Coach J. basks in his power trip until he notices a very kid-
+0: 
+0: 
+0: 
+0: 28
+C:                                  IN
+D:      sized Ms. Putnam is still there, PEERING INTO Logan’s locker.
+0: 
+C:                          COACH JEFFREYS
+D:                Hey kid, I said, get to class now!                 28
+C:                          IS
+D:      BAM!! He SLAMS the locker shut, startling Ms. Putnam!
+0: 
+C:                          MS. PUTNAM
+D:                   AV
+0: 
+0: 
+N: 29             Coach Jeffreys! My word!                           29
+0: 
+C:                          COACH JEFFREYS
+D: 30             Oh, Ruth. Sorry, didn’t realize it                 30
+D:               D
+0: 
+0: 
+0: 
+N:                was you. You’re just so...kid-like.
+N:                Why’re you scoping out a locker?
+N:         A
+0: 
+0: 
+0: 
+0: 
+C:                          MS. PUTNAM
+D: 31             Candy. I mean: No reason.                          31
+D:   N
+0: 
+0: 
+0: 
+0: 
+N:      Coach gets his first good look at her face, as a late Teo and
+N:      Izzie JOG past this awkward interaction with backpacks on.
+N: EE
+0: 
+0: 
+0: 
+0: 
+C:                          COACH JEFFREYS
+D: 32             Man alive, you look awful! When was                32
+D:                the last time you slept, Ruth?
+D: G
+0: 
+0: 
+0: 
+0: 
+C:                          IZZIE
+E: 33             Teo, did you hear that? (off Teo                   33
+E:                gazing at the banners) Stop
+D:                worrying about Sheep Week! You did
+E:                a push-up. That’s something! (off
+E:                Teo stopping to catch his breath).
+D:                This, however, is not a good look.
+0: N:                          Pink Rev. (04/30/21)                 4.
+0: 
+0: 
+N:      Z Blob peeks out from Teo’s backpack and NODS in agreement.
+0: 
+C:                          TEO
+D: 34             Please, I’m begging you, don’t tell             34
+D:                Coop or Zoey how bad I am.
+0: 
+C:                          IZZIE
+D: 35             I don’t think I have to. It’s                   35
+D:                pretty obvious: You’re no athlete.
+0: 
+0: 
+0: 
+0: 
+C:                                            TE
+D:      Teo gives her SIDE-EYE.
+0: 
+N:                          TEO
+0: 
+0: 
+0: 
+0: 
+C:                                           U
+D: 36             I just don’t want this to ruin my               36
+D:                friendship with Coop.
+0: 
+0: 
+0: 
+0: 
+C:                                         IT
+C:                          IZZIE
+D: 37             You mean you don’t want Logan                   37
+0: 
+0: 
+0: 
+0: 
+C:                                       ST
+E:                getting the upper-hand again? (off
+E:                Teo’s silence) In that case, I
+D:                pinky-swear I won’t tell Coop, but
+D:                why Zoey? She’s not even on a team--
+0: 
+0: 
+0: 38
+C:                                 IN
+C:                          COACH JEFFREYS (O.S.)
+D:                You two, get to class! Pronto!                  38
+C:                          IS
+D:      Teo and Izzie shuffle in opposite directions.
+0: 
+0: 
+S:      INT. CITY MIDDLE - MS. PUTNAM’S ROOM - LATER
+N:                   AV
+0: 
+0: 
+N:      Ms. Putnam tries to quiet the class of ROWDY 8TH GRADERS.
+N:      Seated by COOP and Logan, Teo can’t keep his eyes off ZOEY.
+N:               D
+0: 
+0: 
+0: 
+C:                          MS. PUTNAM
+D: 39             Please settle down, everyone.                   39
+D:         A
+0: 
+0: 
+0: 
+0: 
+C:                          TEO
+D: 40             Coop, I heard Zoey’s not on a team--            40
+D:   N
+0: 
+0: 
+0: 
+0: 
+C:                          COOP
+D: 41             Teo, stop thinking about Zoey. I                41
+D: EE
+0: 
+0: 
+0: 
+0: 
+N:                don’t want her distracting you from
+N:                Sheep Week. The roster will be up
+N:                soon and we’ve got to be ready for
+N:                anything! Which means more practice
+N: G
+0: 
+0: 
+0: 
+0: 
+N:                pronto. My parents and brothers
+N:                will rib me forever if I’m the
+N:                first in the family not to win.
+0: 
+C:                          LOGAN
+D: 42             Don’t worry, Coop. I’ve got you.                42
+0: 
+N:      Teo side-eyes Logan. Coop UNWRAPS CANDY. Ms. Putnam eyes it.
+0: N:                           Pink Rev. (04/30/21)                  5.
+0: 
+0: 
+C:                          MS. PUTNAM
+E:                    (to herself)
+D: 43             Candy...how I long for it, but no,                43
+D:                I must not give into temptation.
+0: 
+N:      She SIGHS then starts the day’s lesson, grabbing some chalk.
+0: 
+C:                          MS. PUTNAM (CONT'D)
+D: 44             Today we are going to discuss moods               44
+0: 
+0: 
+0: 
+0: 
+C:                                             TE
+D:                in verbs: Passive and active voice.
+0: 
+C:                          DALLAS
+D: 45             Moods? Why can’t we just type in                  45
+0: 
+0: 
+0: 
+0: 
+C:                                            U
+D:                all caps when we’re angry?
+0: 
+0: 
+0: 
+0: 
+C:                                          IT
+D:      A few kids nod in agreement. Ms. Putnam shakes her head.
+0: 
+N:                          MS. PUTNAM
+0: 
+0: 
+0: 
+0: 
+C:                                        ST
+D: 46             We are talking about not only                     46
+D:                typing but also speaking, Dallas--
+0: 
+C:                          LOGAN
+D: 47
+C:                                 IN
+D:                Well, if I want someone to know how
+D:                I’m feeling, I just use an emoji.
+0: 
+N:      Ms. Putnam’s face turns RED! Emojis are her pet peeve!
+0:                                                                  47
+C:                           IS
+C:                          LOGAN (CONT'D)
+D: 48             Yeah, the emoji that looks just                   48
+D:                like that. The one for angry.
+D:                   AV
+0: 
+0: 
+N:      The class erupts in LAUGHTER. Ms. Putnam expels a roar-yell.
+0: 
+C:                           MS. PUTNAM
+D:               D
+0: 
+0: 
+0: 
+N: 49             Silence!                                          49
+0: 
+N:      Everyone quiets, IMPRESSING Zoey. Teo and Coop exchange
+N:         A
+0: 
+0: 
+0: 
+0: 
+N:      SHOCKED glances. Even Ms. Putnam’s surprised by her blow-up!
+N:   N
+0: 
+0: 
+0: 
+0: 
+C:                          MS. PUTNAM (CONT'D)
+D: 50             Hm, I am not feeling like myself.                 50
+D:                Where was I? Oh yes, your Mid-Term.
+D: EE
+0: 
+0: 
+0: 
+0: 
+N:      GROANS resound among the students.
+0: 
+C:                          LOGAN
+D: G
+0: 
+0: 
+0: 
+0: 
+N: 51             No way it’s Mid-Terms already?!                   51
+0: 
+C:                          COOP
+D: 52             Mid-terms? I completely forgot!                   52
+0: 
+C:                          TEO
+D: 53             Putnam’s are always a week early!                 53
+0: N:                          Pink Rev. (04/30/21)                 6.
+0: 
+0: 
+S:      INT. CITY MIDDLE – HALLWAY – LATER
+0: 
+N:      With no kids nearby, Coach Jeffreys heads for the Activities
+N:      Board, nervously posts the ROSTER, then scurries away.
+0: 
+N:      A gloomy NOVA shuffles to the board, but ignores the roster.
+N:      Izzie spots her and SKIPS over. Nova’s mesmerized by a flyer.
+0: 
+N:                          IZZIE
+0: 
+0: 
+0: 
+0: 
+C:                                              TE
+D: 54             Nova, want to have lunch? We                       54
+D:                haven’t hung out in so long!
+0: 
+N:                          NOVA
+0: 
+0: 
+0: 
+0: 
+C:                                             U
+D: 55             I can’t, Izzie. Sorry.                             55
+0: 
+0: 
+0: 
+0: 
+C:                                           IT
+E:      Nova RACES away. Izzie spots the flyer Nova read. (Viewers
+E:      see only the NIGHTMARE CLUB SYMBOL: A GRIMHOLD CHEST CAGE).
+0: 
+0: 
+0: 
+0: 
+C:                                         ST
+C:                          IZZIE
+D: 56             The Nightmare Club? What’s that?                   56
+0: 
+0: 
+C:                                 IN
+D:      INT. CITY MIDDLE SCHOOL - CAFETERIA - A LITTLE LATER
+0: 
+N:      Lunchtime! At a table, antsy NIGHTMARE CLUBBERS dressed in
+N:      black mark up their DIARIES. They are DASH (6th), PERCY
+C:                          IS
+E:      (7th), CHEEM (8th), and ringleader SHELLEY (8th).
+0: 
+N:      As Nova approaches, they abruptly shut their diaries. Izzie
+N:      discreetly sits at the table behind Nova to eavesdrop.
+N:                   AV
+0: 
+0: 
+C:                          NOVA
+D: 57             Are you guys the Nightmare Club?                   57
+D:               D
+0: 
+0: 
+0: 
+C:                          SHELLEY
+D: 58             Who’s asking?                                      58
+D:         A
+0: 
+0: 
+0: 
+0: 
+C:                          NOVA
+D: 59             I’m Nova. In 6th. I was having                     59
+D:   N
+0: 
+0: 
+0: 
+0: 
+N:                really scary nightmares, and I
+N:                recognize the cage in your flyer.
+N: EE
+0: 
+0: 
+0: 
+0: 
+C:                          SHELLEY
+D: 60             So you saw a cage in a nightmare?                  60
+D:                Kid, you’ve got to give us more
+D:                than that before we can let you in.
+D: G
+0: 
+0: 
+0: 
+0: 
+C:                          NOVA
+D: 61             Um, it was in the chest of a big                   61
+D:                monster. And that’s just to start.
+0: 
+N:      Izzie’s jaw drops! Percy, Dash and Cheem eagerly eye Shelley.
+0: N:                          Pink Rev. (04/30/21)                 7.
+0: 
+0: 
+C:                          SHELLEY
+D: 62             Have a seat, Nova. I’m Shelley.                    62
+D:                That’s Cheem, Percy, and Dash.
+0: 
+C:                          NOVA
+D: 63             Are those your diaries?                            63
+0: 
+C:                          SHELLEY
+D: 64             Bring yours next time. We can’t                    64
+0: 
+0: 
+0: 
+0: 
+C:                                            TE
+D:                shake the feeling something bigger
+D:                is going on with these nightmares.
+D:                We have our theories but you first.
+0: 
+0: 
+0: 
+0: 
+C:                                           U
+D:      INT. CITY MIDDLE SCHOOL - CAFETERIA - CONTINUOUS
+0: 
+0: 
+0: 
+0: 
+C:                                         IT
+D:      Teo, Coop, and Logan eat cafeteria lunches a few tables away.
+D:      Hidden in Teo’s backpack, Z Blob occasionally spits out food.
+0: 
+0: 
+0: 
+0: 
+C:                                       ST
+C:                          TEO
+D: 65             Guys, don’t you kind of feel bad                   65
+D:                for Ms. Putnam? The class was
+0: 
+0: 
+0: 
+0: 66
+C:                                 IN
+D:                really messing with her today--
+0: 
+C:                          LOGAN
+D:                Like that’s new? Kids messing with                 66
+C:                          IS
+D:                teachers comes with the territory.
+0: 
+C:                          COOP
+D: 67             Honestly, Teo, I feel bad for us.                  67
+D:                   AV
+0: 
+0: 
+N:                How are we going to study for the
+N:                test and be ready for Sheep Week?
+0: 
+N:      Coop sees Teo gazing at Zoey who eats alone a few tables off.
+N:               D
+0: 
+0: 
+0: 
+C:                          COOP (CONT'D)
+D: 68             You are not helping, Teo! I’ve got                 68
+D:         A
+0: 
+0: 
+0: 
+0: 
+N:                too much to worry about. Look away.
+N:   N
+0: 
+0: 
+0: 
+0: 
+N:      Teo eyes his food. Izzie RUNS over to show them the flyer.
+0: 
+C:                          IZZIE
+D: EE
+0: 
+0: 
+0: 
+0: 
+N: 69             Serious-Levels-of-Weirdness alert!                 69
+0: 
+C:                          COOP
+D: 70             Nightmare Club? Is that a joke?                    70
+D: G
+0: 
+0: 
+0: 
+0: 
+C:                          IZZIE
+D: 71             No, see! Nova just joined them!                    71
+0: 
+N:      Izzie points over to the Nightmare Club’s table.
+0: 
+C:                          TEO
+D: 72             Izzie, they look harmless.                         72
+0: N:                               Pink Rev. (04/30/21)               8.
+0: 
+0: 
+C:                            LOGAN
+D: 73               Yeah. What are they gonna do? Give               73
+D:                  her nightmares? Chill out.
+0: 
+N:      Easily distracted 6th Grade arts teacher EDNA RAMOS strolls
+N:      over to Ms. Putnam within earshot of the kids who LISTEN IN.
+0: 
+C:                            MS. RAMOS
+D: 74               Ruth, so sorry to back into your                 74
+0: 
+0: 
+0: 
+0: 
+C:                                                TE
+D:                  car...again. Are you OK otherwise?
+0: 
+N:                  MS. PUTNAM                        MS. RAMOS (CONT'D)
+N:      Well, I--                           Oh, tell me later, OK?
+0: 
+0: 
+0: 
+0: 
+C:                                               U
+D:      Ms. Ramos exits, as Ms. Putnam glumly sits at an empty table.
+0: 
+0: 
+0: 
+0: 
+C:                                             IT
+C:                            MS. PUTNAM (CONT'D)
+E:                      (to herself...again)
+0: 
+0: 
+0: 
+0: 
+C:                                           ST
+D: 75               ...have not been sleeping well.                  75
+0: 
+C:                            IZZIE
+D: 76               OMG, that’s right! Teo, Ms.                      76
+0: 
+0: 
+0: 
+0: 77
+C:                                     IN
+D:                  Putnam’s not sleeping well.
+0: 
+C:                            TEO
+D:                  Because she gets treated so bad--                77
+C:                               IS
+C:                            COOP
+D: 78               No, like Logan said that’s not new.              78
+D:                     AV
+0: 
+0: 
+C:                            IZZIE
+D: 79               Exactly. But her sleeping problem                79
+D:                  is new. Guys, what if what happened
+D:                  to Nova is happening to Ms. Putnam?
+D:               D
+0: 
+0: 
+0: 
+C:                            COOP
+D: 80               You think Ms. Putnam’s being hunted              80
+D:         A
+0: 
+0: 
+0: 
+0: 
+N:                  by Darklings or something?
+N:   N
+0: 
+0: 
+0: 
+0: 
+C:                            TEO
+D: 81               She does have bags under her eyes.               81
+D: EE
+0: 
+0: 
+0: 
+0: 
+C:                            IZZIE
+D: 82               It’s the nightmares! We have to                  82
+D:                  save her before it’s too late!
+D: G
+0: 
+0: 
+0: 
+0: 
+C:                            LOGAN
+D: 83               Are you for real, right now? She’s               83
+D:                  just a dumb grown-up.
+0: 
+C:                            COOP
+D: 84               Guys, I can’t. I’m swamped already.              84
+D:                  I just wish I didn’t have to worry
+D:                  about a test on top of Sheep Week.
+0: N:                          Pink Rev. (04/30/21)                    9.
+0: 
+0: 
+C:                          LOGAN
+D: 85             Wait, maybe you don’t have to.                     85
+0: 
+C:                          COOP
+D: 86             What do you mean, Logan?                           86
+0: 
+C:                          LOGAN
+D: 87             What if we go into Ms. P’s dream                   87
+D:                like Izzie says to save her from
+0: 
+0: 
+0: 
+0: 
+C:                                            TE
+D:                the Nightmare King, but after that,
+D:                we get her to postpone the test?
+0: 
+N:                          TEO
+0: 
+0: 
+0: 
+0: 
+C:                                           U
+D: 88             No, Logan, that is so not cool!                    88
+0: 
+0: 
+0: 
+0: 
+C:                                         IT
+C:                          LOGAN
+D: 89             Just until we’re ready for it, so                  89
+D:                Coop can do his best at Sheep Week.
+0: 
+0: 
+0: 
+0: 
+C:                                       ST
+D:      Teo glimpses a worried Coop. Suddenly the crowded cafeteria
+D:      is abuzz! Kids clamor off benches, heading for the doors!
+0: 
+0: 
+0: 90
+C:                          TEO
+D:                What’s happening?
+0: 
+C:                          IZZIE
+C:                                    IN                             90
+C:                          IS
+D: 91             They must want to see the Sheep                    91
+D:                Week roster Coach Jeffreys put up.
+E:                  (off the boys’ glares at her)
+D:                Oh, did I forget to mention that?
+D:                   AV
+0: 
+0: 
+C:                          TEO
+D: 92             Coop, Logan, quick!                                92
+D:               D
+0: 
+0: 
+0: 
+N:      The boys race off. Izzie stares at the cage on the flyer.
+0: 
+C:                          IZZIE
+D:         A
+0: 
+0: 
+0: 
+0: 
+N: 93             Boys’ priorities are so messed up.                 93
+N:   N
+0: 
+0: 
+0: 
+0: 
+S:      INT. CITY MIDDLE - HALLWAY - A LITTLE LATER
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:      Logan and Coop beeline it to the roster where dozens of kids
+N:      have gathered. Logan forces his way past them.
+0: 
+C:                          LOGAN
+D: G
+0: 
+0: 
+0: 
+0: 
+N: 94             Out of the way, losers!                            94
+0: 
+N:      Falling behind and breathless, Teo stops. Izzie SKIPS by and
+N:      lugs him over. He’s still huffing when Logan returns solemn.
+0: 
+C:                          TEO
+D: 95             Sorry, guys. I was totally running                 95
+D:                fast but had to stop for Izzie.
+0: N:                           Pink Rev. (04/30/21)                   10.
+0: 
+0: 
+C:                           IZZIE
+E:                     (robotically)
+D: 96              Yes, that is exactly what happened.                96
+0: 
+C:                           COOP
+D: 97              How’s it looking, Logan--                          97
+0: 
+C:                           LOGAN
+D: 98              We meet The Wolves in Round 2--                    98
+0: 
+0: 
+0: 
+0: 
+C:                                             TE
+C:                           TEO
+D: 99              Dallas’s team?! The other jocks?!                  99
+0: 
+0: 
+0: 
+0: 
+C:                                            U
+C:                           COOP
+D: 100             No way! I think I’m gonna throw up.               100
+0: 
+0: 
+0: 
+0: 
+C:                                          IT
+D:       Coop lays down on the ground. Izzie goes to read the roster.
+0: 
+0: 
+0: 
+0: 
+C:                                        ST
+C:                           COOP (CONT'D)
+D: 101             How are we meeting them so soon?!                 101
+0: 
+C:                           TEO
+D: 102
+0: 
+0: 
+0: 103
+C:                                  IN
+D:                 It’s not as bad as it sounds, Coop--
+0: 
+C:                           COOP AND LOGAN
+D:                 Yes, it is!
+D:                                                                   102
+0: 
+0: 
+0:                                                                   103
+C:                           IS
+D:       Dallas and Jake stroll past them HOWLING. Izzie returns.
+0: 
+C:                           DALLAS
+D:                    AV
+0: 
+0: 
+N: 104             Be afraid. Be very afraid!                        104
+0: 
+C:                           IZZIE
+D: 105             Chillax, guys. Those turkeys are                  105
+D:                D
+0: 
+0: 
+0: 
+N:                 totally not the worst news ever.
+0: 
+C:                           TEO
+D:          A
+0: 
+0: 
+0: 
+0: 
+N:                     (whispering to Izzie)
+N: 106             But Izzie, they so are.                           106
+N:   N
+0: 
+0: 
+0: 
+0: 
+C:                           IZZIE
+D: 107             Not really. I mean you’ve still got               107
+D: EE
+0: 
+0: 
+0: 
+0: 
+N:                 Ms. Putnam’s monster mid-term. Not
+N:                 to mention Papi’s dating.
+0: 
+C:                           TEO
+D: G
+0: 
+0: 
+0: 
+0: 
+N: 108             Papi’s what?!                                     108
+0: 
+N:       Whoops! She tries to skip away but Teo grabs her arm.
+0: 
+C:                           TEO (CONT'D)
+D: 109             What did you say, Izz?!                           109
+0: N:                           Pink Rev. (04/30/21)                11.
+0: 
+0: 
+C:                           IZZIE
+E: 110             Papi’s online dating. (off Teo’s               110
+E:                 gasp) Oh, my insides! It hurt so
+D:                 much having to keep that to myself!
+0: 
+N:       Izzie shuffles off. Teo follows behind.
+0: 
+C:                           TEO
+D: 111             He’s dating? How could he do that?!            111
+0: 
+0: 
+0: 
+0: 
+C:                                             TE
+D:                 It’s too soon!
+0: 
+C:                           IZZIE
+D: 112             It’s been eight years, Teo.                    112
+0: 
+0: 
+0: 
+0: 
+C:                                            U
+D:                           LOGAN
+0: 
+0: 
+0: 
+0: 
+C:                                          IT
+D: 113             That idea of mine is looking pretty            113
+D:                 good right now, huh, Coop?
+0: 
+0: 
+0: 
+0: 
+C:                                        ST
+D:       Coop SIGHS. On the board, the cage on paper transforms to...
+0: 
+0: 
+S:       INT. SHADOWKEEP - THRONE ROOM (DREAM WORLD) - NIGHT
+C:                                  IN
+D:       A GRIMHOLD chest cage with a TERRRIFIED CHILD trapped inside!
+D:       SNIVEL, SNEAK and SUSAN point to it triumphantly.
+C:                           IS
+C:                           SUSAN
+D: 114             We bagged another one, boss!                   114
+0: 
+C:                           NIGHTMARE KING
+D:                    AV
+0: 
+0: 
+N: 115             Well done, indeed! But I have my               115
+N:                 sights set on a bigger fish!
+0: 
+N:       On his throne, the Nightmare King stares into his staff’s
+N:                D
+0: 
+0: 
+0: 
+N:       headpiece: Logan scared in the corrupted Cyber Realm (Ep107).
+0: 
+C:                           NIGHTMARE KING (CONT'D)
+D:          A
+0: 
+0: 
+0: 
+0: 
+N: 116             Or should I say sheep? We didn’t               116
+N:                 end things on the best terms in the
+N:   N
+0: 
+0: 
+0: 
+0: 
+N:                 Cyber Realm, Logan. And you still
+N:                 have something I need: the hour-
+N:                 glass. It’s time I pay you a visit.
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:       The Nightmare King stands and TRANSFORMS INTO LANCE.
+0: 
+C:                           LANCE
+D: G
+0: 
+0: 
+0: 
+0: 
+N: 117             Or better yet, Lance will. After               117
+N:                 all, what are dude-brothers for?
+0: 
+N:       (The Nightmare King as) Lance laughs maniacally!
+0: 
+0: 
+N:                              END OF ACT ONE
+0: N:                           Pink Rev. (04/30/21)                12.
+0: 
+0: 
+0: 
+N:                                  ACT TWO
+0: 
+0: 
+S:       EXT. BIZARRO CITY MIDDLE (DOUBLE REALM) - DAY
+0: 
+N:       Logan and Coop pass MR. HOPPER’S TOAD TAXI to reach “school”.
+0: 
+N:                           COOP
+0: 
+0: 
+0: 
+0: 
+C:                                               TE
+D: 118             Where are Teo and Izzie? They                  118
+E:                 promised to meet us. (off Logan’s
+E:                 shrug) And why here, Logan? Why
+D:                 would Ms. P dream about school?
+0: 
+0: 
+0: 
+0: 
+C:                                              U
+D:                           LOGAN
+0: 
+0: 
+0: 
+0: 
+C:                                            IT
+D: 119             She’s a dumb teacher. What else is             119
+D:                 she going to dream about?
+0: 
+0: 
+0: 
+0: 
+C:                                          ST
+C:                           COOP
+D: 120             But I don’t see any Night Terrors              120
+D:                 or Darklings anywhere.
+0: 
+C:                                  IN
+D:       The school’s front doors open to reveal three actual SHEEP
+D:       wearing backpacks who ‘baa’ when they talk to each other.
+0: 
+C:                           COOP (CONT'D)
+C:                           IS
+D: 121             Whoa! But I do see sheep!                      121
+0: 
+C:                           LOGAN
+D: 122             Haha. Must be our classmates                   122
+D:                    AV
+0: 
+0: 
+N:                 dreaming about Sheep Week. Losers!
+0: 
+C:                           COOP
+D: 123             Maybe we should wait for Teo--                 123
+D:                D
+0: 
+0: 
+0: 
+C:                           LOGAN
+D: 124             Nah, we got this. Let’s head in.               124
+C:          A
+D:   N
+0: 
+0: 
+0: 
+0: 
+S:       EXT. CLIFF (FANTASY REALM) - DAY
+0: 
+N:       Forlorn, Teo sits at the edge of a cliff with Z Blob.
+N: EE
+0: 
+0: 
+0: 
+0: 
+C:                           TEO
+D: 125             It’s just not fair what Papi is                125
+D:                 doing. Izzie’s too young to get it.
+D: G
+0: 
+0: 
+0: 
+0: 
+N:                 (off Z Blob pointing to Gryphon
+N:                 Cavern) Zoey? What about her?...You
+N:                 think she might understand?
+0: 
+0: 
+S:       EXT. IZZIE’S BLOCK (DOUBLE REALM) – DAY
+0: 
+N:       With a skeptical BUNZAI in tow, Izzie activates the LOCATOR.
+0: N:                            Pink Rev. (04/30/21)                13.
+0: 
+0: 
+C:                           IZZIE
+D: 126             Don’t worry, Bunzai, let’s use the                126
+D:                 Locator tonight then put it back.
+D:                 Mr. Oswald’s too distracted by his
+D:                 Sandman search to even notice it’s
+D:                 gone so no harm done. And then we
+D:                 can tell Teo not to be sad. Because
+D:                 at least one of Papi’s dates won’t
+E:                 be a turkey. (into Locator)
+0: 
+0: 
+0: 
+0: 
+C:                                             TE
+D:                 Locator, find the bodega clerk.
+0: 
+N:       The Locator PINGS!
+0: 
+0: 
+0: 
+0: 
+C:                                            U
+E:       INT. BIZARRO CITY MIDDLE - HALLWAY (DOUBLE REALM) - LATER
+0: 
+0: 
+0: 
+0: 
+C:                                          IT
+D:       In a hall with sheep, Logan and Coop pass a class where JADYN
+D:       gives a talk in his underwear! Logan SHIELDS HIS EYES.
+0: 
+0: 
+0: 
+0: 
+C:                                        ST
+C:                           LOGAN
+D: 127             I’ll never be able to unsee that.                 127
+0: 
+0: 
+N: 128             What?
+C:                            COOP
+D:                                   IN                              128
+0: 
+N:       Coop goes there. Logan spots Lance slip a note in his locker!
+C:                            IS
+C:                           LOGAN
+D: 129             Lance? What are you doing here? Why               129
+D:                 are you at my locker?
+D:                    AV
+0: 
+0: 
+S:       INT. GRYPHON CAVERN (FANTASY REALM) – LATER
+N:                D
+0: 
+0: 
+0: 
+N:       As soon as Teo and Z Blob step inside, Teo backtracks.
+0: 
+C:                           TEO
+D:          A
+0: 
+0: 
+0: 
+0: 
+N: 130             I don’t even think Zoey’s here...                 130
+N:                 This feels wrong. Let’s just go.
+N:   N
+0: 
+0: 
+0: 
+0: 
+N:       But it’s too late! THWAP! Teo gets ensnared and LIFTED into
+N:       the air by a boobie-trap that leaves him DANGLING!
+N: EE
+0: 
+0: 
+0: 
+0: 
+C:                           TEO (CONT'D)
+D: 131             Z Blob, get me out of this thing!                 131
+D: G
+0: 
+0: 
+0: 
+0: 
+S:       EXT. PIZZA KIOSK (DOUBLE REALM) - LATER
+0: 
+N:       Izzie and Bunzai watch from nearby as the BODEGA CLERK gets a
+N:       slice then anxiously pulls off one pepperoni, then another.
+0: 
+C:                           BODEGA CLERK
+D: 132             He loves me. He loves me not.                     132
+0: N:                           Pink Rev. (04/30/21)                  14.
+0: 
+0: 
+N:       She does this a few more times.
+0: 
+C:                           IZZIE
+D: 133             How many pepperonis are on that?!                 133
+0: 
+N:       DREAMY PARAMEDIC JAY pokes his head out from the kiosk!
+0: 
+C:                           DREAMY PARAMEDIC JAY
+D: 134             Sounds like a beautiful lady is                   134
+0: 
+0: 
+0: 
+0: 
+C:                                               TE
+D:                 having a pizza emergency.
+0: 
+N:       Disgusted, Izzie and Bunzai rush over to this “dream” Jay who
+N:       flirtatiously hands the Bodega Clerk another slice!
+0: 
+0: 
+0: 
+0: 
+C:                                              U
+D:                           IZZIE
+0: 
+0: 
+0: 
+0: 
+C:                                            IT
+D: 135             That’s how she thinks of Papi?! Ew!               135
+0: 
+N:                           BODEGA CLERK
+0: 
+0: 
+0: 
+0: 
+C:                                          ST
+D: 136             He loooooooooooves me!                            136
+0: 
+C:                           IZZIE
+D: 137             No way, lady! He barely knows you!                137
+C:                                  IN
+D:       Izzie rips the pepperoni from the Bodega Clerk’s hand! The
+D:       Bodega Clerk GASPS then studies her now-empty hand APPALLED.
+C:                           IS
+E:       INT. BIZARRO CITY MIDDLE - HALLWAY (DOUBLE REALM) – LATER
+0: 
+N:       Lance bolts to the lockers when Coop returns from the room.
+N:                    AV
+0: 
+0: 
+C:                           COOP
+D: 138             Jadyn’s in his underwear giving a                 138
+D:                 talk! Hilarious!...Who’s that guy?
+D:                D
+0: 
+0: 
+0: 
+C:                           LOGAN
+D: 139             No idea. Look, why don’t you go see               139
+D:          A
+0: 
+0: 
+0: 
+0: 
+N:                 if sheep are playing tetherball--
+N:   N
+0: 
+0: 
+0: 
+0: 
+C:                           COOP
+D: 140             OK, that gives Teo time to find us.               140
+D: EE
+0: 
+0: 
+0: 
+0: 
+C:                           LOGAN
+D: 141             Yeah, meet you at Ms. P’s in a few.               141
+0: 
+N:       Coop leaves. Lance smirks as he pats Logan on the back.
+N: G
+0: 
+0: 
+0: 
+0: 
+C:                           LANCE
+D: 142             Dude-brother, I left you a note to                142
+D:                 apologize for my perceived role in
+D:                 your Cyber Realm scandal. I aim to
+D:                 make sick amends and assure you the
+D:                 lame virus had nothing to do with
+D:                 the cheat code provided by myself.
+0: N:                           Pink Rev. (04/30/21)                   15.
+0: 
+0: 
+C:                           LOGAN
+D: 143             But that was so not cool, you know?               143
+0: 
+C:                           LANCE
+D: 144             Have you never made a mistake?                    144
+0: 
+N:       A beat. Logan FROWNS, guilt-ridden at the memory of failure.
+0: 
+N:                           LOGAN
+0: 
+0: 
+0: 
+0: 
+C:                                               TE
+D: 145             I kind of did. I mean I used this                 145
+D:                 thing...a cracked hourglass...in
+D:                 the worst way, and then my team
+D:                 called me out for it. Basically it
+0: 
+0: 
+0: 
+0: 
+C:                                              U
+D:                 all made me feel pretty dumb.
+0: 
+0: 
+0: 
+0: 
+C:                                            IT
+C:                            LANCE
+E: 146             I can fix that, no problemo. (off                 146
+E:                 Logan’s confusion) The cracked
+0: 
+0: 
+0: 
+0: 
+C:                                          ST
+D:                 hourglass.
+0: 
+C:                           LOGAN
+D: 147             Why would you want to?                            147
+0: 
+0: 
+0: 148
+C:                           LANCE  IN
+D:                 To help you become a hero to your
+D:                 crew, dude-brother. The hero you
+D:                                                                   148
+C:                           IS
+D:                 were always meant to be.
+0: 
+N:       A beat. Logan’s eating up all this praise but still confused.
+N:                    AV
+0: 
+0: 
+C:                           LANCE (CONT'D)
+D: 149             Look, if I fix the hourglass, then                149
+D:                 you act like you did it, nobody
+D:                 will think you’re dumb anymore.
+D:                D
+0: 
+0: 
+0: 
+N:       Lance starts nodding. Logan starts to then stops himself.
+N:          A
+0: 
+0: 
+0: 
+0: 
+C:                           LOGAN
+D: 150             Hold up, Lance. Let me think on it.               150
+D:   N
+0: 
+0: 
+0: 
+0: 
+N:       Logan hurries off to Lance’s ire. Lance’s eyes light up.
+N: EE
+0: 
+0: 
+0: 
+0: 
+C:                           LANCE
+D: 151             You’ll be back and I’ll be waiting.               151
+D: G
+0: 
+0: 
+0: 
+0: 
+S:       INT. BIZARRO CITY MIDDLE - MS. P’S ROOM (DOUBLE REALM)- LATER
+0: 
+N:       Coop enters the empty room that resembles Ms. Putnam’s class.
+0: 
+C:                           COOP
+D: 152             Still no sign of any bad guys.                    152
+0: 
+N:       He spots MANY WRAPPED CANDIES on her desk. He eats some! Yum!
+0: N:                            Pink Rev. (04/30/21)               16.
+0: 
+0: 
+S:       INT. GRYPHON CAVERN (FANTASY REALM) - A LITTLE LATER
+0: 
+N:       Whatever Z Blob does to disengage Teo tightens the trap more!
+0: 
+C:                           TEO
+D: 153             Ow, stop, stop!                                153
+0: 
+N:       Just then Zoey arrives on ZION. She instantly feels betrayed.
+0: 
+0: 
+0: 
+0: 
+C:                                             TE
+C:                           ZOEY
+D: 154             Teo, how could you?!                           154
+0: 
+N:                           TEO
+0: 
+0: 
+0: 
+0: 
+C:                                            U
+D: 155             No, Zoey, it’s not what you think!             155
+D:                 I didn’t go in, I swear!
+0: 
+0: 
+0: 
+0: 
+C:                                          IT
+C:                           ZOEY
+D: 156             You are in! Or could you not tell?             156
+0: 
+0: 
+0: 
+0: 
+C:                                        ST
+C:                           TEO
+D: 157             I just came to talk. Really! I just            157
+D:                 wanted to find out more about you.
+0: 
+0: 
+0: 158
+C:                           ZOEY    IN
+D:                 By going through my stuff--                    158
+C:                            IS
+C:                           TEO
+D: 159             No! Not like that. You’re always so            159
+D:                 guarded! And I wanted to know why--
+D:                    AV
+0: 
+0: 
+C:                           ZOEY
+D: 160             What? Why what?                                160
+0: 
+C:                           TEO
+D:                D
+0: 
+0: 
+0: 
+N: 161             You won’t let us be your friend.               161
+0: 
+C:                           ZOEY
+D:          A
+0: 
+0: 
+0: 
+0: 
+N: 162             You don’t want to be my friend.                162
+N:   N
+0: 
+0: 
+0: 
+0: 
+C:                            TEO
+D: 163             Why not?                                       163
+D: EE
+0: 
+0: 
+0: 
+0: 
+C:                           ZOEY
+D: 164             No friend would do what you just               164
+D:                 did. Want to know how I know?
+D:                 Because I had a friend! And the
+D: G
+0: 
+0: 
+0: 
+0: 
+N:                 Dark Archer made me lose her! Then
+N:                 he stole my lullaby!
+0: 
+N:       WHAM! Zoey POUNDS the wall, mad! She sets her head there.
+N:       He’s never seen her like this! He’s at a loss for what to do.
+0: N:                           Pink Rev. (04/30/21)                   17.
+0: 
+0: 
+S:       EXT. PARK (DOUBLE REALM) - LATER
+0: 
+N:       The Locator PINGS! Izzie and Bunzai watch nearby as a TINY
+N:       HANDED PIGEON throws BREADCRUMBS to adults, including Ms.
+N:       Ramos! MOUTH OPEN, she snags a crumb elated. And wants more!
+0: 
+C:                           MS. RAMOS
+D: 165             Ooh, me, me, me, me!                              165
+0: 
+0: 
+0: 
+0: 
+C:                                               TE
+C:                           IZZIE
+D: 166             This should be cute but it’s not.                 166
+E:                 (off Bunzai’s nod) I should do
+D:                 something. This is embarrasing.
+0: 
+0: 
+0: 
+0: 
+C:                                              U
+D:       Izzie marches over and grabs Ms. Ramos by the shoulders! She
+0: 
+0: 
+0: 
+0: 
+C:                                            IT
+D:       turns her away so Ms. Ramos can’t score any more crumbs! But
+D:       Ms. Ramos still twists her head, trying!
+0: 
+0: 
+0: 
+0: 
+C:                                          ST
+C:                           IZZIE (CONT'D)
+D: 167             Ms. Ramos, no! Look at what you’ve                167
+D:                 become! You deserve better!
+0: 
+0: 
+0: 
+0: 
+0: 168
+C:                                  IN
+D:       Ms. Ramos GASPS! She suddenly stops contorting her head!
+0: 
+C:                           MS. RAMOS
+D:                 Ooh, me? Me? Me? Me?                              168
+C:                           IS
+C:                           IZZIE
+D: 169             Yes, you! I know you won’t remember               169
+D:                 when you wake but you’re welcome!
+D:                    AV
+0: 
+0: 
+S:       INT. BIZARRO CITY MIDDLE - MS. P’S ROOM (DOUBLE REALM)- LATER
+N:                D
+0: 
+0: 
+0: 
+N:       Logan discovers Coop ate all the candy on Ms. Putnam’s desk!
+N:       Coop’s mouth is still full of several pieces!
+N:          A
+0: 
+0: 
+0: 
+0: 
+C:                           COOP
+D: 170             Let’s go. There’s no way Ms.--                    170
+D:   N
+0: 
+0: 
+0: 
+0: 
+N:       Just then, Ms. Putnam enters, headed for her desk! Coop’s
+N:       eyes widen! (NOTE: Ms. Putnam is wordless in dream.)
+N: EE
+0: 
+0: 
+0: 
+0: 
+C:                           LOGAN
+D: 171             Told you. Work dream.                             171
+D: G
+0: 
+0: 
+0: 
+0: 
+C:                           COOP
+D: 172             But why? That sounds so boring!                   172
+0: 
+N:       Ms. Putnam reaches for the candy on her desk, but finds only
+N:       empty wrappers instead! Her face turns RED again!
+0: 
+C:                           COOP (CONT'D)
+D: 173             Ms. Putnam, are you okay?                         173
+0: N:                            Pink Rev. (04/30/21)                  18.
+0: 
+0: 
+C:                           LOGAN
+D: 174             I think you just ate all her candy.               174
+0: 
+N:       Ms. Putnam looks like she’s ready to explode! The duo slowly
+N:       back away as she starts to GROW TALLER AND LARGER!
+0: 
+C:                           COOP
+D: 175             Taking it back! Soooooo not boring!               175
+0: 
+0: 
+0: 
+0: 
+C:                                               TE
+D:       Coop and Logan race past her out of the room!
+0: 
+0: 
+S:       INT. GRYPHON CAVERN (FANTASY REALM) - MOMENTS LATER
+0: 
+0: 
+0: 
+0: 
+C:                                              U
+D:       Trapped Teo’s in pain but he just wants Zoey to feel better.
+0: 
+0: 
+0: 
+0: 
+C:                                            IT
+C:                           TEO
+D: 176             I know what it’s like to lose a                   176
+0: 
+0: 
+0: 
+0: 
+C:                                          ST
+D:                 friend...I don’t really know what
+D:                 it’s like losing a lullaby, but my
+D:                 mom...she used to sing them to me
+D:                 before she left and...I miss her.
+C:                                  IN
+D:       This is too much emotion for Zoey! She just wants him gone!
+D:       She PUSHES A BUTTON. THUNK! He TUMBLES to the dirt floor.
+C:                           IS
+C:                           ZOEY
+D: 177             Go. Before I change my mind and                   177
+D:                 trap you all over again.
+D:                    AV
+0: 
+0: 
+S:       INT. BIZARRO CITY MIDDLE - HALLWAY (DOUBLE REALM)- LATER
+0: 
+N:       Coop and Logan run back down the hall, no Lance in sight!
+N:                D
+0: 
+0: 
+0: 
+N:       BOOM! BOOM! AS BIG AS THE HALL NOW, Ms. Putnam STOMPS after!
+N:          A
+0: 
+0: 
+0: 
+0: 
+S:       EXT. BIZARRO CITY MIDDLE (DOUBLE REALM) - MOMENTS LATER
+N:   N
+0: 
+0: 
+0: 
+0: 
+N:       An achy Teo and Z Blob exit the Toad Taxi and walk to school.
+N:       Just then, Coop, Logan and 20 sheep race out the doors!
+N: EE
+0: 
+0: 
+0: 
+0: 
+C:                           TEO
+D: 178             Whoa! What’s going on?                            178
+0: 
+C:               COOP AND LOGAN                         SHEEP
+D: G
+0: 
+0: 
+0: 
+0: 
+N:       Run!!                           Baa!!
+0: 
+C:                           TEO
+D: 179             Logan, what did you do?!                          179
+0: 
+C:                           LOGAN
+D: 180             This one’s on Coop, I swear!                      180
+0: N:                           Pink Rev. (04/30/21)                19.
+0: 
+0: 
+N:       FWOOOSH! Ms. Putnam RIPS THE SCHOOL ROOF OFF, and is now a
+N:       GIANT! SHE STOMPS DOWN HARD ON THE PAVEMENT! BOOM!
+0: 
+0: 
+S:       INT./EXT. PHONE BOOTH (DOUBLE REALM) - CONTINUOUS
+0: 
+N:       The Locator PINGS! Izzie and Bunzai watch paramedic PEARL
+N:       enter a booth for a call. But the PHONE’S AN ICE CREAM CONE!
+0: 
+0: 
+0: 
+0: 
+C:                                                TE
+C:                           PEARL
+D: 181             Hmm, ice cream!                                   181
+0: 
+N:                           IZZIE
+0: 
+0: 
+0: 
+0: 
+C:                                               U
+D: 182             Now this, I can work with.                        182
+0: 
+0: 
+0: 
+0: 
+C:                                             IT
+D:       She and Bunzai HIGH FIVE! A beat.
+0: 
+N:                           IZZIE (CONT'D)
+0: 
+0: 
+0: 
+0: 
+C:                                           ST
+D: 183             Think she’ll notice if I have some?               183
+0: 
+N:       Izzie SQUEEZES in with Pearl who doesn’t notice, about to
+N:       have the ice cream. She lowers Pearl’s hand. Pearl GASPS!
+0: 
+0: 
+0: 184
+C:                                   IN
+C:                           IZZIE (CONT'D)
+D:                 I’ll be quick. I just want a bite.                184
+C:                           IS
+D:       Bunzai BANGS on the booth door to get Izzie’s attention away
+D:       from Pearl’s cone, then points in the direction of school.
+0: 
+C:                           IZZIE (CONT'D)
+D:                    AV
+0: 
+0: 
+N: 185             Whoa! Is that...Ms. Putnam?!                      185
+0: 
+0: 
+S:       EXT. BIZARRO BROOKLYN (DOUBLE REALM) - DAY
+N:                D
+0: 
+0: 
+0: 
+N:       Ms. Putnam’s wreaking havoc! THUNK! FLIPPING cars! WHAM!
+N:       SMASHING buildings! The boys and Z Blob SCREAM, DUCKING
+N:          A
+0: 
+0: 
+0: 
+0: 
+N:       BEHIND MRS. CASTILLO on SENOR TORTUGA. Izzie and Bunzai join.
+N:   N
+0: 
+0: 
+0: 
+0: 
+C:                           MRS. CASTILLO
+D: 186             Do you need something to eat, mija?               186
+D: EE
+0: 
+0: 
+0: 
+0: 
+C:                           IZZIE
+D: 187             No, gracias, Mrs. C. We’re kind of                187
+D:                 in the middle of something. Um,
+D:                 boys, why is Ms. Putnam a giant?
+D: G
+0: 
+0: 
+0: 
+0: 
+C:                           COOP
+D: 188             Long story. How do we calm her?!                  188
+0: 
+N:       Mrs. C hands Izzie a few beans.
+0: 
+C:                           MRS. CASTILLO
+D: 189             Here you go.                                      189
+0: N:                           Pink Rev. (04/30/21)                   20.
+0: 
+0: 
+C:                           IZZIE
+D: 190             Beans? How am I supposed to eat                   190
+D:                 these? They aren’t even cooked.
+0: 
+C:                           MRS. CASTILLO
+D: 191             Sometimes you need to see the                     191
+D:                 bigger picture, sweetie.
+0: 
+N:                           TEO
+0: 
+0: 
+0: 
+0: 
+C:                                             TE
+D: 192             Bigger picture! Gracias, Mrs. C!                  192
+0: 
+N:       Teo runs off with Z Blob.
+0: 
+0: 
+0: 
+0: 
+C:                                            U
+C:                           COOP
+D: 193             Dude, where are you going?                        193
+0: 
+0: 
+0: 
+0: 
+C:                                          IT
+C:                           TEO
+D: 194             To show her a bigger picture!                     194
+0: 
+0: 
+0: 
+0: 
+C:                                        ST
+D:       The others run after Teo and Z Blob. Ms. Putnam gets even
+D:       bigger! Teo dreamcrafts Z Blob into a ZEPPELIN to circle her!
+0: 
+0: 
+0: 195
+C:                           COOP
+C:                                     IN
+D:                 Teo, what did you write on Z Blob?
+0: 
+C:                           TEO
+D:                                                                   195
+C:                           IS
+D: 196             Something to calm Ms. Putnam down.                196
+0: 
+N:       Ms. Putnam sees the zeppelin and stops. The kids think they
+N:       got through to her. But as the zeppelin spins around, they
+N:                    AV
+0: 
+0: 
+N:       see what Teo wrote (NO TEXT ONSCREEN but we see the SMILEY-
+N:       FACE EMOJI AT THE END of the message).
+0: 
+C:                           COOP
+D:                D
+0: 
+0: 
+0: 
+N: 197             Bro, you used an emoji? Seriously?                197
+0: 
+C:                           TEO
+D:          A
+0: 
+0: 
+0: 
+0: 
+N: 198             It’s the universal language!                      198
+N:   N
+0: 
+0: 
+0: 
+0: 
+N:       Ms. Putnam REDDENS again! Then FWOOSH! She SWATS the zeppelin
+N:       away! Then GRABS it! PWSSS! Z Blob shrinks back to normal.
+N:       She EYES Z Blob in her giant hand! SNIFFS him! He’s not what
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:       she wants. She flings him away! SCREAMING he PLUMMETS! THWAP!
+N:       He lands unscathed by Teo whose HOURGLASS is low on sand.
+0: 
+C:                           IZZIE
+D: G
+0: 
+0: 
+0: 
+0: 
+N: 199             Teo, I can’t believe you wasted all               199
+N:                 your sand on such a terrible idea!
+0: 
+C:                           TEO
+D: 200             Got a better one?                                 200
+0: 
+N:       They run from Ms. P’s INCOMING TENNIS-SHOE-WEARING FOOT!
+N:       Standing by Mrs. C again, Izzie has a lightbulb moment.
+0: N:                              Pink Rev. (04/30/21)             21.
+0: 
+0: 
+C:                           IZZIE
+D: 201             A better one coming up, sweeties!              201
+0: 
+N:       FWOOOSH! Izzie dreamcrafts a piece of GIANT CANDY.
+0: 
+C:                              LOGAN
+D: 202             Of course!                                     202
+0: 
+N:       But the giant candy’s way too big and heavy for them to lift!
+0: 
+0: 
+0: 
+0: 
+C:                                               TE
+C:                           COOP
+D: 203             Not working. Let me try something.             203
+D:                 Something like a souped-up, flying
+0: 
+0: 
+0: 
+0: 
+C:                                              U
+D:                 muscle car with a turbo-charged V8
+D:                 engine and 5-ton towing capacity!
+0: 
+0: 
+0: 
+0: 
+C:                                            IT
+D:       POW! Coop dreamcrafts a FLYING MUSCLE CAR, but Logan’s
+D:       impatient and beasts out the car, turning it into a ROARING
+0: 
+0: 
+0: 
+0: 
+C:                                          ST
+D:       MONSTER TRUCK! The truck SKIDS, SPINS, then TAKES FLIGHT!
+0: 
+C:                           TEO
+D: 204             Logan, what’s wrong with you!                  204
+0: 
+0: 
+0: 205
+C:                           COOP       IN
+D:                 Yeah! And I’m out of sand too now!             205
+C:                              IS
+D:       Teo and Logan are surprised Coop sided with Teo! The truck
+D:       heads for Ms. Putnam who PUNCHES it into a building! CRUNCH!
+0: 
+C:                           COOP (CONT'D)
+D:                    AV
+0: 
+0: 
+N: 206             No, not my baby!                               206
+0: 
+N:       BOOM! BOOM! Ms. Putnam’s FOOT-STOMPS near the kids knock them
+N:       and Z Blob to the ground! The beans fall out of Izzie’s
+N:                D
+0: 
+0: 
+0: 
+N:       pocket. And SINK into the pavement! The ground shakes!
+0: 
+C:                           MRS. CASTILLO
+D:          A
+0: 
+0: 
+0: 
+0: 
+N: 207             I told you: See the bigger picture.            207
+N:   N
+0: 
+0: 
+0: 
+0: 
+N:       BRRRRRR! A massive BEANSTALK SPROUTS into the sky! Taking the
+N:       kids with it! They hang on for dear life as they watch the
+N:       ground quickly descend beneath them - giant candy left below.
+N: EE
+0: 
+0: 
+0: 
+0: 
+C:                           IZZIE
+D: 208             Wow! Beans really are the magical              208
+C:                 fruit. Thanks, Mrs. C!
+D: G
+0: 
+0: 
+0: 
+0: 
+C:                           COOP
+D: 209             I really don’t like this dream.                209
+0: 
+C:                           TEO
+D: 210             Guys, we need to get the candy to              210
+D:                 the top of the beanstalk, so Ms.
+D:                 Putnam can see it at eye level.
+0: N:                             Pink Rev. (04/30/21)                 22.
+0: 
+0: 
+C:                           IZZIE
+D: 211             Go fetch the giant candy, Bunzai!                 211
+0: 
+N:       Bunzai SLIDES DOWN. The boys try to wave to Ms. Putnam.
+0: 
+C:                           TEO, COOP AND LOGAN
+D: 212             Ms. Putnam! Hey, Ms. Putnam!                      212
+0: 
+N:       But Ms. Putnam’s too busy destroying the city! Bunzai CLIMBS
+0: 
+0: 
+0: 
+0: 
+C:                                                TE
+D:       up the stalk, lugging the giant candy BETWEEN ITS TEETH!
+0: 
+C:                           IZZIE
+D: 213             I knew you could do it, Bunzai!                   213
+0: 
+0: 
+0: 
+0: 
+C:                                               U
+D:       Ms. Putnam sees the beanstalk and heads straight for it!
+0: 
+0: 
+0: 
+0: 
+C:                                             IT
+C:                             TEO
+D: 214             Incoming!                                         214
+0: 
+0: 
+0: 
+0: 
+C:                                           ST
+C:                           IZZIE
+D: 215             Now, Bunzai!                                      215
+0: 
+C:                                   IN
+D:       Bunzai launches the candy at Ms. Putnam, just as she swings
+D:       for the stalk, making contact with both it and the candy in
+D:       the same swipe! The stalk TEETERS and cascades down!
+C:                             IS
+D:       Ms. Putnam studies the giant candy curiously. When she SNIFFS
+D:       it, her eyes WIDEN with delight! She munches on the giant
+D:       candy, which finally soothes the savage beast.
+D:                    AV
+0: 
+0: 
+N:       The kids cheer! Just then, PWSSSS! Ms. Putnam SHRINKS to
+N:       normal size, still munching the candy, which didn’t shrink!
+N:       But she can still HOLD it with her two normal-sized hands!
+N:                D
+0: 
+0: 
+0: 
+C:                           IZZIE (CONT'D)
+D: 216             Short and sweet.                                  216
+D:          A
+0: 
+0: 
+0: 
+0: 
+T:                                                         CUT TO:
+N:   N
+0: 
+0: 
+0: 
+0: 
+S:       INT. TEO’S AND IZZIE’S ROOM – DAY
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:       Teo awakens groggily in bed. He looks over to find Izzie
+N:       dressed in workout attire for Sheep Week and stretching.
+0: 
+C:                           TEO
+D: G
+0: 
+0: 
+0: 
+0: 
+N: 217             Izzie, my everything hurts.                       217
+0: 
+C:                           IZZIE
+D: 218             Exercise will do that.                            218
+0: 
+C:                           TEO
+D: 219             So will booby-traps.                              219
+0: N:                           Pink Rev. (04/30/21)                 23.
+0: 
+0: 
+C:                           IZZIE
+D: 220             What booby-traps?                               220
+0: 
+C:                           TEO
+E: 221             Nevermind. (off spotting the                    221
+E:                 Locator next to her backpack) You
+D:                 took the Locator from the Night
+D:                 Bureau?
+0: 
+0: 
+0: 
+0: 
+C:                                             TE
+C:                           IZZIE
+D: 222             About that, I have an announcement              222
+D:                 when we see Papi about who should
+E:                 be his top pick! (off Teo’s groan)
+0: 
+0: 
+0: 
+0: 
+C:                                            U
+D:                 You’ll have to see him eventually.
+D:                 And you know he’ll know you know!
+0: 
+0: 
+0: 
+0: 
+C:                                          IT
+D:       INT. TEO’S AND IZZIE’S APARTMENT - KITCHEN - DAY
+0: 
+0: 
+0: 
+0: 
+C:                                        ST
+D:       Jay holds bag lunches for a pleased Izzie and closed-off Teo.
+0: 
+C:                           IZZIE
+D: 223             Morning, Papi!
+C:                                     IN
+D:       Izzie grabs her bag and peeks inside. Teo ignores his.
+D:                                                                 223
+C:                           IS
+C:                           JAY
+D: 224             Mateo, Izzie told you, didn’t she?              224
+0: 
+N:       Teo doesn’t respond. He just heads for the door.
+N:                    AV
+0: 
+0: 
+C:                           IZZIE
+D: 225             Papi, about that, I have an                     225
+D:                 announcement--
+D:                D
+0: 
+0: 
+0: 
+C:                           JAY
+D: 226             Mateo, if it’s any consolation,                 226
+D:          A
+0: 
+0: 
+0: 
+0: 
+N:                 they all cancelled on me!
+N:   N
+0: 
+0: 
+0: 
+0: 
+N:       Izzie’s STUNNED into silence.
+0: 
+C:                           JAY (CONT'D)
+D: EE
+0: 
+0: 
+0: 
+0: 
+N: 227             I think they did it as soon as they             227
+N:                 woke up this morning...weird.
+0: 
+C:                           IZZIE
+D: G
+0: 
+0: 
+0: 
+0: 
+N: 228             Sorry.                                          228
+0: 
+C:                           JAY
+D: 229             Oh, it’s not your fault. Anyway,                229
+D:                 have a good day, you two. Go Sheep!
+0: 
+N:       Izzie feels beyond awful! She just made three big mistakes
+N:       that may have just cost Jay his chance at happiness!
+0: N:                           Pink Rev. (04/30/21)                24.
+0: 
+0: 
+N:       She guiltily plods over to Teo by the front door.
+0: 
+C:                           TEO
+E:                     (quietly to Izzie)
+D: 230             Geez, Izzie, what’d you do in their            230
+D:                 dreams to make them all cancel?
+0: 
+C:                           IZZIE
+D: 231             Shhh. We never speak of this again.            231
+0: 
+0: 
+0: 
+0: 
+C:                                             TE
+E:                     (regretfully to Jay)
+D: 232             Thanks for lunch, Papi.                        232
+0: 
+N:       Teo turns to Jay and sees how hard Jay’s trying to keep his
+0: 
+0: 
+0: 
+0: 
+C:                                            U
+D:       spirits up. Teo runs to get his lunch then the two kids exit.
+0: 
+0: 
+0: 
+0: 
+C:                                          IT
+D:       INT. CITY MIDDLE - MS. PUTNAM’S CLASSROOM - DAY
+0: 
+0: 
+0: 
+0: 
+C:                                        ST
+D:       Zoey is the last kid to enter. She gives Teo an annoyed
+D:       glance. But hey, that’s way more than he’s gotten before!
+D:       Ms. Putnam enters her classroom, HAPPY! Like a new person!
+0: 
+0: 
+C: 233                              IN
+C:                           MS. PUTNAM
+D:                 I woke up today feeling
+C:                 invigorated! I feel rejuvenated!
+D:                                                                233
+C:                           IS
+D:       Teo, Coop and Logan beam at one other.
+0: 
+C:                           MS. PUTNAM (CONT'D)
+D: 234             I feel...I feel like giving you the            234
+D:                    AV
+0: 
+0: 
+N:                 mid-term today instead of tomorrow!
+0: 
+N:       The boys’ faces fall. Coop pulls a candy from his pocket. Ms.
+N:       Putnam STROLLS over and SNATCHES it, much to the boys’ shock!
+N:                D
+0: 
+0: 
+0: 
+C:                           MS. PUTNAM (CONT'D)
+E:                     (to the candy)
+D:          A
+0: 
+0: 
+0: 
+0: 
+N: 235             Oh, how I have missed you!                     235
+N:   N
+0: 
+0: 
+0: 
+0: 
+N:       She returns to her desk and EATS it triumphantly.
+N: EE
+0: 
+0: 
+0: 
+0: 
+S:       INT. CITY MIDDLE - HALLWAY - LATER
+0: 
+N:       Izzie meets a dejected Teo, Logan and Coop by Teo’s locker.
+N: G
+0: 
+0: 
+0: 
+0: 
+C:                           IZZIE
+D: 236             How was Ms. Putnam?                            236
+0: 
+C:                           LOGAN
+D: 237             Way better than us.                            237
+0: 
+C:                           IZZIE
+D: 238             That’s good news, right?                       238
+0: N:                           Pink Rev. (04/30/21)                25.
+0: 
+0: 
+C:                           COOP
+D: 239             For her. Not so much for my GPA.               239
+0: 
+C:                           TEO
+D: 240             Same here. It turns out Ms. Putnam             240
+D:                 has been trying to give up candy
+D:                 and that’s why she wasn’t sleeping--
+0: 
+N:                           IZZIE
+0: 
+0: 
+0: 
+0: 
+C:                                             TE
+D: 241             Bummer. I guess Ms. Putnam didn’t              241
+D:                 really need any help from us then.
+0: 
+N:                           TEO
+0: 
+0: 
+0: 
+0: 
+C:                                            U
+D: 242             Yeah, I get now what Mrs. C meant              242
+D:                 by “See the bigger picture.” It
+0: 
+0: 
+0: 
+0: 
+C:                                          IT
+D:                 was: See the entire situation...
+0: 
+N:                           COOP
+0: 
+0: 
+0: 
+0: 
+C:                                        ST
+D: 243             Like Ms. Putnam’s candy withdrawal             243
+D:                 leading to her sleep problems--
+0: 
+C:                           TEO
+D: 244
+0: 
+0: 
+0: 245
+C:                           IZZIE
+C:                                  IN
+D:                 Not just what we assume about it--
+0: 
+0: 
+N:                 Like thinking it was nightmares.
+0:                                                                244
+0: 
+0: 
+0:                                                                245
+C:                           IS
+C:                           TEO
+D: 246             I’m never jumping to conclusions               246
+D:                 about dreams like that again!
+D:                    AV
+0: 
+0: 
+C:                           LOGAN
+D: 247             Or going into them to delay a test!            247
+D:                D
+0: 
+0: 
+0: 
+S:       EXT. CITY MIDDLE - PE GROUNDS - LATER
+N:          A
+0: 
+0: 
+0: 
+0: 
+N:       COACH JEFFREYS steps onto center field, MEGAPHONE in hand,
+N:       next to FOUR TETHERBALL COURTS. In workout clothes, KIDS and
+N:   N
+0: 
+0: 
+0: 
+0: 
+N:       FACULTY, including Ms. Putnam, stand packed on the sidelines.
+0: 
+C:                           COACH JEFFREYS
+D: EE
+0: 
+0: 
+0: 
+0: 
+N: 248             Ladies and gentlemen, boys and                 248
+N:                 girls, welcome to Sheep Week!
+N:                 Today’s my favorite event, which is
+N:                 why it’s first: Sudden-death
+N: G
+0: 
+0: 
+0: 
+0: 
+N:                 tetherball! First teams, line up!
+0: 
+N:       Izzie, Coop and Logan try to lure a glum Teo off the bench.
+0: 
+C:                           COOP
+D: 249             Teo, get up! We’re up any minute!              249
+0: 
+N:       Teo stays seated, head in his hands. Izzie stretches by him.
+0: N:                           Pink Rev. (04/30/21)                26.
+0: 
+0: 
+C:                           LOGAN
+E:                     (to Coop)
+D: 250             I knew he was going to screw up.               250
+0: 
+C:                           IZZIE
+D: 251             Guys, I got this. Wait over there.             251
+0: 
+N:       Frustrated, Coop and Logan do as she says.
+0: 
+0: 
+0: 
+0: 
+C:                                             TE
+C:                           IZZIE (CONT'D)
+D: 252             Teo, you could stretch at least.               252
+E:                 (off his head-shake) Come on, what
+D:                 do I have to say to perk you up?
+0: 
+0: 
+0: 
+0: 
+C:                                            U
+D:       He shrugs. Coop glances at them, seriously starting to panic.
+0: 
+0: 
+0: 
+0: 
+C:                                          IT
+C:                           IZZIE (CONT'D)
+D: 253             Ooh, I know: Zoey!                             253
+0: 
+0: 
+0: 
+0: 
+C:                                        ST
+D:       Teo JUMPS OFF the bench like it’s on fire!
+0: 
+C:                           TEO
+D: 254
+0: 
+0: 
+0: 255
+C:                           IZZIE
+C:                                  IN
+D:                 Ssshh. There’s all these people--
+0: 
+0: 
+N:                 I know, which is why you’re going
+0:                                                                254
+0: 
+0: 
+0:                                                                255
+C:                           IS
+D:                 to stretch and make Coop smile.
+0: 
+N:       Teo mimics her stretch as first teams play. Coop’s pleased.
+N:                    AV
+0: 
+0: 
+C:                           TEO
+D: 256             I’m the leader. I should have been             256
+D:                 there for Coop in the Double Realm--
+D:                D
+0: 
+0: 
+0: 
+C:                           IZZIE
+D: 257             You’re here now. So be here!                   257
+D:                 Remember why you did that push-up
+D:          A
+0: 
+0: 
+0: 
+0: 
+N:                 in the first place!
+N:   N
+0: 
+0: 
+0: 
+0: 
+N:       He nods. She spots Nova with the Nightmare Club all in black.
+0: 
+C:                           IZZIE (CONT'D)
+D: EE
+0: 
+0: 
+0: 
+0: 
+N: 258             Looks like Nova’s on the Nightmare             258
+N:                 Club’s team now. Those big turkeys!
+0: 
+C:                           COACH JEFFREYS
+D: G
+0: 
+0: 
+0: 
+0: 
+N:                     (over megaphone to crowd)
+N: 259             And just like that, Sheep Week’s               259
+N:                 over for our 1st set of sitting
+N:                 ducks! I mean sheep! Better luck
+N:                 next year! 2nd teams, line up!
+0: 
+N:       Coop and Logan wave Teo and Izzie over. The four head to a
+N:       tetherball court where Coach Jeffreys is waiting.
+0: N:                           Pink Rev. (04/30/21)                27.
+0: 
+0: 
+C:                           COACH JEFFREYS (CONT'D)
+D: 260             Dream Chasers, meet the Lemmings. I            260
+D:                 can’t wait to see which of you
+D:                 makes it out alive.
+0: 
+N:       The foursome glance at the LEMMINGS: Four SPECTACLED SHORT
+N:       BOYS who each remove their glasses and hand them off to one
+N:       another. They all sound super NASALLY.
+0: 
+0: 
+0: 
+0: 
+C:                                             TE
+C:                 LEMMING #1                      LEMMING #3
+E:          (to Lemming #2)                 (to Lemming #4)
+D:       Would you hold my glasses?      Would you hold my glasses?
+0: 
+0: 
+0: 
+0: 
+C:                                            U
+D:                           LEMMING #2
+0: 
+0: 
+0: 
+0: 
+C:                                          IT
+E:                     (to Lemming #3)
+D: 261             Would you hold all our glasses?                261
+0: 
+0: 
+0: 
+0: 
+C:                                        ST
+D:       This is going to be too easy! Coop SIGHS, finally relaxing.
+0: 
+T:                                                         CUT TO:
+0: 
+C:                                    IN
+D:       EXT. CITY MIDDLE - PE GROUNDS - LATER
+0: 
+N:       Coach Jeffreys commands the field, megaphone to his mouth.
+C:                           IS
+C:                           COACH JEFFREYS
+D: 262             It’s time for Round 2, Sheep                   262
+D:                 Weekers! Which can only mean one
+D:                    AV
+0: 
+0: 
+N:                 thing: Capture the Flag! First
+N:                 teams, line up! And please: no
+N:                 crying this time! You’re teenagers,
+N:                 not a bunch of teething toddlers!
+N:                D
+0: 
+0: 
+0: 
+N:       Teo, Izzie, Coop and Logan are set to play against a HOWLING
+N:       team of Dallas, Jake, Jadyn, and 2 JOCKS. All take the field.
+N:          A
+0: 
+0: 
+0: 
+0: 
+C:                           COOP
+D:   N
+0: 
+0: 
+0: 
+0: 
+N: 263             Teo, there’s no way we’re ready for            263
+N:                 these guys. I still can’t believe
+N:                 you weren’t there for me last night
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:                 when I needed you.
+0: 
+0: 
+C:                    TEO                             COOP (CONT'D)
+D: G
+0: 
+0: 
+0: 
+0: 
+N:       Coop--                          No, let’s just do this.
+0: 
+N:       Right then from across the field, a heinous <CRY> rings out!
+N:       COACH JEFFREYS BLOWS a whistles then returns to the field.
+0: N:                           Pink Rev. (04/30/21)                28.
+0: 
+0: 
+C:                           COACH JEFFREYS
+D: 264             So much for no crying! Ladies,                 264
+D:                 gents, it’s my unfortunate duty to
+D:                 report that due to a forfeiture
+D:                 from The Wolves, the Dream Chasers
+D:                 advance to Round 3 by default! Next
+D:                 teams, line up!
+0: 
+N:                           COOP
+0: 
+0: 
+0: 
+0: 
+C:                                             TE
+D: 265             What? We won? How?                             265
+0: 
+C:                           IZZIE
+D: 266             OMG, Jadyn’s braces got caught in              266
+0: 
+0: 
+0: 
+0: 
+C:                                            U
+D:                 Jake’s hair!
+0: 
+0: 
+0: 
+0: 
+C:                                          IT
+C:                           COOP
+D: 267             Whoa! Teo, I’m not letting you off             267
+D:                 for last night but a win’s a win!
+0: 
+0: 
+0: 
+0: 
+C:                                        ST
+D:                 Actually two wins! Haha! Seriously,
+D:                 bro, everyone makes mistakes, so
+D:                 here’s to second chances!
+0: 
+0: 
+0: 
+0: 
+0: 268
+C:                                  IN
+D:       They FIST-BUMP. Coop runs off the field still in disbelief.
+0: 
+C:                           TEO
+D:                 I’m glad we won, Izzie, but I feel             268
+C:                           IS
+D:                 bad for letting Coop down.
+0: 
+C:                           IZZIE
+D: 269             It’s OK, Teo. He knows you’ll try              269
+D:                    AV
+0: 
+0: 
+N:                 harder tomorrow.
+0: 
+N:       Logan watches his friends The Wolves fight over just failing.
+N:                D
+0: 
+0: 
+0: 
+C:                           IZZIE (CONT'D)
+D: 270             Don’t worry, Logan. Like Coop said,            270
+D:                 everyone screws up sometimes.
+D:          A
+0: 
+0: 
+0: 
+0: 
+N:                 They’ll get over it.
+N:   N
+0: 
+0: 
+0: 
+0: 
+N:       Logan nods, thinking about his plan to take the hourglass.
+N: EE
+0: 
+0: 
+0: 
+0: 
+S:       EXT. BIZARRO CITY MIDDLE - PE GROUNDS (DOUBLE REALM) - DAY
+0: 
+N:       Lugging his backpack, Logan strolls past a field of sheep who
+N:       suck at tetherball, until he gets UNDER THE BLEACHERS. Logan
+N: G
+0: 
+0: 
+0: 
+0: 
+N:       removes the CRACKED HOURGLASS from his backpack and hands it
+N:       to Lance, who’s there waiting!
+0: 
+C:                           LANCE
+D: 271             Here’s to second chances.                      271
+0: 
+0: 
+N:                              END OF EPISODE
+0: 

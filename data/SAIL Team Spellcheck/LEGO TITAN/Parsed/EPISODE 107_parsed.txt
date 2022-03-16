@@ -1,0 +1,832 @@
+M: TE
+M: U
+M: IT
+M: ST
+M: LEGO TITAN
+M: "EP 107: THE CYBER REALM"
+M: IN
+M: Written by
+M: IS
+M: Shakira Pressley
+M: AV
+M: D
+M: A
+M: N
+M: EE
+M: G
+S: EXT. SHADOWKEEP, GRIM REALM (DREAM WORLD) - DAY
+N: An ominous yellow flash of light can be seen from within the dark fortress. The silhouette of a menacing figure appears on the back wall. 1 NIGHTMARE KING (O.S.) 1
+C: TE
+D: How many times are you going to fail me, Archer?
+C: U
+D: INT. SHADOWKEEP, GRIM REALM - DAY
+E: DREAM WORLD
+N: We REVEAL the Nightmare King standing at his throne and the
+C: IT
+D: Dark Archer kneeling before him.
+N: 2 NIGHTMARE KING 2
+C: ST
+D: If you want something done, do it yourself.
+N: The Nightmare King steps down from the chancel and determinedly struts by his loyal soldier.
+C: 3 IN NIGHTMARE KING
+D: You better start proving your worth... That is, unless you’d like 3
+E: CONT’D
+C: IS
+D: to end up like them.
+N: The Nightmare King heads toward the exit as we reveal several children trapped within the Shadowkeep. Dark Archer shifts AV tensely. The Nightmare King stands in the center of the room, holding his staff. Eyes glowing yellow, he waves his hand in a circular motion. Dark dream ether swirls from all around him, D consuming him from our view. All we can see within the cloud of dark ether is the glow of his yellow eyes. A
+S: INT. SCHOOL (WAKING WORLD) - DAY
+N: N As Mateo and Izzie walk down the hallway toward class, they pass a plethora of festive school posters for SHEEP WEEK. EE Every few steps, Mateo stops to do a couple of jumping jacks.
+C: 4 IZZIE 4
+D: Dude, you’re gonna hurt yourself with all those jumping jacks. G
+C: 5 MATEO 5
+D: Must. Practice. Must. Be. Better. Oof!
+N: Mateo trips on his shoelace and collapses to the ground.
+C: 6 MATEO 6 I am...
+D: OKAY!
+E: CONT’D hopping to his feet
+N: The siblings see Zoey, who walks toward them in SLOW-MOTION. Mateo’s expression changes to a more love-struck look.
+C: TE 7 IZZIE 7
+D: Why don’t you just ask her to hang?
+C: U 8 MATEO 8
+D: What?! I can’t just ask Zoey to hang!
+C: IT 9 IZZIE 9
+D: Then, ask her to join your Sheep
+C: ST
+D: Week team. That’s a good enough excuse to get a much cooler girl to want to hang with you. Ooh- sister burn!
+C: IN
+D: Izzie holds her hand out for a high five. Mateo glares at her and then turns back toward Zoey. He takes a deep breath as he determinedly lowers his head and marches forward.
+C: IS 10 MATEO 10
+D: Ok. I can do this. It’s easy. Do you want to join my team? It’s that AV
+E: to himself
+N: simple. (then) Maybe this is a bad idea.
+C: 11 ZOEY 11
+D: D
+N: What’s a bad idea? Mateo begins to sweat, not having noticed he’d reached Zoey. A He opens his mouth to ask, but all that comes out is-
+C: 12 MATEO 12
+D: N
+N: Oh... The Sheep thing. If you wanted to, but it’s ok if you EE already have one.
+C: 13 ZOEY 13
+D: What? G
+C: 14 LOGAN 14
+D: Sup, Zoey! Wanna join a winning Sheep Week team and bask with me in the glow of eternal glory?
+N: Mateo looks over, realizing Logan is right beside him.
+C: 15 MATEO 15
+D: What! I asked her first!
+C: 16 LOGAN 16
+D: Ha! No way she’d join your team! Plus I’m standing closer to her.
+E: then
+C: TE
+D: Coop, get a measuring tape!
+N: Embarrassed, Cooper slowly and hesitantly approaches.
+C: U 17 COOPER 17
+D: I don’t have measuring tape, but I have a ruler...
+C: IT
+D: Zoey groans as she closes her locker and slips by the boys.
+C: ST 18 COOPER 18
+D: Oh wait, she’s gone. Shocker.
+E: CONT’D
+N: The two look up, realizing her departure. Logan waves.
+C: 19 LOGAN IN
+D: Cool, we’ll catch up later!
+N: Cooper stands back as Logan and Mateo butt heads.
+C: IS 20 LOGAN 20
+D: Wow, Matty! You totally freaked her out! You have zero girl skills. AV
+E: CONT’D
+N: Here you are chasing away my teammates while I’m over here putting together the best chance to win. D
+C: 21 MATEO 21
+D: So am I. That’s why I asked Zoey. A
+C: 22 LOGAN 22
+D: Dude, you’re not even on our level. N
+E: through laughter
+N: You should just give up before my Sheep Week team totally crushes EE you! Cooper makes an apologetic look to Mateo as Logan turns and makes an EDM airhorn noise with his mouth. G
+C: 23 LOGAN 23
+D: See you in our dreams!
+E: CONT’D
+N: Izzie steps up to her brother.
+C: 24 IZZIE 24
+D: It’s ok, big bro. You’ll always have him beat in the Dream World.
+N: Mateo slumps down, feeling defeated.
+C: TE
+D: INT. OZ'S ROCKET SHIP - DAY
+E: DREAM WORLD
+N: Mateo, Izzie, Cooper, Logan, and Z-Blob arrive at the same time.
+C: U 25 MATEO 25
+D: Hm? That’s weird. Mr. Oz and Albert
+C: IT
+D: aren’t here?
+N: 26 LOGAN 26
+C: ST
+D: They saw you coming and dipped.
+N: Bitter, Mateo opens his mouth to reply, but is interrupted. 27 MR. OZ (O.S.) 27
+C: sense! IN
+D: No way, that just doesn’t make any
+N: The kids follow the arguing voices to...
+C: IS
+D: INT. LIBRARY, OZ’S ROCKET SHIP - CONTINUOUS AV
+E: DREAM WORLD
+N: The five enter to see the frenzied Mr. Oz and Albert, searching through a series of books with nautical imagery on them and handwritten journals shown through holograms.
+C: 28 COOPER 28
+D: D
+N: I’ve never been in here before. Cooper is in awe. Oz finally acknowledges them. A
+C: 29 ALBERT 29
+D: Ah, yes, children! Welcome to the N
+N: book repository! You’ll have to excuse us. We are ape deep in EE research.
+C: 30 MATEO 30
+D: What’s up? Did you figure out where the Sandman is? G
+C: 31 ALBERT 31
+D: Well, young Master Mateo, my research —
+C: 32 MR. OZ 32
+D: Our research. It’s our research. And what we have discovered is that when Luna’s hourglass is repaired, it will lead us to Castle Nocturna.
+N: Oz turns the pages to one of the books in front of them. A
+C: TE
+D: hologram of a beautiful ivory castle appears before the children’s wide eyes.
+N: 33 ALBERT 33
+C: U
+D: And Castle Nocturna holds the legend of how Luna defeated the Nightmare King!
+C: IT
+D: The kids all look confused.
+C: ST 34 MR. OZ 34
+D: Luna used her hourglass to defeat The Nightmare King once before. So if we can get to the Castle, we can learn how to do it again.
+C: 35 IZZIE IN
+D: Awesome! How do we help? 35
+C: IS
+D: Izzie touches Alberts book. He slaps her hand away.
+C: 36 ALBERT 36
+D: We have no time for training, nor AV
+N: your shenanigans! Oz guides the group towards the exit.
+C: 37 MR. OZ 37
+D: D
+N: Take some time off tonight. Just don’t get into any trouble! A Oz slams the door behind them. The kids stare, baffled. Izzie turns to them, a smile widening across her face. N
+C: 38 IZZIE 38
+D: You know what this means, right? EE
+N: (off their blank stares) FREE DAY!
+S: EXT. LOBBY, CYBER REALM (DREAM WORLD) - DAY
+N: G Flying eight-bit birds soar past a tall, digital screen in the middle of a video game lobby resembling a town square. The lobby branches out into multiple roads, which guide dreamers toward various types of games. At its center is a huge, sixteen-bit statue of a muscular man wearing a spacesuit and cool helmet a la HALO’s MASTER CHIEF. The kids, Bunzai, and Z-Blob enter the realm with excitement.
+C: 39 LOGAN 39
+D: This is the coolest place ever. I
+C: TE
+D: mean look at this guy!
+N: Logan gestures over to the statue.
+C: U 40 COOPER 40
+D: So, what should we play first?
+C: IT 41 MATEO 41
+D: What about--
+C: ST 42 LOGAN 42
+D: No way, dude. I’m picking.
+N: Mateo and Logan glare at one another, ready to rumble. The only thing that stops them is the arrival of Zoey, who glides
+C: 43 MATEO IN
+D: in on Zion. The boys attention is easily drifted.
+N: Do you wanna play with us?
+C: IS 44 ZOEY 44
+D: Can’t. I’m here on a mission. AV
+N: Zoey allows Zion to soar away as she parkours her way through the lobby area and disappears. The two are left swooning.
+C: 45 LOGAN 45
+D: Ooh, too bad, Teo. Looks like Zoey D
+N: doesn’t want to play with you here or Sheep Week. She wants to join a winning team. A Cooper, Izzie, Bunzai, and Z-Blob nervously watch on. N
+C: 46 MATEO 46
+D: I have as good a chance of winning EE
+N: as you! Logan mutters something to himself.
+C: 47 MATEO 47
+D: G
+E: CONT’D
+N: You got something to say, Logan?!
+C: 48 COOPER 48
+D: Whoa! Hey, guys! Don’t argue. We can settle this a better way!
+N: Logan cockily crosses his arms.
+C: 49 LOGAN 49
+D: Coop’s right.
+C: 50 COOPER 50
+D: I am?
+C: TE 51 LOGAN 51
+D: Game-off. I win, you back off of Zoey.
+C: U 52 MATEO 52
+D: Fine. And if I win, you and Coop
+C: IT
+D: have to be on my team.
+N: 53 LOGAN 53
+C: ST
+D: Ha! Deal. This’ll be easy...
+N: They shake hands. Cooper and Izzie share a look that reads as, “Oh boy”. Logan points to the Cyber Realm map displayed on a large tablet-like system.
+C: 54 IN LOGAN
+D: I say we play Fatal Konflict! 54
+E: CONT’D
+C: IS 55 MATEO 55
+D: Ugh, no. How about Lothario Racers?
+C: 56 LOGAN 56
+D: AV
+N: No way! Racing games are for babies! What about some ball?
+C: 57 MATEO 57
+D: Let’s let Coop decide. D
+C: 58 COOPER 58
+D: A
+E: pulling Izzie forward
+N: Uh, how about we let Izzie?
+C: 59 IZZIE 59
+D: N
+N: Okay. Okay. I’ll decide! Sheesh! EE Izzie hovers her hand over a game that appears to be a cute cooking game. The icon reads, “Baking Papa.”
+C: 60 IZZIE 60
+D: How about — G
+E: CONT’D
+C: 61 LOGAN/MATEO 61
+D: No. No. Anything, but that. Not Baking Papa!
+E: groaning
+N: Izzie suddenly moves her hand, clicking a game called, “Nimbus Infinite.” A real time strategy, shooter game. The tablet sends a path of light down the road they need to take.
+C: 62 IZZIE 62
+D: This one!
+C: TE 63 LOGAN 63
+D: Ooh! Get ready to weep, Teo.
+N: 64 MATEO 64
+C: U
+D: No way! You’re going down, Slow- gan!
+C: IT
+D: CUT TO:
+C: ST
+D: INT. NIMBUS INFINITE ARENA, CYBER REALM - CONTINUOUS
+N: Now clad in cool, Halo-inspired suits, the kids, Bunzai, and Z-Blob, enter onto a low-poly video game arena, with blue glowing rocks, columns, and walls to use as cover.
+C: IN
+D: The statued character from before appears in hologram form. He has a cheesily heroic demeanor.
+C: IS 65 BURRZERKER 65
+D: Welcome, battlers... to Nimbus Infinite! You know the rules! Blast everyone around you and get through AV
+N: the carnage! Last soldier standing wins the game! Shown beside him, also as a hologram, is a presentation; a player and three pixelated hearts appear. Burrzerker BLASTS D him three times, causing the player to shatter.
+C: 66 BURRZERKER 66
+D: A
+E: CONT’D
+N: If you lose all three lives, you will be obliterated from the game! N White outlines and three hearts appear around each of the players, signifying that the game has begun. EE
+C: 67 BURRZERKER 67
+D: Let loose the carnage!
+E: CONT’D
+N: Mateo and Z-Blob dart off first. Followed by Cooper and G Logan, who run off in opposite directions. Izzie and Bunzai go full attack mode right out the gate. Izzie instantly takes out four other dreamers.
+C: 68 IZZIE 68
+D: You’ll never get me, suckaz!
+N: BOOM! Izzie is shattered like Megaman. She respawns back in the center of the battlefield. 69 IZZIE (CONT’D) 69
+C: TE
+D: Aw man! One life down already!
+N: POW! Izzie is blasted. She respawns again.
+C: U 70 IZZIE 70
+D: HEY!!
+E: CONT’D
+C: IT 71 MATEO 71
+D: Now, Z-Blob!
+E: O.S.
+C: ST
+D: Mateo and Z-Blob roll out of hiding. They use their ROCKET JUMPS to leap over Izzie, blasting her one last time from above. She gets eliminated. The duo lands in a hero pose.
+C: 72 MATEO 72
+E: CONT’D chuckles
+C: IN
+D: That was for the sister burn.
+N: Someone fires a few shots at Mateo and Z-Blob. Quick on their
+C: IS
+D: feet, they manage to barrel roll out of the way. They look over to identify the perpetrator. It’s none other than Logan!
+C: 73 MATEO 73
+D: AV
+E: CONT’D
+N: You’re going to have to try a lot harder than that to hit us!
+C: 74 LOGAN 74
+D: Says you. I’ve already wiped out D
+N: half the players!
+C: 75 MATEO 75
+D: A
+N: What?! The game just started! Mateo looks up at the scoreboard. N
+T: CUT TO:
+N: EE
+S: INT. SPECTATOR BOOTH, GAME ARENA (DREAM WORLD) - CONTINUOUS
+N: Izzie and Bunzai, bitterly, enter the waiting room. They spot G Cooper sitting with some other sore dreamers. They look just as upset as Izzie.
+C: 76 IZZIE 76
+D: Let me guess. Logan?
+C: 77 COOPER 77
+D: Yup. You?
+C: 78 IZZIE 78
+D: Mateo. You think you know a guy.
+N: Cooper points to the scoreboard. It shows Logan’s icon with
+C: TE
+D: two of Izzie’s Xed out below it.
+C: 79 IZZIE 79
+D: THAT TURKEY!
+E: CONT’D
+C: U
+D: BACK TO:
+C: IT
+D: INT. NIMBUS INFINITE ARENA, CYBER REALM - CONTINUOUS
+C: ST
+D: Mateo and Logan shield themselves behind different walls.
+C: 80 MATEO 80
+D: Those were cheap moves!
+C: 81 LOGAN IN
+D: You’re one to talk! Z-Blob’s getting all your kills for you, cheater! 81
+C: IS 82 MATEO 82
+D: That’s not cheating! It’s using
+C: your SKILLS! Dreamcrafting skills.
+D: AV
+N: Logan watches as Z-Blob leaps out from behind a column. He JUMPS out of his hiding spot, leaving himself open for a surprise attack from Mateo. POW! Logan shatters, losing a life. D He respawns, glancing up at his two remaining lives. A
+C: 83 LOGAN 83
+D: Hey! No fair! You tricked me! N
+N: Logan runs and slides up to Mateo’s hiding place, thinking he can catch him off-guard. He turns the corner. Mateo is gone. EE Logan gasps before... PEW! PEW! He gets blasted and shattered a second time! This time from both Mateo AND Upgrade Z-Blob. Once Logan respawns, he runs in the opposite direction, avoiding the other players as he finds a new hiding place. G
+C: 84 LOGAN 84
+D: Only one life left?! Come on! I can’t lose to that noob!
+E: CONT’D
+N: Logan glances up at the scoreboard. Mateo and Z-Blob are racking up points. Not many players are left.
+C: 85 LANCE 85
+D: Who’s there?!
+E: O.S.
+N: A teen boy, dressed in an even cooler suit, turns the corner.
+C: TE
+D: We recognize him as the Nightmare King in disguise from earlier. He takes aim at Logan, ready to fire. A beat. He lowers it.
+C: U 86 LANCE 86
+D: Oh, hey... Those were some sick moves, bro. Logan, was it?
+E: CONT’D
+C: IT 87 LOGAN 87
+D: Uh... Yeah? That’s me.
+C: ST 88 LANCE 88
+D: You are killing it. I’m over here like - trying to study your game, bro. That green dude is totally an
+N: unfair advantage. Right?!
+C: LOGAN IN 89 IS
+D: Lance glances up to see that Logan has only one life left.
+C: 90 LANCE 90
+D: AV
+N: Dang. Here... you need this more than I do. Even the playing field. Handing Logan a red floppy disk with code written on it in crude black marker. D
+C: 91 LANCE 91
+D: It’s an upgrade. Only the best A
+E: CONT’D
+N: gamers in the realm use them.
+C: 92 LOGAN 92
+D: N
+N: Whoa, retro. Thanks, man. How can I repay you... Guy? EE
+C: 93 LANCE 93
+D: My name’s Lance. And no worries, it’s on the house. G
+N: Lance walks away. His eyes glow yellow as he grins, wickedly.
+S: EXT. MOBILE GAME SECTOR, CYBER REALM - MEANWHILE
+N: Zion and Zoey arrive in the mobile game sector of the Cyber Realm. There aren’t any dreamers here. It’s a ghost town. Zoey dismounts. 94 ZOEY 94
+C: TE
+D: I don’t get it. I could have sworn The Dark Archer was headed this way, but I don’t see anything corrupt anywhere.
+C: U
+D: What is this game...
+E: taking in her surroundings
+C: IT
+D: Zoey realizes that she’s standing in the middle of a low-poly and colorful kitchen. Confused, she glances up, noticing a
+C: ST
+D: sign above her that reads, “BAKING PAPA” with a digital meter attached.
+C: 95 ZOEY 95
+D: Who would ever play this baby game?
+E: CONT’D
+C: IN
+D: Zoey raises an eyebrow. She approaches it. She looks around, searching for other dreamers who might spot her. The coast is clear.
+C: IS 96 ZOEY 96
+D: I mean, I can’t knock it til I try AV
+E: CONT’D to Zion
+N: it, right? Zion looks unconvinced. Zoey hesitantly picks up a mixing spoon. She peaks into a D bowl and begins to stir. Her hunched, stressed shoulders suddenly relax. She appears to be content. She sniffs the bowl. A
+C: 97 ZOEY 97
+D: Hmm... Not bad.
+E: CONT’D
+C: N
+D: EE
+S: INT. NIMBUS INFINITE ARENA, CYBER REALM - MEANWHILE
+N: Logan maneuvers through the terrain, still avoiding the other players, especially Mateo, who is now leading the scoreboard. He hesitantly looks at the floppy disk in his hand. G
+C: 98 LOGAN 98
+D: Just to even the playing field...
+N: As he dashes over toward the middle of the arena. Logan inserts the disk into the slot under the tablet screen where the Guardian info graphic plays. A golden shimmer engulfs Logan’s suit.
+C: 99 LOGAN 99
+D: Whoa, invulnerability!
+E: CONT’D
+C: TE
+D: He smirks, ready for battle, yet again. Logan runs through the game, easily ricocheting shots off of his new suit and wiping out any competitors that get in his way. Don’t be
+C: U
+D: mistaken though. He’s on the prowl for Mateo and Z-Blob.
+N: Logan finally slows down. He checks his surroundings.
+C: IT 100 LOGAN 100
+D: Alright. Where is that noob...
+E: CONT’D
+C: ST
+D: Suddenly, Z-Blob leaps out of hiding. Logan BLASTS him. He shatters, losing his last life. Logan turns to see Mateo, attempting to land yet another sneak attack using his rocket jump. He successfully hits Logan, but it does nothing.
+C: IN
+D: Mateo tucks and rolls back into a new hiding place. We see now that he only has one life left. He looks at the board.
+C: IS 101 MATEO 101
+D: Wait, what? I totally got you!
+C: 102 LOGAN 102
+D: AV
+E: O.S.
+N: Nope. And now it’s down to me and you, Street Meat. Come on out and collect this loss! Mateo checks his power boosts. He’s depleted them. Timid now, D Mateo runs in the opposite direction. Only when he turns around, Logan is already there waiting for him. A
+C: 103 LOGAN 103
+D: Heeeeeere’s Logan! N
+E: CONT’D
+N: The two fire at the exact same time. Logan is hit, but of course, not eliminated. Mateo avoids the hit and hides again. EE
+C: 104 MATEO 104
+D: Huh?! NO WAY I missed you that time! G
+C: 105 LOGAN 105
+D: Yes way!
+N: Mateo glances up to see Logan, using his rocket jump. He BLASTS Mateo, causing him to shatter. Logan lands in a cool pose. Winner rolls across the screen. Logan’s name hits number one on the leaderboard. Digital confetti spews out from above.
+C: 106 LOGAN 106
+D: Yes! Top of the leaderboard!
+E: CONT’D
+N: Logan does EDM horn sounds as the rest of the players
+C: TE
+D: sarcastically cheer and go their separate ways. The Dream Chasers rejoin Logan on the playing grounds.
+N: 107 LOGAN (CONT’D) 107
+C: U
+D: I knew I’d pwn you, nerd.
+N: 108 MATEO 108
+C: IT
+D: Yeah, you won. Way to go. You get Zoey on your Sheep Week team.
+C: ST 109 LOGAN 109
+D: You know it!
+N: Just then, the digital Burrzerker pops up before them.
+C: IN BURRZERKER
+D: Congratulations! You survived the slaughter! Come and claim your prize! 110
+C: IS
+D: Logan triumphantly approaches the hologram guardian, attempting to remove the disk without the others noticing. AV
+C: 111 MATEO 111
+D: Whoa... What’s that?
+C: 112 LOGAN 112
+D: Uh, nothing. It’s just an upgrade. D
+C: 113 MATEO 113
+D: Were you cheating?! A
+C: 114 LOGAN 114
+D: No! You’re the one who was N
+N: cheating, letting Z-Blob do all the work for you. EE
+C: 115 MATEO 115
+D: Having Z-Blob isn’t cheating!
+C: 116 LOGAN 116
+D: G
+N: Yeah, you keep telling yourself that. Logan grips the disk, but it gets jammed in the slot. Logan struggles to get it out. The tablet display begins to glitch as a bright red aura completely consumes the whole arena’s original blue form. The disk has turned into a full blown virus and the game arena isn’t the only thing it’s corrupting... Through even larger world glitches, it’s clear that the entire Cyber Realm is under attack; buildings are turning
+C: TE
+D: pixelated, neon signs are flickering, items are morphing, and kids are getting bugged into the floors and walls!
+N: A pixelated NIGHTMARE STORM surrounds the middle console
+C: U
+D: where the red disk was inserted. The kids are now at its center. Pixelated lightning strikes.
+C: IT 117 COOPER 117
+D: Logan! What did you do?!
+C: ST 118 LOGAN 118
+D: Nothing! Why are y’all always blaming me when something goes wrong?
+C: 119 IZZIE IN
+D: Because you’re always doing something! 119
+C: IS 120 COOPER 120
+D: Enough! We have to fix this and fast! The realm is falling apart! AV
+C: 121 LOGAN 121
+D: Stop being so dramatic. It’s not that serious.
+N: Suddenly, the lights shut down. The room goes to black. D
+S: EXT. MOBILE GAME SECTOR, CYBER REALM (DREAM WORLD) - DAY
+N: A Zoey, in a rare moment of bliss, finishes chopping up some raspberries, filling the meter hovering above her head. N Burrzerker appears. EE
+C: 122 BURRZERKER 122
+D: Almost there! Time to t-take out the c-c-cake! -the cake! G
+E: dialogue glitching
+N: A new meter appears as Zoey opens the easy bake oven with an uncharacteristic flourish, and removes a soufflé. She giggles as she carefully places it onto the counter when a loud CRASH causes it to deflate.
+C: 123 ZOEY 123
+D: No! My soufflé!
+C: 124 BURRZERKER 124
+D: Ooh, burn! B-b-better luck next time!
+C: TE 125 ZOEY 125
+D: What the...
+N: Zoey watches as the game components and the surrounding Cyber
+C: U
+D: Realm’s lights all change into a harsh red color and contort.
+N: The game terrain glitches, pixelates, and crumbles. Zoey
+C: IT
+D: leaps around them as if she were in a platforming game.
+N: 126 ZOEY (CONT’D) 126
+C: ST
+D: ZION!
+N: Zion rises, trying to fly toward the running Zoey, but they’re a distance apart due to the glitched terrain.
+C: IN
+D: The Dark Archer’s whistle echoes through the sky above. Zoey stops dead in her tracks. Her eyes narrow as the sky darkens.
+C: ZOEY 127 IS
+D: I knew it...
+E: CONT’D
+S: INT. NIMBUS INFINITE ARENA, CYBER REALM (DREAM REALM) - DAY
+N: AV The space is poorly lit with only the light from the hologram Guardian to see. The kids, Bunzai, and Z-Blob watch as the realm glitches nearby. Mateo throws light through Z-Blob to amplify his flashlight. D
+C: 128 LOGAN 128
+D: A
+E: joking
+N: Looks like someone forgot to pay the power bill in the Cyber Realm. N
+C: 129 MATEO 129
+D: Now’s not the time to joke. The EE
+N: entire realm is glitching. How are we going to fix this?
+C: 130 LOGAN 130
+D: You’re the know-it-all. Shouldn’t G
+N: you have the answers?
+C: 131 MATEO 131
+D: None of this happened until you used that virus.
+C: 132 LOGAN 132
+D: How was I supposed to know Lance gave me a virus?
+C: 133 COOPER 133
+D: Lance? Who’s Lance?
+C: TE 134 LOGAN 134
+D: I don’t know! A cool guy I met!
+N: The rest of the group angrily groan.
+C: U 135 IZZIE 135
+D: Didn’t your moms ever teach you not
+C: IT
+D: to take anything from strangers?
+N: 136 MATEO 136
+C: ST
+D: Just had to cheat. Couldn’t stand the idea of losing to me, huh?
+C: 137 LOGAN 137
+D: You cheated first!
+C: IN
+D: The rivals nab their Nimbus Infinite blasters from off their suits and begin to blast at one another again.
+C: IS 138 COOPER 138
+D: Guys! Stop! I hear something coming... AV
+N: Mateo and Logan stop shooting and listen. Mateo dreamcrafts Z- Blob back into his Upgrade form, before holding up his flashlight. A swarm of tiny pixels fly towards them. As they get closer D the resolution adjusts REVEALING the pixelated creatures to be Night Terrors! A Mateo, Logan, and Z-Blob instantly take shots at them. Izzie dreamcrafts her hammer, while Cooper dreamcrafts a baseball bat out of random debris, knocking the creatures away. N Bunzai, does bunny kicks. Still, they’re getting overwhelmed by the creatures. EE
+C: 139 IZZIE 139
+D: Mateo! Watch out!
+N: The group turns to see a Night Terror about to pounce onto G Mateo. Z-Blob makes a move toward him, but isn’t fast enough. Instead, Logan jumps in, tackling Mateo out of the way.
+C: 140 MATEO 140
+D: Whoa, thanks.
+C: 141 LOGAN 141
+D: Yeah, whatever.
+N: Just then, another Night Terror nearly gets to Logan, but this time Mateo protects him. 142 LOGAN (CONT’D) 142
+C: TE
+D: Thanks, man.
+C: 143 MATEO 143
+D: Sure. Yeah, whatever.
+C: U
+D: Just then, even more Night Terrors arrive from the darkness.
+C: IT 144 IZZIE 144
+D: Holy guacamole...
+C: ST
+D: Suddenly, a thick, pixelated fog, DREAM ETHER, seeps out from the fallen hologram statue. It shutters a blue glow and cycles through various sprite animations.
+N: 145 COOPER 145
+C: IN
+D: Uh oh. Is that another glitch?
+N: They all cautiously take a step back as the hologram goes from being transparent to solid. It has somehow come to life.
+C: IS
+D: This is the Cyber Realm’s GUARDIAN, BURRZERKER. With his heroic, battle damaged suit, health bar, and three life points floating atop of his head, Burrzerker wastes no time, AV
+N: swooping into action. He blasts every Night Terror away.
+C: 146 BURRZERKER 146
+D: Haha! Get some! Get some! Is this all you’ve got! D
+N: Burrzerker tosses a mechanical looking grenade at the ground. POW! It explodes light, obliterating the rest of Night A Terrors. He valorously turns toward the kids.
+C: 147 IZZIE 147
+D: N
+N: Who are you?! EE
+C: 148 BURRZERKER 148
+D: I’m Burrzerker! Guardian of the Realm of Cyber Dreams!
+N: The kids stare in both awe and confusion. Fascinated, the G kids huddle up around him as he clears away the remaining Night Terrors.
+C: 149 COOPER 149
+D: I didn’t know the realms had Guardians? We’ve never seen any before...
+C: 150 BURRZERKER 150
+D: We guardians are ever vigilant. We
+C: TE
+D: appear when a realm is in grave peril. We’re sworn in to our realms as a
+E: then
+C: U
+D: mighty and powerful, eternal presence, bound to protect them!
+C: IT
+D: Burrzerker does a cool heroic pose.
+N: 151 BURRZERKER (CONT’D) 151
+C: ST
+D: I’ll show you all my best fight compilations after I kick some nightmare posteriors!
+E: charging his blasters to the kids
+C: IN
+D: But all you need to know for now is that I’m here to help!
+N: He gives the kids a thumbs up, a twinkle in his eye.
+C: IS 152 BURRZERKER 152
+D: Now, let’s get my realm back! AV
+E: CONT’D
+N: Burrzerker and the kids charge into the lobby area, ready for battle.
+S: EXT. LOBBY, CYBER REALM (DREAM WORLD) - CONTINUOUS
+N: D Just as the kids step outside something BIG blocks out the sun. The kids and Burrzerker glance up to see... A
+C: 153 IZZIE 153
+D: Mr. Sharkface? N
+N: Rising over the horizon is Mr. Sharkface in AIRSHIP FORM. An EE army of Nightmares enter the realm alongside him. The team is stunned.
+C: 154 IZZIE 154
+D: G
+E: CONT’D
+N: What did they do to him?!
+C: 155 COOPER 155
+D: I don’t know, but it can’t be good for us.
+C: 156 LOGAN 156
+D: I think he looks sort of cool.
+N: Cooper and Mateo both nudge Logan to stop. They gesture to Izzie, who is clearly devastated. 157 BURRZERKER 157
+C: TE
+D: Come, Dream Chasers. Let’s knock these pixelated jerks down a level.
+N: Burrzerker runs forward, fighting whatever comes at him. The
+C: U
+D: team, minus Izzie and Bunzai, joins the battle. Mateo looks back, realizing that Izzie isn’t coming.
+C: IT 158 MATEO 158
+D: Izzie, what’s going on? Come on!
+C: ST
+D: Izzie dreamcrafts Bunzai into his stuffed animal form and hugs him, before putting him back in her bag.
+C: 159 IZZIE 159
+E: to Bunzai
+C: safer in here. IN
+D: I-I’m sorry. I can’t... You’ll be
+N: Cooper, Logan, and Upgrade Z-Blob blast the Nightmares away
+C: IS
+D: with their laser guns. It’s super effective.
+N: Cooper dreamcrafts his TRUCK with Logan in the passenger’s seat. He runs through the creatures, ramming the larger AV groups away from his teammates like bowling pins.
+C: 160 COOPER 160 STRIKE!
+D: D
+N: Cooper pumps his fist up, but his win is interrupted when another virus glitch causes another fissure to open up. His truck’s wheels get stuck. He tries to speed out, but can’t. A
+C: 161 LOGAN 161
+D: Not good! Not good! Not good! N
+N: Just then, a ton of nightmare creatures bombard them, EE climbing all over, attempting to get inside and attack.
+C: 162 COOPER 162
+D: There’s too many! We need reinforcements! G
+N: Not a moment too soon, Zoey dives in on Zion, using her time- altering clock to land multiple quick attacks on the beasts. For the second time, Logan and Mateo are heavily impressed.
+C: 163 MATEO/LOGAN 163
+D: Whoa...
+N: Zoey wipes out the Nightmares attacking Cooper’s truck. She lands, very obviously annoyed. 164 ZOEY 164
+C: TE
+D: And once again, you lot have me aborting my mission to clean up your mess!
+C: U 165 BURRZERKER 165
+D: Completely understandable, brooding time bandit! Baking Papa is the
+C: IT
+D: type of game that requires a lot of concentration, but now we are in need of your help, young baker.
+C: ST 166 LOGAN 166
+D: Wait, Baking Papa? That baby game?!
+N: Zoey’s face lights up red from embarrassment.
+C: 167 ZOEY IN
+D: Baking Papa is a valid game, that 167
+E: through gritted teeth
+C: IS
+D: helps people destress and allows escapism, while learning essential life skills. AV
+C: 168 LOGAN 168
+D: Yeah! For sure. No shame in that!
+N: The Dark Archer’s lullaby cuts through the scene like a knife. D Our heroes look up, catching a glimpse of the Dark Archer aboard the Sharkface Airship. A
+C: 169 ZOEY 169
+D: You... N
+N: Without another word, she flies toward him with Zion. EE
+C: 170 LOGAN 170
+D: She needs our help!
+C: 171 COOPER 171
+D: G
+N: Let her go, she’s fine. We’re overwhelmed as it is! And stuck!
+C: 172 LOGAN 172
+D: What’s the use of this dumb monster truck if it can’t even get us anywhere!
+N: As soon as Logan groans out of frustration, sand particles float around their monster truck TRANSFORMING it into a
+C: TE
+D: literal MONSTER TRUCK; sharp teeth, monstrous glowing eyes, snarling nostrils.
+N: Logan and Cooper are flabbergasted.
+C: U 173 COOPER 173
+D: Did we just... Dream-bash?!
+C: IT
+D: A beat. The boys give each other a high five.
+C: ST 174 LOGAN/COOPER 174
+D: AWESOME!!
+N: As their beastly car begins ramming and chomping down on anything in their way. They skid up to the rest of the crew.
+C: 175 MATEO IN
+D: That was cool and all — 175
+C: IS 176 LOGAN 176
+D: Hater...
+C: 177 MATEO 177
+D: AV
+N: — but we need to find a way to eliminate the virus or we’ll lose the realm.
+C: 178 IZZIE 178
+D: D
+N: Not exactly an obvious task, Mateo. You got a plan? A Through the dream ether in the sky, flies Oz and Albert on their Rocket Ship. They use a rope to descend. N
+C: 179 MATEO 179
+D: How did you know we were in the EE
+N: Cyber Realm?
+C: 180 MR. OZ 180
+D: You kids do tend to cause trouble. Makes you easy to find. G
+C: 181 MATEO 181
+D: How do we stop the virus?
+N: Oz whips out a blue floppy disk.
+C: 182 MR. OZ 182
+D: With this! It’s a patch. All you need to do is insert this into the slot where the virus started.
+C: 183 LOGAN 183
+D: I put it into the holo-screen in
+C: TE
+D: the Nimbus Infinite arena, but it’s jammed. You can’t get it out.
+N: 184 MR. OZ 184
+C: U
+D: Then you’ll just have to find a way, now won’t you?
+C: IT
+D: Logan hesitantly takes the blue disk.
+N: 185 MATEO 185
+C: ST
+D: Don’t worry. We’ll go with you.
+C: 186 ALBERT 186
+D: And the rest of us will hold them off!
+C: 187 MATEO
+D: The rest of you?
+C: IN 187 IS 188 ALBERT 188
+D: You don’t honestly think we came here empty handed, do you? AV
+N: They turn to see an army of dreamers, who were previously playing games in the realm, but have been united by Oz and Albert to help save the day. The dreamers charge into battle.
+C: 189 MR. OZ 189
+D: D
+N: Now go, Dream Chasers! Save the Cyber Realm! A
+C: 190 MATEO 190
+D: Thanks, Mr. Oswald. N
+C: 191 MR. OZ 191
+D: Don’t thank me yet. EE
+S: EXT. SKY, CYBER REALM (DREAM REALM) - MEANWHILE
+N: Zoey soars toward Mr. Sharkface atop of Zion. They avoid the G Night Terrors flying at them like a spaceship avoiding asteroids. The Dark Archer checks over the ledge of Mr. Sharkface, taking note of her quick and daring approach. The Dark Archer gives his signature whistle, further aggravating Zoey. However, as she’s about to reach him, a glitchy cloud appears in front of her. She flies though it, but then it turns solid, trapping her and Zion inside. Just as they’re about to crash land, Burrzerker tuck and rolls into action, catching them before they can make impact.
+C: TE 192 BURRZERKER 192
+D: Not on my watch!
+N: He lowers them, returning to battle as they attempt to break
+C: U
+D: free from the cloud confining them. Zoey looks back up at the Dark Archer, furious at her failed attempt.
+C: IT
+D: INT. NIMBUS INFINITE ARENA, CYBER REALM - DAY
+E: DREAM REALM
+C: ST
+D: At the center of the arena is the damaged holo-screen, containing the red disk. Night Terrors hover around it, like moths to a flame. The group hides behind a wall barrier.
+N: 193 LOGAN 193
+C: IN
+D: Where did all those Night Terrors come from? There’s even more than before!
+C: IS 194 MATEO 194
+D: I don’t know, but we gotta get you closer so you can insert the patch. AV
+C: 195 COOPER 195
+D: Guess we’re running into battle then. Y’all ready?
+N: Izzie glances down at her backpack. She’s concerned. D
+C: 196 MATEO 196
+D: If you want to stay behind, we’ll A
+N: all understand. No judgment.
+C: 197 IZZIE 197
+D: N
+N: I just don’t want anything to happen to Bunzai. ...Like Mr. EE Sharkface.
+C: 198 MATEO 198
+D: If anything ever happened to Z-Blob I’d feel the exact same way. G
+N: (then) It’s ok. We got this. Z-Blob and the boys run out from their hiding place, using their video game surroundings to blast through enemies and rocket jump away from the horde coming at them. Izzie watches, feeling uneasy as they get overwhelmed. She removes Bunzai from her bag and dreamcrafts him back to his kick-butt size.
+C: 199 IZZIE 199
+D: If you don’t want to do this, we don’t have to. But if you do, I
+C: TE
+D: promise to try to protect you.
+N: Bunzai nods his head. Izzie hugs him.
+C: U 200 IZZIE 200
+D: Okay... Thanks, buddy.
+E: CONT’D
+C: IT
+D: Izzie nabs a blaster from off ground and rises.
+N: She rolls out of her hiding place, Bunzai at her side. They
+C: ST
+D: help the others BLAST through some of the enemies with amazing precision, enthusiasm, and skill. This is a complete flip from her experience during the game.
+C: 201 COOPER 201
+D: Way to go, Izz!
+C: IN
+D: Logan takes the blue disk and offers it to Mateo.
+C: IS 202 LOGAN 202
+D: Here, you do it. I’m the reason this all messed up in the first place. AV
+C: 203 MATEO 203
+D: Then be the one to make it right. We’re all in this together. D
+E: then
+N: Logan and Mateo share a smile. A
+C: 204 MATEO 204
+D: Coop, you go left! Izz, you go right! When they’re busy going for N
+E: CONT’D
+N: you, I’ll hit their flank. Once we have them engaged, Logan can run in EE with the patch! Ready? Everyone nods. Logan recharges his blaster.
+C: 205 LOGAN 205
+D: G
+N: Let’s rock and roll. Cooper, Z-Blob, Izzie, and Bunzai hold the enemies off on the outskirts, while Mateo acts as main defense for Logan. He shoots whatever he can as they run toward the center. Each time that Logan gets held up, he tosses the disk to Mateo, and vice versa. It’s a true tag team effort. Finally, Logan gets to the slot. He kicks off the front panel of the tablet and yanks out the red disk. He slams the blue disk into the slot. The red lights within the realm change back to blue. The realm begins to heal itself.
+C: TE 206 MATEO 206
+D: Yeah, Logan!
+N: The group cheers victoriously, but then Mateo and Logan cooly
+C: U
+D: slip back into their hesitant friendship.
+N: 207 MATEO (CONT’D) 207
+C: IT
+D: Heh. That was sort of like a relay race, wasn’t it?
+C: ST 208 LOGAN 208
+D: Yeah, you actually weren’t as terrible as I thought you’d be.
+N: 209 MATEO 209
+C: 210 IZZIE IN
+D: Maybe it wouldn’t be so bad to be on a Sheep Week team together?
+C: IS
+D: Look! Everything’s repairing!
+N: The team watches as the glitches diminish around them. Pixels form, filling holes in walls and floors. AV
+S: INT. LOBBY, CYBER REALM (DREAM REALM) - DAY
+N: Our team returns to see the lobby transform to its original D state. Even the darkness in the sky, caused by the shadow of the Sharkface Airship, has begun to move away. A Izzie stares up as Mr. Sharkface is taken away from her for the second time. Mateo approaches from behind. N
+C: 211 IZZIE 211
+D: I’ll get you back... EE
+C: 212 MATEO 212
+D: You will. And when that day comes, we’ll all be there to help you. G
+N: Oz and Albert rejoin the team. The dreamers scattered around the lobby begin to wake in their individual swarms of dream ether, returning to the Waking World with smiles on their faces after having quite the epic cyber fight dream.
+C: 213 BURRZERKER 213
+D: Thank you, loyal Dream Chasers, for your heroic endeavors! I hope we never meet again!
+N: Izzie looks wounded.
+C: TE 214 BURRZERKER 214
+D: Don’t be sad, young blue haired warrior.
+E: CONT’D
+C: U 215 MR. OZ 215
+D: What the Guardian is trying to say is that if he returns, it’s because
+C: IT
+D: the realm is under attack, so he hopes it doesn’t come to that again.
+C: ST 216 IZZIE 216
+D: I’m really sorry that you’ll have to return to your post. Must get lonely...
+C: 217 BURRZERKERIN
+D: I am never alone. Dreamers return to the Cyber Realm every night, and 217
+C: IS
+D: I get to witness them overcome the most challenging obstacles. It’s quite rewarding. AV
+N: This resonates with Mr. Oz.
+C: 218 BURRZERKER 218
+D: Plus, there is still time to show you my best fight compilations D
+E: CONT’D
+N: before you wake!
+C: 219 LOGAN 219
+D: A
+N: Oh, look at the time, we gotta bounce. BIG test. Right, Mr. Oz? N
+C: 220 MR. OZ 220
+D: Oh no, I think there is plenty of EE
+N: time to watch the compilations first. You kids get started while Albert and I finish some business of our own. (to Burrzerker) G Why don’t you start from 1988?
+C: 221 BURRZERKER 221
+D: Good idea, bearded ape companion! Start with the longest one.
+N: The kids wince as they gather around Burrzerker bringing up a holographic image of a crude 8bit fighter game, starring
+T: himself. And we FADE TO --
+S: EXT. SHARKFACE AIRSHIP - SAME
+C: TE
+D: As the enemy soldiers retreat, we see Lance land on the deck of Sharkface Airship. He transforms, revealing himself to be the Nightmare King again. Dark Archer kneels as the Nightmare King walks by him.
+C: U 222 NIGHTMARE KING 222
+D: This isn’t over.
+C: IT ST
+D: END OF EPISODE. *
+C: IN IS AV D A N EE
+D: G

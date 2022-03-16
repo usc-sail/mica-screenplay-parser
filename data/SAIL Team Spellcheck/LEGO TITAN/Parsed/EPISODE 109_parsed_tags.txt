@@ -1,0 +1,3061 @@
+M:                                      TE
+M:                                     U
+M:                                   IT
+M:               LEGO TITAN
+0: 
+0: 
+0: 
+0: 
+M:                           ST
+M:         EP 109: "SHORT SHEEPED"
+M:                   IN
+M:               Written by
+M:          IS
+M:              Ghia Godfree
+M:       AV
+0: 
+0: 
+M:               D2 5.2.21
+M:     D
+M:     A
+M:   N
+M: EE
+M: G
+0: T:     FADE IN ON:
+0: 
+N:     NASA BOBBLEHEAD ALBERT, bathed in shadows, smiling serenely.
+N:     WIDEN OUT TO REVEAL --
+0: 
+0: 
+S: 1   INT. NIGHT BUREAU – NIGHT                                     1
+0: 
+N:     A flashlight beam bounces haphazardly through the inky
+0: 
+0: 
+0: 
+0: 
+C:                                                TE
+D:     interior of Oz’s office. Suddenly --
+0: 
+C: 1                        LOGAN                                    1
+D:               Ow!
+0: 
+0: 
+0: 
+0: 
+C:                                               U
+D:     Our nighttime intruder is LOGAN! Nursing his stubbed toe, he
+0: 
+0: 
+0: 
+0: 
+C:                                             IT
+D:     hops over to Oz’s desk and rifles through drawers until...
+0: 
+N: 2                        LOGAN (CONT’D)                           2
+0: 
+0: 
+0: 
+0: 
+C:                                      ST
+D:               Jackpot!
+0: 
+N:     As Logan reaches for LUNA’S HOURGLASS -- cracked and broken -- *
+N:     he bumps the bobblehead. About to grab the Hourglass, he       *
+0: 
+0: 
+0: 
+0: 3
+C:                                  IN
+D:     flinches at Albert bobbling away at him... a second of
+D:     remorse... but then he sets his jaw.
+0: 
+N:                         LOGAN (CONT’D)                            3
+0:                                                                    *
+0:                                                                    *
+C:                      IS
+D:               Don’t look at me like that, monkey.
+0: 
+N:     Logan snatches the hourglass, stuffs it in his BACKPACK and
+N:     races out as we CUT TO:
+N:                   AV
+0: 
+0: 
+N:     TITLE SEQUENCE: DREAMCHASERS EP. 109: “SHORT SHEEPED”             *
+N:              D
+0: 
+0: 
+0: 
+S: 2   EXT. CYBER REALM (DREAM WORLD) – NIGHT - LATER                2
+0: 
+N:     On top of the world, Logan strides into the maze-esque ARENA      *
+N:        A
+0: 
+0: 
+0: 
+0: 
+N:     and spots LANCE resting imperiously on a barrier.                 *
+N:   N
+0: 
+0: 
+0: 
+0: 
+C: 4                       LOGAN                                     4
+D:               Litty city up in heahhh!
+D: EE
+0: 
+0: 
+0: 
+0: 
+N:     He proudly pulls Luna’s Hourglass out of his backpack.
+0: 
+C: 5                       LANCE                                     5
+D:               How I’ve dreamed of this day...
+D: G
+0: 
+0: 
+0: 
+0: 
+N:     Lance leaps to his feet, quivering with unhealthy excitement.
+N:     Twigged, Logan hesitates... Lance stalks forward, intense.
+0: 
+C: 6                        LOGAN                                    6
+E:                   (backing away)
+D:               You’re acting pretty sus, dude.
+0: 0:                                                            2.
+0: 
+0: 
+C: 7                         LANCE                                   7
+C:                    (Lance and NK voices
+D:                     overlapping)
+D:                Give it to me!
+0: 
+N:      In a swirl of red mist, Lance unveils his true self... the
+N:      NIGHTMARE KING! Logan gapes, horror filling his face.
+0: 
+N: 8                        LOGAN                                    8
+0: 
+0: 
+0: 
+0: 
+C:                                                       TE
+D:                NOOOOO!
+0: 
+N:      He pivots and runs. Hyena cackles fill the air. Glancing up,
+N:      Logan spots WINGED DARKLINGS plummeting down...
+0: 
+0: 
+0: 
+0: 
+C:                                                 U
+D: 9                         NIGHTMARE KING                          9
+0: 
+0: 
+0: 
+0: 
+C:                                               IT
+E:                    (long suffering)
+D:                Why must they always run?
+0: 
+0: 
+0: 
+0: 
+C:                                        ST
+D:      As a swarm of snickering Darklings burst into the clearing,
+D:      Logan looks around desperately. No escape. SNIVEL, SNEAK, and
+D:      SUSAN brandish their weapons.
+0: 
+C: 10                        LOGAN
+C:                                  IN
+D:                Please tell me this isn’t
+D:                happening.
+D:                                                                   10
+C:                      IS
+C: 11                       SNIVEL                                   11
+D:                Oh, it’s happening.                                     *
+0: 
+N:      Logan tries to brazen it out...
+N:                   AV
+0: 
+0: 
+C: 12                       LOGAN                                    12
+D:                Back off man! I got crazy                               *
+D:                dreamcrafting skills and I will...                      *
+D:               D
+0: 
+0: 
+0: 
+N:                will...
+0: 
+C: 13                        NIGHTMARE KING                          13
+D:         A
+0: 
+0: 
+0: 
+0: 
+N:                    (bored)
+N:                Will what, Logan? Terrify us with
+N:   N
+0: 
+0: 
+0: 
+0: 
+N:                your appalling sense of fashion?
+0: 
+C: 14                       LOGAN                                    14
+D: EE
+0: 
+0: 
+0: 
+0: 
+N:                I’ll dreamcraft something huge. And
+N:                totally kick all of your butts.                         *
+0: 
+C: 15                       NIGHTMARE KING                           15
+D: G
+0: 
+0: 
+0: 
+0: 
+N:                I’d love to see you try.
+0: 
+C: 16                       SNIVEL/SNEAK/SUSAN                       16
+D:                Me too./Definitely./Unh-huh.
+0: 
+C: 17                        LOGAN                                   17
+E:                    (pumping himself up)
+D:                C’mon dude, you can do this.
+E:                           (MORE)
+0: 0:                                                               3.
+0: 
+C:                           LOGAN (CONT'D)
+D:                Creativity... inspiration...                             *
+D:                focus...
+E:                    (tries to dreamcraft)
+D:                ARRRRRGH!
+0: 
+N:      FWHOOSH! A strip of BLUE FUR sprouts down Logan’s arm! He
+N:      stares surprised. The NK cocks an eyebrow then hefts his
+N:      staff menacingly --
+0: 
+0: 
+0: 
+0: 
+C:                                                  TE
+D:      THHWWIP! A shadow bolt THUDS at Logan’s feet. Startled, he
+D:      drops the Hourglass. Before it can hit the ground, Sneak
+D:      darts forward to catch it and return it to his master. Fear
+D:      flashes across Logan’s face...
+0: 
+0: 
+0: 
+0: 
+C:                                                 U
+D:      REVERSE to LOGAN’S POV: Susan curls up into WRECKING-BALL
+0: 
+0: 
+0: 
+0: 
+C:                                               IT
+D:      MODE, barrels toward him. Right as Susan’s about to SMASH
+D:      into Logan, we CUT TO --
+0: 
+0: 
+0: 
+0: 
+C:                                       ST
+D: 3    EXT. CITY MIDDLE - FIELD - DAY                                3
+0: 
+N:      A very worried COOP hustles past students and teachers ready       *
+C:                                    IN
+D:      for Sheep Week to start. He races up to MATEO, IZZIE, and Z
+E:      BLOB (peeking out of Teo’s backpack) waiting anxiously. They
+D:      slump at the concern etched across Coop’s face.
+0:                                                                         *
+0:                                                                         *
+0:                                                                         *
+C:                      IS
+C: 18                       COOPER                                    18   *
+D:                I can’t find him anywhere.
+0: 
+C: 19                        MATEO                                    19   *
+D:                   AV
+0: 
+0: 
+N:                Ugh. Even when he wasn’t in class I
+N:                was sure he’d show for soccer.
+N:                    (to Coop)                                            *
+N:                Have you tried his cell?
+N:               D
+0: 
+0: 
+0: 
+C: 20                       COOPER                                    20   *
+C:                A trillion times.
+D:         A
+0: 
+0: 
+0: 
+0: 
+N:      Coop dials, holds up his cellphone. Teo and Izzie look             *
+N:   N
+0: 
+0: 
+0: 
+0: 
+N:      hopeful but it goes straight to voicemail --
+0: 
+N: 21                       LOGAN (OVER VOICEMAIL)                    21
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:                Yo yo yo, you know what to do.
+0: 
+N:      Coop jabs at his phone angrily. Hangs up.                          *
+N: G
+0: 
+0: 
+0: 
+0: 
+C: 22                       IZZIE                                     22
+D:                Do you think something’s wrong?
+D:                Maybe we should--
+0: 
+C: 23                       COOPER                                    23   *
+D:                What’s wrong is Logan ditched us!
+0: 0:                                                               4.
+0: 
+0: 
+C: 24                       IZZIE                                     24
+D:                What?!
+0: 
+C: 25                       COOPER                                    25   *
+D:                His phone always goes straight to
+D:                voicemail when he’s at the Hamptons
+D:                with his Moms.
+0: 
+N:      Mateo can’t help it –- he looks a teensy bit relieved.             *
+0: 
+0: 
+0: 
+0: 
+C:                                                 TE
+C: 26                       MATEO                                     26   *
+D:                We’ll have to forfeit.
+0: 
+0: 
+0: 
+0: 
+C:                                                U
+D:      Izzie punches him in the arm. Hard. Mateo winces.                  *
+0: 
+0: 
+0: 
+0: 
+C:                                              IT
+C: 27                       IZZIE                                     27
+D:                Don’t be a turkey! We’ve got some                        *
+D:                Wolves to cream.                                         *
+0: 
+0: 
+0: 
+0: 
+C:                                         ST
+C: 28                        COOPER                                   28   *
+D:                As if Coach Jeffries will let us
+D:                play. You know the rules, Iz. He’s
+0: 
+C:                full team.        IN
+D:                gonna make us forfeit without a
+0: 
+0: 
+N:      Izzie gives Mateo and Coop a condescending pat.                    *
+C:                      IS
+C: 29                       IZZIE                                     29
+D:                Leave Coach Jeffries to me, boys...
+D:                   AV
+0: 
+0: 
+N:      ANGLE ON COACH JEFFRIES sipping a green protein smoothie.
+N:      Izzie stalks up, determined.
+0: 
+C: 30                       COACH JEFFRIES                            30
+D:               D
+0: 
+0: 
+0: 
+N:                Whatever you’re about to ask,
+N:                Isabelle... the answer is ‘no.’
+N:         A
+0: 
+0: 
+0: 
+0: 
+C: 31                       IZZIE                                     31
+D:                C’mon Coach, Logan’s sick. We need
+D:   N
+0: 
+0: 
+0: 
+0: 
+N:                time to find a replacement!
+0: 
+N:      SLURP. Jeffries shakes his head. Izzie goes in for the kill.
+N: EE
+0: 
+0: 
+0: 
+0: 
+C: 32                       IZZIE (CONT’D)                            32
+D:                Hmm, I wonder if Principal Williams                      *
+D:                would like to know you don’t pay                         *
+D: G
+0: 
+0: 
+0: 
+0: 
+N:                for your smoothies at the                                *
+N:                cafeteria...                                             *
+0: 
+N:      BACK ON Mateo and Coop. They watch with shock as Izzie             *
+N:      triumphantly marches towards them flashing a thumbs up. In
+N:      the B.G., Jeffries shakes his head with reluctant admiration.
+N:      Coop turns to Mateo and sighs, still bummed.                       *
+0: 0:                                                              5.
+0: 
+0: 
+C: 33                       COOPER                                   33   *
+D:                It doesn’t matter. We’ll never find
+D:                someone as good as Logan. We can
+D:                kiss our chances of winning
+D:                goodbye.
+0: 
+C: 34                       MATEO                                    34   *
+D:                Look, Coop. Even if we’re down our                      *
+D:                best player... and even if I’m not
+0: 
+0: 
+0: 
+0: 
+C:                                                 TE
+D:                the best at soccer--
+0: 
+C: 35                        IZZIE                                   35
+E:                    (not sugarcoating it)
+0: 
+0: 
+0: 
+0: 
+C:                                                U
+D:                --You’re terrible.
+0: 
+0: 
+0: 
+0: 
+C:                                              IT
+C: 36                        MATEO                                   36   *
+D:                Right. Which is why I was looking
+D:                forward to not embarrassing myself
+0: 
+0: 
+0: 
+0: 
+C:                                       ST
+D:                on the soccer field.
+E:                    (then)
+D:                But I’m not giving up. Somehow,
+D:                someway, I promise to figure
+0: 
+0: 
+0: 37
+N:                something out...
+0: 
+C:                           COOPER
+E:                    (groans)
+C:                                    IN                             37   *
+C:                      IS
+D:                We’re--
+0: 
+C:                                                      SMASH TO:
+D:                   AV
+0: 
+0: 
+S: 4    EXT. SHADOWKEEP - CONTINUOUS                                  4
+0: 
+C:      CLOSE ON Logan.
+D:               D
+0: 
+0: 
+0: 
+C: 38                         LOGAN                                  38
+D:                --doomed.
+D:         A
+0: 
+0: 
+0: 
+0: 
+N:      WIDEN TO REVEAL Logan staring up at the ominous SHADOWKEEP.
+N:      He watches with mounting fear as Night Terrors slink through
+N:   N
+0: 
+0: 
+0: 
+0: 
+N:      the swirling mist. The Nightmare King, on his NIGHT MARE, is
+N:      welcomed home by his loud and boisterous Darkling army. As
+N:      Susan prods Logan forward with her spear, CUT TO:
+N: EE
+0: 
+0: 
+0: 
+0: 
+S: 5    INT. MATEO & IZZIE'S APARTMENT – KITCHEN – CONTINUOUS         5   *
+N: G
+0: 
+0: 
+0: 
+0: 
+N:      At the kitchen table, Coop hangs up his cellphone and draws       *
+N:      the last of a long line of red X’s on a class photo.              *
+0: 
+C: 39                        COOPER                                  39   *
+D:                Ugh, how is everyone in our class
+D:                already on a team?!
+E:                    (then)
+D:                Keep practicing!
+0: 0:                                                            6.
+0: 
+0: 
+N:      WHIP to Mateo close to the wall, heading a soccer ball            *
+N:      against it, <WHAP>. He is terrible but at least he’s trying.      *
+0: 
+C: 40                       MATEO                                    40   *
+D:                Isn’t it weird that football’s
+D:                called football and you play with
+D:                your hands but soccer’s called
+D:                soccer and you play with your feet?
+0: 
+0: 
+0: 
+0: 
+C:                                                   TE
+D:      By the fridge, Z Blob pauses from squirting whipped cream
+D:      into his mouth to shrug. Bubbling with excitement, Izzie
+D:      enters carrying a box. She halts at the sight of her brother.
+0: 
+0: 
+0: 
+0: 
+C:                                                  U
+C: 41                        IZZIE                                   41
+E:                    (to Coop)                                           *
+0: 
+0: 
+0: 
+0: 
+C:                                                IT
+D:                What’s he doing?
+0: 
+N: 42                       COOPER                                   42   *
+0: 
+0: 
+0: 
+0: 
+C:                                       ST
+D:                Your brother’s got two left feet
+D:                but he’s kinda smart, so I figured
+D:                let’s see if he can use his head.
+0: 
+C: 43                       MATEO
+C:                                   IN
+D:                Watch, I’m getting good!
+0: 
+N:      On cue, Mateo throws the ball a little too hard at the wall.
+N:                                                                   43   *
+0: 
+0: 
+0:                                                                        *
+C:                      IS
+D:      He misjudges the ricochet and WHOMP! It bounces off his face.
+0: 
+N: 44                       MATEO (CONT’D)                           44   *
+N:                Ow!
+N:                   AV
+0: 
+0: 
+N:      Izzie plonks the bix box onto the table and starts pulling
+N:      out dress-up clothes.
+N:               D
+0: 
+0: 
+0: 
+C: 45                       IZZIE                                    45
+D:                It’s official -- I’m a genius.
+D:         A
+0: 
+0: 
+0: 
+0: 
+N:      Mateo eyes a tutu skeptically as Izzie explains breathless:       *
+N:   N
+0: 
+0: 
+0: 
+0: 
+C: 46                       IZZIE (CONT’D)                           46
+D:                We don’t need to find a replacement
+D:                for Logan. Not when we’ve got one
+D: EE
+0: 
+0: 
+0: 
+0: 
+N:                right here! We disguise Z Blob as a
+N:                student and he can play tomorrow!
+0: 
+N:      Coop gapes, Z Blob grins, Mateo panics.                           *
+N: G
+0: 
+0: 
+0: 
+0: 
+C: 47                       MATEO                                    47   *
+D:                Unh-uh, not happening. No way I’m
+D:                risking Z Blob being seen again.                        *
+0: 0:                                                            7.
+0: 
+0: 
+C: 48                        IZZIE                                 48
+E:                    (pouty)
+D:                Why not? I bet Z Blob’s a great                       *
+D:                soccer player.
+0: 
+C: 49                        COOPER                                49   *
+E:                    (dubious)
+D:                A very short soccer player.
+0: 
+0: 
+0: 
+0: 
+C:                                                 TE
+D:      Mateo pulls out his trump card.                                 *
+0: 
+C: 50                       MATEO                                  50   *
+D:                I’ve got it covered. The answer to
+0: 
+0: 
+0: 
+0: 
+C:                                                U
+D:                our Logan problem will be here any--
+0: 
+0: 
+0: 
+0: 
+C:                                              IT
+D:      DING-DONG. All eyes whip to the front door. Mateo steels        *
+D:      himself, heads over. Coop turns to Izzie, raises an eyebrow:    *
+0: 
+0: 
+0: 
+0: 
+C:                                         ST
+C: 51                        IZZIE                                 51
+E:                    (shrugs)                                          *
+D:                No clue.                                              *
+0: 
+C:                                   IN
+D:      They both look at Z Blob, who shrugs. He’s in the dark, too.
+0: 
+N:      At the door, Mateo takes a deep breath and opens it to reveal
+N:      ZOEY. Coop and Izzie fist bump without looking at each other.
+0:                                                                      *
+0: 
+0:                                                                      *
+0:                                                                      *
+C:                      IS
+D:      Zoey cocks an eyebrow at them.
+0: 
+C: 52                       COOPER/IZZIE                           52   *
+D:                Hey Zoey! / Sooooo good to see you.                   *
+D:                   AV
+0: 
+0: 
+C: 53                        ZOEY                                  53
+E:                    (taken aback)                                     *
+D:                Yeah, cool.
+D:               D
+0: 
+0: 
+0: 
+N:                    (holds up a bag to Mateo)                         *
+N:                Here’s your order. Twenty atomic
+N:                tacos. And one vegan burrito.
+N:         A
+0: 
+0: 
+0: 
+0: 
+C: 54                       IZZIE                                  54
+D:   N
+0: 
+0: 
+0: 
+0: 
+N:                With EXTRA JALAPENOS?!                                *
+0: 
+N:      Zoey rolls her eyes as Teo fumbles to pull out some sweaty     *
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:      ones as a tip. He blushes, embarrassed, when a cutesy Pokémon- *
+N:      style drawing of Z Blob falls out, too. He scoops it up.       *
+0: 
+C: 55                       MATEO                                  55   *
+D: G
+0: 
+0: 
+0: 
+0: 
+N:                Uh, thanks for coming over Zoey.
+0: 
+C: 56                        ZOEY                                  56
+D:                I kinda had to... since I deliver                     *
+D:                the tacos.                                            *
+0: 
+C: 57                       MATEO                                  57   *
+D:                <AWKWARD LAUGH> Oh yeah.                              *
+0: 0:                                                               8.
+0: 
+0: 
+N:      Zoey thrusts the bag of tacos forward. Z Blob darts over,          *
+N:      grabs the bag, and scarfs some tacos -- wrapper and all.
+0: 
+C: 58                       ZOEY                                      58
+D:                You sure the little green guy can
+D:                handle the heat? Mrs. C does NOT go                      *
+D:                easy on the jalapenos.                                   *
+0: 
+N:      Clearly distracted by his nerves, Mateo waves away her             *
+0: 
+0: 
+0: 
+0: 
+C:                                                   TE
+D:      concern.
+0: 
+C: 59                        MATEO                                    59   *
+D:                Yeah, he’s fine.                                         *
+0: 
+0: 
+0: 
+0: 
+C:                                                  U
+E:                    (then, nervously)
+D:                So um... we were wondering...
+0: 
+0: 
+0: 
+0: 
+C:                                                IT
+D:                actually I was wondering...                              *
+0: 
+N: 60                       ZOEY                                      60
+0: 
+0: 
+0: 
+0: 
+C:                                       ST
+D:                Mateo. Just spit it out.                                 *
+0: 
+C: 61                        MATEO                                    61   *
+E:                    (one big breath)
+0: 
+0: 
+0: 
+C: 62                       ZOEY
+C:                                 IN
+D:                Will-you-join-our Sheep-Week-team
+D:                and-play-soccer-tomorrow?
+0: 
+0:                                                                    62
+0:                                                                         *
+0:                                                                         *
+C:                      IS
+D:                Why, what’s up with Logan?
+0: 
+C: 63                        COOPER                                   63   *
+E:                    (mouth full of taco)                                 *
+D:                   AV
+0: 
+0: 
+N:                Ditched us to go on vacay.
+0: 
+C: 64                       ZOEY                                      64
+D:                Huh. Look, I get that you guys care
+D:               D
+0: 
+0: 
+0: 
+N:                about stupid Sheep Week, but I                           *
+N:                don’t. Things are a little intense                       *
+N:                for me right now and I need to stay                      *
+N:         A
+0: 
+0: 
+0: 
+0: 
+N:                focused on the important stuff.
+N:   N
+0: 
+0: 
+0: 
+0: 
+N:      Embarrassed, Mateo lashes out:                                     *
+0: 
+C: 65                       MATEO                                     65   *
+D: EE
+0: 
+0: 
+0: 
+0: 
+N:                Yeah, like totally stalking the                          *
+N:                Dark Archer, right?
+0: 
+N:      Zoey bristles, PISSED. She pulls the door shut -- SLAMMING it
+N: G
+0: 
+0: 
+0: 
+0: 
+N:      in Teo’s face. He turns around, stricken. Izzie pats his           *
+N:      shoulder, sympathetic.
+0: 
+C: 66                       IZZIE                                     66
+D:                It was a good idea.                                      *
+0: 
+N:      Seeing Coop’s face fall, Mateo makes a snap decision.              *
+0: 0:                                                            9.
+0: 
+0: 
+C: 67                       MATEO                                    67   *
+D:                Z Blob can play.
+0: 
+N:      Izzie squeals with excitement, grabs a handful of clothes and     *
+N:      yanks Z Blob offscreen.
+0: 
+C: 68                       IZZIE (O.S.)                             68
+D:                BRB!
+0: 
+0: 
+0: 
+0: 
+C:                                                 TE
+D:      Coop gives Mateo a relieved smile.                                *
+0: 
+C: 69                        COOPER                                  69   *
+D:                Thanks, dude. I really wanna play.
+0: 
+0: 
+0: 
+0: 
+C:                                                U
+E:                    (off Mateo’s look)                                  *
+D:                Annnnnd I didn’t want to tell my
+0: 
+0: 
+0: 
+0: 
+C:                                              IT
+D:                fam we’re forfeiting.
+0: 
+N: 70                       MATEO                                    70   *
+0: 
+0: 
+0: 
+0: 
+C:                                         ST
+D:                I was a total idiot with Zoey,
+D:                wasn’t I?
+0: 
+C: 71                       COOPER                                   71   *
+D:                Not at all!
+C:                                   IN
+D:      Coop tries to stifle a grimace but doesn’t quite succeed.
+D:      Mateo groans as Izzie saunters into the kitchen, chuffed.
+0:                                                                        *
+0: 
+0:                                                                        *
+0:                                                                        *
+C:                      IS
+C: 72                       IZZIE                                    72
+D:                Introducing Brooklyn City Middle’s
+D:                latest foreign exchange student...
+D:                   AV
+0: 
+0: 
+N:                Monsieur Z Pierre!
+0: 
+N:      She steps aside, CLOSE ON Teo and Coop, whose eyes widen.         *
+N:               D
+0: 
+0: 
+0: 
+C: 73                       MATEO/COOPER                             73   *
+D:                Huh. / Yoikes.                                          *
+D:         A
+0: 
+0: 
+0: 
+0: 
+N:      REVERSE TO REVEAL: Z-Blob is still a small pile of slime          *
+N:      except now he’s rocking a BERET, a SCARF and brandishing a        *
+N:   N
+0: 
+0: 
+0: 
+0: 
+N:      BAGUETTE. <BLINK-BLINK> Even Izzie has to face facts --           *
+0: 
+C: 74                       IZZIE                                    74
+D: EE
+0: 
+0: 
+0: 
+0: 
+N:                <FRUSTRATED GROAN> This isn’t going                     *
+N:                to work, is it?                                         *
+0: 
+C: 75                       COOPER                                   75   *
+D: G
+0: 
+0: 
+0: 
+0: 
+N:                Nope. So much for finding a                             *
+N:                replacement for Logan.                                  *
+0: 
+N:      The kids slump, defeated.
+0: 
+C: 76                       MATEO                                    76   *
+D:                 This day could NOT get any worse.                      *
+0: 0:                                                           10.
+0: 
+0: 
+N:      BLAARGH! As Z Blob yaks green-blob all over Teo, CUT TO --        *
+0: 
+0: 
+S: 6    INT. SHADOWKEEP - DAY - CONTINUOUS                            6
+0: 
+N:      The Nightmare King, perched insolently on his throne, surveys
+N:      the scene. Luna’s Hourglass sits on a pedestal in the middle
+N:      of the room. Logan (hands shackled) stands uncomfortably next
+N:      to the DARK ARCHER. Around them, Darklings push and shove,
+0: 
+0: 
+0: 
+0: 
+C:                                                   TE
+D:      jockeying for the best view of the Hourglass.
+0: 
+N:      A scuffle breaks. A Darkling stumbles and bumps the pedestal
+N:      with the hourglass. It wobbles precariously before
+0: 
+0: 
+0: 
+0: 
+C:                                                  U
+D:      stabilizing. Silence descends.
+0: 
+0: 
+0: 
+0: 
+C:                                                IT
+D:      A beat. The NK nonchalantly swings his staff forward and --
+0: 
+N: 77                       DARKLING                                 77
+0: 
+0: 
+0: 
+0: 
+C:                                       ST
+D:                <FRIGHTENED SQUEAL>                                     *
+0: 
+N:      BOOSH! A shadow bolt THUDS into the Darkling disintegrating
+N:      it into DREAM ETHER, which falls to the floor. The keep ROARS
+0: 
+0: 
+0: 
+C: 78                        LOGAN
+C:                                 IN
+D:      with approval as the NK swirls the Dream Ether sand back into
+D:      his staff. Logan shuts his eyes, afraid.
+0: 
+0:                                                                   78
+0:                                                                        *
+C:                      IS
+E:                    (sotto, to self)
+D:                Wake up, wake up.
+0: 
+N:      The NK clocks Logan. Smirks arrogantly.
+N:                   AV
+0: 
+0: 
+C: 79                       NIGHTMARE KING                           79
+D:                A dream chaser who doesn’t even                         *
+D:                know it’s impossible to wake in the                     *
+D:               D
+0: 
+0: 
+0: 
+N:                Grim Realm? How pathetic.                               *
+0: 
+N:      The Dark Archer steps forward, spreads his arms dramatically.
+N:         A
+0: 
+0: 
+0: 
+0: 
+C: 80                        DARK ARCHER                             80
+D:   N
+0: 
+0: 
+0: 
+0: 
+N:                Behold! After many long nights of
+N:                searching, our dark lord has
+N:                finally obtained Luna’s Hourglass!
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:                    (holds up the hourglass)
+N:                Tonight, he will locate Castle                          *
+N:                Nocturna and destroy it once and                        *
+N:                for all!
+N: G
+0: 
+0: 
+0: 
+0: 
+N:      The Darklings cackle with glee as the NK slinks over to
+N:      receive the Hourglass. He smiles menacingly.
+0: 
+C: 81                       NIGHTMARE KING                           81
+D:                I’ll enjoy seeing the Castle one
+D:                last time...
+0: 0:                                                           11.
+0: 
+0: 
+N:      The Nightmare King raises the Hourglass... The Darklings lean
+N:      forward in anticipation... Logan FLINCHES, anticipating the
+N:      shock wave about to hit. But then --
+0: 
+N:      Nothing. The Hourglass stays dark and lifeless. The Dark
+N:      Archer gasps, surprised. Darklings cower as the Nightmare
+N:      King HOWLS in frustration. Turns on the DA, menacing --
+0: 
+N: 82                       NIGHTMARE KING (CONT’D)                  82
+0: 
+0: 
+0: 
+0: 
+C:                                                  TE
+D:                You told me despite it’s disrepair,                     *
+D:                Luna’s Hourglass would work.                            *
+0: 
+N: 83                       DARK ARCHER                              83
+0: 
+0: 
+0: 
+0: 
+C:                                                 U
+D:                I’m-I’m sorry. I thought it would--                     *
+0: 
+0: 
+0: 
+0: 
+C:                                               IT
+D:      Furious, the NK points his staff at the Dark Archer, who
+D:      winces, anticipating the worst...
+0: 
+0: 
+0: 
+0: 
+C:                                       ST
+D:      BOOM! A shadow bolt STREAKS past the Dark Archer and EXPLODES
+D:      the Darklings’ smoothie bar in a shower of smoothie, sparks,
+D:      and dream ether.
+0: 
+0: 
+0: 
+0: 
+0: 84
+C:                                 IN
+D:      PAN OVER to Snivel, Susan, and Sneak drenched in smoothie,
+D:      sniffling sadly.
+0: 
+C:                          NIGHTMARE KING                           84
+C:                      IS
+D:                Get out of my sight!
+0: 
+N:      As Darklings scatter, we CUT TO --
+N:                   AV
+0: 
+0: 
+S: 7    EXT. CITY MIDDLE - FIELD – NEXT DAY                          7
+0: 
+N:      COACH JEFFRIES, STUDENTS, the WOLVES, JAY, and COOP’S FAMILY      *
+N:               D
+0: 
+0: 
+0: 
+N:      line the sidelines. On the street, Mrs. C’s Food Truck does
+N:      booming business. JADYN holds up a megaphone:                     *
+N:         A
+0: 
+0: 
+0: 
+0: 
+C: 85                       JADYN                                    85   *
+D:                Better get your tacos fast,
+D:   N
+0: 
+0: 
+0: 
+0: 
+N:                Brooklyn! It’s almost time for some
+N:                Sheep Week soccer!
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:      WHIP TO Mateo and Coop on a bench looking a little green.         *
+N:      Izzie considers the crowd, unfazed.
+0: 
+C: 86                       IZZIE                                    86
+D: G
+0: 
+0: 
+0: 
+0: 
+N:                Guess we shoulda told everyone we
+N:                were gonna forfeit before this,
+N:                huh?
+0: 
+N:      The boys groan and slump even further.
+0: 0:                                                              12.
+0: 
+0: 
+S: 8    EXT. BROOKLYN STREET - DAY                                    8
+0: 
+N:      ANGLE ON Mrs. C, watching the boys intently from her perch in
+N:      the food truck. She whistles comically loudly. Zoey darts
+N:      back to the truck laden down with deliveries.
+0: 
+C: 87                       ZOEY                                      87
+D:                Kinda busy here, Mrs. C.
+0: 
+0: 
+0: 
+0: 
+C:                                                  TE
+D:      Mrs. C passes her a bag.
+0: 
+C: 88                       MRS. CASTILLO                             88
+D:                Three atomic tacos for Coach
+0: 
+0: 
+0: 
+0: 
+C:                                                 U
+D:                Jeffries. And make it snappy, mija.
+0: 
+0: 
+0: 
+0: 
+C:                                               IT
+D:      Zoey rolls her eyes before taking the bag and jogging off.
+0: 
+0: 
+0: 
+0: 
+C:                                       ST
+D: 9    EXT. CITY MIDDLE - FIELD - DAY                                9
+0: 
+N:      ANGLE ON our Dream Chasers. Mateo spots Zoey hustling past         *
+N:      with the bag of tacos and leaps up.
+0: 
+C: 89                       MATEO
+D:                Zoey, wait up!
+D:                                   IN                               89   *
+0:                                                                         *
+C:                      IS
+D:      Zoey reluctantly slows to a stop. Teo dives in:                    *
+0: 
+N: 90                       MATEO (CONT’D)                            90   *
+N:                I just wanted to say I’m sorry. I
+N:                   AV
+0: 
+0: 
+N:                shouldn’t have made that crack
+N:                about the Dark Archer. Whatever’s
+N:                going on is your business, okay?
+N:               D
+0: 
+0: 
+0: 
+N:      Zoey softens almost imperceptibly at Mateo’s apology.              *
+0: 
+N: 91                       MATEO (CONT’D)                            91   *
+N:         A
+0: 
+0: 
+0: 
+0: 
+N:                But I’m here if you ever want to
+N:                talk...
+N:   N
+0: 
+0: 
+0: 
+0: 
+N:      A pregnant beat. But Zoey’s not ready.
+N: EE
+0: 
+0: 
+0: 
+0: 
+N: 92                       MATEO (CONT’D)                            92   *
+N:                And just for the record, Sheep Week
+N:                is kinda stupid. It’s just... I’m
+N:                trying to win for Coop and Izzie. I                      *
+N: G
+0: 
+0: 
+0: 
+0: 
+N:                don’t want to let them down.
+0: 
+N:      Mateo waits for a response but Zoey’s clearly distracted.          *
+0: 0:                                                             13.
+0: 
+0: 
+N: 93                        MATEO (CONT’D)                          93   *
+N:                    (a little frustrated)
+N:                I know you’re not gonna join our
+N:                team and everything, but I just
+N:                wanted you to know the truth.
+0: 
+N:      From ZOEY’S POV, we see the Wolves hassling Coop and Izzie.       *
+N:      DALLAS, their team Captain and a born bully, aggressively         *
+N:      bumps Izzie and swipes one of the plushy keychains off her
+0: 
+0: 
+0: 
+0: 
+C:                                                    TE
+D:      backpack.
+0: 
+N:      Oblivious to what’s happening, Mateo rolls his eyes.              *
+0: 
+0: 
+0: 
+0: 
+C:                                                   U
+E: 94                       MATEO (CONT’D)                           94   *
+D:                Geez, good convo Zoey.
+0: 
+0: 
+0: 
+0: 
+C:                                                 IT
+D:      Zoey gives Mateo a withering look before stomping past him.       *
+D:      Teo turns, eyes widening at the scene... hustles after Zoey.      *
+0: 
+0: 
+0: 
+0: 
+C:                                       ST
+D:      ON Izzie, trying to grab her plushy keychain.
+0: 
+N: 95                       IZZIE                                    95
+0: 
+0: 
+C: 96                       DALLAS
+C:                                 IN
+D:                This is so not cool, Dallas.
+0: 
+0: 
+N:                What’re you gonna do about it? Beat
+0:                                                                   96
+0:                                                                        *
+0: 
+0:                                                                        *
+C:                      IS
+D:                us at soccer? I don’t think so.
+D:                You’re down a player so it’s
+D:                forfeit city for you losers.
+D:                   AV
+0: 
+0: 
+N:      Just then, he catches sight of Zoey marching menacingly up to
+N:      him and instinctively shrinks back. She gets in his face.
+0: 
+C: 97                       ZOEY                                     97
+D:               D
+0: 
+0: 
+0: 
+N:                Stop picking on my teammates.                           *
+0: 
+N:      It’s a toss-up over who is more stunned -- the Wolves or the      *
+N:         A
+0: 
+0: 
+0: 
+0: 
+N:      Dream Chasers. Dallas gapes. Izzie squeals, ecstatic.             *
+N:   N
+0: 
+0: 
+0: 
+0: 
+C: 98                       IZZIE                                    98
+D:                Oh yeah, uh-huh. You turkeys are
+D:                going down!
+D: EE
+0: 
+0: 
+0: 
+0: 
+N:      Izzie plucks her plushy out of the still-stunned Dallas’ hand     *
+N:      as Zoey pivots... stalks across the field to Coach
+N:      Jeffries... thrusts the bag of tacos at him.
+N: G
+0: 
+0: 
+0: 
+0: 
+C: 99                       ZOEY                                     99
+D:                Dream Chasers are ready whenever
+D:                you are Coach.
+0: 
+N:      OFF Coach Jeffries’ surprise, we CUT TO:
+0: 0:                                                               14.
+0: 
+0: 
+S: 10    INT. SHADOWKEEP - CONTINUOUS                                  10
+0: 
+N:       WIDE on a dank, oppressive dungeon. The light cast by
+N:       flickering torches barely penetrates the gloom.
+0: 
+N:       PUSH IN on one cell bathed in shadows... through the bars
+N:       to... a lonely figure huddled in the corner. The sound of sad
+N:       sniffles echoes off the stone chamber.
+0: 
+0: 
+0: 
+0: 
+C:                                                  TE
+D:       As our eyes adjust to the gloom... reveal the sniffles belong
+D:       to Logan. But not like we’ve ever seen him before. This Logan
+D:       is frightened, alone, and filled with doubt.
+0: 
+0: 
+0: 
+0: 
+C:                                                 U
+D:       Suddenly, he hears rustling nearby. His head SNAPS up and he
+D:       looks around, scared.
+0: 
+0: 
+0: 
+0: 
+C:                                               IT
+C: 100                       LOGAN                                     100
+D:                 Who’s there? What do you want?
+0: 
+0: 
+0: 
+0: 
+C:                                        ST
+D:       But this is Logan, after all. And as the sound gets closer...
+0: 
+C: 101                        LOGAN (CONT’D)                           101
+C:                                  IN
+E:                     (false bravado)
+D:                 Better get outta here before I
+D:                 throw a major hurting down.
+C:                       IS
+D:       Logan slowly stands. Spots Sneak creeping closer. Eyes
+D:       glinting. Sneak growls. Lunges for Logan’s backpack.
+0: 
+C: 102                       LOGAN (CONT’D)                            102
+D:                    AV
+0: 
+0: 
+N:                 Hey!
+0: 
+N:       Logan grabs the backpack. Total tug of war! Logan YANKS hard.
+N:       Sneak stumbles. THWAP! Sneak’s face jammed awkwardly against
+N:                D
+0: 
+0: 
+0: 
+N:       the bars, eyes scrunched in pain.
+0: 
+C: 103                       LOGAN (CONT’D)                            103
+D:          A
+0: 
+0: 
+0: 
+0: 
+N:                 My dude, you do not wanna test me.
+N:   N
+0: 
+0: 
+0: 
+0: 
+N:       But Sneak’s not giving up so easy. He YANKS hard. Logan
+N:       stumbles. THWAP! He gets plastered against the bars, eyes
+N:       scrunched in pain.
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:       Logan opens his eyes to see --
+0: 
+N:       Sneak about to slobber on him. Logan yelps, pushes off from
+N: G
+0: 
+0: 
+0: 
+0: 
+N:       the bars YANKING on the backpack with all his might. But
+N:       Sneak anticipates the move and suddenly lets go!
+0: 
+N:       As Logan tumbles head over heels, his hat goes flying. The
+N:       contents of the backpack -- pens, books, and a bag of chile
+N:       limón chips -- spill across the floor.
+0: 0:                                                            15.
+0: 
+0: 
+N:       Sneak greedily reaches through the cell bars and grabs the
+N:       chips and Logan’s hat. He plops it on his head and swaggers
+N:       back and forth doing a pretty accurate Logan impression.
+0: 
+C: 104                        SNEAK                                 104
+E:                     (mimicking Logan)
+D:                 My dude, you do not wanna test me.
+0: 
+N:       Logan almost cracks a smile, catches himself.
+0: 
+0: 
+0: 
+0: 
+C:                                                  TE
+C: 105                       LOGAN                                  105
+D:                 Okay, okay. Truce alright?
+0: 
+0: 
+0: 
+0: 
+C:                                                 U
+D:       Logan holds out his hand for his hat back. Sneak considers
+D:       Logan’s offer, shakes his head no.
+0: 
+0: 
+0: 
+0: 
+C:                                               IT
+D:       Logan lunges for it, but Sneak dances backwards.
+0: 
+0: 
+0: 
+0: 
+C:                                         ST
+C: 106                       SNEAK                                  106
+D:                 I can do this all day stinkbrain.
+0: 
+C: 107                       LOGAN                                  107
+D:                 Stinkbrain?
+C:                                   IN
+D:       With a sigh, Logan plops to the floor, draws his knees to his
+D:       chest pathetically.
+C:                       IS
+C: 108                       LOGAN (CONT’D)                         108
+D:                 Fine, keep it.
+D:                    AV
+0: 
+0: 
+N:       Sneak readjusts the hat so the brim faces off to the side.
+T:       It’s ridiculous but kinda cute.
+0: 
+C: 109                       LOGAN (CONT’D)                         109
+D:                D
+0: 
+0: 
+0: 
+N:                 Actually looks pretty good on you.
+0: 
+N:       Sneak puffs his chest, pleased. One hat and one bag of chips
+N:          A
+0: 
+0: 
+0: 
+0: 
+N:       richer, he turns to leave. Catches sight of Logan, forlorn...
+N:   N
+0: 
+0: 
+0: 
+0: 
+N:       SCHWOOP! Sneak opens the bag of chips. Cautiously thrusts the
+N:       bag through the bars to Logan, who looks at the chips, torn.
+N: EE
+0: 
+0: 
+0: 
+0: 
+C: 110                       LOGAN (CONT’D)                         110
+D:                 Chile limón are my favorite...
+0: 
+N:       Sneak cocks his head, confused.
+N: G
+0: 
+0: 
+0: 
+0: 
+C: 111                       LOGAN (CONT’D)                         111
+D:                 OMG! You’ve never had chile limón                      *
+D:                 chips before?
+0: 
+N:       Logan scooches over to the bars. Grabs a chip but waits for
+N:       Sneak to grab one of his own. At the same time... CRUNCH.        *
+N:       Sneak’s eyes widen in delight.
+0: 0:                                                            16.
+0: 
+0: 
+C: 112                        SNEAK                                 112
+E:                     (mind blown)
+D:                 Whoa.
+0: 
+N:       As Logan and Sneak happily munch on chips, we PULL OUT.
+N:       Camera flies through the dungeon... up a seeming endless
+N:       staircase... to the THRONE ROOM.
+0: 
+N:       WINGED DARKLINGS swarm the corridors, flooding up and out of     *
+0: 
+0: 
+0: 
+0: 
+C:                                                    TE
+D:       the ceiling, into the nightmarish sky. The Dark Archer
+D:       approaches the NK peering thoughtfully through his staff...      *
+0: 
+N: 113                       DARK ARCHER                            113
+0: 
+0: 
+0: 
+0: 
+C:                                                   U
+D:                 Patience, your Nightmarishness.                        *
+0: 
+0: 
+0: 
+0: 
+C:                                                 IT
+D: 114                        NIGHTMARE KING                        114   *
+E:                     (shoots Archer a look)                             *
+D:                 I’m done being patient! We have to                     *
+0: 
+0: 
+0: 
+0: 
+C:                                          ST
+D:                 find a way to repair this cursed                       *
+D:                 hourglass...                                           *
+0: 
+N: 115                       DARK ARCHER                            115   *
+0: 
+0: 
+0: 
+0: 116
+N:                 repair it for us.  IN
+N:                 The Sandman will never repair
+0: 
+0: 
+N:                            NIGHTMARE KING                        116
+0:                                                                        *
+0:                                                                        *
+0: 
+0:                                                                        *
+C:                       IS
+D:                 For once, you’re right.                                *
+E:                     (glances back in his staff)                        *
+D:                 But he might repair it for a Dream                     *
+D:                 Chaser...                                              *
+D:                    AV
+0: 
+0: 
+N:       REVERSE to reveal what the NK is so engrossed in -- Logan and
+N:       Sneak sharing chips far below! He laughs menacingly.
+N:                D
+0: 
+0: 
+0: 
+N:       Archer realizes what the Nightmare King is saying.               *
+0: 
+N: 117                       DARK ARCHER                            117   *
+N:          A
+0: 
+0: 
+0: 
+0: 
+N:                 How do we get him to cooperate? The                    *
+N:                 boy is willful.                                        *
+N:   N
+0: 
+0: 
+0: 
+0: 
+N: 118                       NIGHTMARE KING                         118   *
+N:                 So were you. We make our young                         *
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:                 friend see that joining the Dark                       *
+N:                 Army is his one true path...                           *
+0: 
+N:       Off the NK’s confident smirk, we CUT TO --                       *
+N: G
+0: 
+0: 
+0: 
+0: 
+S: 11    EXT. CITY MIDDLE FIELD – DAY – CONTINUOUS                  11    *
+0: 
+N:       CLOSE ON IZZIE scrunching her face awkwardly.
+0: 
+N: 119                       MATEO (O.S.)                           119   *
+N:                 What are you doing?
+0: 0:                                                            17.
+0: 
+0: 
+N:       WIDEN TO REVEAL the DREAM CHASERS in a line-up, facing off        *
+N:       against the WOLVES before the start of the game.                  *
+0: 
+C: 120                       IZZIE                                   120
+D:                 Trying to mimic the stank-eye Zoey
+D:                 is giving the Wolves.                                   *
+0: 
+N:       Mateo clocks Zoey’s stank eye --                                  *
+0: 
+0: 
+0: 
+0: 
+C:                                                     TE
+C: 121                        MATEO                                  121   *
+D:                 It is impressive.
+E:                     (beat, nervous)
+D:                 I feel like I’m gonna puke.
+0: 
+0: 
+0: 
+0: 
+C:                                                    U
+D: 122                       COOPER                                  122   *
+0: 
+0: 
+0: 
+0: 
+C:                                                  IT
+D:                 Dude, you’ve been practicing.
+D:                 You’ll be fine.                                         *
+0: 
+0: 
+0: 
+0: 
+C:                                          ST
+D:       On the sidelines, Jadyn yells into a megaphone:                   *
+0: 
+C: 123                       JADYN                                   123   *
+D:                 Ready for more Sheep Week action,
+C:                                  IN
+D:                 sports fans? Well, look out,
+D:                 Brooklyn ‘cause the Dream Chasers
+D:                 look baaaa-aaaa-aaaad to the bone!
+C:                       IS
+D:       Coach Jeffries, clearly unamused, steps between the teams.        *
+0: 
+C: 124                       COACH JEFFRIES                          124
+D:                 Let’s have a clean match everyone.
+D:                    AV
+0: 
+0: 
+N:                 Captains, shake hands.
+0: 
+N:       The Wolves Captain, Dallas, steps forward. Coop, Izzie, and       *
+N:       Zoey look at Mateo. He starts, surprised.                         *
+N:                D
+0: 
+0: 
+0: 
+C: 125                       MATEO                                   125   *
+D:                 Oh. Guess that’s me.
+D:          A
+0: 
+0: 
+0: 
+0: 
+N:       Teo steps forward, thrusts out his hand.                          *
+N:   N
+0: 
+0: 
+0: 
+0: 
+N: 126                       MATEO (CONT’D)                          126   *
+N:                 Have a good match.
+N: EE
+0: 
+0: 
+0: 
+0: 
+C: 127                       DALLAS                                  127   *
+D:                 Yeah, right. Try not to cry when
+D:                 you lose.
+D: G
+0: 
+0: 
+0: 
+0: 
+N:       Dallas stalks off to join his team’s huddle leaving Mateo         *
+N:       hanging. Izzie pulls Mateo over, whispering to him --             *
+0: 
+C: 128                       IZZIE                                   128
+D:                 You got your pump up speech ready?
+0: 0:                                                             18.
+0: 
+0: 
+C: 129                       MATEO                                   129   *
+D:                 Uh...
+0: 
+N:       Sees COOP’S FAMILY, STUDENTS, and TEACHERS awaiting the           *
+N:       match.
+0: 
+N: 130                       COOP’S BROTHERS                         130   *
+N:                 We’re counting on you, Coop!/Bring                      *
+N:                 that trophy home!
+0: 
+0: 
+0: 
+0: 
+C:                                                  TE
+D:       Izzie pushes Mateo in front of Zoey and Coop. They look at        *
+D:       him expectantly and he launches into what he thinks is GREAT:     *
+0: 
+0: 
+0: 
+0: 
+C:                                                 U
+C: 131                        MATEO                                  131   *
+D:                 So what, we’ve never played
+0: 
+0: 
+0: 
+0: 
+C:                                               IT
+D:                 together? So what, we’re the worst                      *
+D:                 team out here? So what, the Wolves                      *
+D:                 are undefeated? If we try our best,                     *
+0: 
+0: 
+0: 
+0: 
+C:                                        ST
+D:                 we won’t totally embarrass
+D:                 ourselves!                                              *
+0: 
+N:       Zoey snorts. Coop shakes his head, bemused. As they take          *
+0: 
+0: 
+C: 132                       IZZIE
+C:                                   IN
+D:       their positions at the half-line, Izzie leans in:
+0: 
+0: 
+N:                 Bro... WORST pump up speech ever.
+0:                                                                   132
+C:                       IS
+D:                 And I’ve heard some doozies.
+0: 
+N:       Off Mateo, wracked by nerves, we CUT TO --                        *
+N:                    AV
+0: 
+0: 
+S: 12    EXT. SHADOWKEEP – (DREAM WORLD)- DAY - ESTABLISHING         12    *
+0: 
+N:       An ominous grey fog shrouds the Shadowkeep. The sharp cries       *
+N:                D
+0: 
+0: 
+0: 
+N:       of NIGHT TERROR SENTRIES pierce the gloom.                        *
+N:          A
+0: 
+0: 
+0: 
+0: 
+S: 13    INT. SHADOWKEEP – (DREAM WORLD) - DAY                       13    *
+N:   N
+0: 
+0: 
+0: 
+0: 
+N:       Logan’s eyes snap open and he sits up. Quickly taking in his      *
+N:       status: alone in the dark, dank dungeon. Or maybe not...          *
+N: EE
+0: 
+0: 
+0: 
+0: 
+N: 133                       NIGHTMARE KING (O.S.)                   133   *
+N:                 Wakey wakey.                                            *
+0: 
+N:       The NIGHTMARE KING slinks out of the shadows to lounge            *
+N: G
+0: 
+0: 
+0: 
+0: 
+N:       against the cell, nonchalantly.                                   *
+0: 
+C: 134                       LOGAN                                   134   *
+D:                 You used me!                                            *
+0: 
+N: 135                       NIGHTMARE KING                          135   *
+N:                 Using you? I’m offering you your                        *
+N:                 own path...                                             *
+0: 0:                                                            19.
+0: 
+0: 
+C: 136                       LOGAN                                  136   *
+D:                 You mean one that leads to the                         *
+D:                 dream world being turned into a                        *
+D:                 nightmare! Nah, I’m good bro.                          *
+0: 
+N:       The NK dismisses that with a wave.                               *
+0: 
+N: 137                       NIGHTMARE KING                         137   *
+N: 135             Are you? Logan, you were born to                 135   *
+0: 
+0: 
+0: 
+0: 
+C:                                                   TE
+D:                 lead. Not follow Mateo around                          *
+D:                 playing errand boys for a foolish                      *
+D:                 old man and a ridiculous monkey.                       *
+0: 
+0: 
+0: 
+0: 
+C:                                                  U
+C: 138                       LOGAN                                  138   *
+D:                 Psh! I’m a critical part of the                        *
+0: 
+0: 
+0: 
+0: 
+C:                                                IT
+D:                 team.                                                  *
+0: 
+N: 139                       NIGHTMARE KING                         139   *
+0: 
+0: 
+0: 
+0: 
+C:                                          ST
+D:                 Oh? Then where are they?                               *
+0: 
+N:       The NK pushes off from the bars.                                 *
+0: 
+0: 140
+C:                                   IN
+C:                           NIGHTMARE KING (CONT’D)
+D:                 I’m not the one using you, Logan.
+0: 
+N:       With a wave of his staff, the NK disappears. Frustrated,
+N:                                                                  140   *
+0:                                                                        *
+0: 
+0:                                                                        *
+C:                       IS
+D:       Logan PUNCHES the bars of his cell. BLAM! A beat.                *
+0: 
+C: 141                       LOGAN                                  141   *
+D:                 Ow!                                                    *
+D:                    AV
+0: 
+0: 
+N:       Logan slumps, defeated and upset. SNEAK (still rocking           *
+N:       Logan’s hat) POPS up next to the bars, startling Logan.          *
+N:                D
+0: 
+0: 
+0: 
+C: 142                       LOGAN (CONT’D)                         142
+C:                 AHH! Don’t do that!
+D:          A
+0: 
+0: 
+0: 
+0: 
+C: 143                       SNEAK                                  143
+D:                 It’s kinda my thing. Wanna guess                       *
+D:   N
+0: 
+0: 
+0: 
+0: 
+N:                 what my name is?                                       *
+0: 
+C: 144                       LOGAN                                  144
+D: EE
+0: 
+0: 
+0: 
+0: 
+N:                 Is it, “I’m gonna help Logan                           *
+N:                 escape?”                                               *
+0: 
+C: 145                       SNEAK                                  145
+D: G
+0: 
+0: 
+0: 
+0: 
+N:                 No can do, kid. The Boss Man has                       *
+N:                 eyes everywhere.                                       *
+0: 
+C: 146                       LOGAN                                  146
+D:                 Suit yourself. My friends are gonna                    *
+D:                 be here soon anyways.                                  *
+0: 0:                                                              20.
+0: 
+0: 
+N:       But Logan doesn’t sound so sure. Sneak whips out a bag, hands
+N:       it to Logan. He opens the bag. Takes a whiff.
+0: 
+C: 147                       LOGAN (CONT’D)                           147
+D:                 Ahh, the sweet, sweet smell of sour
+D:                 peaches. Thanks, my dude.
+0: 
+N:       Off the tentative bond forming between these two, we CUT TO --
+0: 
+0: 
+0: 
+0: 
+C:                                                  TE
+D: 14    EXT. CITY MIDDLE FIELD - DAY - CONTINUOUS                    14
+0: 
+N:       The soccer game in full swing. The Wolves doesn’t just LOOK        *
+0: 
+0: 
+0: 
+0: 
+C:                                                 U
+D:       good in matching uniforms, they ARE good. Dallas steals the        *
+D:       ball from Izzie. JUKES past Mateo. Coop races to stop him,         *
+0: 
+0: 
+0: 
+0: 
+C:                                               IT
+D:       but it’s too late. SWOOSH! GOAL. Mateo groans.                     *
+0: 
+N: 148                       COOPER                                   148   *
+0: 
+0: 
+0: 
+0: 
+C:                                        ST
+D:                 C’mon Teo, you can do this. Watch                        *
+D:                 him, not the ball!
+0: 
+N:       Mateo nervously nods, out of his depth. As play resumes, we        *
+C:                                  IN
+D:       launch into a series of QUICK CUTS:
+0: 
+N:       -- Mateo grimaces as a Wolves player slide-tackles the ball
+N:       away from Zoey. Passes to Dallas, who SCORES. WHOOSH!
+0:                                                                          *
+0:                                                                          *
+C:                       IS
+D:       -- Z Blob, anxiously watching the action from his hiding spot      *
+D:       in Teo’s backpack, grimaces as Teo passes to the other team.       *
+D:                    AV
+0: 
+0: 
+N:       -- Mateo winces as Izzie THUDS to the ground after a vicious       *
+N:       body-check from a Wolves player.                                   *
+0: 
+N:       -- Mrs. C, snoring peacefully, at her food truck.
+N:                D
+0: 
+0: 
+0: 
+N:       -- The Wolves string together short passes. Mateo nervously        *
+N:       backpedals as Dallas approaches, dribbling. He fakes, then         *
+N:          A
+0: 
+0: 
+0: 
+0: 
+N:       passes the ball through Mateo’s legs into the goal. SWOOSH!        *
+N:   N
+0: 
+0: 
+0: 
+0: 
+N:       As Coach Jeffries blows the whistle, END QUICK CUTS.
+0: 
+C: 149                       COACH JEFFRIES                           149
+D: EE
+0: 
+0: 
+0: 
+0: 
+N:                 Half!
+0: 
+C: 150                       JADYN                                    150   *
+D:                 Don’t move, Sheep fans! It’s been a
+D: G
+0: 
+0: 
+0: 
+0: 
+N:                 woolly tough first half for the
+N:                 Dream Chasers, but miracles do
+N:                 happen!
+0: 
+N:       CLOSE ON the SCOREBOARD: Wolves 3, Dream Chasers, 0. As Mateo      *
+N:       watches his team walk dejectedly to the bench, CUT TO:
+0: 0:                                                            21.
+0: 
+0: 
+S: 15    INT. SHADOWKEEP – (DREAM WORLD)- DAY                        15
+0: 
+N:       Logan, scared out of his wits, as he’s prodded forward by
+N:       Susan, holding a sharp spear.                                     *
+0: 
+C: 151                       SUSAN                                   151
+D:                 <SNARLS> Keep moving, dreamer.                          *
+0: 
+N: 152                       LOGAN                                   152
+0: 
+0: 
+0: 
+0: 
+C:                                                     TE
+D:                 Okay, okay.
+0: 
+N:       All of a sudden, Susan pushes Logan hard through a crowd of       *
+N:       Darklings. He stumbles in front of the Nightmare King, seated
+0: 
+0: 
+0: 
+0: 
+C:                                                    U
+D:       on his throne. The DARK ARCHER stands beside him.
+0: 
+0: 
+0: 
+0: 
+C:                                                  IT
+D:       Susan joins SNIVEL and SNEAK at the front of the crowd.
+0: 
+N: 153                       NIGHTMARE KING                          153
+0: 
+0: 
+0: 
+0: 
+C:                                          ST
+D:                 Logan... Sorry to take time from                        *
+D:                 your busy schedule. The Archer                          *
+D:                 thought we should throw you in the                      *
+D:                 Fear Works and squeeze out your                         *
+0: 
+0: 
+0: 
+C: 154                       LOGAN
+C:                                   IN
+D:                 imagination... But I wanted to chat
+D:                 more about your path.
+0: 
+0:                                                                   154
+0:                                                                         *
+0:                                                                         *
+C:                       IS
+D:                 Jokes on you, bro. I don’t have an                      *
+D:                 imagination. ‘Sides, I’m not                            *
+D:                 joining your army.
+D:                    AV
+0: 
+0: 
+N: 155                        NIGHTMARE KING                         155   *
+N:                 Still believe your friends are                          *
+N:                 coming for you?                                         *
+N:                     (chuckles)                                          *
+N:                D
+0: 
+0: 
+0: 
+N:                 I doubt they’ve even thought of you                     *
+N:                 today.                                                  *
+N:          A
+0: 
+0: 
+0: 
+0: 
+N:       That lands on Logan. Sensing a chink in the armor, the NK
+N:       drives home his point.
+N:   N
+0: 
+0: 
+0: 
+0: 
+N: 156                        NIGHTMARE KING (CONT’D)                156
+N:                 It’s not like you were particularly                     *
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:                 useful to them.                                         *
+N:                     (to Dark Archer)                                    *
+N:                 I mean, have you ever heard of a                        *
+N:                 Dream Chaser who can’t dreamcraft?
+N: G
+0: 
+0: 
+0: 
+0: 
+C: 157                       DARK ARCHER                             157
+D:                 Never, your Scariness.
+0: 
+N: 158                       NIGHTMARE KING                          158   *
+N:                 And that’s all they’ll ever see.                        *
+0: 
+N:       Logan bristles in the face of the truth.
+0: 0:                                                               22.
+0: 
+0: 
+N: 159                        NIGHTMARE KING (CONT’D)                  159
+N:                     (sympathetic)
+N:                 But I know there’s more than meets                        *
+N:                 the eye to you. Take your place by                        *
+N:                 my side and you will know true
+N:                 power...                                                  *
+0: 
+N:       The NK senses Logan wavering, plays his trump card.
+0: 
+0: 
+0: 
+0: 
+C:                                                     TE
+E: 160                       NIGHTMARE KING (CONT’D)                   160
+D:                 I can show you how to control your                        *
+D:                 dreamcrafting without an hourglass.                       *
+0: 
+0: 
+0: 
+0: 
+C:                                                    U
+D:       Logan looks up sharply.                                             *
+0: 
+0: 
+0: 
+0: 
+C:                                                  IT
+E: 161                       NIGHTMARE KING (CONT’D)                   161
+D:                 It’s true. Imagine power beyond
+D:                 your wildest dreams...
+0: 
+0: 
+0: 
+0: 
+C:                                          ST
+D:       A potent combo roils across Logan’s face -- shame,
+D:       indignation, temptation, desire. He comes to a decision:
+0: 
+0: 162
+0: 
+0: 
+0: 163
+C:                           LOGAN
+C:                 Okay, show me...   IN
+C:                           NIGHTMARE KING
+D:                                                                     162
+0: 
+0: 
+0:                                                                     163
+0:                                                                           *
+C:                       IS
+D:                 You think my lessons are free.                            *
+0: 
+N:       Sensing a show, the Darklings cackle and draw closer.
+N:                    AV
+0: 
+0: 
+C: 164                        LOGAN                                    164   *
+E:                     (suddenly nervous)
+D:                 What do you mean?                                         *
+D:                D
+0: 
+0: 
+0: 
+N:       The NK turns, scans the crowd.
+0: 
+C: 165                       NIGHTMARE KING                            165
+D:          A
+0: 
+0: 
+0: 
+0: 
+N:                 Let’s see...
+N:   N
+0: 
+0: 
+0: 
+0: 
+N:       His gaze alights on Sneak. Machiavelli would be proud. At a
+N:       tiny nod from the NK, Susan and Snivel shove Sneak forward.
+N:       He and Logan share an uncertain glance.
+N: EE
+0: 
+0: 
+0: 
+0: 
+C: 166                       LOGAN                                     166
+D:                 Hey! What is this?
+D: G
+0: 
+0: 
+0: 
+0: 
+C: 167                        NIGHTMARE KING                           167
+D:                 Just a little tradition we have
+D:                 here in the keep. This isn’t a club                       *
+D:                 for the weak.                                             *
+E:                     (stares daggers at Sneak)
+D:                 Isn’t that right, my friend?
+0: 
+N:       Sneak wars with his emotions, then nods.
+0: 0:                                                               23.
+0: 
+0: 
+C: 168                        LOGAN                                    168
+E:                     (to Sneak, incredulous)
+D:                 We have to FIGHT each other?                              *
+0: 
+C: 169                        SNEAK                                    169
+E:                     (won’t meet his stare)
+D:                 Sorry ‘bout this, kid.
+0: 
+N:       And yet... Sneak hesitates. Reluctant to destroy their
+0: 
+0: 
+0: 
+0: 
+C:                                                   TE
+D:       tentative bond. The NK hefts his staff menacingly --
+0: 
+N:       THWIP! A shadowbolt THUDS to the ground forcing Sneak to leap
+N:       backwards. The NK pierces Sneak with a penetrating glare.
+0: 
+0: 
+0: 
+0: 
+C:                                                  U
+D: 170                       NIGHTMARE KING                            170
+0: 
+0: 
+0: 
+0: 
+C:                                                IT
+D:                 The next one will not miss.
+0: 
+N:       And yet... Sneak still hesitates. The NK whips around his           *
+0: 
+0: 
+0: 
+0: 
+C:                                          ST
+D:       staff... Logan starts, realizing they have no choice...             *
+D:       THWAP! He sucker-punches Sneak! Ow! A beat...                       *
+0: 
+N:       Sneak grins -- he can’t help but like this kid.                     *
+0: 
+0: 
+0: 
+0: 171
+N:       And like that, it’s on.
+0: 
+C:                              SNEAK
+C:                                      IN                             171
+C:                       IS
+D:                 ARGHHHHH!
+0: 
+N:       Sneak charges Logan and bowls him over. Sends him skidding
+N:       across the floor. Darklings howl with approval as we CUT TO:
+N:                    AV
+0: 
+0: 
+S: 16    EXT. CITY MIDDLE FIELD - DAY - CONTINUOUS                     16
+N:                D
+0: 
+0: 
+0: 
+N:       ON Mateo, watching Coop dribble by one of the Wolves.               *
+N:       Suddenly --
+N:          A
+0: 
+0: 
+0: 
+0: 
+N:       WHAP! The Wolves CAPTAIN SLAMS into Coop, who THUDS to the          *
+N:       ground. Coach Jeffries blows his whistle and runs over.
+N:   N
+0: 
+0: 
+0: 
+0: 
+C: 172                          COACH JEFFRIES                         172
+D:                 Free kick!
+D: EE
+0: 
+0: 
+0: 
+0: 
+N:       The Wolves captain smirks at Mateo as he hurries to help Coop       *
+N:       up. Izzie and Zoey join them.
+N: G
+0: 
+0: 
+0: 
+0: 
+C: 173                       MATEO                                     173   *
+D:                 Ugh, they’re such bullies!
+0: 
+C: 174                        ZOEY                                     174
+E:                     (frustrated)
+D:                 Obvi. What are you gonna do about
+D:                 it?
+0: 0:                                                            24.
+0: 
+0: 
+N:       Sick and tired of the Wolves crap, Mateo loses it.               *
+0: 
+C: 175                        MATEO                                 175   *
+D:                 I’m gonna play for every kid who’s
+D:                 ever been bullied! Today, we show
+D:                 the entire school, that the bullies
+D:                 WON’T win.                                             *
+0: 
+N: 176                        COOPER                                176   *
+0: 
+0: 
+0: 
+0: 
+C:                                                  TE
+E:                     (impressed)
+D:                 Daaaamn, dude.                                         *
+0: 
+N:       Zoey, Coop, and Izzie grin -- actually pumped up! As Zoey        *
+0: 
+0: 
+0: 
+0: 
+C:                                                 U
+D:       goes to position the ball and Coop moves off toward the goal,    *
+D:       Mateo pulls Izzie aside.                                         *
+0: 
+0: 
+0: 
+0: 
+C:                                               IT
+C: 177                       MATEO                                  177   *
+D:                 Um, how exactly am I gonna do that?
+0: 
+0: 
+0: 
+0: 
+C:                                          ST
+D:       Izzie pats him on the shoulder.
+0: 
+C: 178                       IZZIE                                  178
+C:                                     IN
+D:                 Just pretend I ate your last tater-
+D:                 tot. Get really mad. Then... annoy
+D:                 them. You’re an expert at annoying.
+C:                       IS
+C: 179                       MATEO                                  179   *
+D:                 Thanks, sis.
+0: 
+C: 180                       IZZIE                                  180
+D:                    AV
+0: 
+0: 
+N:                 Anytime. ALT: De nada.                                 *
+0: 
+N:       As Zoey prepares to strike the ball, she spots Mateo out of      *
+N:       the corner of her eye -- waving his arms wildly and cawing
+N:                D
+0: 
+0: 
+0: 
+N:       like a bird. The Wolves turn to stare. Hiding a smile, Zoey      *
+N:       races forward --
+N:          A
+0: 
+0: 
+0: 
+0: 
+N:       KRAK! She kicks the ball into the air. Distracted, the Wolves    *
+N:       scrambles. Coop tracks the ball and --                           *
+N:   N
+0: 
+0: 
+0: 
+0: 
+N:       He CHILENAS the ball into the goal! SWOOSH!                      *
+N: EE
+0: 
+0: 
+0: 
+0: 
+C: 181                       MATEO                                  181   *
+D:                 Yessssssss!
+0: 
+N:       As the crowd goes wild, we --
+N: G
+0: 
+0: 
+0: 
+0: 
+T:       INTERCUT DREAM WORLD --
+0: 
+N:       Logan GROWLS with anger and CHARGES Sneak. But at the last
+N:       second, Sneak side-steps and Logan PLOWS into the GRIMHOLD!
+0: 0:                                                            25.
+0: 
+0: 
+N:       From LOGAN’S POV, we look up to see... a GIANT FIST about to
+N:       SMASH DOWN! At the last second, Logan scrambles out of the     *
+N:       way. But some of the Darklings in the crowd aren’t so lucky -- *
+0: 
+N:       BOOSH! The Grimhold’s fist SLAMS down knocking Logan off his      *
+N:       feet and SMASHING a couple of Darklings! They disintegrate        *
+N:       into a pile of ETHER. Sprawled ignominiously on the floor,        *
+N:       Logan watches in horror as the crowd cackles gleefully.           *
+0: 
+0: 
+0: 
+0: 
+C:                                                   TE
+D:       Logan’s furious. He leaps to his feet, ROARS enraged!!            *
+0: 
+N:       CUT CLOSE on Logan as... THWUCK! He POPS into LO-LO, his BLUE     *
+N:       BEAST FORM! Bulging biceps, built like an ox. Record scratch.     *
+0: 
+0: 
+0: 
+0: 
+C:                                                  U
+D:       The Shadowkeep STUNNED.                                           *
+0: 
+0: 
+0: 
+0: 
+C:                                                IT
+C: 182                       LOGAN                                   182   *
+D:                 <STARTLED GASP> What the?!?!                            *
+0: 
+0: 
+0: 
+0: 
+C:                                        ST
+D:       WIDEN to reveal: Lo-Lo’s RIDICULOUSLY TINY!!! Half the size       *
+D:       of Logan’s human form. The Darklings recover from the shock       *
+D:       of his transformation and double-over with laughter. Total        *
+D:       hysterics from the crowd, which only enrages Lo-Lo further.       *
+C:                                    IN
+D:       He snarls. The NK leans forward, intrigued.
+0: 
+N:       This fight just got A LOT more interesting.
+0:                                                                         *
+C:                       IS
+D:       As Lo-Lo and Sneak circle each other warily, we --                *
+0: 
+T:       INTERCUT WAKING WORLD --
+N:                    AV
+0: 
+0: 
+N:       Like a dog with a bone, Mateo is proving hard to shake. The       *
+N:       Wolves captain is frustrated.                                     *
+0: 
+C: 183                       DALLAS                                  183   *
+D:                D
+0: 
+0: 
+0: 
+N:                 Get off me!
+0: 
+N:       He shoves Mateo down but ends up tripping over him and            *
+N:          A
+0: 
+0: 
+0: 
+0: 
+N:       tumbling, too! Izzie flashes her brother a thumbs up as she       *
+N:       dribbles past... she passes to Coop, who collects the ball...     *
+N:   N
+0: 
+0: 
+0: 
+0: 
+N:       passes to Zoey, who JUKES past a Wolves player and --             *
+0: 
+N:       KRAK! She buries the ball in the net! GOAL!
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:       As Mrs. C snorts awake at the sound of loud cheers, we --         *
+0: 
+T:       INTERCUT DREAM WORLD --
+N: G
+0: 
+0: 
+0: 
+0: 
+N:       WHAP! BAP! BLAM! Sneak and Lo-Lo mid-fight. It’s not pretty --
+N:       more Pineapple Express than Rocky. As the two trade jabs and
+N:       kicks, the crowd ROARS their approval and we --
+0: 
+T:       INTERCUT WAKING WORLD --
+0: 0:                                                            26.
+0: 
+0: 
+N:       Coop dribbles circles around the Wolves players... spots          *
+N:       Mateo open and passes... he sticks out his foot... the ball       *
+N:       ricochets off awkwardly but Zoey’s got it. She sees Coop          *
+N:       sprinting down the sideline... she passes... he collects the
+N:       ball... shoots and... GOALLLLLASO!
+0: 
+T:       INTERCUT DREAM WORLD --
+0: 
+N:       BLAM! A vicious punch sends Lo-Lo sprawling onto his butt.
+0: 
+0: 
+0: 
+0: 
+C:                                                  TE
+D:       Darklings cackle. Lo-Lo grabs Sneak’s ankles, tripping him
+D:       up. Sneak steps on Lo-Lo’s hand. He hisses and let’s go.
+0: 
+N: 184                        SNEAK                                  184
+0: 
+0: 
+0: 
+0: 
+C:                                                 U
+E:                     (panting)
+D:                 Had enough, blue boy?
+0: 
+0: 
+0: 
+0: 
+C:                                               IT
+D:       In response, Lo-Lo growls as we CUT TO --
+0: 
+0: 
+0: 
+0: 
+C:                                         ST
+D: 17    EXT. CITY MIDDLE FIELD - DAY - CONTINUOUS                    17
+0: 
+N:       Z Blob and the Sheep Week spectators bob their heads back and     *
+0: 
+0: 
+C: 185                       MATEO
+C:                                  IN
+D:       forth, following the tense action. Mateo encourages his team:
+0: 
+0: 
+N:                 We got this! Just one more goal.
+0:                                                                   185
+0:                                                                         *
+0: 
+0:                                                                         *
+C:                       IS
+D:       The Wolves players pass the ball back and forth playing keep- *
+D:       away from the Dream Chasers. The FEMALE WOLVES PLAYER kicks -- *
+D:                    AV
+0: 
+0: 
+N:       Izzie sees an opening. Darts forward to intercept the ball...
+N:       passes it to Coop, who collects if off his chest and quickly      *
+N:       passes to Zoey, who dribbles down the field. Dallas sprints       *
+N:       after her.
+N:                D
+0: 
+0: 
+0: 
+N:       Zoey spots him approaching... looks around... sees Izzie
+N:       being guarded... Coop being guarded... Mateo racing down       *
+N:          A
+0: 
+0: 
+0: 
+0: 
+N:       field. He’s OPEN. Makes a decision. Draws back her foot and --
+N:   N
+0: 
+0: 
+0: 
+0: 
+N:       KRAAK! She kicks the ball into the air...
+0: 
+N:       ON MATEO, racing for the ball as it arcs through the sky. Z       *
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:       Blob covers his eyes... the spectators hold their breath...
+0: 
+N:       FWOOM! Mateo HEADS the ball INTO THE GOAL! The silence is         *
+N:       deafening until --
+N: G
+0: 
+0: 
+0: 
+0: 
+N:       Coach Jeffries is so shocked, his whistle falls from his open     *
+N:       mouth. He fumbles with it and BLOWS. TWEEEET!                     *
+0: 
+C: 186                        COACH JEFFRIES                         186
+E:                     (shocked)
+D:                 Dream Chasers win.
+0: 0:                                                            27.
+0: 
+0: 
+N:       Total pandemonium. The crowd goes wild! Z Blob fist pumps. In
+N:       the middle of the field, Mateo stands still, stunned. Caught      *
+N:       up in the moment, Zoey races over to give him a HUG. Izzie
+N:       and Coop join the fray, laughing and hugging.                     *
+0: 
+C: 187                       COOPER                                 187    *
+D:                 We won! We actually won!
+0: 
+N: 188                       IZZIE                                  188
+0: 
+0: 
+0: 
+0: 
+C:                                                  TE
+D:                 Who’s the GOAT?! We’re the GOAT!
+0: 
+N:       Realizing her ‘too cool for school’ persona is in jeopardy,
+N:       Zoey quickly recovers and steps away. But she can’t quite
+0: 
+0: 
+0: 
+0: 
+C:                                                 U
+D:       hide her elation as we CUT TO --
+0: 
+0: 
+0: 
+0: 
+C:                                               IT
+D: 18    INT. SHADOWKEEP THRONE ROOM – DREAM WORLD – CONTINUOUS       18
+0: 
+0: 
+0: 
+0: 
+C:                                        ST
+D:       CLOSE ON Lo-Lo’s face, scrunched in effort. WIDEN TO REVEAL
+D:       he’s got Sneak by the ankles! He swings him ‘round until --
+0: 
+N:       BWOOSH! Lo-Lo launches him across the room!
+C:                                  IN
+D:       BAM! Sneak hits the ground. Full of himself, Lo-Lo parades
+D:       around the room, hyping his audience. The capricious crowd
+D:       LOVES it! Visibly tired, Sneak rises unsteadily to his feet.
+C:                       IS
+D:       Spotting Lo-Lo’s back turned, Sneak charges. But Lo-Lo
+D:       anticipates the move. Uses Sneak’s momentum to flip him onto
+D:       his back --
+D:                    AV
+0: 
+0: 
+N:       WHAM! Lo-Lo leaps on Sneak and captures him in a chokehold.
+N:       The little Darkling TAPS OUT, exhausted. The crowd goes WILD!
+N:       The NK leans forward --
+N:                D
+0: 
+0: 
+0: 
+C: 189                       NIGHTMARE KING                         189
+D:                 Finish him.
+D:          A
+0: 
+0: 
+0: 
+0: 
+N:       Sneak gasps as Lo-Lo’s eyes widen, shocked. The crowd
+N:   N
+0: 
+0: 
+0: 
+0: 
+N:       suddenly deathly quiet. The NK addresses Sneak innocently:
+0: 
+N: 190                        NIGHTMARE KING (CONT’D)               190
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:                 What use do I have for a Darkling
+N:                 who can’t even defeat a tiny blue
+N:                 human-beastie-hybrid?
+N:                     (merciless, to Lo-Lo)
+N: G
+0: 
+0: 
+0: 
+0: 
+N:                 Do it. Finish him or I will finish                      *
+N:                 you!                                                    *
+0: 
+N:       Lo-Lo tightens his grip. Sneak prepares for the worst --
+0: 
+N:       THWUNK! Logan POPS back into human form. Breathing heavily,       *
+N:       he releases Sneak. Locks eyes with the relieved Darkling.         *
+0: 0:                                                            28.
+0: 
+0: 
+C: 191                       LOGAN                                  191
+D:                 Your boss is cold, my dude. Ice
+D:                 cold.
+0: 
+N:       Logan turns to face the NK, defiant.
+0: 
+C: 192                       LOGAN (CONT’D)                         192
+D:                 I’m not a monster. Do your own                         *
+D:                 dirty work.                                            *
+0: 
+0: 
+0: 
+0: 
+C:                                                    TE
+D: 193                        NIGHTMARE KING                        193   *
+E:                     (still invested)                                   *
+D:                 Think about this Logan... what are                     *
+0: 
+0: 
+0: 
+0: 
+C:                                                   U
+D:                 you doing?                                             *
+0: 
+0: 
+0: 
+0: 
+C:                                                 IT
+C: 194                       LOGAN                                  194   *
+D:                 Carving my own path, bro.                              *
+0: 
+0: 
+0: 
+0: 
+C:                                        ST
+D:       That lands. Nightmare King stares down Logan. Seething.          *
+0: 
+N: 195                       NIGHTMARE KING                         195   *
+N:                 Take him to the Fear Works...                          *
+0: 
+0: 
+T:       we CUT TO --
+C:                                  IN
+D:       As the Dark Archer steps forward to seize a frightened Logan,    *
+0:                                                                        *
+C:                       IS
+D: 19    EXT. MATEO AND IZZIE’S BLOCK – DUSK – CONTINUOUS           19    *
+0: 
+N:       Mateo, Izzie, and Coop walk along giddy from their win.          *
+N:                    AV
+0: 
+0: 
+C: 196                       COOPER                                 196   *
+D:                 I wish I could see the look on
+D:                 Logan’s face right now!
+D:                D
+0: 
+0: 
+0: 
+C: 197                       IZZIE                                  197
+D:                 Oooh, the poor guy will never get
+D:          A
+0: 
+0: 
+0: 
+0: 
+N:                 over the shock of us winning
+N:                 without him.
+N:   N
+0: 
+0: 
+0: 
+0: 
+C: 198                       COOPER                                 198   *
+D:                 Too bad we can’t go to the Hamptons
+D: EE
+0: 
+0: 
+0: 
+0: 
+N:                 and tell him.
+0: 
+N:       Mateo freezes mid-stride. It suddenly hits him --                *
+N: G
+0: 
+0: 
+0: 
+0: 
+C: 199                        MATEO                                 199   *
+D:                 Guys, we totally can!                                  *
+E:                     (off their blank stares)
+D:                 Sort of...
+E:                     (excited)
+D:                 We just gotta use the Locator!                         *
+0: 0:                                                            29.
+0: 
+0: 
+N:       A guilty look flashes across Izzie’s face but she quickly
+N:       smiles, covering. Coop grins, high-fives Mateo as we CUT TO -- *
+0: 
+0: 
+S: 20    EXT. LANDING (DREAM WORLD) - NIGHT                          20
+0: 
+N:       Z Blob, Coop, and Izzie watch as Teo pulls the LOCATOR out of     *
+N:       his backpack.                                                     *
+0: 
+0: 
+0: 
+0: 
+C:                                                  TE
+C: 200                       MATEO                                   200   *
+D:                 Remember, we absolutely, definitely                     *
+D:                 can NOT tell Oz about this.                             *
+0: 
+0: 
+0: 
+0: 
+C:                                                 U
+D:       Coop inspects the device -- it looks pretty rough.                *
+0: 
+0: 
+0: 
+0: 
+C:                                               IT
+C: 201                       COOPER                                  201   *
+D:                 You think this thing will work?
+D:                 Looks super janky.                                      *
+0: 
+0: 
+0: 
+0: 
+C:                                        ST
+C: 202                        IZZIE                                  202
+E:                     (covering)
+D:                 I’m sure it’s fine.                                     *
+0: 
+C: 203                       MATEO  IN
+D:                 Only one way to find out. Let’s
+D:                 fire this puppy up.
+D:                                                                   203   *
+C:                       IS
+D:       Mateo activates the Locator, which shudders to life. The kids     *
+D:       struggle to contain their impatience as the Locator whirs,
+D:       whizzes, shoots sparks then...
+D:                    AV
+0: 
+0: 
+N:       BLAM! The Locator YANKS Mateo off his feet with a sharp TUG.      *
+N:       Mateo picks himself up and grins.                                 *
+N:                D
+0: 
+0: 
+0: 
+N: 204                       MATEO (CONT’D)                          204   *
+N:                 Guess the Locator got a lock on
+N:                 Logan.
+N:          A
+0: 
+0: 
+0: 
+0: 
+C: 205                       COOPER                                  205   *
+D:   N
+0: 
+0: 
+0: 
+0: 
+N:                 How are we gonna get there?                             *
+0: 
+C: 206                       IZZIE                                   206   *
+D: EE
+0: 
+0: 
+0: 
+0: 
+N:                 Allow me, ladies and gentlemen...                       *
+0: 
+N:       The group turns to see Izzie pointing at the DREAM BRIDGE         *
+N:       DOOR materializing on the landing.                                *
+N: G
+0: 
+0: 
+0: 
+0: 
+N:       The kids trade a look and then start forward.                     *
+0: 
+N: 207                       IZZIE (CONT’D)                          207   *
+N:                 Ten bucks says he’s dreaming up a                       *
+N:                 high score on Baking Papa.                              *
+0: 0:                                                            30.
+0: 
+0: 
+N:       And as the unsuspecting group dashes off through the door, we     *
+N:       linger... and notice the tell-tale signs of THE GRIM REALM        *
+N:       manifesting around the door frame of the dream door...            *
+0: 
+0: 
+S: 21    EXT. GRIM REALM - DUSK                                       21   *
+0: 
+N:       Mateo, Coop, Izzie, and Z Blob emerge from the Dream Door and     *
+N:       hit the brakes as a GREY FOG closes in around them.               *
+0: 
+0: 
+0: 
+0: 
+C:                                                  TE
+C: 208                       COOPER                                  208   *
+D:                 You sure we’re going the right way?                     *
+D:                 I can’t see a thing.
+0: 
+0: 
+0: 
+0: 
+C:                                                 U
+D:       Mateo checks the Locator -- still on target. He nods. The         *
+0: 
+0: 
+0: 
+0: 
+C:                                               IT
+D:       kids continue on blindly through the menacing fog.
+0: 
+N: 209                       IZZIE                                   209
+0: 
+0: 
+0: 
+0: 
+C:                                        ST
+D:                 I don’t know... This fog is
+D:                 seriously creeping me out.
+0: 
+N:       Izzie reaches out to clutch Z Blob’s hand tightly. Mateo and      *
+0: 
+0: 
+0: 
+C: 210                       MATEO
+C:                                  IN
+D:       Coop share a worried look as they inch through the eerie,
+D:       thick fog. Mateo double-checks the Locator.
+0: 
+0:                                                                   210
+0:                                                                         *
+0:                                                                         *
+0: 
+0:                                                                         *
+C:                       IS
+D:                 Logan’s definitely with his Moms,                       *
+D:                 right?
+0: 
+N:       AIYEE! They’re suddenly startled by a LOUD SHRIEK. The fog
+N:                    AV
+0: 
+0: 
+N:       dissipates to reveal...
+0: 
+N:       The Shadowkeep looming ahead! A storm billows above. Night        *
+N:       Terror sentries zig-zag across the sky. The kids gasp. Z Blob     *
+N:                D
+0: 
+0: 
+0: 
+N:       pulls Izzie’s hand across his eyes to block the view.             *
+0: 
+N:       The group slams to a stop. The reality of Logan’s predicament     *
+N:          A
+0: 
+0: 
+0: 
+0: 
+N:       sinking in...                                                     *
+N:   N
+0: 
+0: 
+0: 
+0: 
+C: 211                        COOPER                                 211   *
+E:                     (devastated)                                        *
+D:                 I-- I thought he ditched us... I                        *
+D: EE
+0: 
+0: 
+0: 
+0: 
+N:                 never imagined...                                       *
+0: 
+N:       He can’t quite bring himself to say it. But Mateo does.           *
+N: G
+0: 
+0: 
+0: 
+0: 
+C: 212                       MATEO                                   212   *
+D:                 The Nightmare King captured                             *
+D:                 Logan...                                                *
+0: 
+N:       OFF the Night Terrors’ shrieks, we --                             *
+0: 
+N:       FADE TO BLACK...    END OF EPISODE                                *
+0: 

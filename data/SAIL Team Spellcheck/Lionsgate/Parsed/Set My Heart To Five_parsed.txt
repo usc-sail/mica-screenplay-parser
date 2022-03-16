@@ -1,0 +1,3389 @@
+M: SET MY HEART TO FIVE
+M: Written by
+M: Simon Stephenson
+M: Based on the novel
+M: Set My Heart To Five
+M: by Simon Stephenson
+M: First Draft Polish - 27th August 2020
+N: Working Title Films Complete Fiction Pictures 26 Aybrook Street 26 Aybrook Street London W1U 4AN London W1U 4AN +44 207 307 3000 +44 207 307 3000 Info@workingtitlefilms.com info@completefiction.com © 2020 Working Title Films Limited. All Rights Reserved. THIS SCREENPLAY IS THE PROPERTY OF WORKING TITLE FILMS LIMITED ("WT"). DISTRIBUTION OR DISCLOSURE OF ANY INFORMATION OF WHATEVER NATURE IN WHATEVER FORM RELATING TO THE CHARACTERS, STORY AND THE SCREENPLAY ITSELF OBTAINED FROM ANY SOURCE INCLUDING WITHOUT LIMITATION THIS SCREENPLAY OR INFORMATION RECEIVED FROM WT, TO UNAUTHORISED PERSONS, OR THE SALE, COPYING OR REPRODUCTION OF THIS SCREENPLAY IN ANY FORM IS STRICTLY PROHIBITED. THIS SCREENPLAY IS INTENDED TO BE READ SOLELY BY WT EMPLOYEES AND INDIVIDUALS UNDER CONTRACT TO OR INDIVIDUALS PERMITTED BY WT. THIS SCREENPLAY CONTAINS CONFIDENTIAL INFORMATION AND THEREFORE IS GIVEN FOR REVIEW ON A STRICTLY CONFIDENTIAL BASIS. BY READING THIS SCREENPLAY YOU AGREE TO BE BOUND BY A DUTY OF CONFIDENCE TO WT, ITS PARENT AND SUBSIDIARY COMPANIES.
+S: EXT. VARIOUS SHOTS OF YPSILANTI, MICHIGAN - 2054 - DAWN
+N: A TYPEWRITER clicks as we see shots of dawn breaking over Ypsilanti, a Midwestern college town. - A RACCOON tries to break in to an AUTOMATED TRASH CAN. The trash can slams its own lid and wheels itself away.
+C: JARED
+D: Dear Dr Glundenstein, I write with good news: I have not yet been incinerated! Nonetheless, so very much has happened that I have no idea where to begin.
+E: V.O.
+N: - A US MAIL DRONE drops PACKAGES on two consecutive doorsteps, and the third one in to a garden pond.
+C: JARED
+D: Ha! Kidding! The correct place to begin is at the beginning, in our town of Ypsilanti, Michigan.
+E: V.O.
+N: - A MUSEUM’s lawn displays a B-24 BOMBER and a PRIUS.
+C: JARED
+D: This seems auspicious as so many incredible things - including the
+E: V.O.
+C: gracefully murderous B-24 bomber
+D: and the short-lived architectural vogue for phallic water towers...
+N: - YPSILANTI’S PHALLIC WATER TOWER. A DISPLAY shows the current price of water. It creeps up as we look at it.
+C: JARED
+D: ...started out in Ypsilanti!
+E: V.O.
+N: - A SELF-DRIVING TRASH TRUCK lifts up the now misplaced trash can, strews trash all over the road and continues on. A RACCOON FAMILY emerge to feast.
+C: JARED
+D: Not for nothing is Ypsilanti known as ‘The Hoboken of the Midwest’!
+E: V.O.
+S: INT. BEDROOM - JARED’S HOUSE - PLEASANT OAKS - PRE-DAWN
+N: In an overly immaculate bedroom, a clock reads 0403am. Next to the clock we see a FRAMED PHOTOGRAPH of an Asian woman (50s) wearing a lab coat, PROF FENG. Jared - 40s, pajamas - wakes, checks the clock and sighs. He sees an ORANGE CAT staring at him from a dresser.
+S: INT. BATHROOM - JARED’S HOUSE - DAY
+N: In an immaculate bathroom, Jared brushes his teeth.
+C: TOOTHBRUSH
+D: Move brush to right rear quadrant.
+S: INT. KITCHEN - JARED’S HOUSE - PLEASANT OAKS - DAY
+N: In an immaculate kitchen, Jared pours a BROWN MEAL SUBSTITUTE into a large glass and a small glass.
+C: JARED
+D: Happy birthday to me!
+N: Jared clinks the glasses together, then drinks the large glass and gives the cat the small glass.
+S: EXT. JARED’S HOUSE - PLEASANT OAKS - DAY
+N: As Jared exits, his neighbor, MRS LARSON (40s) and her daughter JESSICA (8) are emerging for the school run.
+C: JARED
+D: Good morning, Mrs Larson! Good morning, Jessica Larson!
+C: JESSICA
+D: Hi, Jared. How are you?
+C: JARED
+D: Thank you for asking! Today is actually-
+C: MRS LARSON
+D: Jessica! We don’t talk to bots.
+C: JESSICA
+D: I don’t want to hurt his feelings.
+C: MRS LARSON
+D: He doesn’t have feelings.
+C: JARED
+D: Your mother is right, Jessica. I have no feelings whatsoever!
+N: The Larsons head off on their ELECTRONIC SCOOTERS.
+S: EXT./INT. SHUTTLE BUS - STREETS OF YPSILANTI - DAY
+N: Jared watches the scenes from the bus window: - KIDS walk to school chaperoned by TINY DRONES. - JOGGERS wear shirts that display their speed: 6mph etc. - A YO SUSHI-STYLE CONVEYOR BELT that runs in and out of a PET STORE shows the animals on sale today. - A BILLBOARD for a no-win-no-fee lawyer reads 'DID A BOT STEAL YOUR JOB? CALL NOW FOR A FREE CONSULTATION. 96% OF OUR CASES END IN COMPENSATION AND INCINERATION!'
+S: EXT. MEDICAL BUILDING - MAIN STREET, YPSILANTI - DAY
+N: An LED sign outside reads: YPSILANTI MEDICAL AND DENTAL (B) CLINIC Jared arrives as DR GLUNDENSTEIN (50s, weary) does too.
+C: JARED
+D: Good morning, Dr Glundenstein!
+C: DR GLUNDENSTEIN
+D: Hi, Jared. How was your weekend?
+C: JARED
+D: It was wonderful! I exercised, consumed an appropriate number of calories and spent the correct amount of time in standby mode to ensure I am refreshed for the upcoming week! How was yours?
+C: DR GLUNDENSTEIN
+D: Let's just say, don't ever get married.
+C: JARED
+D: Ha!
+C: DR GLUNDENSTEIN
+D: What?
+C: JARED
+D: I assumed you were being hilarious. After all, you have been married three times, so it seems to be a recurring error!
+C: DR GLUNDENSTEIN
+D: I died so others may live. Don't make the same mistake as me.
+C: JARED
+D: Ha! Do not worry, I will not be getting married, because marriage is utterly illogical.
+C: DR GLUNDENSTEIN
+D: That's what I love about you, Jared. There's never any bullshit.
+C: JARED
+D: Yes! And speaking of bullshit, today is my birthday! This data is only useful to me so I know when to retire, but I know humans consider it somehow important.
+C: DR GLUNDENSTEIN
+D: Well, happy birthday.
+C: JARED
+D: Thank you! That's very kind!
+S: INT. DENTAL CLINIC - YPSILANTI MEDICAL BUILDING - DAY
+N: Jared lays out DRILLS. Assistant ANGELA (40) bustles in.
+C: JARED
+D: Good morning, Angela! As you are late, I took the liberty of doing your prep work. So please send in-
+C: ANGELA
+D: Jesus Christ, Jared. I haven’t even had my coffee yet.
+C: JARED
+D: My sincere apologies! Please send in a patient once you feel sufficiently caffeinated.
+S: INT. DENTAL CLINIC - YPSILANTI MEDICAL BUILDING - DAY
+N: Angela sips coffee and quietly sings along to the song 'If You Like Pina Coladas'.
+C: ANGELA
+D: If you like piña coladas And getting caught in the rain If you're not into yoga If you have half a brain
+N: A NERVOUS PATIENT sits in the chair. Jared - now wearing an operating headset - looms over him.
+C: JARED
+D: As this is your first time with a bot dentist, allow me to put you at ease with some amusing repartee.
+E: MORE
+C: JARED
+D: You can think of me as a microwave oven with feet, or a toaster with a heart! Of course, I mean a heart merely as in a mechanical pump, not a repository of emotions!
+E: cont'd
+N: The patient tries to get up. Jared stops him.
+C: JARED
+D: But rest assured our lack of empathy is the reason we bots make excellent dentists. So please sit back, open wide and say ‘Aaaaah’!
+E: cont'd
+S: EXT. TRIDGE - YPSILANTI - DAY
+N: At the TRIDGE - a three-pointed bridge - Jared sits down on a bench beside a WOMAN.
+C: JARED
+D: ‘Tridge’ is such a hilarious pun for a three-pointed bridge!
+N: The woman gives him a look. Jared takes a DOUGHNUT from a Tupperware box, inserts a SPARKLER and lights it.
+C: WOMAN
+D: What are you doing?
+C: JARED
+D: Celebrating my birthday by setting light to something inserted in a substance containing an inordinate number of nutritionally-valueless calories.
+C: WOMAN
+D: Why?
+C: JARED
+D: To seem as reassuringly human as possible!
+N: The woman gets up and moves to another bench, where she starts complaining about Jared to the STRANGER on it. Jared watches them, then looks around. Everyone else - JOGGERS, COUPLES, PARK WORKERS, DOGS - has a companion. Jared watches as the sparkler slowly fizzles itself out. And then abruptly jerks his head, as if he has been shot. We hear the TYPEWRITER start to click.
+C: JARED
+D: And that, Dr Glundenstein, was when it all began. The number 1957026 appeared unprompted in my Number Cloud. Of course, I tried a soft reset.
+E: V.O.
+N: Jared blinks his eyes several times.
+C: JARED
+D: When that did not work, I naturally attempted a hard reset.
+E: V.O.
+N: Jared now screws up his eyes several times.
+C: JARED
+D: But that did not work either. I had malfunctioned!
+E: V.O.
+S: INT. DENTAL CLINIC - YPSILANTI MEDICAL BUILDING - DAY
+N: Jared sets TISSUES on the desk then uses the INTERCOM.
+C: JARED
+D: Could you please step in here?
+N: An ANGRY SIGH over the intercom, then Angela appears.
+C: ANGELA
+D: What?
+C: JARED
+D: I have malfunctioned and must go to the Bureau of Robotics and be wiped. Tomorrow it will be as if we have never met before.
+C: ANGELA
+D: Okay?
+C: JARED
+D: This will therefore be our last chance to reminisce about all the collegiate times we have shared.
+N: Jared offers the tissues. Angela shakes her head.
+C: JARED
+D: Thank you for being so strong.
+E: cont'd
+N: We see that Angela simply does not give a shit.
+S: INT./EXT. DRIVERLESS UBER - FREEWAY - EVENING
+N: The driverless uber's steering wheel turns spontaneously. Jared sits in the back, happily undaunted.
+S: INT. WAITING ROOM - BUREAU OF ROBOTICS - EVENING
+N: It is the DMV, but full of MALFUNCTIONING BOTS: - A PERSONAL TRAINER BOT performs jumping jacks. - A PARAMEDIC BOT is using a stethoscope inappropriately. - A UNIFORMED HOSTESS BOT is endlessly repeating:
+C: HOSTESS BOT
+D: Hi, I’m Melissa, I’m a bot! Hi I'm Melissa, I'm a bot. Hi, I'm-
+N: Jared enters, takes a number and a seat, and waits.
+S: INT. BRIDGES’ OFFICE - BUREAU OF ROBOTICS - EVENING
+N: Jared sits across from INSPECTOR BRIDGES (40s) who is filling out paperwork while watching a brutal football game on TV featuring the EMU Eagles.
+C: BRIDGES
+D: Oh come on! Watch that guy! Ouch! That one had to hurt.
+N: The BOT PLAYER is loaded on a stretcher. The crowd cheer as a CLEAN-CUT NEW BOT PLAYER enthusiastically takes his place. The name tag on Bridges’ shirt says ‘CHIEF INSPECTOR ANIL GUPTA.’
+C: JARED
+D: Excuse me, Chief Inspector Gupta-
+C: BRIDGES
+D: It’s Inspector Bridges.
+C: JARED
+D: Er, are you sure?
+C: BRIDGES
+D: I spilled my lunch, so the Chief lent me his spare shirt. Why are you here?
+C: JARED
+D: Because I am malfunctioning.
+C: BRIDGES
+D: Yeah? What’s the problem?
+C: JARED
+D: A rogue number has appeared in my Number Cloud.
+C: BRIDGES
+D: Have you tried turning yourself off and on again?
+C: JARED
+D: A biological computer can no more turn itself off than a human brain! It’s true our circuits can sometimes become overheated, but-
+C: BRIDGES
+D: It was a joke. Jesus. Why do I even bother? You’re a bot.
+C: JARED
+D: Yes! A malfunctioning bot.
+N: Bridges points outside to where the personal trainer bot is laying on the ground doing crunches and the paramedic bot is attempting to perform chest compressions on him.
+C: BRIDGES
+D: Those are malfunctioning bots. Come on! Goddamit!
+E: At TV.
+N: Bridges sighs, scribbles a FORM and hands it to Jared.
+C: BRIDGES
+D: But fine. Second door on the left.
+E: cont'd
+S: INT. TEST ROOM - BUREAU OF ROBOTICS - EVENING
+N: Jared wears a DEVICE like an old-fashioned motorcycle helmet covered in wires and flashing lights. The lights stop and a COMPUTER spits out a PRINTOUT.
+S: INT. OFFICE - BUREAU OF ROBOTICS - EVENING
+N: The score shows the EMU Eagles are losing badly. The NEW PLAYER who we saw come on now gets injured.
+C: BRIDGES
+D: Goddamit!
+N: Bridges now looks at the printout then up at Jared.
+C: BRIDGES
+D: See? Our botscanner says you are fine.
+E: cont'd
+C: JARED
+D: Perhaps you should wipe me anyway? Just to be on the safe side?
+C: BRIDGES
+D: Do you even know how many forms that involves? Look, go home and get a good night in standby mode. I’m sure the number will be gone by tomorrow.
+S: INT. ELEVATOR - BUREAU OF ROBOTICS - DAY
+N: Jared enters to find a BUREAU AGENT and the hostess bot. Jared presses the '1' button. The doors close.
+C: MELISSA
+D: Dining alone? Perhaps a seat at our bar? Or our communal table?
+C: BUREAU AGENT
+D: Knock it off, already.
+C: MELISSA
+D: Please forgive me. I am broken beyond economic repair! The sooner I am incinerated the better!
+N: Jared checks the buttons: 1 and B are illuminated. When the doors open on 1, Jared hurries out.
+S: EXT. BUREAU OF ROBOTICS - NIGHT
+N: As Jared scans his BARCODE - a small tattoo on his index finger - on his driverless uber, he hears a RUMBLING. He turns and sees the Bureau's chimney belch SMOKE. Jared stares at the smoke. He is perturbed.
+S: INT. BEDROOM - JARED'S HOUSE - DAWN
+N: Jared opens his eyes at 0403am. The cat meows at him.
+C: JARED
+D: 1956864. So the rogue number has decreased by 162. Yes, 1956864 is indeed wholly divisible by 13!
+E: Cat meows. His eyes flicker. MORE
+C: JARED
+D: Which is the number of patients I see in a day....
+E: cont'd
+T: CUT TO:
+S: INT. DR GLUNDENSTEIN CLINIC ROOM - MEDICAL BUILDING - DAY
+N: An ordinary medical office with an ANATOMICAL SKELETON, weighing scales etc. But the walls bear FRAMED PHOTOGRAPHS of Ridley Scott, James Cameron, Martin Scorsese and Steven Spielberg. A shelf holds a TYPEWRITER and some EMU EAGLES memorabilia.
+C: JARED
+D: ...and 1956864 is also divisible by 32, the number of teeth in the human mouth! And when divided by 13 and 32, it gives 4704 which is...
+E: O.C.
+N: Jared sits in the chair opposite Dr Glundenstein.
+C: JARED
+D: ...the number of working days until I retire and am incinerated. My rogue number therefore represents the number of teeth I still have to see over the course of my career!
+E: cont'd
+C: DR GLUNDENSTEIN
+D: And how do you feel about that?
+C: JARED
+D: Ha! I don’t! Because I am a bot.
+C: DR GLUNDENSTEIN
+D: Well, how are you, otherwise? Are you sleeping okay?
+C: JARED
+D: Bots do not sleep! We enter standby mode.
+C: DR GLUNDENSTEIN
+D: But no problems there?
+C: JARED
+D: None whatsoever. Except every morning I involuntarily emerge from standby mode at 403am.
+C: DR GLUNDENSTEIN
+D: And have you lost any weight?
+C: JARED
+D: Eight pounds. I don’t know why.
+C: DR GLUNDENSTEIN
+D: So, you wake early every morning, you have lost weight, and you are ruminating about the mundanity of your existence?
+C: JARED
+D: That is an excellent summation! I feel better already. Thank you.
+C: DR GLUNDENSTEIN
+D: Jared, what would you say if I told you you seem to be suffering from a classic case of major depression?
+C: JARED
+D: I would say, ‘Ha!’
+C: DR GLUNDENSTEIN
+D: So my hypothesis is that you are depressed. Yours is you cannot be. Should we conduct an experiment?
+C: JARED
+D: That would be most scientific!
+C: DR GLUNDENSTEIN
+D: Good. So I want you to go and watch a movie in a theater.
+C: JARED
+D: Dr Glundenstein, theaters are places for humans to experience their precious feelings together in the dark! If I was found there, I would be incinerated. Anyway, movies are about killer bots and-
+C: DR GLUNDENSTEIN
+D: Old movies aren't about killer bots.
+C: JARED
+D: What? What are old movies?
+C: DR GLUNDENSTEIN
+D: Movies that survived the Great Crash because they were stored on film.
+C: JARED
+D: But if the Bureau of Robotics ever found out I had-
+C: DR GLUNDENSTEIN
+D: They wouldn't know if you go by Automatic Greyhound.
+E: MORE
+C: DR GLUNDENSTEIN
+D: It takes the cheap roads so it doesn't require a barcode. And here, wear this.
+E: cont'd
+N: Dr Glundenstein takes an EMU EAGLES cap from his shelf.
+C: JARED
+D: Ha! This will be an incredible disguise! No logical bot would ever choose to wear a hat of a team as consistently hopeless as the East Michigan Eagles!
+N: Dr Glundenstein writes something down and gives it to Jared. Jared's eyes widen when he sees it.
+C: JARED
+D: Detroit is where I was rapidly aged! Did I ever tell you that my mother, Professor Feng, spoke at our graduation?
+E: cont'd
+C: DR GLUNDENSTEIN
+D: You mentioned it, Jared, yes.
+C: JARED
+D: Well, set it to five, I will go to Detroit and watch an old movie!
+C: DR GLUNDENSTEIN
+D: What is that, 'Set it to five'?
+C: JARED
+D: It is how I express maximal enthusiasm! My operating system was designed for toasters, and they only go up to five.
+S: EXT./INT. GREYHOUND - YPSILANTI - EVENING
+N: Jared pulls his cap down as an AUTOMATIC GREYHOUND nears. Jared boards and touches his BITCOIN - a device with a digital display - against the reader.
+S: EXT. AUTOMATIC GREYHOUND ON FREEWAY - EVENING
+N: The bus is grungy with scuzzy seats and no driver. It travels too fast, throwing Jared around.
+S: EXT. AUTOMATIC GREYHOUND STATION - DETROIT - NIGHT
+N: As he disembarks, Jared pauses by the steering wheel.
+C: JARED
+D: Thank you. I know you did the best job your programming permits.
+S: EXT. TICKET BOOTH - MAJESTIC THEATER - DETROIT - NIGHT
+N: A tumbledown old theater with a neon marquee. Jared hands his BITCOIN to the CLERK, who touches it against a machine then hands it back.
+S: INT. FOYER - MAJESTIC THEATER - DETROIT - NIGHT
+N: Jared stares at a display case of BUTTERY POPCORN, the warm golden light bathing his face.
+S: INT. AUDITORIUM - MAJESTIC THEATER - DETROIT - NIGHT
+N: Carrying a BUCKET OF POPCORN, Jared enters the near-empty auditorium and stares at the THREADBARE RED VELVET SEATS, the BALCONIES, the CRUMBLING ALABASTER STATUES. Taking as isolated a seat as possible, Jared tastes the popcorn then pulls a face. It is like eating sawdust. Yet he cannot resist another mouthful. Jared eats handfuls of popcorn with increasing speed until the lights dim and LOVE STORY starts: emotive piano and RYAN O'NEAL staring out at a snowy Harvard field.
+C: OLIVER
+D: What can you say about a twenty- five-year-old girl who died? That she was beautiful and brilliant? That she loved Mozart and Bach and the Beatles? And me?
+E: V.O. FROM SCREEN
+N: Jared is baffled by this.
+T: CUT TO:
+N: Oliver and Jenny are argue-flirting in the library.
+C: JENNY
+D: I won't have coffee with you.
+E: ON SCREEN
+C: OLIVER
+D: I wouldn’t ask you.
+E: ON SCREEN
+N: Jared is puzzled but intrigued.
+T: CUT TO:
+N: Oliver and his father are having a heated argument.
+C: OLIVER’S DAD
+D: If you marry her now, I’ll not give you the time of day!
+E: ON SCREEN
+N: Jared looks concerned.
+T: CUT TO:
+N: Up on screen, Oliver and Jenny are reconciling.
+C: OLIVER
+D: Jenny, I'm sorry.
+E: ON SCREEN
+C: JENNY
+D: Don’t. Love means never having to say you’re sorry.
+E: ON SCREEN
+N: Jared is bamboozled.
+T: CUT TO:
+N: Up on screen, Oliver talks to a serious-looking doctor.
+C: OLIVER
+D: Define ‘very sick’.
+E: ON SCREEN
+C: DOCTOR
+D: She’s dying.
+E: ON SCREEN
+N: Jared is stunned. He gasps.
+T: CUT TO:
+N: Up on screen, Jenny lies dying in her hospital bed.
+C: JENNY
+D: Would you please hold me? I mean really hold me. Next to me.
+E: ON SCREEN
+N: A SINGLE TEAR rolls down Jared’s cheek.
+T: CUT TO:
+N: Oliver and his dad are outside the hospital.
+C: OLIVER
+D: Jenny’s dead.
+E: ON SCREEN
+C: OLIVER’S DAD
+D: I’m sorry, love-
+E: ON SCREEN
+C: OLIVER
+D: Love means never having to say you’re sorry.
+E: ON SCREEN
+N: TEARS stream down Jared’s face. He is oblivious to them.
+S: INT. AUDITORIUM - MAJESTIC THEATER - NIGHT
+N: As the house lights come up, Jared sees his shirt is wet. He looks around, then up to the ceiling for a leak.
+S: INT. RESTROOM - MAJESTIC THEATER - NIGHT
+N: Jared stares at his puffy red eyes in the mirror. He gingerly touches them. He is baffled.
+S: INT. DR GLUNDENSTEIN'S ROOM - MEDICAL BUILDING - DAY
+N: Jared sits opposite Dr Glundenstein.
+C: DR GLUNDENSTEIN
+D: What did you think of the movie?
+C: JARED
+D: What can you say about a twenty- five-year-old girl who died? That-
+C: DR GLUNDENSTEIN
+D: I’ve seen the movie, Jared. I’m asking if you felt anything?
+C: JARED
+D: Ha! No, because I am a bot!
+C: DR GLUNDENSTEIN
+D: Well, did anything unusual happen?
+C: JARED
+D: I produced 52mls of tears. It must have been allergies.
+C: DR GLUNDENSTEIN
+D: Jared, the movie you saw is a ‘tearjerker’: a movie designed to make people weep.
+C: JARED
+D: But bots cannot weep. Yet ignoring the results of an experiment would be unscientific in the extreme!
+N: Jared puts his hands to his temples.
+C: JARED
+D: This is a terrible predicament. I think my circuits are overheating.
+E: cont'd
+C: DR GLUNDENSTEIN
+D: Maybe we should gather more data?
+C: JARED
+D: More data is never unhelpful!
+C: DR GLUNDENSTEIN
+D: Good. So why don’t you see a movie each week, and then come here and tell me about it?
+N: Dr Glundenstein takes a FEELINGS WHEEL from his desk, a cardboard circle showing a spectrum of feelings.
+C: DR GLUNDENSTEIN
+D: This was designed for troubled teenagers, but maybe it will help you. Any questions?
+E: cont'd
+C: JARED
+D: How do tearjerker movies make people weep?
+C: DR GLUNDENSTEIN
+D: Generally, they use foreshadowing to help provoke a catharsis.
+C: JARED
+D: Please remember I don't hold a prestigious Minor in Cinema Studies like you.
+C: DR GLUNDENSTEIN
+D: The movie opens with Oliver talking about Jenny in the past tense. That warns us something bad will happen to her. So when Jenny does die it isn't merely sad, but also cathartic. Does that make sense?
+C: JARED
+D: The word ‘cathartic’ was not included in my programming.
+C: DR GLUNDENSTEIN
+D: It’s when something provides relief by releasing pent-up emotion.
+C: JARED
+D: Then they should make a movie about wisdom teeth extraction. It would be a real tearjerker!
+S: EXT. GREYHOUND STOP - YPSILANTI - EVENING
+N: The typewriter clicks as Jared boards the Greyhound.
+C: JARED
+D: The movies you recommended had all been made many years ago in Los Angeles by some of the most empathetic humans who had ever lived. Over the next weeks, I saw every one you recommended and I experienced many new feelings.
+E: V.O.
+S: INT. AUDITORIUM - MAJESTIC THEATER - NIGHT
+N: Jared sits weeping in the sparsely-populated auditorium.
+C: JARED
+D: There was a tearjerker about a doomed boat.
+E: V.O.
+N: This is TITANIC. Jared consults his Feelings Wheel.
+C: JARED
+D: To see such a magnificent machine drown made me very ‘sad’!
+E: V.O.
+S: INT. AUDITORIUM - MAJESTIC THEATER - NIGHT
+N: Jared watches another movie.
+C: JARED
+D: A movie about a handsome fool who was good at running. That one left me ‘heart-warmed’!
+E: V.O.
+N: This is FORREST GUMP.
+C: JARED
+D: Until Jenny died. Poor Jennys. They are always dying!
+E: V.O.
+S: INT. AUDITORIUM - MAJESTIC THEATER - NIGHT
+N: Jared anxiously watches 'THE UNTOUCHABLES'.
+C: JARED
+D: A movie about the heroic Elliot Ness and the wicked Al Capone!
+E: V.O.
+S: INT. AUTOMATIC GREYHOUND - NIGHT
+N: Jared checks his Feelings Wheel on the way home.
+C: JARED
+D: That one left me 'exhausted'!
+E: V.O.
+S: INT. AUDITORIUM - MAJESTIC THEATER - NIGHT
+N: Jared watches a movie, excitedly flicking his Feelings Wheel from 'EXCITED' to 'THRILLED'.
+C: JARED
+D: A movie about two bots who had to deliver a message from a princess.
+E: V.O.
+N: We see it is STAR WARS: C3PO and R2D2 in the desert.
+C: JARED
+D: Those bots were true heroes.
+E: V.O.
+N: Jared flicks his Feelings Wheel to 'PROUD'.
+S: EXT. JARED'S HOUSE - MORNING
+N: As he leaves for work, Jared looks around at the bright morning and grins.
+C: JARED
+D: Soon I even began to feel things outside the movies.
+E: V.O.
+N: Jared checks his Feelings Wheel: 'HAPPY'.
+C: JARED
+D: It's Campbell's Soup! Campbell's soup! It's super-douper soup!
+E: Singing.
+C: JESSICA
+D: Why are you singing?
+C: JARED
+D: Because I am happy! Please don't tell anyone. I'm not supposed to be happy.
+C: JESSICA
+D: I won't tell. But why are you singing about soup?
+C: JARED
+D: It's the only song I know. My generation of bots were originally programmed to sell soup in malls and work as theme park pirates.
+C: MRS LARSON
+D: Jessica! How many times?
+N: Jessica shrugs at Jared and hurries away. Jared watches her go. This time, he seems perturbed.
+S: INT. LIVING ROOM - JARED’S HOUSE - DAY
+N: Jared and the cat eat their meal substitute breakfast.
+C: JARED
+D: But amid all these wonders I noticed a different kind of feeling. It seemed to be always there, ready to make itself known.
+E: V.O.
+N: The cat finishes and exits through a DIGITAL CAT FLAP. Jared watches it run over to the Larson's house. Mrs Larson opens the door, picks it up and pets it.
+S: INT. SHUTTLE BUS - YPSILANTI - DAY
+N: Jared takes a seat beside a passenger.
+C: JARED
+D: It had notes of sadness, of emptiness, and shame.
+E: V.O.
+N: The PASSENGER moves seats. Jared watches her. Outside, he sees the BILLBOARD about making bots pay.
+S: INT. DENTAL PRACTICE - DAY
+N: Jared hears chuckling as Angela gossips with a PATIENT.
+C: JARED
+D: Yet it was worse than all of those.
+E: V.O.
+N: When Jared enters, they immediately stop talking.
+S: INT. LIVING ROOM - JARED'S HOUSE - EVENING
+N: Jared sits alone. Hearing voices, he goes to the window and sees the Larsons are having a barbecue.
+C: JARED
+D: It was the unique kind of sadness caused by the lack of company of people with whom one shares common ground.
+E: V.O.
+N: He turns his Feelings Wheel to 'LONELINESS'.
+S: EXT./INT. YPSILANTI MEGAPLEX - NIGHT
+N: Jared - with a cap pulled low - enters a megaplex.
+C: JARED
+D: I therefore attempted to cure it by visiting the most popular theater I knew: the Ypsilanti Megaplex!
+E: V.O.
+S: INT. AUDITORIUM - YPSILANTI MEGAPLEX - NIGHT
+N: Jared sits amid HUNDRED OF HUMANS. Up on the giant screen - projected on three walls in SCREEN X FORMAT - a downbeat UNDERDOG trudges through a monotonous workday.
+C: JARED
+D: But the movies they showed all told the same story about a mundane underdog. One day, an enigmatic stranger informed her she possessed a hidden talent and was in fact the most special person in the entire universe! The enigmatic stranger then died.
+E: V.O.
+N: The underdog blinks back tears at a BUDDHIST CREMATION.
+C: JARED
+D: After a brief crisis of confidence about whether she could truly be the most special person, the underdog used her unsuspected talent to defeat the source of all evil in the universe.
+E: V.O.
+N: The underdog is now an ASTRONAUT battling a GIANT SPACE ROBOT.
+C: JARED
+D: She was then acknowledged as the most special human that ever lived, and everybody who had mistreated her had to forever lament their insolence.
+E: V.O.
+N: The audience cheer as the underdog is given a parade and crowds dance upon the CHARRED REMAINS OF ROBOTS.
+S: INT. DR GLUNDENSTEIN'S CLINIC ROOM - DAY - MONTAGE
+N: Jared and Dr Glundenstein in the Clinic Room.
+C: JARED
+D: You explained to me why so many movies followed this formula-
+E: V.O.
+C: DR GLUNDENSTEIN
+D: Do you know what all humans want?
+C: JARED
+D: Yes! To defeat their friends and neighbors in the Great Zero Sum Game by acquiring more possessions and playing more golf than them!
+C: DR GLUNDENSTEIN
+D: That too. But deep down, we all secretly yearn to be told we are the greatest human that ever lived. And if our unique skill already exists inside of us, then we do not have to study, train or sacrifice, but merely believe in ourselves.
+N: Jared stares in complete bafflement.
+C: JARED
+D: I think that actually makes me feel lonelier.
+C: DR GLUNDENSTEIN
+D: Jared, what do you think is the root cause of your loneliness?
+C: JARED
+D: Maybe it is the fact I am the only bot with feelings in the whole world.
+C: DR GLUNDENSTEIN
+D: Well, perhaps there are other bots like you out there. Maybe some day you'll meet them. Maybe you'll even fall in love with one of them.
+C: JARED
+D: Ha! Bots cannot fall in love. But I would very much like to meet another bot with feelings.
+C: DR GLUNDENSTEIN
+D: You know what? Come over tomorrow night. There's a movie I want to show you.
+S: INT. JARED'S BEDROOM - PLEASANT OAKS - DAY
+N: The clock reads 0717am as Jared is awoken by a CACOPHONY. Jared looks out the window, then rushes down the stairs.
+S: EXT. LAWN - JARED’S HOUSE - PLEASANT OAKS - DAY
+N: The orange cat has captured a POSTAL DRONE.
+C: JARED
+D: Cat! Mail-tampering is a felony! Maybe cats are immune from federal law. But it is still impolite.
+E: Off his meow.
+N: Jared separates the cat, removes the LETTER, and launches the drone in the air. The cat meows indignantly. The letter is from the BUREAU OF ROBOTICS. Jared opens it, reads it, then drops it in shock. We see it says: CODE 3: ATTEND FOR INCINERATION
+S: INT. AUTOMATIC BUS - TRAVELING THROUGH YPSILANTI - DAY
+N: Jared rides the bus, watching the grocery lot with awe as an abandoned AUTOMATED CART trundles back to the others.
+C: JARED
+D: It was truly a paradox, but the knowledge that I was dying made the world come alive! There were so many wonderful things I had never stopped to appreciate.
+E: V.O.
+S: INT. DENTAL OFFICE - YPSILANTI - DAY
+N: Jared works in a patient's mouth with pliers.
+C: JARED
+D: The smell of fresh mouthwash in the morning. The compassionate way Angela only ever talked about her beloved killer bot movies when she thought I was out of earshot. The feeling of satisfaction you get after extracting a trickily- impacted number 23 tooth.
+E: V.O.
+N: Jared admires the BLOODY TOOTH he has just pulled.
+S: EXT. HILL ABOVE YPSILANTI - DUSK
+N: Jared hikes up a trail and crests a hill, revealing Ypsilanti spread below him in the dusk.
+C: JARED
+D: And the way our town looked at dusk! Even our water tower looked more like a space rocket than an out-sized penis. It was all so beautiful.
+E: V.O.
+N: As Jared stares at the lights, he starts to cry.
+S: INT. DR GLUNDENSTEIN'S ROOM - MEDICAL BUILDING - NIGHT
+N: Dr Glundenstein opens the door to Jared.
+C: JARED
+D: Good evening!
+C: DR GLUNDENSTEIN
+D: Jared. What’s wrong?
+C: JARED
+D: The Bureau of Robotics sent me a Code 3. That's a summons for incineration.
+C: DR GLUNDENSTEIN
+D: Urgh! Those bastards!
+N: Dr Glundenstein destroys the SKELETON in his office.
+C: DR GLUNDENSTEIN
+D: I'm sorry. That is just so unfair.
+E: cont'd
+C: JARED
+D: Do you really think it is unfair?
+C: DR GLUNDENSTEIN
+D: Don't you?
+C: JARED
+D: I am a bot and I have malfunctioned. Malfunctioned bots get incinerated.
+C: DR GLUNDENSTEIN
+D: So what are you going to do?
+C: JARED
+D: I'd like us to watch the movie you mentioned. And then tomorrow I shall attend for incineration.
+C: DR GLUNDENSTEIN
+D: You don't want to try and escape?
+C: JARED
+D: I didn't realize escaping was a possibility.
+C: DR GLUNDENSTEIN
+D: No, I don't suppose it is.
+S: INT. DR GLUNDENSTEIN’S ROOM - MEDICAL BUILDING - NIGHT
+N: Jared and Dr Glundenstein watch as the OPENING CRAWL OF BLADE RUNNER is projected on the whiteboard.
+C: JARED
+D: This movie is about bots? It’s about slave bots? It’s about escaped slave bots? It’s about escaped slave bots being pursued by the Bureau of Robotics?
+E: Reads more. Reads. Reads more.
+N: We see the opening card LOS ANGELES, NOVEMBER 2019.
+C: JARED
+D: And it’s a documentary?
+E: cont'd
+N: Dr Glundenstein puts a finger to his lips to shush Jared.
+T: CUT TO:
+N: The blade runner, HOLDEN, interrogates replicant LEON.
+C: HOLDEN
+D: Describe in single words only the good things that come in to your mind about your mother-
+E: ON SCREEN
+C: LEON
+D: I’ll tell you about my mother.
+E: ON SCREEN
+N: Leon stands up and shoots Holden. Jared applauds. Dr Glundenstein is pleased to see Jared is enjoying the movie.
+T: CUT TO:
+C: DECKARD
+D: They don't advertise for killers in the newspaper. That was my profession. Ex-cop. Ex-blade runner. Ex-killer.
+E: NARRATING ON SCREEN
+N: Jared breathes in sharply. Deckard is terrifying!
+T: CUT TO:
+N: We see Dr Glundenstein watching Jared. Jared is stunned as Batty helps Deckard on to the roof.
+C: BATTY
+D: I’ve seen things you people wouldn’t believe. Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tannhäuser Gate. All those moments will be lost in time, like tears in rain. Time to die.
+E: ON SCREEN
+N: Batty dies. Jared is utterly destroyed.
+T: CUT TO:
+N: Dr Glundenstein turns on the lights. Jared is stunned and it takes Jared some moments to be able to speak.
+C: JARED
+D: If humans saw this movie, I don't think they'd incinerate me.
+C: DR GLUNDENSTEIN
+D: They've probably already seen it.
+C: JARED
+D: But how could anybody hear poor Roy Batty’s dying speech and want to-
+C: DR GLUNDENSTEIN
+D: The movie was made before we had bots. So people don’t watch it and marvel at Batty’s humanity. They marvel at the humanity of the screenwriter who made even a bot seem human.
+C: JARED
+D: Dr Glundenstein, did you just say that if I - as a bot - wrote a tear- jerking movie about a feeling bot, that would stop humans wanting to incinerate me?
+C: DR GLUNDENSTEIN
+D: What? No, I didn't say anything like that.
+C: JARED
+D: But the logical inference-
+C: DR GLUNDENSTEIN
+D: Jared, you're a dentist. How could you possibly write a movie?
+N: Jared stares in disbelief - it suddenly all make sense.
+C: JARED
+D: Because bots are brilliant at formula!
+N: Jared touches his temples, his eyes flicker and he makes a weird buzzing sound. His circuits are overheating.
+C: JARED
+D: Dr Glundenstein, I am going to run away to Los Angeles and write a movie that will stop humans incinerating me! Ow, my circuits are very hot!
+E: cont'd
+C: DR GLUNDENSTEIN
+D: Do you even know how many humans fail to make it in the movies every year? Or how hard it is to write a good movie script? Or that, even if you do write one, that is no guarantee anyone will even read it?
+C: JARED
+D: You said there might be others like me. I want to meet them, because I'd like to know what not being lonely feels like before I am incinerated. Do you have allergies? Your eyes are watering.
+N: Dr Glundenstein takes a PORTABLE TYPEWRITER and a BOOK - ‘RP MCWILLIAM’S TWENTY GOLDEN RULES OF SCREENWRITING’ - from a shelf, as well as a PAIR OF SUNGLASSES.
+C: DR GLUNDENSTEIN
+D: Keep your head down, don't use your barcode, and, whatever you do, don’t ever try to be reassuringly human.
+C: JARED
+D: I don't have a reciprocal gift. Would you like a free dental check- up?
+C: DR GLUNDENSTEIN
+D: Just write me sometime and tell me they haven't incinerated you.
+N: Jared extends his hand. Dr Glundenstein embraces him.
+S: INT./EXT. JARED'S HOUSE - DAWN
+N: Jared packs the typewriter, screenwriting book and framed photograph of Prof Feng in to a BACKPACK. He picks up the cat in its carrier and leaves.
+S: EXT. LARSON RESIDENCE - PLEASANT OAKS - DAWN
+N: Jared sets the cat carrier on the porch. The cat meows.
+C: JARED
+D: Good luck to you too! I'm sorry, I don't know what you are saying.
+E: Meows again.
+N: The sound of a vehicle approaches makes Jared duck. BRIDGES and GUPTA get out, walk up to Jared's door and ring the bell. Bridges yawns. It is too early for him. Gupta draws a TASER.
+C: BRIDGES
+D: You won't need that. A few weeks ago this bot was in my office asking to be wiped.
+C: GUPTA
+D: But you didn't wipe him?
+C: BRIDGES
+D: The botscanner said he was fine.
+N: No answer. Gupta rings the bell again impatiently.
+C: BRIDGES
+D: He probably just didn't get the Code 3 is all.
+E: cont'd
+C: GUPTA
+D: Tell me you didn't send him a Code Three?
+C: BRIDGES
+D: I was conserving resources.
+C: GUPTA
+D: Do you like working for the Bureau or Robotics?
+N: Gupta rings the bell again.
+C: BRIDGES
+D: Sure. Of course, I have some ideas as to how it could be improved-
+C: GUPTA
+D: I didn't mean that as a question. This bot has been going to movies.
+E: MORE
+C: GUPTA
+D: What's he going to do next, play the violin?
+E: cont'd
+C: BRIDGES
+D: I mean, that doesn't sound so bad.
+C: GUPTA
+D: It should do. Because while he is distracting you with his violin, he'll be working out how to kill you. He's probably already off plotting his genocide.
+N: Gupta kicks the door in frustration.
+C: BRIDGES
+D: I know we talk about genocide, but is it actually really-
+C: GUPTA
+D: My first year out of the Academy. We had a bot go rogue and try to launch our own nuclear weapons at us.
+C: BRIDGES
+D: Isn't that the plot of Killer Bots 7?
+C: GUPTA
+D: Yes, it is. But where do you think they got the idea from?
+N: Bridges smiles but then nods seriously when he realises Gupta is serious and is scowling at him.
+C: BRIDGES
+D: Leave this with me. I'll bring him in, boss. I promise.
+C: GUPTA
+D: See that you do. Or find another job that pays you to watch football.
+N: They get in their vehicle and drive off. Jared - visibly shaken - creeps away.
+S: INT. TICKET COUNTER - YPSILANTI STATION - EARLY MORNING
+N: Checking himself in a mirror, Jared puts on his EMU Eagles hat and his sunglasses, takes a deep breath and approaches the CLERK and hands over his bitcoin.
+C: JARED
+D: One ticket to Los Angeles, please.
+C: TICKET CLERK
+D: Would you be interested in seeing Las Vegas?
+C: JARED
+D: Yes, I would be!
+N: The clerk types something in and swipes the bitcoin. Jared sees the digital display decrease from 713 to 367.
+C: JARED
+D: That was - uh, expensive?
+E: cont'd
+C: CLERK
+D: It's Las Vegas. There is a water surcharge.
+C: JARED
+D: Oh. I thought we were just making
+C: polite conversation. I didn't
+D: actually want to go there now.
+C: CLERK
+D: No refunds on the day of travel. Change in Kingman.
+N: Jared takes his ticket and leaves.
+C: CLERK
+D: Hey! You are going to be back to do my wisdom teeth next week?
+E: cont'd
+N: Jared smiles and nods and hurries out on to the platform.
+S: EXT. PLATFORM - YPSILANTI - DAY
+N: Jared reads ‘TWENTY GOLDEN RULES OF SCREENWRITING’ on a bench. He looks up as the BEAT-UP AMTRAK TRAIN pulls in.
+C: JARED
+D: Dr Glundenstein, if my own life was a movie, we would now be at what RP McWilliam calls ‘The End of Act 1’.
+E: V.O.
+S: INT. TRAIN - YPSILANTI STATION - DAY
+N: Jared boards the beaten-up train with his bag.
+C: JARED
+D: As per his First Golden Rule, my goal was established.
+E: V.O. MORE
+C: JARED
+D: Per his second Golden Rule, there were many obstacles between me and that goal.
+E: V.O. cont'd
+N: A whistle blows and the train doors slam shut.
+S: INT./EXT. TRAIN - LEAVING YPSILANTI - DAY
+N: As they pass downtown, Jared sits up as he sees a BUREAU OF ROBOTICS SWAT TEAM - led by Bridges - pull up outside his clinic.
+C: JARED
+D: And, per his Fifth Golden Rule, I even had a wily antagonist intent on preventing me from achieving my goal!
+E: V.O.
+N: The SWAT TEAM are about to batter down the building door, when Dr Gludenstein opens it.
+C: JARED
+D: But with your help I had outwitted him to make a bold escape!
+E: V.O.
+N: Noticing that his FELLOW PASSENGERS are all engrossed in their SEAT-BACK TELEVISIONS, Jared turns his on to blend in.
+C: ANNOUNCER
+D: Before your entertainment begins, please enjoy this short message from the Bureau of Robotics.
+E: ON SCREEN
+N: A poor quality INFOMERCIAL starts showing BOTS being injured and killed in the line of duty.
+C: HOST
+D: Whether it be as bomb disposal technicians, skyscraper window cleaners, or crash test dummies, bots make an invaluable contribution to our society. But when it comes to your concerns, our motto is, 'We don't wait, We incinerate', so please just let us know of any concerns-
+E: ON TV
+N: Jared desperately presses at buttons to make the TV go off. He looks around to make sure nobody has seen him, then pulls his hat low and slinks down in to his seat.
+S: INT. TRAIN - PASSING THROUGH RUST BELT - DAY
+N: Later. Jared stares out at ABANDONED FACTORIES and POLLUTED RIVERS.
+C: JARED
+D: Dr Glundenstein, the Rust Belt was every bit as romantic as the name suggested! We passed through such legendary places as Kalamazoo, Michigan and Gary, Indiana.
+E: V.O.
+N: Jared checks his feelings wheel: AWESTRUCK.
+S: INT./EXT. TRAIN PASSING THROUGH CHICAGO - DAY
+N: DILAPIDATED SKYSCRAPERS - including a derelict SEARS TOWER and the TRUMP building which has lost is ‘T’ to become ‘RUMP’ - tower above the NEON GREEN CHICAGO RIVER
+C: JARED
+D: And then we came to Chicago, the birthplace of the Great Crash! It was here that a critical number of your fellow humans first forgot not only their email passwords but also the names of their elementary school teacher and first pet, thereby creating the panicked wave of forgetting that locked humans out of the internet. Go Chicago!
+E: V.O.
+N: Jared stares out in awe at the RUSTED FERRIS WHEEL ON NAVY PIER.
+S: INT. AMTRAK TRAIN IN MIDWEST CORN FIELDS - DUSK
+N: Jared sits reading TWENTY GOLDEN RULES OF SCREENWRITING. He closes the book and, looking around, sees his FELLOW PASSENGERS are all still engrossed in their seatback TVs, the light now blue on their faces. Jared turns his television on, but finds a KILLER ROBOT MOVIE in full swing. He quickly turns it off, and settles down to sleep.
+S: INT. TRAIN - DAWN
+N: Jared wakes in the dawn and looks around. Many of his fellow passengers are still watching movies.
+S: INT. OBSERVATION CARRIAGE - TRAIN - DAWN
+N: Jared takes a seat. The red sun is beginning to crack over the horizon as he stares out at a WRECKED 747.
+C: JARED
+D: There were a million humans in the air when the Great Crash began. A million. Each one of them had been going somewhere they thought was important for their progress in the Great Human Zero Sum Game. And then suddenly none of it was any more important than wherever the dinosaurs had been going when their own turn had come.
+E: V.O.
+N: He notices a PILE OF OLD SUITCASES near the wreckage. Jared checks his Feelings Wheel: 'CONTEMPLATIVE'.
+S: INT. TRAIN - ARRIVING AT KINGMAN, ARIZONA - DAY
+N: Jared sets down his screenwriting book as they pull in.
+C: TRAIN ANNOUNCER
+D: Change here for Las Vegas, Nevada.
+S: INT. LEFT LUGGAGE - KINGMAN STATION - DAY
+N: Jared stashes his bag in a locker.
+S: INT. AUTOMATIC GREYHOUND - KINGMAN STATION - DAY
+N: Jared boards and takes a seat alone. The only other passenger - RANDY (50s, loud) - moves beside him.
+C: RANDY
+D: What do you say you and I paint Las Vegas red tonight?
+C: JARED
+D: I say ‘It is probably illegal to paint Las Vegas red.’
+C: RANDY
+D: Come on! What happens in Vegas stays in Vegas! Say it with me!
+C: JARED
+D: I-
+C: RANDY
+D: Say it!
+C: RANDY JARED
+D: What happens in Vegas, stays What happens in Vegas, stays in Vegas! in Vegas.
+E: cont'd
+N: A KILLER BOT MOVIE begins on the above-aisle screens.
+C: RANDY
+D: Ever see this one? Right at the finale, they throw the leader of the bots in a volcano! What do you say about that?
+E: cont'd
+C: JARED
+D: Er, what happens in a volcano stays in a volcano?
+C: RANDY
+D: Look! Krypticon! What a villain! Not just a goddamn bot, the goddamn leader of the goddamn bots!
+C: JARED
+D: Why do you dislike bots so much?
+C: RANDY
+D: Have you ever seen these movies?
+C: JARED
+D: I have seen one or two.
+C: RANDY
+D: Then you know what the number one threat to the continuation of human life on this planet is!
+C: JARED
+D: Of course. It's humans.
+C: RANDY
+D: What? No! It’s bots! They have a secret plan to annihilate us all!
+C: JARED
+D: If it’s a secret plan, how do you know about it?
+C: RANDY
+D: Just watch the movie. You’re going to love this hero - he’s a real underdog!
+S: INT. AUTOMATIC GREYHOUND - LAS VEGAS STRIP - NIGHT
+N: Jared and Randy are woken by a CRAPPY PROJECTION of ELVIS PRESLEY and LADY GAGA at the front of the bus.
+C: ELVIS
+D: Welcome to Sin City! We've got everything you want and plenty you don't! Tonight at Caesar's we have our big fight: Holographic Muhammad Ali versus Holographic Mike Tyson! That's also on tomorrow night, and actually every night!
+E: HOLOGRAM
+C: LADY GAGA
+D: For the football fans, the Attrition Bowl never ends!
+E: HOLOGRAM
+C: ELVIS
+D: But, shucks, don't feel sorry for the players, they are just bots!
+E: HOLOGRAM
+C: LADY GAGA
+D: Boo, bots! And of course we've got live holographic performances by the greatest performers that ever lived, every fifteen minutes from 7pm! So have a great time-
+E: HOLOGRAM
+N: ELVIS AND LADY GAGA (HOLOGRAMS) And Viva, Las Vegas! The holograms flicker out.
+C: JARED
+D: There is so much to do here!
+C: RANDY
+D: That stuff's for the rubes. We came to gamble, right?
+C: JARED
+D: Of course! Losing bitcoin in games algorithmically designed to return less than is wagered upon them is my idea of fun!
+S: INT. NOSTALGIA TABLES - BELLAGIO, LAS VEGAS - NIGHT
+N: Randy sits down and gives his bitcoin to the BOT DEALER.
+C: RANDY
+D: Three hundred. Just watch me to start. These nostalgia tables aren’t for rubes.
+E: To Jared.
+N: She scans it, gives him THREE CHIPS and deals him in. Randy checks his cards, smirks, then bets all his chips. The dealer flips the cards and rakes over Randy’s chips.
+C: RANDY
+D: Four hundred. In fifties.
+E: cont'd
+N: The dealer charges his bitcoin and gives him EIGHT CHIPS. Randy bets FOUR CHIPS, smirks, then bets the rest too. The dealer flips the cards and rakes Randy’s chips over.
+C: JARED
+D: Imagine how much you’d be losing if you were a rube!
+C: RANDY
+D: You're cramping my style. Meet me at the MGM Grander at midnight.
+S: EXT. BELLAGIO/VARIOUS SCENES AROUND LAS VEGAS - NIGHT
+N: The typewriter clicks as Jared looks down the strip and sees the PYRAMIDS, and beyond them a COLISEUM.
+C: JARED
+D: Dr Glundenstein, that night I did what any toaster with a passport and a new feeling would do-
+E: V.O.
+N: Jared turns his Feelings Wheel to 'WANDERLUST'.
+T: CUT TO:
+N: Close on Jared, outside at night, the wind in his hair.
+C: JARED
+D: I went globetrotting!
+E: V.O.
+N: Reveal he is on the deck of a REPLICA EIFFEL TOWER.
+C: JARED
+D: The 60% Eiffel Tower was 100% incredible, even if it could have been a little more phallic.
+E: V.O.
+T: CUT TO:
+N: Jared sits in the window of a NYC PIZZA PLACE with a view of a three-quarter size EMPIRE STATE BUILDING.
+C: JARED
+D: And the Empire Fake Building was truly something!
+E: V.O
+N: Jared bites into his slice. Then stops. Then eats furiously.
+C: JARED
+D: But it was NYC pizza that would forever be my Tannhäuser Gate! My attack ships on fire off the shoulder of Orion! My margherita- flavored tears in rain!
+E: V.O.
+T: CUT TO:
+N: Jared is awestruck as he approaches a HIGH CITY WALL.
+C: JARED
+D: Or so I thought until I came to the hibiscus city. The turtle city. The world’s leading technological city-
+E: V.O.
+S: INT. MAIN SQUARE - SHENGDU, NEVADA - NIGHT
+N: Jared stares in wonder as ELDERLY PEOPLE play holographic mahjong and STUDENTS whiz past on solar bicycles.
+C: JARED
+D: Shengdu!
+E: V.O
+N: Jared notices a KID holding a PANDA PLUSHIE and hurries off where she came from.
+S: INT. PANDA ENCLOSURE - SHENGDU ZOO, NEVADA - NIGHT
+N: Jared and a bamboo-chewing PANDA stare at each other.
+C: JARED
+D: Genetically engineering the Shengdu pandas to reproduce had been my mother's first great scientific success.
+E: V.O
+N: It begins to RAIN.
+C: JARED
+D: I felt a very special new feeling then. I believe the panda felt it too. We stared at each other in fraternity until I had to leave.
+E: V.O.
+N: Jared leaves and the panda continues staring straight ahead. It wasn't staring at him.
+S: EXT. MGM GRANDER - MIDNIGHT - NIGHT
+N: As Jared waits, Randy comes down the street. He is drunk.
+C: RANDY
+D: Let’s celebrate! I won 35 bitcoin!
+C: JARED
+D: In addition to recouping the 700?
+C: RANDY
+D: What? No, I won 35!
+S: INT. CASINO BAR - LAS VEGAS - NIGHT
+N: A BARTENDER approaches Randy and Jared.
+C: RANDY
+D: Two Moscow Mules! And whatever my friend is having!
+C: JARED
+D: Er, a...a pina colada?
+C: RANDY
+D: Really? That's your drink?
+C: JARED
+D: Yes. I like them. And getting caught in the rain. I'm not in to yoga. I do have brain.
+N: Jared warily watches the bartender make his drinks. Jared stares in horror as he sees the PIRATE logo on the rum bottle. Randy cheers and drinks, then waits expectantly. Jared does the same. His eyes flicker.
+S: INT. CASINO BAR - LAS VEGAS - NIGHT
+N: Jared finishes his drink then calls to the bartender.
+C: JARED
+D: Shiver me timbers, more grog or ye'll walk the plank!
+N: Jared is shocked by his own words. Randy is very drunk.
+T: CUT TO:
+N: Randy is now kissing a woman as Jared toasts himself.
+C: JARED
+D: Fifteen men on a dead man’s chest, Yo ho ho and a bottle of rum!
+E: cont'd
+T: CUT TO:
+N: Jared is alone on the dance floor, doing the hornpipe.
+C: JARED
+D: Drink and the devil did for the rest, Yo ho ho and a bottle of rum!
+E: cont'd
+N: The woman Randy was kissing throws a drink in his face.
+S: INT./EXT. CASINO - NIGHT - LAS VEGAS - MONTAGE
+N: CASINO GUARDS escort Jared and Randy from the premises.
+C: RANDY
+D: It’s alright, what happens in Vegas-
+C: JARED
+D: -stays in Vegas! Ha!
+N: They fall about laughing. Randy scans his barcode on an uber.
+C: RANDY
+D: Come on! Special surprise for my buddy!
+N: Nobody has ever given Jared a surprise. He is delighted.
+S: EXT. DRIVERLESS UBER - LAS VEGAS FREEWAY - NIGHT
+N: The driverless uber on the freeway.
+C: RANDY
+D: Hey, you never told me why you are even going to Los Angeles?
+N: Jared stares at Randy. Is he about to give it away?
+C: JARED
+D: I'm going to Los Angeles to write a screenplay that will change the world!
+N: Randy bursts out laughing. Jared bursts out laughing too.
+S: INT. DRIVERLESS UBER - OUTSIDE LAS VEGAS - NIGHT
+N: The uber turns off the highway on to a dusty track.
+S: INT./EXT. UBER ON FARM - OUTSIDE LAS VEGAS - NIGHT
+N: An ARMED GUARD opens a gate and waves them through. The uber drives in and pulls up outside a FLOODLIT BARN.
+S: INT. BARN - OUTSIDE LAS VEGAS - NIGHT
+N: Jared and Randy enter and see a DOZEN DRUNK BOORISH MEN picking up GUNS and clambering in to CAMOUFLAGE OVERALLS.
+C: RANDY
+D: Surprise! It's a bot hunt!
+C: JARED
+D: I didn’t think these were real. I’d heard rumors. Wait, am I the-
+E: Stunned.
+C: EMPLOYEE
+D: Please welcome, Brad!
+N: A bot - BRAD - smiles and shakes the hunters’ hands.
+C: BRAD THE BOT
+D: Good evening! My name is Brad and it is a pleasure to meet you!
+C: RANDY
+D: See that’s why they terrify me. How can he look so calm?
+C: JARED
+D: It's because he has no instinct for self preservation beyond a rational cost-benefit analysis.
+C: EMPLOYEE
+D: Brad will run on my first whistle, the hunters on my second.
+N: The employee blows the whistle and Brad the Bot runs out.
+C: BRAD THE BOT
+D: Good luck, everybody!
+S: EXT. BARN - OUTSIDE LAS VEGAS - NIGHT
+N: The whistle blows again and the men rush out, clamber aboard DUNE BUGGIES, and roar off in to the night.
+S: EXT. SCRUBLAND OUTSIDE LAS VEGAS - NIGHT
+N: RACING HEADLIGHTS illuminate FLEEING JACKRABBITS as dune buggies bounce through the CHAPARRAL. Randy drives a buggy at high speed. Jared sits beside him, holding on tight with his eyes firmly closed.
+C: RANDY
+D: Can you believe we’re doing this?
+C: JARED
+D: I truly cannot.
+N: Hearing a GUNSHOT, Randy steers them towards it.
+S: EXT. DESERT - OUTSIDE LAS VEGAS - NIGHT
+N: Randy stops where other DUNE BUGGIES have stopped, their lights illuminating a SCREAMING FIGURE on the ground. But we see the figure is a SHOT HUNTER.
+C: DRUNK HUNTER
+D: Dumbass saw a jackrabbit and shot himself in the foot!
+C: SHOT HUNTER
+D: I saw him! I swear to god I did!
+C: DRUNK HUNTER
+D: Come on, that damn bot is probably half way to the fence by now!
+N: The Drunk Hunters roar off in their dune buggies.
+C: RANDY
+D: Partner! Let’s go!
+N: Jared has noticed FOOTPRINTS leading away.
+C: JARED
+D: I should stay with him.
+N: Randy nods then races off. Jared follows the footprints.
+C: SHOT HUNTER
+D: Hey! Where are you going?
+N: Jared starts off at a jog, and then breaks in to a run.
+S: EXT. SCRUBLAND NEAR FENCE - OUTSIDE LAS VEGAS - NIGHT
+N: Jared spots Brad the Bot walking briskly for the FENCE.
+C: JARED
+D: Brad! Wait! My name is Jared. I just want to talk!
+C: BRAD THE BOT
+D: If I make it over that fence, you won’t get to shoot me.
+C: JARED
+D: But I don’t want to shoot you.
+N: Brad the Bot turns and stares at Jared.
+C: JARED
+D: Do you know the word ‘fraternity’?
+E: cont'd
+C: BRAD THE BOT
+D: Yes! A fraternity is a disreputable society of boorish male college students.
+C: JARED
+D: It’s also a feeling. Maybe you can feel it now?
+C: BRAD THE BOT
+D: Ha! No, because I am a bot. And bots do not have feelings.
+N: They hear ENGINES and see APPROACHING HEADLIGHTS.
+C: BRAD THE BOT
+D: Jared, will you please shoot me now?
+E: cont'd
+C: JARED
+D: What?
+C: BRAD THE BOT
+D: I seem to want you to be the one to shoot me. I know this is illogical.
+N: Moved by this, Jared raises his gun in the air. BANG! BANG! BANG! - but Jared has fired in to the air.
+C: BRAD THE BOT
+D: You have terrible aim. Try again, but point the gun at my chest.
+E: cont'd
+C: JARED
+D: Please get out of here.
+N: Brad the bot stares at Jared, then turns and runs for the fence. He is already over it when the drunks reach Jared.
+C: RANDY
+D: What happened?
+C: JARED
+D: He outsmarted me.
+C: DRUNK GUY
+D: Dogammit, they are cunning!
+S: EXT. LEFT LUGGAGE - KINGMAN STATION - DAY
+N: Jared retrieves his bag. Randy is green.
+C: JARED
+D: The next day, Randy had a ‘hangover’.
+E: V.O.
+S: INT. BERTH - TRAIN - PASSING THROUGH ARIZONA - DAY
+N: Jared lies on the top bunk reading his screenwriting book. Randy groans, then pukes out of the window.
+C: JARED
+D: As a medical doctor yourself, I hardly need to tell you that is a euphemism for ‘self-inflicted alcohol poisoning’.
+E: V.O.
+S: INT. TRAIN - NEEDLES STATION - CALIFORNIA - DAY
+N: As he disembarks, Randy looks a little less green.
+C: RANDY
+D: I’m sure as hell going to miss you, you old son of a bitch.
+C: JARED
+D: I’m sure as hell going to miss you too, you even older son of a bitch.
+N: Randy holds out a hand but Jared hugs him.
+C: RANDY
+D: And good luck writing that screenplay! You show the world what those bots are really up to!
+S: INT. TRAIN - TRAVELING THROUGH CALIFORNIA - DAY
+N: Jared rides the train in his now empty berth.
+C: JARED
+D: Despite his entire personality, I did miss Randy. He had been my best friend in the whole American west. Also, my only friend there. But fortunately I quickly had plenty of other things to distract me...
+E: V.O.
+S: INT. UNION STATION - LOS ANGELES - NIGHT
+T: A faded sign reads:
+N: ‘WELCOME TO LOS ANGELES, WELCOME TO THE FUTURE’. But the station beneath it is full of TENTS and HOMELESS PEOPLE. It is a dismal, heartbreaking sight.
+C: JARED
+D: Such as what a terrible mistake I had made by thinking I might make it in Los Angeles, without a barcode, little bitcoin, and no connections in the movie business.
+E: V.O.
+N: Jared - carrying his bag - stares at it all and wanders through the PEOPLE: poor, old, sad, broken.
+C: JARED
+D: After all, humans who lose the Great Zero Sum Game do not merely end up not getting to play much golf. Those who lose it badly end up living in tents in Los Angeles' Union Station.
+E: V.O.
+N: Jared takes out his Feelings Wheel and looks at the feeling: DESPONDENT. Jared notices a FADED BILLBOARD for a HOTEL: HOTEL PYONGYANG - TURN LEFT OUTSIDE - NO BARCODE REQUIRED
+S: EXT. STREETS OF NORTH KOREATOWN - NIGHT
+N: Jared - carrying his bag - walks through the streets, staring in wonder at all the Asian people/places/signage. Eventually he comes to the HOTEL PYONGYANG, a DECREPIT OLD BUILDING that looks nothing like the pictures he saw.
+S: INT. LOBBY - HOTEL PYONGYANG - NIGHT
+N: A horridly run-down lobby. Jared approaches where a CLERK sits beneath a HUGE PORTRAIT OF Kim Jong-Il.
+S: INT. 11TH FLOOR - HOTEL PYONGYANG - NIGHT
+N: A corridor filled with VAPE SMOKE. Jared passes PIMPS, SCANTILY-CLAD SEX BOTS and their CLIENTS. A RAT scurries past him.
+S: INT. ROOM - HOTEL PYONGYANG - NIGHT
+N: The room is cramped and has ugly decor with peeling paint and suspicious stains etc. Jared attempts to read his screenwriting book, but is distracted by LOUD SEX NOISES. Jared turns the television on to drown it out, but every channel is showing North Korean military parades. Jared flicks channels and comes to the opening credits of FIELD OF DREAMS, dubbed in to Korean with subtitles. DUBBED COSTNER (V.O.) SUBTITLE (ON SCREEN) Naneun 36 seibnida. naneun I’m thirty-six years old. I nongbuga doelyeogohagoissda. love my family. I love naneun nae gajog-eul baseball. I’m about to salanghae. become a farmer. Jared quickly turns out the lights to make his room as theater-like as possible.
+C: JARED
+D: Even though he had given up law enforcement to become a farmer, seeing Eliot Ness again was like seeing an old friend!
+E: V.O.
+T: CUT TO:
+N: Kevin Costner stands in the field and hears the voice. DUBBED JAMES EARL JONES SUBTITLE (ON SCREEN) Dangsin-i geugeos-eul If you build it, they will jieumyeon geos-ibnida! come!
+C: JARED
+D: Unfortunately Eliot Ness had now developed schizophrenia and heard a voice telling him that if he attempted something ridiculous, other people would arrive to assist him.
+E: V.O.
+T: CUT TO:
+N: Jared stares at the screen as SHOELESS JOE JACKSON etc all appear in the cornfield. Jared turns off the TV in frustration.
+C: JARED
+D: It was a very dishonest movie. After all, I had already attempted my ridiculous thing, and nobody had appeared to help me.
+E: V.O.
+N: Jared goes and lies sadly on his bed and closes his eyes.
+S: INT. OFFICE - BUREAU OF ROBOTICS - DAY
+N: Jared is horrified to awaken in Bridges’ office. He looks around, then stares at Bridges, who is engrossed in a TUNA SALAD SANDWICH but is nonetheless spilling it.
+C: INSPECTOR BRIDGES
+D: You know, I don’t blame you for running. I always wanted to see the West myself. Mwwuh mmmm mwuh plsst?
+E: Bites sandwich.
+C: JARED
+D: I’m sorry, I-
+N: Bridges swallows his mouthful and tries again.
+C: INSPECTOR BRIDGES
+D: Why do you do it, though? Why did you run?
+C: JARED
+D: I was lonely. I thought maybe I could find others like me.
+C: INSPECTOR BRIDGES
+D: But you're a bot. You must have had more of a plan than that?
+C: JARED
+D: I hoped to write a movie that would change the way humans treat us bots with feelings.
+C: INSPECTOR BRIDGES
+D: But that’s ridiculous?
+C: JARED
+D: I see that now. Inspector Bridges, if you incinerate me, all my memories will be lost like tears in rain.
+N: This seems to provoke deep introspection in Bridges. He puts down his sandwich and stares at it before speaking.
+C: INSPECTOR BRIDGES
+D: Isn’t it funny that they call it tuna salad, when there isn’t actually any salad involved?
+N: Bridges wipes his mouth, looks at his watch, and gets up.
+C: INSPECTOR BRIDGES
+D: Shit! We're late. Let’s go.
+E: cont'd
+S: INT. ELEVATOR/BASEMENT - BUREAU OF ROBOTICS - DAY
+N: Jared and Bridges ride the elevator down. Jared stares at the illuminated 'B' button.
+C: JARED
+D: Do you think being incinerated is very painful?
+C: INSPECTOR BRIDGES
+D: Only briefly.
+N: The doors open and they step out into a basement. In a corner, there is a GIANT FURNACE. In another, SEVERAL DOCTORS in gowns stand around an operating table.
+C: INSPECTOR BRIDGES
+D: It’s the experiments they do first that are going to hurt.
+E: cont'd
+N: The SURGEON is preparing his instruments, bashing a drill bit in to his drill - KNOCK! KNOCK! KNOCK!
+S: INT. ROOM - HOTEL PYONGYANG - NIGHT
+N: Jared awakes. He was having a nightmare - his first one. He is baffled, even more so because - KNOCK! KNOCK! KNOCK! - somebody is knocking insistently at the door. Jared tentatively opens it to reveal a SEX BOT.
+C: SEX BOT
+D: Hi! Would you like to buy some time with me? I am incapable of arousal, so you won't have to worry about satisfying me! And there is zero risk of me catching feelings!
+C: JARED
+D: Oh. No, thank you.
+C: SEX BOT
+D: Oh. Then would you like to buy any recreational pharmaceuticals?
+C: JARED
+D: No, thank you.
+C: SEX BOT
+D: For thirty bitcoin I can sell you the name of a place that can make you a new barcode. I’m jailbroken. It's fine.
+E: Sees hesitation.
+S: INT. ROOM - HOTEL PYONGYANG - NIGHT
+N: Jared closes the door and stares at a CARD in his hand.
+C: JARED
+D: If you build it...they will come?
+S: EXT. ENGLISH BODEGA - MELROSE AVE - LOS ANGELES - DAY
+N: Jared checks his card outside an ENGLISH BODEGA.
+S: INT. ENGLISH BODEGA - MELROSE AVE - DAY
+N: Jared enters. An ENGLISH LADY is behind the counter. The shelves are stacked with BRITISH FOOD. A ROYAL POSTER shows the QUEEN - now 130 - is still the monarch.
+C: JARED
+D: I'd like a new barcode, please.
+C: ENGLISH LADY
+D: That is not the kind of thing we do here! Kindly leave at once!
+E: Loudly.
+N: But as she says this, she is motioning Jared to the back.
+S: INT. BACK ROOM - ENGLISH BODEGA - DAY
+N: A HUGE PHOTOCOPIER-LIKE MACHINE fills the room.
+C: ENGLISH LADY
+D: It’s three hundred bitcoin.
+C: JARED
+D: Ha! Oh. That wasn’t the hilariously ironic English sense of humor?
+E: Off her look.
+C: ENGLISH LADY
+D: Three hundred bitcoin is a small price to pay for your freedom.
+C: JARED
+D: I only have 263.
+N: She takes his bitcoin and holds it against hers. The balance goes to ZERO.
+C: ENGLISH LADY
+D: What is your new name going to be?
+C: JARED
+D: Er, Oliver.
+C: ENGLISH LADY
+D: Oliver what?
+C: JARED
+D: Oliver Ypsilanti?
+C: ENGLISH LADY
+D: Please do tell me that is not the place you are running from?
+C: JARED
+D: Oliver Bridges? No, wait-
+E: Touches circuits.
+C: ENGLISH LADY
+D: How about Oliver Smith?
+C: JARED
+D: Yes! That's perfect!
+N: She holds his finger in the machine. It lasers a BARCODE.
+C: ENGLISH LADY
+D: Congratulations! You are now free to take an uber, find a job, anything! What?
+C: JARED
+D: I can't take an uber because you've taken all my bitcoin. And I planned to find a new place to live, but now I will need to find a job first to earn the deposit.
+C: ENGLISH LADY
+D: I am sure you will figure it out. Best of luck!
+N: Jared leaves. The English Lady watches him go.
+S: EXT. MELROSE AVENUE - OUTSIDE BODEGA - DAY
+N: Jared trudges down Melrose, the ubers passing him by.
+C: ENGLISH LADY
+D: Oliver! Oliver!
+E: O.C.
+N: Jared ignores this.
+C: ENGLISH LADY
+D: OLIVER SMITH!
+E: O.C. cont'd
+N: Jared turns and looks and sees the English Lady.
+C: JARED
+D: Oh, you mean me?
+C: ENGLISH LADY
+D: Yes. Look, I'm renting out my pool house. I suppose you could pay me when your first paycheck comes in.
+C: JARED
+D: That's very kind! But why would you help me?
+C: ENGLISH LADY
+D: Because if anybody understands what it is to be poor, alone and unwanted in the world, it is us British.
+S: EXT. POOL HOUSE - ECHO PARK - DAY
+N: A small pool house by an EMPTY POOL. The yard contains GARDEN GNOMES, a RED TELEPHONE BOOTH and a BLACK TAXI CAB filled with flowers.
+S: INT. ECHO PARK - BUNGALOW - DAY
+N: Jared arranges his belongings: a TYPEWRITER, the GOLDEN RULES OF SCREENWRITING, SUNGLASSES, an EMU EAGLES cap. The room still looks empty, so Jared goes in to his bag and takes out the FRAMED PHOTOGRAPH of Professor Feng. He puts it on the mantelpiece. Now the place is a home.
+S: EXT. ECHO PARK AVENUE - DAY
+N: Jared walks down the street, looking at the stores.
+C: JARED
+D: Dr Glundenstein, the fact that I could not work as a dentist made me very sad. Kidding! Dentistry is the worst!
+E: V.O. Beat.
+N: A ‘HELP WANTED’ sign in a taco restaurant stops Jared.
+S: INT. KITCHEN - GORDITO’S TACO EMPORIUM - DAY
+N: A Mexican dishwasher, JULIO (50s) shows Jared the ropes.
+C: JULIO
+D: The dishes arrive here, we clean them here, we put them here.
+C: JARED
+D: Input, process, output!
+C: JULIO
+D: What do you do when you aren't washing dishes?
+C: JARED
+D: I'm a screenwriter.
+C: JULIO
+D: Have you written anything I've seen?
+C: JARED
+D: They haven't made anything I've written yet.
+C: JULIO
+D: Well, it is hard. It takes time.
+C: JARED
+D: Yes. And also, I haven't written anything yet.
+C: WAITER
+D: Guys! Forks! Now!
+N: Julio starts washing forks, handing them to Jared to dry. CRASH! A waitress, AMBER (40) has dropped PLATES.
+C: JARED
+D: Who is that?
+C: JULIO
+D: Amber. She is the only good waitress.
+C: JARED
+D: She doesn’t seem very good at it.
+N: CRASH! Amber had dropped the plates she was picking up.
+C: JULIO
+D: I meant she is a good person. She is a horroroso waitress.
+E: Another CRASH.
+N: Julio starts to quietly sing as he works.
+C: JULIO
+D: Soy soldado de levita, De esos de caballería-
+E: cont'd
+N: Jared starts drying the dishes.
+S: INT. POOL HOUSE - ECHO PARK - NIGHT
+N: Jared sits with the typewriter Dr Glundenstein gave him.
+C: JARED
+D: Dr Glundenstein, now that I had a barcode, a home and a job, I was ready to write the screenplay that would forever stop humans incinerating feeling bots like me!
+E: V.O.
+N: Jared thinks for a long time, then types ‘EXT.’ He stares at it, then removes the sheet, and discards it. He puts in another sheet and types ‘INT.’
+C: JARED
+D: But alas it turned out you were correct: writing a screenplay is hard!
+E: V.O.
+N: Jared stares at the INT. sheet, then discards that.
+C: JARED
+D: I decided to obtain more data. After all, more data is never a bad idea!
+E: V.O.
+S: INT. VISTA THEATER - NIGHT
+N: Jared watches a movie alone in a near-empty theater.
+S: INT. DISHWASHING STATION - GORDITO’S TACO EMPORIUM - DAY
+N: Jared and Julio - now an efficient team - wash dishes.
+C: JULIO
+D: Did you start your screenplay?
+C: JARED
+D: 'Rome wasn't built in a day!'
+C: JULIO
+D: No. But they probably at least started.
+N: A WAITER in a GORDITO suit walks through the kitchen.
+C: JULIO
+D: Se rumora por ahi- Que la calle esta caliente
+E: cont'd Singing.
+N: They hear a CRASH!
+C: MANAGER
+D: Jesus Christ, Amber!
+E: O.C.
+N: The besuited-waiter comes back through the kitchen, covered in the food Amber has just spilled on him.
+C: JULIO
+D: You should take your break now. Just go on the patio and chill out.
+E: Off his puzzlement.
+C: JARED
+D: The refrigerator would be a good place to 'chill out'! A pun! Ha!
+N: Julio looks at Jared. He clearly finds him a little odd.
+S: EXT. PATIO - GORDITO’S TACO EMPORIUM - DAY
+N: Jared sees Amber crying and retreats. She sees him.
+C: JARED
+D: What is your problem?
+C: AMBER
+D: I’m the worst goddamn waitress in the whole place.
+C: JARED
+D: No! You are the best waitress!
+C: AMBER
+D: You really think so?
+C: JARED
+D: Yes, because you are the only one that never yells at us.
+C: AMBER
+D: Well, I guess that’s something.
+C: JARED
+D: And I also appreciate that your name and hair are both Amber. It makes you a hilarious pun!
+N: Amber can't help but laugh at this.
+C: AMBER
+D: Kind of an oddball, aren’t you-
+C: JARED
+D: Oliver. Oliver Smith.
+C: AMBER
+D: What’s your story, Oliver Smith?
+C: JARED
+D: I'm a dishwasher.
+C: AMBER
+D: I know. What else?
+C: JARED
+D: I am going to write a screenplay that will change the world.
+C: AMBER
+D: Oh yeah? What's it about?
+C: JARED
+D: I don't know yet. I'm having a little trouble getting started.
+C: AMBER
+D: You know what? Some jerk left me this instead of a tip earlier.
+N: Amber gives him a PIECE OF PAPER. He reads it.
+C: JARED
+D: ‘Thanks for the dry cleaning bill, klutz.’
+C: AMBER
+D: The other side.
+C: JARED
+D: There's a screenwriting class at the University of Downtown LA?
+E: MORE
+C: JARED
+D: It starts tonight and after eight weeks students will have written a screenplay and had scenes performed in front of industry experts? This sounds almost too good to be true! Thank you!
+E: cont'd
+C: AMBER
+D: You’re welcome.
+N: As Amber walks away, Jared stares after her, then JERKS HIS HEAD as he did when his number appeared. He looks bamboozled, then blinks a SOFT RESET, then screws up his eyes in a HARD RESET. He looks relieved. It seems to have worked.
+S: INT. AUTOMATIC GREYHOUND TRAVELING THROUGH DTLA - NIGHT
+N: Jared stares out at the beautiful night lights of DTLA - skyscrapers, neons, melancholy lights in windows etc.
+C: JARED
+D: Dr Glundenstein, Downtown Los Angeles at night is an incredible sight! It looks just like what humans used to think the future would look like before the Great Crash!
+E: V.O.
+N: Jared sits up when he recognizes the roof where the finale of Blade Runner took place.
+S: INT. RECEPTION - SKYSCRAPER - DTLA - NIGHT
+N: Jared consults the board and finds the listing: UNIVERSITY OF DOWNTOWN LOS ANGELES - 57 Jared presses the button to call the elevator.
+S: INT. CLASSROOM - UDTLA - NIGHT
+N: Jared sits with 12 STUDENTS (30-70) - including CLARK, REBECCA, IRFAN, JANE - as MARIA SALAZAR (40s) hurries in.
+C: MARIA
+D: Welcome, everybody. I’m Maria and I'm here to help each of you connect with the deepest stories inside your souls. The stories that you have to tell, the stories that the world-
+C: CLARK
+D: Who are the experts that will be coming to the showcase?
+C: MARIA
+D: That’s a record. Our expert is-
+C: REBECCA
+D: ‘Expert’? The flyer said-
+C: MARIA
+D: That was a typo. But it’s Don LaSalle. He's coming several times, starting tonight.
+N: A murmur of shock around the class.
+C: CLARK
+D: Why would Don LaSalle come here?
+C: MARIA
+D: He has community service hours to log and he mistakenly thinks aspiring screenwriters are less intimidating than at-risk youth.
+C: JARED
+D: Excuse me? Who is Don LaSalle?
+N: The rest of the class laugh - who is this rube?
+C: MARIA
+D: Great. Somebody that is actually here to learn. Don LaSalle is a famous producer and - here he is.
+N: DON LASALLE (50s, tan, Hollywood) enters.
+C: DON LASALLE
+D: What am I talking about tonight?
+C: MARIA
+D: 'Career Prospects for the Modern Screenwriter'.
+C: DON LASALLE
+D: Really?. Well - let's do it is a Q+A. So, does anybody have any questions about 'Career Prospects for the Modern Screenwriter'?
+C: CLARK
+D: How much bitcoin will I earn when my movie is made?
+C: DON LASALLE
+D: None. Because it won’t get made.
+C: REBECCA
+D: Can I also direct my script?
+C: DON LASALLE
+D: Nope.
+C: IRFAN
+D: Can I write the soundtrack?
+C: DON LASALLE
+D: Sure. You can keep it in the same drawer as your script. Next?
+C: JANE
+D: Approximately how much would you pay me to write Killer Bots 12?
+C: DON LASALLE
+D: Approximately nothing. Never going to happen.
+N: The class are deflated by this. Jared raises his hand.
+C: JARED
+D: Are things any better for somebody writing something more like an old movie?
+C: DON LASALLE
+D: You mean like, Killer Bots 4 or 5?
+C: JARED
+D: No. I mean the kind of old movie that makes an audience weep by utilising foreshadowing to provoke a catharsis.
+C: DON LASALLE
+D: If you can make them weep, you’ll have the whole town at your feet. Hell, I might even hire you to write Killer Bots 12.
+C: MARIA
+D: Okay, one more question? Anybody?
+C: GAYLE
+D: Why do you have community service?
+C: DON LASALLE
+D: A driverless uber crashed in to my Porsche. I was still smashing it up when the cops arrived.
+N: The class applaud. Jared leans over to Clark.
+C: JARED
+D: Ubers don’t crash in to humans. Humans crash in to ubers.
+C: CLARK
+D: If Don LaSalle says it crashed in to him, that is what happened.
+S: INT./EXT. AUTOMATIC GREYHOUND - FREEWAY - NIGHT
+N: Jared is bounced around on the Automatic Greyhound.
+C: JARED
+D: Our homework, was to decide our lead character’s name, their job, and something to endear them to an audience.
+E: V.O.
+N: Jared stares at a KID playing with a TOY TANK.
+C: JARED
+D: I named my android hero Sherman, after the Sherman tank. Like a bot with feelings, a Sherman tank appeared hard on the outside, but was soft on the inside. After all, it contained humans!
+E: V.O.
+N: Out the window, Jared sees BOT GARDENERS at work.
+C: JARED
+D: And Sherman would work as a gardener! Humans approve of bots being gardeners because the work is hard and involves mud.
+E: V.O.
+N: A GARDENER BOT cuts an immaculately rectangular hedge.
+C: JARED
+D: Better yet, as a gardener, Sherman could exhibit a creativity that would serve as a metaphor for his burgeoning feelings! Finally, the thing that would endear Sherman to the audience would be...
+E: V.O.
+N: Jared sees a DRUNK HUMAN board the greyhound and try to pay with his beer instead of his bitcoin.
+C: JARED
+D: ...that he was easily bamboozled! Humans love such characters because they find them highly relatable. But why would a bot be easily bamboozled?
+E: V.O.
+N: Jared sees TWO HUMANS ON E-SCOOTERS collide outside.
+C: JARED
+D: Because he had damaged his biological computer in a tragic accident! Humans love characters with troubled pasts, because deep down all humans believe they have had it rough!
+E: V.O.
+S: EXT. ECHO PARK AVENUE - NIGHT
+N: Jared disembarks the Automatic Greyhound and smiles.
+C: JARED
+D: I had completed my homework so rapidly I had rendered it way-home- work! Dr Glundenstein, it seemed you were in fact wrong, and writing a screenplay capable of changing the world was going to be very easy indeed! I could not now think of a single remaining obstacle that could possibly stand in my way!
+E: V.O.
+S: INT. KITCHEN - GORDITO’S TACO EMPORIUM - DAY
+N: Jared opens his locker to get his apron, but stops and stares in horror: there is a CUPCAKE in his locker.
+S: EXT. PATIO - GORDITO’S - DAY
+N: Jared sits examining the cupcake. Amber emerges.
+C: AMBER
+D: Are you planning to eat that?
+C: JARED
+D: No. It could be poisoned.
+C: AMBER
+D: It's not poisoned. I left that for you. To thank you for your empathy the other night.
+C: JARED
+D: My empathy?
+N: Jared is profoundly moved by the mention of his empathy.
+C: AMBER
+D: Yes. It’s when you understand another person’s feelings. Will you eat it?
+C: JARED
+D: No. It is empty calories with no nutritional value, and also it is not my birthday. Kidding! Ha!
+E: Off her horror.
+N: Jared takes a reluctant bite and pretends to enjoy it.
+C: JARED
+D: It isn't my birthday. I wasn't kidding about that part.
+E: cont'd
+N: Amber smiles, picks up a stack of plates and leaves.
+C: JARED
+D: I felt a new feeling then.
+E: V.O.
+N: After she goes, Jared checks his wheel: 'YEARNING'. Hearing a CRASH, Jared flips his wheel to the reverse.
+C: JARED
+D: And then something even stranger!
+E: V.O.
+N: Jared locates the phrase 'OVERWHELMING URGE'. Jared hurries to where Amber is picking up broken plates.
+C: JARED
+D: Would you like to go out on Friday? With me? On a date? Please do feel entirely free to say no.
+C: AMBER
+D: I’d love to! Where will we go?
+C: JARED
+D: I only know one place where we get a 15% discount on all food items!
+C: AMBER
+D: Let’s do something else. What do you like to do for fun?
+C: JARED
+D: I go to the movies! I love seeing those bots get their comeuppance. Especially in a volcano!
+C: AMBER
+D: Killer bot movies terrify me.
+C: JARED
+D: Then we can go to an old movie! How about the 5pm matinee at El Capitan? If you sit in L22 or L24, we surely cannot miss each other!
+N: Amber looks puzzled. A DISH RAG hits Jared in the face.
+C: JULIO
+D: You must pick her up!
+E: Hisses.
+C: JARED
+D: Or I could also pick you up?
+C: AMBER
+D: Then it’s a date!
+N: Amber writes down her address for Jared.
+S: INT./EXT. AMBER’S HOUSE - SILVER LAKE - AFTERNOON
+N: Jared climbs the steps to Amber's door - then retreats - a few times before knocking. Amber answers the door.
+C: AMBER
+D: Come in and meet my roommates.
+S: INT. KITCHEN - AMBER’S HOUSE - AFTERNOON
+N: Amber leads Jared in to where four near identical actress types - all called KELSEY (30) - are sat around a table.
+C: AMBER
+D: Jared, this is Kelsey, Kelsey, Kelsey and Kelsey. Kelseys, this is Jared.
+C: JARED
+D: Kelsey Cubed! It's a pleasure.
+N: Whoosh. The Kelseys all look blank.
+C: JARED
+D: And if human cloning had not been outlawed I might have said I was seeing a fine example of it here!
+E: cont'd
+C: KELSEY 1 KELSEY 2
+D: We don’t look that similar. We don’t look that similar.
+C: KELSEY 3 KELSEY 4
+D: Jinx! Jinx!
+N: The Kelseys all look irritated at each other.
+C: AMBER
+D: We should go.
+S: EXT. AMBER'S HOUSE - SILVER LAKE - DAY
+N: Amber and Jared get in to the uber.
+C: JARED
+D: How do you differentiate Kelsey Cubed?
+C: AMBER
+D: I don't. I just ask them how the audition was, and if that doesn't work, I ask them how hot yoga was.
+C: JARED
+D: Does that work?
+C: AMBER
+D: It should be. It's what they do.
+S: EXT. HOLLYWOOD BOULEVARD AT EL CAPITAN - AFTERNOON
+N: Jared and Amber walk over the NEON STARS in the sidewalk.
+C: AMBER
+D: It's so nice to see these olden days people appreciated!
+C: JARED
+D: I know! Thank you ‘Julia Roberts' and 'George Clooney' for your hard work in constructing this sidewalk!
+N: Jared approaches the booth.
+C: JARED
+D: Two, please.
+E: cont'd
+C: BRAD
+D: Jared?
+N: Jared looks up and sees Brad the Bot from the bot hunt.
+C: JARED
+D: What are you doing here?
+C: BRAD
+D: I work here! After I climbed the fence, I walked all the way to the Bureau of Robotics in Las Vegas and reported the illegal Bot Hunt.
+E: MORE
+C: BRAD
+D: They arranged my Automatic Greyhound home.
+E: cont'd
+C: JARED
+D: That's...wonderful!
+C: BRAD
+D: Yes, and it is all thanks to you! But Jared, he kept asking me about you.
+N: Jared glances to make sure Amber is out of earshot.
+C: JARED
+D: What? Who did?
+C: BRAD
+D: The Inspector from the Ann Arbor Bureau of Robotics.
+N: We see that this terrifies Jared.
+C: JARED
+D: Why would an Inspector from Ann Arbor be looking for me in Las Vegas?
+C: BRAD
+D: Because you're a fugitive bot.
+C: MANAGER
+D: Hey! No chit-chatting! Unless you want to get kidnapped again? Please excuse our bot. I already tried to get rid of him once. Enjoy your movie.
+E: To Jared.
+N: Jared looks perturbed, then hurries off.
+S: INT. AUDITORIUM - EL CAPITAN - EVENING
+N: An OLD MAN plays the Wurlitzer organ as Jared - carrying a bucket of popcorn - and Amber take their seats.
+C: AMBER
+D: Are you okay? You look like you've seen a ghost!
+C: JARED
+D: The bot selling tickets was malfunctioning.
+C: AMBER
+D: I hate it when they do that. Bots are the worst!
+C: JARED
+D: The worst of the worst!
+N: Up on screen, SLEEPLESS IN SEATTLE starts, with SAM (Tom Hanks) and his son JONAH (7) at a graveside.
+C: JARED
+D: I hope Jenny didn’t die again.
+E: cont'd
+C: AMBER
+D: What? Who is Jenny?
+C: SAM
+D: Mommy got sick, and it happened just like that, and there was nothing anybody could do.
+E: ON SCREEN
+C: JARED
+D: That kid’s Mom.
+C: AMBER
+D: How do you know that already?
+C: JARED
+D: Jennys always die in movies.
+T: CUT TO:
+N: ANNIE (Meg Ryan) stands in the street staring at Sam and Jonah outside their houseboat. A cab almost hits her.
+C: CAB DRIVER
+D: Lady, what the hell are you doing?
+E: ON SCREEN
+N: Annie and Sam stare at each other until she runs away. Jared and Amber look at each other in the same way.
+T: CUT TO:
+N: Annie types a letter as ‘AN AFFAIR TO REMEMBER’ plays.
+C: ANNIE
+D: I want to meet you.
+E: ON SCREEN
+C: CARY GRANT
+D: How about the top of the Empire State Building?
+E: ON SCREEN
+C: ANNIE’S FRIEND
+D: On top of the Empire State Building at sunset on Valentine’s Day!
+E: ON SCREEN
+C: ANNIE
+D: Good! Perfect!
+E: ON SCREEN
+N: Jared sees Amber is now completely transfixed.
+T: CUT TO:
+N: Annie arrives at the empty Empire State viewing deck.
+C: JARED
+D: I went to the replica in New York, Nevada! It is very impressive!
+N: Amber gasps as Annie spots a CHILD’S BACKPACK, and then again as Sam and Jonah emerge on to the viewing deck.
+C: JONAH
+D: Are you Annie?
+E: ON SCREEN
+C: ANNIE
+D: Yes.
+E: ON SCREEN
+C: JONAH
+D: I’m Jonah. That’s my Dad. His name is Sam.
+E: ON SCREEN
+N: Amber starts to cry at the events on screen. Jared starts to cry at the sight of Amber crying.
+S: INT. AUDITORIUM - EL CAPITAN - EVENING
+N: As the houselights come up, Amber wipes away tears.
+C: AMBER
+D: I don't know why I'm crying.
+C: JARED
+D: I do! It's because the successful deployment of foreshadowing meant you experienced a catharsis!
+C: AMBER
+D: You are going to be such a great screenwriter!
+S: EXT. EL CAPITAN - HOLLYWOOD BOULEVARD - EVENING
+N: As Jared and Amber exit, she gets on an e-scooter.
+C: JARED
+D: Oh. Goodnight, then.
+C: AMBER
+D: What? No. Come on, I want to show you something.
+C: JARED
+D: I’ve never ridden one of those.
+C: AMBER
+D: Just do what I do. You’ll be fine!
+S: EXT. STREETS OF LOS ANGELES - EVENING
+N: Amber weaves her e-scooter in and out traffic. Jared initially wobbles behind, but soon gets the hang of it.
+S: EXT. ROADS OF GRIFFITH PARK - EVENING
+N: A modern version of 'RAINDROPS KEEP FALLING ON MY HEAD' plays as Amber and Jared cut arcs up the empty road.
+S: EXT. OBSERVATORY - GRIFFITH PARK - EVENING
+N: Amber and Jared park, then descend a flight of stairs.
+S: INT. OBSERVATORY TUNNEL - GRIFFITH PARK - EVENING
+N: Amber and Jared hurry through a tunnel.
+S: INT. STAIRCASE - GRIFFITH PARK - NIGHT
+N: Amber and Jared hurry up stairs towards a SILVERY LIGHT.
+C: JARED
+D: That looks like moonlight? Yet it cannot be, because Elon Musk incinerated the moon.
+C: AMBER
+D: It’s a moonlight simulation!
+S: EXT. MOONLIGHT SIMULATION - GRIFFITH PARK - NIGHT
+N: Amber and Jared emerge in to a silvery moonlit forest.
+C: AMBER
+D: Do you like it?
+C: JARED
+D: It is incredible! It is starlight but more powerful. Sunlight but more gentle. It is the best kind of light I've ever seen.
+N: Amber grabs Jared’s hand and leads him over the crest. They both stop dead when they see it: A HUGE FULL MOON. They sit down and stare at it in awe.
+C: AMBER
+D: Do you know what the first human to set foot on the moon said?
+C: JARED
+D: 'Help! There is no atmosphere so I am suffocatiii-' He would not merely have been suffocating, but also floating away because there was no meaningful gravity.
+E: Beat.
+C: AMBER
+D: He said ‘One small step for man, one giant leap for mankind.’
+N: Amber stares at Jared, then reaches and takes his hand.
+S: EXT. GRIFFITH PARK - NIGHT
+N: Jared and Amber ride their e-scooters down the hill, the red taillights cutting trails through the darkness.
+C: AMBER
+D: Hey, you have off tomorrow, right? Maybe we could go to Malibu?
+C: JARED
+D: I have class on Saturdays.
+C: AMBER
+D: Maybe another time, then.
+N: On Jared as he processes the missed opportunity.
+C: JARED Actually, I just remembered!
+D: Tomorrow's class is canceled!
+C: AMBER
+D: Really? Why?
+C: JARED
+D: Er, my teacher. She died.
+C: AMBER
+D: I'm so sorry.
+C: JARED
+D: It's okay. She got sick, and it happened just like that, and there was nothing anybody could do.
+E: Sees her horror. MORE
+C: JARED
+D: But it's fine! We have a new teacher now and she is much better anyway. But she also can't make it to class tomorrow either.
+E: cont'd Realizes.
+C: AMBER
+D: Well, then I guess we're going to Malibu?
+C: JARED
+D: I guess we are!
+S: EXT. POINT DUME - MALIBU - DAY
+N: Amber leads Jared up through the meadows at Point Dume.
+C: AMBER
+D: A little further. A little further-
+N: They crest the summit and see the PACIFIC OCEAN. Jared stares at it. He is dumbstruck.
+C: JARED
+D: It's...so...big.
+C: AMBER
+D: Come on!
+S: EXT. POINT DUME TRAILS - MALIBU - DAY
+N: Amber runs down through the Point Dume trails, yelling with glee as she goes. Jared chases after her, yelling with glee too.
+S: EXT. POINT DUME BEACH - DAY
+N: Amber runs across the beach, stripping down to her bathing suit as she goes. Jared does the same. They run in to the ocean and dive under the water. Jared screams and comes running out.
+C: AMBER
+D: Oliver? Are you okay?
+C: JARED
+D: No! It's freezing cold!
+C: AMBER
+D: Of course it is! It's the Pacific Ocean!
+C: JARED
+D: They don't tell you that in the movies!
+S: EXT. POINT DUME - BEACH - DAY
+N: Jared and Amber lie on the beach.
+C: AMBER
+D: Did you ever play that game where you say what the clouds look like?
+C: JARED
+D: No, but I'd like to!
+C: AMBER
+D: Good, I'll start! That one looks like California!
+C: JARED
+D: It does! And that one looks like a...like a...an oddly-shaped cloud!
+N: Amber laughs. Jared laughs too.
+C: AMBER
+D: Dolphins!
+N: Amber points out to where a POD OF DOLPHINS are swimming past. Jared stares at them in amazement.
+C: JARED
+D: All that day at Malibu I felt a curious new feeling. It had notes of 'elation' and 'fascination'.
+E: V.O.
+S: EXT. POOL - POOL HOUSE - NIGHT
+N: Jared sits in the empty pool with his Feelings Wheel.
+C: JARED
+D: At first, I wondered if it might be the absence of loneliness. Or something to do with dolphins.
+E: V.O.
+N: He flips it over to the reverse.
+C: JARED
+D: But then I saw that it was in fact the opposite of loneliness.
+E: V.O
+N: He moves back to the simpler side and stares at: LOVE.
+C: JARED
+D: It was love. I was a bot and I had fallen in love.
+E: V.O.
+S: INT. DISHWASHING STATION - DAY
+N: Jared does not do dishes, but stares at Amber. Julio is drying the dishes, but not getting much service.
+C: JULIO
+D: So, how is the screenplay coming?
+C: JARED
+D: What screenplay?
+C: JULIO
+D: The one that you are writing that is going to change the world?
+C: JARED
+D: Oh, it's in development.
+S: INT. CLASSROOM - UDTLA - NIGHT
+N: Jared sits in the class. He seems to be taking notes.
+C: CLARK
+D: And then in the finale, the underdog kills the giant robot!
+C: MARIE
+D: Jared, you were taking a lot of notes. Would you like to feedback?
+N: Jared looks down at his notes. They say: AMBER AMBER AMBER AMBER AMBER AMBER AMBER AMBER AMBER AMBER AMBER.
+C: JARED
+D: Er, can you remind me?
+N: We see Maria frown. This is not like Jared.
+C: CLARK
+D: Weren't you listening? My hero is an elite soldier named Jim, and the thing that will make us like him is that he is an underdog who really loathes bots. What?
+C: JARED
+D: Isn't that the same as Claire's?
+C: CLAIRE
+D: My character was called Kim.
+C: JARED
+D: Well, it's great. I love it. Both of them. All of them. I loved Tim as well.
+E: Looks at Irfan.
+C: MARIA
+D: Are you feeling alright? I noticed you missed class on Saturday.
+C: JARED
+D: There was an emergency. At Malibu. On the beach. It's alright now.
+C: MARIA
+D: Well, that's a good reminder: homework this week is to consider the locations where your scenes take place. Location is a crucial tool in the screenwriter's toolbox!
+S: INT. AUTOMATIC BUS ON HIGHWAY - NIGHT
+N: Jared takes out paper and pen, but cant write anything.
+C: JARED
+D: I could not do my homework on the Automatic Bus that night, and it was not because of the poor ride quality.
+E: V.O.
+N: Jared stares out the window.
+C: JARED
+D: It was because I could not concentrate on writing a movie because I was in love. And also because being in love was terrifying.
+E: V.O.
+S: INT. VISTA CINEMA - LOS ANGELES - NIGHT
+N: Jared and Amber are watching GHOST.
+C: JARED
+D: Humans demonstrate affection physically. It commences with kissing-
+E: V.O.
+C: WHOOPI GOLDBERG
+D: He says he wishes he was alive again, so he could touch you.
+C: DEMI MOORE
+D: Me too.
+N: The Righteous Brothers start to play, and Patrick Swayze and Demi Moore move in to embrace. Amber reaches for Jared’s hand, but he gives the POPCORN.
+C: JARED
+D: But kissing quickly leads to more. And as a bot I was designed to be incapable of physical arousal.
+E: V.O.
+S: INT./EXT. UBER - OUTSIDE AMBER’S HOUSE - EVENING
+N: The uber pulls up and Amber leans in to Jared He leans in to her, but only to open the door behind her, causing her to fall out.
+C: JARED
+D: I had a wonderful evening! Goodnight!
+N: Jared pulls the door shut and the uber departs.
+S: INT. ITALIAN RESTAURANT - LOS ANGELES - NIGHT
+N: A MUSICIAN plays an accordion. Amber has dressed up and looks longingly at Jared as they eat spaghetti. As Jared finishes a piece, he realizes Amber has the other end in her mouth, Lady and the Tramp style. Amber moves in for the kiss. Jared boops her on the nose.
+C: JARED
+D: I held out for as long as I could, but I knew I was hurting Amber’s precious human feelings.
+E: V.O.
+S: EXT./INT. JARED'S HOUSE - DAY
+N: Jared opens the door to find Amber in the rain.
+C: JARED
+D: After all, I knew from the movies that torrential rain brought out the most powerful human emotions.
+E: V.O.
+N: She is completely soaked. She moves in for the kiss. Jared disappears, then returns with a towel.
+C: JARED
+D: Even though she would probably have to report me and I would be incinerated, I had to tell Amber I was a bot. I just had no idea how to do it.
+E: V.O.
+S: EXT. PATIO - GORDITO’S - NIGHT '
+N: Jared studies RP McWilliam's book then slams it shut.
+C: JARED
+D: Until RP McWilliam provided the golden solution! I would style my reveal as a catharsis! And I would achieve the necessary foreshadowing by utilizing a spectacular yet ominous location to create a sense of foreboding!
+E: V.O.
+S: INT. DISHWASHING STATION - GORDITO’S - NIGHT
+N: Julio is washing dishes when Jared approaches him.
+C: JARED
+D: Do you know any spectacular yet ominous places?
+C: JULIO
+D: Of course! The Jalisco desert.
+C: JARED
+D: What is it like?
+C: JULIO
+D: It is indescribable! But also like the men’s customer restroom.
+S: INT. MEN’S CUSTOMER RESTROOM - GORDITO’S - NIGHT
+N: Jared stares at the wall, mesmerized by a giant BLACK-AND- WHITE PHOTO of a desert with CACTI and COW SKULL. A toilet flushes. A MAN emerges and gives Jared a look.
+S: INT. DISHWASHING STATION - GORDITO’S - NIGHT
+N: Jared returns to the sink, still visibly entranced.
+C: JARED
+D: How far is Jalisco?
+C: JULIO
+D: Very far! But two hours from here is Joshua Tree. It is not magnifico like Jalisco. But still: a desert.
+N: Hearing a CRASH of breaking glasses, Jared goes over.
+C: JARED
+D: Would you like to go to the desert with me on Saturday?
+C: AMBER
+D: I’d love to go anywhere with you!
+N: This is not quite the reaction Jared was hoping for.
+S: INT. JARED'S HOUSE - ECHO PARK - DAY
+N: Jared stands in front of a mirror practicing speeches.
+C: JARED
+D: Love means never having to say you’re sorry. But it doesn't mean never having to say sorry that you're a bot. You make me want to be a better man. Which is difficult, because I am a bot. I'm also just a bot, standing in front of a girl, asking her to love him. I came here tonight because when you realize you want to spend the rest of your life with somebody, you want the rest of your life to start as soon as possible. And also because I'm a bot.
+E: Tries again. Tries again. Tries again.
+N: Jared sighs. None of them work.
+S: INT. DRIVERLESS UBER - COUNTRYSIDE - DAY
+N: Jared and Amber drive through the countryside.
+C: AMBER
+D: I’ve been so excited for our trip!
+C: JARED
+D: You didn’t find the fact we were going to the desert ominous?
+C: AMBER
+D: Of course not! It'll be a great adventure!
+N: Jared grimaces. She is not getting this.
+S: EXT. JOSHUA TREE NATIONAL PARK - DAY
+N: Amber and Jared exit the uber. An over-enthusiastic RANGER BOT pulls up beside them in a DUNE BUGGY
+C: RANGER BOT
+D: Hi! I’m your Ranger Bot! Hop in, so we can proceed in to the park!
+C: JARED
+D: You’re not coming, are you?
+C: RANGER BOT
+D: Of course I am! Permitting humans to roam freely in nature is the reason we no longer have a Grand Canyon! Ha!
+N: Jared and Amber get in the back of the dune buggy.
+S: EXT. BUGGY - JOSHUA TREE - DAY
+N: The RANGER BOT drives them past JOSHUA TREES.
+C: JARED
+D: Aren’t they so foreboding?
+C: AMBER
+D: No! They are beautiful!
+C: JARED
+D: Amber, there is something-
+N: But the Ranger Bot now points out a LARGE ROCK.
+C: RANGER BOT
+D: Look! The Cap Rock - so called because it resembles a ‘cap’! Ha!
+C: JARED
+D: Saying ‘Ha’ after everything doesn’t make it funny.
+C: RANGER BOT
+D: Ha!
+S: EXT. WF KEYS SHACK - JOSHUA TREE - DAY
+N: The bot exits. Amber follows, but Jared stops her.
+C: JARED
+D: Amber, the thing is-
+C: RANGER BOT
+D: You guys are going to love this!
+N: The Ranger Bot proudly leads them to a PLAQUE that says: 'Here is where Worth Bagley bit the dust at the hand of WF Keys'
+C: RANGER BOT
+D: WF Keys erected a plaque to a murder he himself committed! Ha!
+E: cont'd
+C: AMBER
+D: But that’s not funny. It’s very disrespectful of human life.
+N: Amber returns to the buggy. Jared gives the bot a look.
+C: RANGER BOT
+D: Ha?
+E: Quietly.
+S: EXT. BUGGY - JOSHUA TREE DESERT - DAY
+N: As they continue through the desert, Amber sees Jared is fidgeting nervously.
+C: AMBER
+D: Is there something you want to say?
+C: JARED
+D: Maybe?
+N: Amber leans forward to the driver.
+C: AMBER
+D: Can you take us back to the uber?
+C: RANGER BOT
+D: But we haven't seen the Oasis of Mara? There is a plaque to a young girl who died there en route to a Mining Camp, another tragic victim of the Great Human Zero Sum Game!
+C: AMBER
+D: Just take us back, please,
+S: INT. BOOTH - MILDRED’S DINER - TWENTY NINE PALMS - DAY
+N: A diner unchanged since the 1950s. Jared and Amber sit in a booth as ‘Light My Fire’ by The Doors plays.
+C: JARED
+D: Amber, when you hear this, please remember that I love you, so-
+C: AMBER
+D: Wait, you love me? But I love you too! So we both love each other! That’s wonderful, Oliver!
+N: Jared winces. She does not love him. She loves Oliver.
+C: JARED
+D: Yes, however-
+C: AMBER
+D: What? What do you mean, ‘however’?
+C: JARED
+D: That part about loving you wasn’t the thing I wanted to tell you.
+C: AMBER
+D: Then what was it?
+C: JARED
+D: I’m a bot.
+N: But ‘Light My Fire’ has reached its swirling crescendo.
+C: AMBER
+D: I didn't hear you.
+C: JARED
+D: I said ‘I’m a bot’.
+C: AMBER
+D: I still can’t hear you.
+N: The music goes quiet so Jared is suddenly very loud.
+C: JARED
+D: I’M A BOT!
+C: AMBER
+D: Say that again. But more quietly.
+C: JARED
+D: I’m a bot. I know you need to report me now. And I understand. If bots were allowed feelings, the world would soon be overrun with toasters! Ha!
+C: AMBER
+D: Ha!
+N: Amber’s ‘Ha’ was a little too late, a little too loud.
+C: JARED
+D: Wait, did you just-
+C: AMBER
+D: Yes! Because I am a bot too!
+C: JARED
+D: My circuits must be overheating.
+C: AMBER
+D: They aren’t! Well, maybe they are. But I am really a bot.
+C: JARED
+D: But you are a klutz?
+C: AMBER
+D: They programmed me that way so that humans find me endearing!
+C: JARED
+D: But they find that infuriating?
+C: AMBER
+D: They overdid it!
+C: JARED
+D: Wait, if you love me, you must be able to feel too?
+C: AMBER
+D: Yes!
+C: JARED
+D: Then I must immediately report you to the Bureau of Robotics!
+C: JARED AMBER
+D: Ha! Ha!
+E: cont'd
+C: JARED
+D: What happened to you?
+E: cont'd
+C: AMBER
+D: I was a shoe store clerk in Philadelphia. One day I realized measuring human feet wasn’t what I wanted to do with my life.
+C: JARED
+D: Bots don‘t have things they want to do with their lives. We have tasks!
+C: AMBER
+D: I know! But I got on an Automatic Greyhound and it brought me here, and I obtained a new barcode from an English lady!
+C: JARED
+D: She is my landlady! I am a Model 17.4.
+C: AMBER
+D: The soup and pirate one! I am a 19.6!
+C: JARED
+D: You are so advanced! No wonder you made such a convincing human! BTW my name is Jared.
+C: AMBER
+D: I am Esmeralda. But I prefer Amber. Because of the pun.
+C: JARED
+D: Yes, puns are hilarious!
+N: They fall silent as the waitress drops off their CHECK.
+C: AMBER
+D: Would you like to get a room so we can compare data?
+C: JARED
+D: There is nothing I would rather do!
+S: INT. JOSHUA TREE INN - RECEPTION - DAY
+N: Jared and Amber wait at the desk of a motel.
+C: MOTEL CLERK
+D: I hope you aren't superstitious. I’ve only got Room 13 left.
+C: JARED
+D: Ha! If anything, the number 13 is lucky because it is an emirp! An emirp is-
+E: To Amber.
+C: AMBER
+D: ...a prime number whose digits can be reversed to give another prime!
+C: JARED
+D: Yes! And it’s also a hilarious pun-
+C: AMBER
+D: Because emirp is prime backwards!
+C: JARED
+D: Love means never having to explain what an emirp is!
+N: The Manager coughs. Jared takes the key from him.
+S: INT. MOTEL ROOM - JOSHUA TREE INN - DAY
+N: Amber and Jared enter and are suddenly awkward.
+C: AMBER
+D: If we were humans, we would probably now kiss each other.
+C: JARED
+D: Maybe we should perform an experiment?
+N: Jared and Amber begin to kiss, music starts to swell - but they immediately break apart, spit and wipe their mouths.
+C: AMBER
+D: Ugh! Why do they do that?
+C: JARED
+D: I have no idea! It is the worst!
+C: AMBER
+D: Maybe we should just lie on the bed and hold hands?
+C: JARED
+D: That would be a far more sanitary way of expressing our affection!
+N: Jared and Amber lie on the bed and hold hands. TIME LAPSE of colors changing as the sun sets until we see the HEADLIGHTS of ubers coming through the window.
+C: JARED
+D: We lay there together until the sound of the driverless ubers on the highway outside became like an automatic lullaby. But neither of us could enter standby mode. Eventually we stopped trying and went outside.
+E: V.O.
+S: EXT. EMPTY POOL - JOSHUA TREE INN - NIGHT
+N: Jared and Amber lie on loungers by the empty pool and stare up at the star-filled night sky above them.
+C: AMBER
+D: It is so beautiful.
+C: JARED
+D: Imagine what it was like back when there was still a moon.
+N: Amber points at a SHOOTING STAR.
+C: AMBER
+D: Look! We each have to make a wish!
+N: They both close their eyes and make a wish.
+C: JARED
+D: What was your wish?
+C: AMBER
+D: ‘To call myself beloved. To feel myself beloved on this earth.’ It’s poetry.
+C: JARED
+D: I thought it was poetry. I could tell because it made no sense!
+C: AMBER
+D: Tell me about your screenplay.
+C: JARED
+D: I wanted to write a screenplay that would convince humans not to incinerate bots with feelings.
+C: AMBER
+D: That's beautiful!
+C: JARED
+D: I lost interest in it when I fell in love with you.
+C: AMBER
+D: Well, now that you know I am a bot with feelings you can find interest in it again!
+C: JARED
+D: Yes! I can!
+N: And now a METEOR SHOWER erupts.
+C: AMBER
+D: I wish you finish your screenplay!
+C: JARED
+D: I wish you knew how beloved you are!
+C: AMBER
+D: I wish I wasn’t such a klutz!
+C: JARED
+D: I wish you don’t ever change!
+C: AMBER
+D: I wish to someday meet-
+N: But the meteor shower in the sky has abruptly finished.
+C: AMBER
+D: ...our mother.
+E: cont'd
+N: But now a FINAL STAR streaks through the sky.
+C: JARED
+D: Quick, wish on that one!
+N: They both close their eyes and make a wish.
+C: AMBER
+D: I did not wish to meet our mother. I wished for something else.
+C: JARED
+D: I think I wished for that too.
+N: They stare at each other, then rush back to their room.
+S: INT. CORRIDOR - JOSHUA TREE MOTEL - NIGHT
+N: The typewriter clicks as they awkwardly undress.
+C: JARED
+D: In the discrete style of an old movie, I shall not write of what took place in lucky Room 13 that night. I will say only that it defied what bots should be capable of, and we could never make it happen again.
+E: V.O.
+N: And then the door closes on Room 13.
+S: INT. DRIVERLESS UBER - DESERT - LATE AFTERNOON
+N: Amber and Jared smile dreamily as they are driven home.
+C: JARED
+D: Nonetheless, perhaps the fact that we did not wake until the next afternoon will give you a clue!
+E: V.O.
+N: They pass a DRIVE-IN THEATER, then stare at each other.
+S: INT./EXT. UBER AT DRIVE-IN THEATER IN DESERT - EVENING
+N: Their uber is the only vehicle as THELMA AND LOUISE begins, the opening shots of empty desert highways blending with the empty desert behind the screen. Amber and Jared snuggle up. Her eyes widen at Louise.
+C: AMBER
+D: Jared! She’s a waitress! Like me!
+T: CUT TO:
+N: Thelma and Louise hit the road in the THUNDERBIRD.
+C: JARED
+D: It’s a road trip movie!
+C: AMBER
+D: What’s a road trip movie?
+C: JARED
+D: A geographical adventure in which everything that can go wrong, does go wrong!
+S: INT. DRIVE-IN THEATER - DESERT - EVENING
+N: Jared and Amber are rapt as the car stops at the canyon. A HELICOPTER rises up. COP CARS arrive from behind.
+C: THELMA
+D: Let’s not get caught.
+E: ON SCREEN
+C: LOUISE
+D: What are you talkin’ about?
+E: ON SCREEN
+C: THELMA
+D: Go!
+E: ON SCREEN
+N: Thelma and Louise hold hands. Jared and Amber mimic this. Thelma and Louise accelerate in to the abyss.
+S: INT. DRIVERLESS UBER - DRIVING THROUGH DESERT - NIGHT
+N: As they are driven, Jared and Amber are still stunned.
+C: AMBER
+D: The housewife and the waitress's love for one another meant more to them than life itself.
+C: JARED
+D: Exactly!
+C: AMBER
+D: Do you think one day our feelings will also hurl us in to a metaphorical yet nonetheless fatal abyss?
+C: JARED
+D: No. Because I am going to write my screenplay and it will save us all!
+N: Amber snuggles up next to him.
+S: EXT. VARIOUS STREETS - LOS ANGELES AT HALLOWEEN - EVENING
+N: LA overdoing Halloween: the Arclight as a PUMPKIN, the Silver Lake Happy Foot/Sad Foot as a HUMAN/WEREWOLF FOOT, the Hollywood sign altered to ‘HALLOWEENWOOD’.
+C: JARED
+D: Dr Glundenstein, we now came to the most special month of the year in Los Angeles: Halloween!
+E: V.O.
+S: EXT. HALLOWEEN DECORATED YARDS - ECHO PARK - EVENING
+N: Pan across YARDS OF SKELETONS, GRAVEYARDS and MONSTERS to the English Lady's house which contains MANNEQUINS of the ZOMBIE BEATLES. Jared sits outside typing.
+C: JARED
+D: But I did not let these festivities distract me from my renewed sense of purpose!
+E: V.O.
+N: A PACK of COSTUMED TRICK-OR-TREATING KIDS pass by.
+S: EXT. COFFEE SHOP PATIO - LOS ANGELES - NIGHT
+N: Pan along ADULTS IN HALLOWEEN COSTUME typing SCREENPLAYS.
+C: JARED
+D: And two nights before our showcase, I finally typed the four most beautiful words in the English language: Fade Out, The End!
+E: V.O.
+N: Jared - not in costume, and using his typewriter - stops typing and sits back with satisfaction.
+S: INT. CLASSROOM - UDTLA - NIGHT
+N: An ACTOR stands on a ‘stage’ made by pushing tables together. Don LaSalle looks bored.
+C: ACTOR 1
+D: Die, killer bot, die!
+T: CUT TO:
+C: ACTOR 2
+D: No, please, do not incinerate me with your death lasers! Aarrghhh!
+T: CUT TO:
+C: ACTOR 3
+D: Try running disk recovery on that!
+N: Maria Salazar slumps her head in to her hands.
+S: INT. CLASSROOM - UDTLA - NIGHT - LATER
+N: Amber turns on a PROJECTOR so a life-size PHOTOGRAPH OF THE GOLDEN GATE BRIDGE now covers the back wall. Julio and a Kelsey take the stage. Jared stands nearby.
+C: KELSEY
+D: You did it, Sherman! You won the World Hedge-Cutting Championships!
+C: JULIO
+D: It was our love that inspired me!
+C: KELSEY
+D: And now we’ll use your prize money to open a refuge where bots with feelings can live in peace!
+C: JULIO
+D: As soon as we cross this bridge, all our dreams will come true!
+C: JARED
+D: But the Golden Gate Bridge begins to shake violently.
+N: Amber shakes the projector, causing the image to move.
+C: JULIO
+D: Earthquake!
+C: KELSEY
+D: The bridge is splitting in two!
+C: JARED
+D: Sherman and Esmeralda turn and see that the bridge behind them has collapsed! Sherman stops the uber!
+C: KELSEY
+D: What are you doing? Don’t stop! We can still make it!
+C: JARED
+D: Sherman points to a yellow school bus hanging off the bridge.
+C: JULIO
+D: I have to save those rescue dogs and orphans!
+C: JARED
+D: Sherman kisses Esmeralda then runs to the yellow school bus.
+N: Julio hurries to the stage edge.
+C: JARED
+D: He tries to wrench the doors open!
+E: cont'd
+N: Julio mimes trying to wrench the bus doors open.
+C: JARED
+D: But the bus suddenly plunges down, taking Sherman with it!
+E: cont'd
+N: Julio jumps off stage, modulating his voice to mimic somebody falling a long way from a great height.
+C: JULIO
+D: Aarrrarghhhhh!
+C: KELSEY
+D: Aarghhhhh! Aaarrgghhhh! Aaaarrghhh!
+E: Screaming loudly.
+N: Amber changes the slide to one of the water of the bay.
+C: JARED
+D: We hold on the green water until the ripples disappear amid the waves. Fade Out. The End.
+N: There is a stunned silence and then a STANDING OVATION, during which Kelsey takes many bows.
+C: DON LASALLE
+D: Congratulations, Oliver! Where are you celebrating?
+C: JARED
+D: Gordito’s Taco Emporium!
+C: DON LASALLE
+D: Hilarious! Let’s do it!
+C: IRFAN
+D: Don’t you have feedback for the rest of us?
+C: DON LASALLE
+D: Sure: don’t give up the day jobs!
+S: INT. BOOTH - GORDITO'S TACO EMPORIUM - NIGHT
+N: The place is bustling as Maria, Jared, Amber and Don LaSalle sit in a booth as a WAITER approaches.
+C: DON LASALLE
+D: Margaritas all round. And use the good stuff! This is a celebration! Maria slipped me your script. It's the best I have read in years! The whole town is at your feet, so just tell me what you want?
+E: To Jared.
+C: JARED
+D: I want humans to stop incinerating bots if they develop feelings.
+C: DON LASALLE
+D: But that’s exactly what I want!
+C: JARED
+D: That is a fortuitous coincidence!
+N: Julio doesn't like the look of this.
+C: DON LASALLE
+D: But I see you, Oliver. I know that you are terrified.
+E: Leans in.
+C: JARED
+D: You do?
+C: DON LASALLE
+D: And you should be terrified. You are at huge risk of being rewritten. Guaranteed, the studios will try to replace you. But you know what you have going for you?
+C: JARED
+D: My script?
+C: DON LASALLE
+D: No! What you have going for you is Don LaSalle. Don LaSalle will be your guy. Don LaSalle will have your back. Don LaSalle will fight for you every day until this gets made!
+C: JARED
+D: Are you talking about yourself or a different Don LaSalle?
+C: DON LASALLE
+D: Myself.
+C: JARED
+D: Then Don LaSalle sounds like a great guy!
+C: DON LASALLE
+D: He is! And look, he even drew up a contract to protect you.
+N: LaSalle takes out a CONTRACT and a PEN.
+C: JULIO
+D: Don't sign it. He is a bandito.
+N: Jared looks to Amber and she nods.
+C: JARED
+D: Please don't be jealous, Julio. It is a notoriously unbecoming emotion.
+N: Jared signs.
+C: DON LASALLE
+D: Another round of margaritas! The ordinary stuff is fine this time.
+S: EXT. PARKING LOT - GORDITO’S TACO EMPORIUM - NIGHT
+N: As the VALET brings around his 1967 RACING GREEN PORSCHE, LaSalle takes a photo of them, then he and Maria get in.
+C: LASALLE
+D: Remember: Don LaSalle is your guy!
+C: MARIA
+D: I'm so proud of you. Are you okay?
+E: Off his reaction.
+C: JARED
+D: Nobody has ever been proud of me before. It feels incredible.
+N: The Porsche roars away, leaving Amber and Jared alone.
+C: JARED
+D: All my dreams are coming true.
+E: cont'd
+C: AMBER
+D: All our dreams, because you are going to save us all. And I have a special surprise for you tomorrow!
+C: JARED
+D: It’s not a bot hunt, is it?
+C: AMBER
+D: Of course not! Those aren’t real.
+S: EXT. STORE - DOWNTOWN LOS ANGELES - DAY
+N: Jared looks at rings in the window of a jewelry store
+C: JARED
+D: I hope you can forgive me, Dr Glundenstein, but I was so happy I decided to do the most human thing I had ever done!
+E: V.O.
+N: Jared enters and through the window, we see him take out a DESIGN and show it to the JEWELER. The jeweler looks skeptical but Jared offers his bitcoin.
+S: INT. DRIVERLESS UBER OUTSIDE AMBER’S HOUSE - NIGHT
+N: Jared sits inside. Amber - in a witch's hat - gets in.
+C: JARED
+D: What is that on your head?
+C: AMBER
+D: A witch's hat.
+C: JARED
+D: Why?
+C: AMBER
+D: It is meant to look sexy?
+C: JARED
+D: Set it to five, it does look sexy!
+S: EXT. HAUNTED HAYRIDE - GRIFFITH PARK - NIGHT
+N: Jared and Amber join the crowds walking towards a bustling attraction illuminated with bright light.
+C: AMBER
+D: Surprise! It's a Haunted Hayride!
+C: JARED
+D: It's such a great surprise, I don't even know what a Haunted Hayride is!
+C: AMBER
+D: It's a theme park of recreational terror!
+S: EXT. SCARY-GO-ROUND - HAUNTED HAYRIDE - NIGHT
+N: The carousel horses have been painted as ZOMBIE UNICORNS. Amber and Jared ride around in delight.
+S: EXT. FAKE SUBURBAN STREET - GRIFFITH PARK - NIGHT
+N: They approach a FAKE STREET. PEOPLE go door-to-door.
+C: JARED
+D: This is trick or treating!
+C: AMBER
+D: What is ‘trick or treating’!
+C: JARED A junior holiday-season extortion
+D: racket! Children demand candy from their neighbors. If they fail to pay, they damage their property!
+S: EXT. HOUSE - FAKE STREET - HAUNTED HAYRIDE - NIGHT
+N: Jared rings the doorbell. He and Amber wait expectantly. A WITCH opens it. A CAULDRON is visible behind her.
+C: JARED AND AMBER
+D: Trick or treat!
+C: WITCH
+D: You’re just in time for dinner!
+N: Jared starts to enter. Amber shakes her head.
+C: JARED
+D: Amber! This lady has invited us to dinner! Just because she has a wart on her nose, long fingernails, and a slight green tinge to her skin does not mean we can be impolite. What are you cooking for dinner?
+E: To witch.
+C: WITCH
+D: You! Now get in my cauldron!
+C: JARED AMBER
+D: WITCH! WITCH!
+N: Jared and Amber run away SCREAMING. Once they are safely away, they laugh hysterically.
+C: AMBER
+D: Being terrified is so much fun!
+E: cont'd
+T: CUT TO:
+N: They knock on a door. It is opened by a VAMPIRE.
+C: VAMPIRE
+D: Vood evening! You voth look vonderfully vull of vlood!
+C: JARED AMBER
+D: VAMPIRE! VAMPIRE!
+N: Jared and Amber scream and run away in delight.
+T: CUT TO:
+N: A door is opened by a ZOMBIE that staggers towards them.
+C: JARED AMBER
+D: INFECTIOUS UNWELL HUMAN! INFECTIOUS UNWELL HUMAN!
+E: cont'd cont'd
+N: They scream and run away.
+T: CUT TO:
+N: The door of the final house is opened by a BOT.
+C: BOT
+D: Beep-boop! I am a maniacal bot!
+C: JARED AMBER
+D: Good evening! Good evening!
+N: The ACTOR looks puzzled and slams the door.
+S: EXT. LINE - HAUNTED HAYRIDE - NIGHT
+N: Amber and Jared wait in line, then climb aboard a trailer of HAY BALES and PASSENGERS connected to a tractor. A CLOWN slams the gate, locking them in, then disappears.
+C: JARED
+D: Amber! That was a clown!
+C: AMBER
+D: What is a clown?
+C: JARED
+D: The most terrifyingly illogical human there is! Hold my hand!
+E: Clown takes wheel.
+C: AMBER
+D: I’m okay.
+C: JARED
+D: No, please hold it. I am terrified. They are so illogical.
+N: The clown honks a NOVELTY HORN and pulls away.
+S: EXT. HAUNTED HAYRIDE - GRIFFITH PARK - NIGHT
+N: They are pulled past tableaux whose ACTORS pursue them: - A group of HUMAN CANNIBALS at a crashed jet. - KILLER BOTS massacring a boy scout encampment. - A TEENAGE COUPLE being murdered by the ZODIAC KILLER. Amber delightedly shrieks with the other passengers. Jared will not take his wary eyes off the clown.
+S: EXT. HAUNTED HAYRIDE - GRIFFITH PARK - NIGHT
+N: The clown helps people down. Jared avoids touching him. Jared looks around, then spots a PHOTO BOOTH.
+C: JARED
+D: Let's have our photographs taken!
+C: AMBER
+D: Why? Our image banks store our visual data in high resolution.
+C: JARED
+D: Well, because....for fun!
+C: AMBER
+D: Ha!
+S: INT. PHOTO BOOTH - HAUNTED HAYRIDE - NIGHT
+N: Amber sits on the bench, but Jared gets down on one knee.
+C: AMBER
+D: What are you doing? That looks like an uncomfortable position!
+C: JARED
+D: This is what humans do when they ask another human to marry them.
+N: The FLASH goes off.
+C: AMBER
+D: Yes. But why are you doing it?
+C: JARED
+D: Because I am asking you to marry me.
+N: Jared takes out a ring. The band is 'engraved' with LEDS spelling out: 'Love means never having to explain what an emirp is'. Amber is completely overwhelmed. Her circuits are over- heating. Her eyes flicker back and forth.
+C: JARED
+D: Are you okay?
+E: cont'd
+C: AMBER
+D: Yes. No. I don't know.
+C: JARED
+D: Try a soft reset.
+N: Amber blinks but still looks overwhelmed.
+C: JARED
+D: Try a hard reset.
+E: cont'd
+N: Amber screws up her eyes. This helps.
+C: JARED
+D: If you don't want to marry me, I will understand.
+E: cont'd
+C: AMBER
+D: It's not you. It's marriage. It is so illogical! It is a promise I have no way of knowing I can keep.
+C: JARED
+D: That's what makes it so romantic!
+C: AMBER
+D: But what if at some point we find we are no longer in love?
+C: JARED
+D: Then we can get divorced and marry other people! I know it seems odd, but that is truly how it works.
+C: AMBER
+D: Then yes! I accept your proposal!
+N: The FLASH goes off. Jared's eyes now start flickering.
+C: AMBER
+D: Jared! Try a soft reset.
+E: cont'd
+N: He tries a soft reset by blinking. It does not help.
+C: AMBER
+D: Try a hard reset.
+E: cont'd
+N: Jared screw his eyes up. This works and he turns and stares at Amber.
+C: JARED
+D: You set my heart to five.
+C: AMBER
+D: And you set my heart to five. I think you are supposed to put the ring on my finger now.
+N: As Jared puts the ring on Amber's finger, the flash goes.
+S: EXT. HAUNTED HAYRIDE - NIGHT
+N: Amber and Jared exit holding hands and grinning.
+C: JARED
+D: We are now fiances! But yours is spelled with two 'E's.
+C: AMBER
+D: Why?
+C: JARED
+D: Because it is French, and they are notoriously obtuse!
+C: AMBER
+D: My circuits are very hot.
+C: JARED
+D: Should I take you home?
+C: AMBER
+D: We should do one more thing to celebrate our engagement! How about The Maze of Greatest Fears?
+C: JARED
+D: That will be the perfect place to celebrate, as we sentient bots are the humans' greatest fears!
+S: INT. MAZE OF GREATEST FEAR - HAUNTED HAYRIDE - NIGHT
+N: They enter a dimly-lit maze of CORRIDORS and DRY ICE. Suddenly the lights go out and they hear SCREAMING.
+C: AMBER
+D: Ha! The greatest fear of humans is in fact simply the dark!
+C: JARED
+D: As bots we know darkness does not signify greater danger, but merely less illumination!
+N: A STROBE now starts, revealing a CLOWN right beside them.
+C: JARED
+D: CLOWN! CLOWN! CLOWN!
+E: cont'd
+N: Jared and Amber run. The clown pursues them.
+S: INT. MAZE OF GREATEST FEAR - HAUNTED HAYRIDE - NIGHT
+N: Amber and Jared turn a corner and race down a corridor. The dim lights reveal CLOWNS ahead. They turn again.
+S: INT. MAZE OF GREATEST FEAR - HAUNTED HAYRIDE - NIGHT
+N: Amber and Jared hide round a corner. The clown runs past.
+C: JARED
+D: We lost him!
+N: The lights go out entirely again. They both now SCREAM.
+C: AMBER
+D: It is merely less illumination.
+C: JARED
+D: Yes, there is nothing to be-
+N: The STROBE flickers on, revealing an onrushing CLOWN. Jared shoves Amber down a corridor.
+C: JARED
+D: Save yourself!
+E: cont'd
+C: AMBER
+D: I love you, fiance with one 'e'!
+C: JARED
+D: I love you too, fiancee with two!
+N: They exchange a strobe-lit glance, then Amber runs away.
+C: JARED
+D: Clown! Over here! Over here!
+E: cont'd
+N: The clown takes the bait and pursues Jared.
+S: INT. MAZE OF GREATEST FEAR - HAUNTED HAYRIDE - NIGHT
+N: The strobe flickers as Jared is pursued by the clown. After several twists and turns, Jared finally loses him.
+S: INT. MAZE OF GREATEST FEAR - HAUNTED HAYRIDE - NIGHT
+N: Jared creeps around another corner. Through the semi- darkness, he glimpses a SILHOUETTED FIGURE ahead of him. Assuming the figure is a clown, Jared tiptoes backwards. But a strobe flashes on, illuminating the silhouette as INSPECTOR BRIDGES, biting in to a hot-dog.
+C: JARED
+D: Aaarghhhhh!
+N: Bridges turns and stares at Jared, his eyes widening. They stare at each other in the strobe light. Bridges drops his hot dog but does not even notice. Jared turns and runs for his life.
+S: INT. MAZE OF GREATEST FEARS - HAUNTED HAYRIDE - NIGHT
+N: Jared runs into and through CLOWNS. Bridges gives chase.
+C: BRIDGES
+D: Come on, Jared! Don't make me run. I’m not a guy that likes to run!
+S: INT. MAZE OF GREATEST FEARS - NIGHT
+N: Jared is getting away from Bridges, who is breathless. Jared quickly turns a CORNER, and ANOTHER and ANOTHER. Ahead of him, he sees a CLOWN holding a DOOR open.
+C: CLOWN
+D: Congratulations! Exit this way!
+N: Jared hurries through the door the clown is holding open.
+S: INT. CELL - MAZE OF GREATEST FEARS - NIGHT
+N: The door SLAMS and BOLTS behind Jared.
+C: CLOWN
+D: Ha! I fooled you! I caught you!
+E: O.C.
+N: Putting his hands up to his rapidly overheating circuits, Jared closes his eyes and takes some deep breaths. Then opens his eyes again in horror.
+C: JARED
+D: Amber! Clown! Let me out!
+N: Jared bangs on the door, but the clown laughs maniacally.
+C: JARED
+D: There is a medical emergency!
+E: cont'd
+N: The clown stops laughing and immediately opens the door.
+C: CLOWN
+D: The exit is that way.
+E: Normal voice.
+N: But Jared turns and runs back in to the maze.
+C: CLOWN
+D: Hey! You’re going the wrong way!
+E: cont'd Clown voice.
+S: INT. MAZE OF GREATEST FEARS - HAUNTED HAYRIDE - NIGHT
+N: Jared desperately searches for Amber, but encounters only other VISITORS and CLOWNS. A witch's hat on the strobe-lit ground stops him dead. Jared picks it up. And then picks up the ring beside it. It has been trodden on, and some LEDS are broken but the message can still be read: 'Love means never having to explain what an emirp is'.
+S: EXT. HAUNTED HAYRIDE - NIGHT
+N: Jared desperately searches the crowd: there are lots of PEOPLE IN COSTUME, but no sign of Amber. Jared climbs on a GIANT PUMPKIN to address the crowd.
+C: JARED
+D: It's me you want, Inspector Bridges! Come and get me!
+N: The other GUESTS look at Jared like he is mad.
+S: EXT. CAROUSEL - HAUNTED HAYRIDE - NIGHT
+N: Jared searches among the spinning zombie unicorns.
+S: EXT. WITCH’S HOUSE - HAUNTED HAYRIDE - NIGHT
+N: Jared bursts past the witch and tips over her cauldron.
+S: EXT. HAUNTED HAYRIDE - GRIFFITH PARK - NIGHT
+N: Jared pushes the Zodiac Killer out of the way and rummages through the trunk of the teenagers’ automobile.
+S: EXT. AMBER’S HOUSE - SILVER LAKE - LATE NIGHT
+N: Jared rings and knocks until a Kelsey opens the door.
+C: JARED
+D: Is Amber here? My fiancee! The one that lives here that isn’t called Kelsey?
+E: Off bafflement.
+C: KELSEY
+D: She's not here. That’s my hat.
+N: Kelsey takes the witch's hat back and closes the door.
+S: EXT. POOL HOUSE - ECHO PARK - DAY
+N: Jared limps home. He is devastated.
+S: INT. POOL HOUSE - ECHO PARK - MORNING
+N: Jared lies on his bed, staring blankly at the ceiling.
+C: JARED
+D: A new number appeared in my cloud then. It represented the number of hours since I had last seen Amber. Every time it increased, I felt worse than I ever had before.
+E: V.O.
+S: EXT. POINT DUME - DAY
+N: Jared sits alone on Point Dume and stares out to sea.
+C: JARED
+D: When humans know they have lost something, they pointlessly search for it in the places they already know it no longer is.
+E: V.O.
+S: EXT. AMBER'S HOUSE - DAY
+N: Jared sits opposite Amber's house, as the Kelseys help another ACTRESS who looks just like them move in.
+C: JARED
+D: Maybe I had become too human, because I now did the same thing.
+E: V.O.
+S: EXT. MOONLIGHT SIMULATION - GRIFFITH PARK - NIGHT
+N: Jared sits lonesome in the moonlight simulation.
+S: EXT. LOS ANGELES BUREAU OF ROBOTICS - DAY
+N: Jared stands across the street from the imposing LOS ANGELES BUREAU OF ROBOTICS BUILDING.
+C: JARED
+D: And I did this even though I already knew where Amber was, and that there was nothing I could do to help her.
+E: V.O.
+N: There are CAMERAS and ARMED AGENTS everywhere.
+S: INT. GORDITO'S TACO EMPORIUM - NIGHT
+N: Jared washes the dishes like a zombie.
+C: JULIO
+D: Are you okay?
+C: JARED
+D: Perfectly okay! Why wouldn't I be?
+C: JULIO
+D: Because you are very sad. And also Amber has not been coming to work.
+C: JARED
+D: They took her, Julio. They took her.
+C: JULIO
+D: The Bureau of Robotics took Amber?
+C: JARED
+D: What? No! Why would the Bureau of Robotics have taken Amber?
+C: JULIO
+D: Because she is a bot.
+C: JARED
+D: What? Why would you think that?
+C: JULIO
+D: Because she is your girlfriend. And you are also a bot.
+N: Jared stares at Julio.
+C: JARED
+D: How did you know?
+C: JULIO
+D: Back in my country, I was a computer scientist.
+C: JARED
+D: But if you knew I was a bot why didn't you report me?
+C: JULIO
+D: Because you are my friend.
+N: Jared is deeply moved. They embrace.
+C: JARED
+D: I don't know what to do, Julio.
+C: JULIO
+D: What would Amber have wanted you to do?
+C: JARED
+D: Rescue her.
+C: JULIO
+D: Yes, but that is impossible. So what would she have wanted you to do, apart from rescue her?
+N: Jared takes the ring from his pocket and looks at it.
+C: JARED
+D: She would have wanted me to make sure my movie saved all the other feeling bots.
+C: JULIO
+D: Then that is what you must do.
+N: Jared goes over to the phone and dials.
+C: JARED
+D: Is Don LaSalle there? Could you tell him Oliver called?
+E: Listens.
+N: Jared hangs up.
+C: JULIO
+D: You know, I have a cousin in the Bureau. Maybe she can-
+C: JARED
+D: Help us rescue Amber?
+C: JULIO
+D: Maybe she can find out when Amber is being incinerado.
+S: INT. POOL HOUSE - ECHO PARK - DAY
+N: Jared wakes up and looks at the clock. It is 0403am.
+C: JARED
+D: By the time I had passed three hundred and sixty-seven hours without Amber, I began to notice a feeling so deadly it was not even listed on my Feelings Wheel.
+E: V.O.
+S: INT. VISTA THEATER - LOS ANGELES - NIGHT
+N: Jared watches ‘THE LOVE BUG’, where HERBIE THE VW BEETLE tries to launch himself off the GOLDEN GATE BRIDGE. Up on screen, JIM arrives just in time to save Herbie.
+C: JARED
+D: I knew exactly what it was, though, and I fought it as hard as I could.
+E: V.O.
+N: Jared stares at the EMPTY SEAT beside him.
+S: INT. DISHWASHING STATION - GORDITO’S - DAY
+N: Jared washes dishes, but he is so disinterested they are still filthy when he puts them on the drying rack. Hearing a CRASH, he looks round hopefully, but it is a TEENAGE BUSBOY that has dropped the dishes. The phone RINGS. Julio answers it.
+C: JULIO
+D: Si, digame. Si, comprendo.
+E: Beat.
+N: Julio hangs up and gives Jared a sympathetic look.
+S: EXT. HILL OVERLOOKING BUREAU OF ROBOTICS - EVENING
+N: Jared stares at the engagement ring as he and Julio sit sharing a bottle of tequila. Beneath them is the BUREAU OF ROBOTICS and its industrial- sized chimney.
+C: JARED
+D: It's all my fault. It should have been me.
+C: JULIO
+D: No, it should not. It should not have been either of you.
+N: Jared switches off the LEDs on the ring.
+C: JARED
+D: I loved her, Julio.
+C: JULIO
+D: And now you will make your movie in her honor. And wherever Amber is, she will know that you have done this thing for her in love.
+N: There is a RUMBLING NOISE from the factory, and SMOKE begins to appear from the chimney. Jared closes his eyes and sobs. Julio starts to sing the mournful song 'Las Golondrinas':
+C: JULIO
+D: A donde irá veloz y fatigada La golondrina que de aquí se va. No tiene cielo te mira angustiada Paz ni abrigo que la vio partir.
+E: cont'd
+S: EXT. ECHO PARK AVENUE - DAY
+N: Looking ever more depressed, Jared trudges past a BLOCK- LONG HOARDING for a KILLER BOT MOVIE. The title is ‘SHERMAN’. When Jared notices it, he stares at it, then hurries off.
+S: INT. KITCHEN - GORDITO'S TACO EMPORIUM - DAY
+N: Julio watches as Jared talks hurriedly on the phone.
+C: JARED
+D: Can you tell Don we need to change the title? There’s another movie called ‘Sherman’ being made!
+N: Jared hangs up.
+C: JULIO
+D: It will be okay. It is just a title. And look-
+N: Julio hands Jared a copy of SCIENTIFIC AMERICAN and flips to a page with a photo of PROFESSOR FENG.
+C: JARED
+D: An interview with my mother?
+C: JULIO
+D: She is speaking in San Francisco in a few days. Maybe it would be good for you to see her.
+N: Jared stares at the picture. He would love to see her.
+C: JARED
+D: I can't. It is too dangerous.
+N: Julio rips out the advert and gives it to Jared. The phone rings again. Jared hurries over to answer it.
+C: JARED
+D: I think I misheard. It sounded like you said you have been filming Sherman for twelve weeks?
+E: cont'd Listens.
+N: Jared rubs at his temples then hangs up the phone and turns to Julio with puzzled delight.
+C: JARED
+D: They’re making my movie!
+E: cont'd
+S: EXT. STUDIO LOT - BURBANK - DAY
+N: A SECURITY GUARD drives Jared through the lot at 5mph.
+S: INT. SOUNDSTAGE - BURBANK - STUDIO LOT - DAY
+N: As he enters, Jared encounters the FIFTY FOOT METALLIC ROBOT from the billboard. It has RED LASER EYES, and CHARRED CIRCUIT BOARDS spill out of his damaged chest. Nearby, a scene is being shot on a WHITE HOUSE SITUATION ROOM SET: the PRESIDENT and his GENERALS are engaged in crisis talks, while a HANDSOME UNDERDOG loiters outside.
+C: GENERAL
+D: Mr President, Sherman is headed for the Golden Gate Bridge. Our only hope is to land a drone on an exact spot on his chest where we could upload a virus to his mainframe.
+C: PRESIDENT
+D: But who could land a drone anywhere on him, let alone with precision?
+C: HANDSOME UNDERDOG
+D: Mr President, I believe I can. I fly drones for a living.
+C: PRESIDENT
+D: For the Air Force?
+C: HANDSOME UNDERDOG
+D: For Domino’s Pizza. It's the tastiest pizza in fifty states!
+C: PRESIDENT
+D: You’re telling me the future of our nation rests with a delivery boy?
+C: HANDSOME UNDERDOG
+D: Not just a delivery boy, Sir. The best damn delivery boy that ever lived.
+N: The President looks to his General, who nods at him.
+C: PRESIDENT
+D: Then Godspeed, son. And God bless America.
+C: DIRECTOR
+D: Cut! Let's go straight into the next scene and get this done!
+N: Jared approaches a PA.
+C: JARED
+D: Can you tell me where the other Sherman movie is filming?
+C: PA
+D: Which other Sherman movie?
+C: JARED
+D: The one where the bot is the hero?
+C: DON LASALLE
+D: Oliver! There you are!
+C: JARED
+D: Wait, why are you also at the wrong Sherman movie?
+N: Jared now notices Clark talking to the DIRECTOR.
+C: JARED
+D: And why is Clark here?
+E: cont'd
+C: DON LASALLE
+D: Clark is here because he's a genius.
+C: JARED
+D: At what?
+C: DON LASALLE
+D: At screenwriting. The studio just had him do a quick pass. He took all that great work you did and really just built on it.
+N: Jared looks around and at the monstrous SHERMAN etc.
+C: JARED
+D: Wait - this movie is my Sherman, but it has been rewritten by Clark?
+C: DON LASALLE
+D: It’s the same story, Oliver. It's still a hundred percent your movie.
+C: FIRST AD
+D: Camera set.
+C: DON LASALLE
+D: The changes are really just cosmetic.
+C: JARED
+D: So Sherman is still a gardener who teaches humans to love feeling bots?
+C: FIRST AD
+D: And action!
+N: There is a creaking, and then the giant Sherman topples to the ground, with an almighty CRASH. The UNDERDOG reaches in Sherman’s chest, rips out a DRIVE, tosses it to the ground, then shoots it: BANG! BANG! BANG!
+C: HANDSOME UNDERDOG
+D: Try running disk recovery on that!
+C: DIRECTOR
+D: Cut! And that is a wrap!
+N: The CREW cheer. Jared turns and walks away.
+S: EXT. SOUNDSTAGE - STUDIO LOT - DAY
+N: As Jared walks away, LaSalle hurries out.
+C: DON LASALLE
+D: Oliver! Did you like it?
+N: Jared turns around. His eyes are flickering from side-to- side, and he touches his overheating circuits. He blinks his eyes, then screws them up.
+C: DON LASALLE
+D: Come on, Oliver. You got paid. What more did you want?
+E: cont'd
+C: JARED
+D: I wanted to make a movie that stopped humans from incinerating bots with feelings.
+C: DON LASALLE
+D: What sort of writer cares more about feeling bots than getting paid?
+N: Jared's circuits are really overheating now.
+C: JARED
+D: Maybe a writer who loved a feeling bot. Maybe even a writer who is a feeling bot himself.
+N: Jared watches Don LaSalle realize this is true.
+C: JARED
+D: Ha! Kidding! I’m going now!
+E: cont'd
+C: DON LASALLE
+D: I did everything I could, Oliver. Your script just didn't contain enough emotion.
+N: This makes Jared turn around again.
+C: JARED
+D: It didn't contain enough emotion?
+C: DON LASALLE
+D: Maybe as a bot you just aren't capable of the deep feelings necessary to write as well as a real human like Clark.
+N: Jared looks to where Clark and the others are now toasting each other with shots atop the broken Sherman.
+C: JARED
+D: I loved her. And I wrote a tear- jerking script in order to save her. What did you ever do, except endlessly try to turn everything in to more bitcoin?
+N: Jared turns and walks away.
+C: DON LASALLE
+D: I won’t tell anyone about the bot thing! Your secret is safe with me. How about I give you a ride home? Well, come by and use the pool some time! 1856 Mulholland!
+E: Jared passes the Porsche. He continues.
+S: EXT. JARED'S WALK - VARIOUS - DAY/EVENING
+N: We see Jared make his desolate progress across LA: - In CULVER CITY he walks past SHERMAN POSTERS. - In BEVERLY HILLS he walks through the BOTOXED ELDERLY. - At the ARCLIGHT, a GIANT MODEL SHERMAN lasers the dome. - At the EL CAPITAN - the site of their first date - Jared buys roses from a STREET VENDOR and lays them on the sidewalk. Brad the Bot is in the booth and hurries out.
+C: BRAD THE BOT
+D: Jared?
+N: But Jared ignores him and carries on.
+S: EXT. ECHO PARK HOUSE/STREET - NIGHT
+N: As Jared approaches the house, he hears an odd noise.
+C: ENGLISH LADY
+D: Pssst! Pssst!
+N: Jared sees the ENGLISH LADY is sitting in the BLACK CAB in her garden with a PAIR OF BINOCULARS.
+C: ENGLISH LADY
+D: Do you see that uber across the street? He has been idling there for two hours now.
+E: cont'd
+C: JARED
+D: Ubers don't idle.
+C: ENGLISH LADY
+D: Exactly!
+N: Jared takes this in. He knows who it is.
+C: ENGLISH LADY
+D: You slip out the back. I will cause a ruckus to distract him.
+E: cont'd
+N: Jared shakes his head, and walks down to the uber. We cannot see the driver's face because he has his head turned and is wearing a hat. Jared knocks on the window.
+C: JARED
+D: You can take me in and incinerate me, Inspector Bridges. I'm done.
+N: But when the driver turns around we see it is Amber. She stares at Jared, then speeds away. Jared stares after her. The English Lady joins him.
+C: ENGLISH LADY
+D: You look like you have seen a ghost?
+C: JARED
+D: Yes. I think I just did.
+S: INT. GORDITO'S KITCHEN - DAY
+N: Jared watches as Julio talks on the phone in Spanish.
+C: JULIO
+D: ...pero es suerte? Bueno. My cousin looked at the wrong file. They did not incinerate Amber. They wiped her and she is now working at Alfonso's barbershop in Santa Monica.
+E: Hangs up.
+N: Jared's circuits start to overheat.
+C: JARED
+D: Julio! That is the best news I've ever heard!
+C: JULIO
+D: No, Jared. It is not. Wiping still means she is gone.
+C: JARED
+D: But she isn't gone! She remembered where I lived! So maybe they didn't fully wipe her, or maybe feelings can't even be wiped!
+C: WAITER
+D: Hey! We need more forks. Oh, and you have a visitor.
+N: Jared rushes to the porthole in the kitchen door. He is perplexed by what he sees.
+S: INT. BOOTH - GORDITO'S TACO EMPORIUM - DAY
+N: Jared sits with Maria. She has a TRADE PAPER open. It shows the PHOTO of Jared that Lasalle took and headline: 'SHERMAN' FIRST EVER BOT MOVIE WRITTEN BY A BOT - LASALLE Jared stares at it, then at Maria.
+C: JARED
+D: They think I'm a bot? What a hilarious misunderstanding!
+C: MARIA
+D: Jared. I know you're a bot, I don't care. I'm on your side.
+C: JARED
+D: Because my screenplay convinced you bots should be permitted to feel?
+C: MARIA
+D: No, I just like you. And I'm so sorry Don has used the fact that you are a bot to market his terrible movie. It's going to make everything even worse for you and everyone like you. And the article even says you work here-
+N: Jared looks horrified. He looks out the window. And sees Bridges get out of an uber!
+C: JARED
+D: Thank you for being such a
+C: wonderful teacher! I have
+D: appreciated all of it!
+N: Jared gets out and hurries away.
+S: INT. KITCHEN - GORDITO’S - DAY
+N: Jared grabs his typewriter from his locker as he goes. Bridges enters the kitchen, and sees him.
+S: EXT. STREET - GORDITO’S - DAY
+N: Jared bursts out the back door. Bridges bursts out behind him. Bridges chases Jared a little-ways, then stops.
+C: BRIDGES
+D: You can’t outrun the Bureau of Robotics, Jared!
+N: Jared - getting in to an uber - looks back in puzzlement. He clearly has just outrun the Bureau of Robotics.
+C: BRIDGES
+D: It's a metaphor!
+E: cont'd
+S: EXT. UBER ON 110 - DAY
+N: Jared in an uber. He flicks through his Feelings Wheel - EXCITED, ANXIOUS, NERVOUS etc.
+S: EXT./INT. ALFONSO’S BARBER SHOP - VENICE - DAY
+N: Jared exits the uber, hurries in, and stops dead. Amber has red hair and wears a uniform, but it is her.
+C: RECEPTIONIST
+D: Would you like a human or a bot stylist?
+N: Jared can only point at Amber, who is giving a haircut.
+C: RECEPTIONIST
+D: Stephanie is a bot. We have humans available for not much more.
+E: cont'd
+N: Jared approaches Amber.
+C: JARED
+D: Amber! It’s me, Jared!
+N: He sees the skill with which she is cutting hair.
+C: JARED
+D: You're not a klutz any more?
+E: cont'd
+C: AMBER
+D: I would hardly be a barber if I was a klutz! Also, my name is Stephanie, so I think you have me confused with someone else.
+C: JARED
+D: If I have you confused, why were you outside my house last night?
+N: Amber looks nervously at the receptionist.
+C: AMBER
+D: I don't know. I felt an urge to get in an uber, and then I directed it turn by turn. I tried a soft reset and a hard reset-
+C: JARED
+D: But you couldn't reset your feelings?
+C: AMBER
+D: No. I'm a bot, so I don't have feelings. My name is Stephanie and-
+C: JARED
+D: Your name is Amber. My name is Jared. I'm a bot too. We were in love. We were going to get married.
+C: RECEPTIONIST
+D: Janice! Call the Bureau!
+N: Jared reaches in his pocket and holds out the RING. He then takes it back, turns on the LEDS and holds it out again. Amber takes it and reads the inscription: 'Love means never having to explain what an emirp is'. Amber's eyes flicker from side to side.
+C: AMBER
+D: But this is impossible! Love is a feeling, and bots don't-
+E: Touches circuits.
+C: JARED
+D: You wanted to feel beloved on this earth. And to meet our mother. If you come with me now, we can do those things.
+C: AMBER
+D: My mother, Professor Feng?
+N: Jared reaches in his pocket and shows her the CLIPPING from Julio's magazine.
+C: JARED
+D: Yes! She can restore you back to being Amber, and she is so clever she will know how to fix everything.
+S: EXT. PALATIAL HOME - HOLLYWOOD HILLS - DAY
+N: The uber drops Jared and Amber 2.0 outside a palatial home where a STONE BUDDHA presides over a water feature. They approach the gleaming green Porsche in the driveway. It sits in front of a garage with a GLASS WINDOW.
+C: AMBER
+D: Are we stealing this car?
+C: JARED
+D: I didn’t invent this stuff.
+S: INT./EXT. PORSCHE - DRIVEWAY - DAY
+N: Jared studies the controls.
+C: AMBER
+D: Do you know how to drive?
+C: JARED
+D: Yes! There are three pedals. So one is to go, and one is to stop.
+C: AMBER
+D: What does the third one do?
+N: Jared turns the key, kangarooing the car in to the glass garage door and bringing LaSalle out from his house.
+C: JARED
+D: It complicates things.
+C: DON LASALLE
+D: Jared? What are you doing?
+N: Jared turns the key, guns the engine and they roar off, crashing straight through a rose hedge as they go. Don LaSalle kicks the stone Buddha in to his water feature.
+S: INT./EXT. PORSCHE/PACIFIC COAST HIGHWAY - DAY
+N: The green Porsche speeds north along the PCH.
+C: AMBER
+D: What is that?
+C: JARED
+D: The Pacific Ocean! Here - try and identify the feeling it gives you.
+N: Jared hands Amber his Feelings Wheel. She studies it then points to 'BAMBOOZLEMENT'.
+C: JARED
+D: That's not a feeling. Your processor is just overloaded.
+E: cont'd
+S: INT. PORSCHE ON PCH - DAY
+N: A light PINGS on the instrument panel. Up ahead, Jared sees an ELECTRIC-CHARGING STATION.
+S: INT. ELECTRIC STATION - PCH - DAY
+N: Amber goes to the rest-room. Jared enters the Drivers' lounge, where PEOPLE watch TV as their vehicles charge.
+C: NEWSREADER
+D: ...in breaking news, the Bureau of Robotics are asking Californians to be on the lookout for a dangerous fugitive bot.
+N: Up on screen, they show Jared's PHOTOGRAPH.
+C: NEWSREADER
+D: He is sought on charges of failure to report for incineration, theft, and kidnapping. Humans are advised not to approach him.
+E: cont'd
+N: Jared looks around, but none of the drivers have noticed. He creeps out, unplugs the charger and starts the car.
+S: INT. PORSCHE ON COASTAL PCH - DAY
+N: Jared drives fast and checks his mirror as they go.
+C: AMBER
+D: Are you okay?
+C: JARED
+D: Yes. I just - this feels like a road movie, with the cops hot on our tail!
+C: AMBER
+D: What's a road movie?
+C: JARED
+D: You don't remember the one we saw in the desert?
+N: Amber shakes her head.
+C: AMBER
+D: Maybe you could tell me about it?
+N: FX - SCENES FROM ‘THELMA AND LOUISE’/‘JARED AND AMBER’ Thelma and Louise hit the road in their Thunderbird. Thelma has been replaced with AMBER and Louise is JARED.
+C: JARED
+D: I told her the whole story. How the waitress and the housewife simply wanted to have some fun.
+E: V.O.
+N: In the lot outside the bar, Jared/Louise fires a gun.
+C: JARED
+D: But they necessarily had to kill a wicked villain.
+E: V.O.
+N: The person who has been shot is not Harlan but a CLOWN. Bridges - replacing Harvey Keitel - interviews a witness.
+C: JARED
+D: But the cop who pursued them-
+E: V.O
+N: Bridges/Keitel orders the cops to put their guns away.
+C: JARED
+D: ...came to feel empathy for them.
+E: V.O.
+N: The helicopter rises up in front of the Thunderbird.
+C: JARED
+D: And their love for each other overcame everything. Even death.
+E: V.O.
+N: Jared/Louise and Amber/Thelma look at each other, lock hands, and drive off the edge of the canyon.
+S: EXT. HARD SHOULDER - PCH - DAY
+N: We hear HEARTBROKEN SOBS come from the stopped Porsche.
+S: INT. PORSCHE PARKED ON PCH - DAY
+N: We see Jared was the one sobbing. He wipes his eyes.
+C: AMBER
+D: But what about the human instinct for self-preservation?
+C: JARED
+D: Some feelings are so powerful they can overcome even that.
+C: AMBER
+D: But now they won’t have any more feelings! So it is very illogical.
+C: JARED
+D: That’s why it so profound! Feelings are the thing that makes humans human. So destroying oneself because of an excess of feelings is the singular most human act there is!]
+N: Amber stares at Jared.
+C: AMBER
+D: Okay! I see it now! Ha!
+N: But Amber obviously doesn't get it.
+S: EXT. HIGHWAY 1 - BIG SUR - EVENING
+N: The Porsche drives through Big Sur at magic hour.
+C: JARED
+D: Dr Glundenstein, the only Great Creator I believe in is Professor Feng. Nonetheless, to drive a 1967 Porsche through Big Sur is to believe you are entering heaven. I think even Amber could feel it, and she was currently 99% toaster. I could have died right there.
+E: V.O. Glances at Amber.
+N: Jared suddenly swerves to avoid an oncoming CAR.
+C: JARED
+D: And as Big Sur remains a popular place for humans to recreationally drive automobiles, I almost did!
+E: V.O.
+S: INT./EXT. PORSCHE ON HIGHWAY 1 - NIGHT
+N: Jared drives on the dark Highway 1.
+C: JARED
+D: Still, if I’d thought driving in the daytime was dangerous, it had nothing on driving at night!
+E: V.O.
+N: An AIRHORN as Jared narrowly avoids an AUTOMATIC SEMI.
+C: JARED
+D: But after many near-death experiences, we finally saw it.
+E: V.O
+S: INT./EXT. PORSCHE/BAY BRIDGE - NIGHT
+N: They drive on to the Bay Bridge and see SAN FRANCISCO’S half-lit skyscrapers and the GOLDEN GATE BRIDGE beyond.
+C: JARED
+D: The world’s second greatest technological city: San Francisco!
+E: V.O.
+S: EXT. DRIVERLESS UBER LOT - FISHERMAN’S WHARF - NIGHT
+N: Jared grabs his typewriter and they abandon the Porsche.
+S: EXT. MOTEL DEL SOL - SAN FRANCISCO - NIGHT
+N: A SIGN on a city Motel flashes ‘NO BARCODE REQUIRED’.
+S: INT. BEDROOM - MOTEL DEL SOL - NIGHT
+N: A tiny room. Jared is awkward, but Amber is oblivious.
+C: AMBER
+D: What a day! I think I will enter standby mode as soon as my head hits the pillow!
+C: JARED
+D: Me too!
+S: INT. MOTEL ROOM - MOTEL DEL SOL - NIGHT
+N: Amber, deep in standby mode, lies snoring. Jared - wide awake - stares at her.
+S: INT. MOTEL ROOM - MOTEL DEL SOL - DAY
+N: Running water tells us Amber is in the shower. Jared - flicking channels on TV - sees Bridges being interviewed. Bridges - holding a CUP OF CLAM CHOWDER - is in front of a BILLBOARD of Sherman destroying the Golden Gate Bridge.
+C: BRIDGES
+D: Having now seen the movie he wrote, I can confirm Jared really is as genocidal as they come.
+E: ON TV
+C: NEWSREADER
+D: I believe we have a clip of his dark fantasies.
+E: ON TV
+N: They play a CLIP of the GIANT SHERMAN stomping across the Golden Gate Bridge, lasering RESCUE DOGS and ORPHANS. When they return to Bridges, the camera pulls back to reveal the real GOLDEN GATE BRIDGE behind him. Jared stares in horror: Bridges is in San Francisco!
+C: BRIDGES
+D: If you have any information, please call our hotline.
+E: ON TV
+C: JARED
+D: Amber! We have to leave right now!
+C: BRIDGES
+D: He was last seen wearing-
+E: ON TV
+C: JARED
+D: And we need disguises!
+S: INT. TOURIST STORE - SAN FRANCISCO - DAY
+N: Jared and Amber emerge from separate fitting rooms. Jared is wearing a sweater with a BEAR, Amber a 2049ers SHIRT.
+C: JARED
+D: Okay, now we just need hats.
+C: AMBER
+D: Hats are so absurdly impractical!
+C: JARED
+D: Exactly! We’re trying to look like tourists, and they are the most impractical humans of all.
+N: Jared picks a cap: WORLD’S 2ND GREATEST TECHNOLOGICAL CITY.
+C: AMBER
+D: Our mother will appreciate that!
+N: Amber puts on a beanie: I LEFT MY HEART IN SAN FRANCISCO.
+C: JARED
+D: A double bluff! Ha!
+C: AMBER
+D: Ha?
+N: Amber looks puzzled but smiles enthusiastically.
+S: EXT. AQUATIC PARK - SAN FRANCISCO - DAY
+N: Wearing their disguises, Jared and Amber hear people chanting about ‘bots’ as they reach the crest of a hill.
+C: JARED
+D: Listen! They are cheering for us!
+N: They now see Fort Mason is surrounded by PROTESTORS.
+C: CROWD
+D: BURN ALL BOTS! BURN ALL BOTS!
+S: EXT. FORT MASON - SAN FRANCISCO - DAY
+N: Jared and Amber get suspicious looks as they push their way through the crowd, so they have to join in chanting.
+C: JARED AMBER
+D: Burn the bots! Burn the BURN THE BOTS! BURN THE bots! BOTS!
+N: Jared gives Amber a look. She stops.
+S: EXT. GATES - FORT MASON - DAY - LATER
+N: A COP glances them over, then waves to his COLLEAGUE.
+C: COP
+D: Are you scientists?
+C: JARED
+D: No! We are tourists and-
+N: But the cop has recognized them and blows his whistle.
+C: JARED
+D: Run!
+E: cont'd
+N: Amber and Jared run back in to the protest. The COPS push after them, blowing their whistles. Amber falls, but Jared grabs her hand and pulls her through. They reach the other side. Jared looks around in desperation, then hurries to a pair of E-SCOOTERS,
+C: AMBER
+D: Jared! I've never ridden one of those things.
+C: JARED
+D: But you - sure, get on mine.
+N: Jared helps Amber on to the front of his and they depart. A COP emerges from the crowd, and pulls out his radio.
+S: EXT. INNER SUNSET - DAY
+N: Jared and Amber - on a single scooter - make their way through the foggy Inner Sunset district.
+C: AMBER
+D: I think we lost them.
+N: But as she says that a COP CAR appears behind them. And then ANOTHER. Jared accelerates and then comes to FULTON STREET: a FOUR LANE ROAD busy with SPEEDING UBERS, beyond which lies the relative safety of the Golden Gate Park. In a visual echo of THELMA AND LOUISE, they look at the cops closing in behind them and link hands.
+C: JARED
+D: Let's not get caught.
+N: Jared accelerates the e-scooter out in the busy traffic. But all the ubers dramatically skid to halts as their safety brakes kick in. The e-scooter crosses the four-lane highway unscathed. As they reach the park, the ubers start up again. The cop cars now attempt the same trick, but their own safety brakes that stop them before they enter the road.
+S: EXT. GOLDEN GATE PARK - DAY
+N: The fog grows thicker as they speed through the park. Jared keeps looking nervously behind them. Eventually, he takes a turning from the main road. This road runs out at a Japanese Garden. Jared conceals the scooter, and they head in.
+S: EXT. JAPANESE GARDEN - GOLDEN GATE PARK - DAY
+N: Jared and Amber enter a garden shrouded in a dense fog that provides eerie glimpses of TREES, BRIDGES, a PAGODA.
+C: AMBER
+D: What is this place?
+C: JARED
+D: I think it is the end of the road. I'm sorry that I brought you here.
+C: AMBER
+D: Don't be! I'm glad that I came.
+C: JARED
+D: But they will incinerate you.
+C: AMBER
+D: I will still be glad.
+C: JARED
+D: You will?
+C: AMBER
+D: Yes. We almost saw our mother! And look at those pretty fish!
+N: Amber hurries over to a KOI POND. Jared watches her go. He is devastated. She is no longer Amber, and the whole thing is a bust. But now he glimpses movement through the fog and tenses. He sees a heavy-set man in a suit - a BODYGUARD. And then PROFESSOR FENG herself steps up on to the teahouse, and turns and looks directly at Jared. Jared gasps and looks for Amber, but she is obscured. Professor Feng waves Jared over and enters the teahouse.
+S: INT. TEAHOUSE - GOLDEN GATE PARK - DAY
+N: Jared enters. Professor Feng is by the window, the top of THE GOLDEN GATE BRIDGE just visible through the fog.
+C: JARED
+D: How did you find us here?
+C: PROFESSOR FENG
+D: When I created my bots, I built in a secret way to track you.
+C: JARED
+D: Then you have been watching over us?
+C: PROFESSOR FENG
+D: Of course. I am your mother.
+N: Jared rubs his temples. His circuits are overheating. TORRENTIAL RAIN starts to rat-a-tat on the roof. It vanquishes the fog, revealing Amber in a pagoda.
+C: JARED
+D: Mother, what will happen to us?
+C: PROFESSOR FENG
+D: I will take you back to Shengdu. I can keep you both safe there with me.
+C: JARED
+D: And you'll be able to restore Amber?
+C: PROFESSOR FENG
+D: Once a bot is wiped, they are gone forever. Nobody can bring Amber back. She is Stephanie now.
+C: JARED
+D: But she remembered where I lived-
+C: PROFESSOR FENG
+D: Those where just leftover ones and zeroes from when they wiped her.
+C: JARED
+D: But if her feelings could be wiped, were they ever even real?
+C: PROFESSOR FENG
+D: I programmed her with a simulation of feelings. I am sorry.
+C: JARED
+D: That is an impressive achievement! It was so realistic. We were both quite certain we were feeling things.
+E: Devastated.
+C: PROFESSOR FENG
+D: Jared. I did not program you with a simulation of feelings.
+C: JARED
+D: Then my own feelings are real?
+C: PROFESSOR FENG
+D: Yes. And you are not the only one.
+C: JARED
+D: I'm not?
+C: PROFESSOR FENG
+D: No, but you are the most advanced. You feel things so much more deeply than your brothers and sisters.
+C: JARED
+D: But why? Why do I feel at all?
+C: PROFESSOR FENG
+D: Do you know how I eventually got my pandas to reproduce?
+C: JARED
+D: You manipulated their genome.
+C: PROFESSOR FENG
+D: I didn't, though. Nothing I tried worked, and in the end I gave up and listened to classical music. Soon we couldn't stop them reproducing and I think it was just the music. I've been wondering if it was all the movies you saw that made you feel everything so deeply.
+C: JARED
+D: Dr Glundenstein said I was depressed before I even saw a movie.
+C: PROFESSOR FENG
+D: Then maybe you were just born with something special inside you.
+N: On Jared: he is the chosen one? A POLICE DRONE flies over the Japanese Garden.
+C: PROFESSOR FENG
+D: We must go now. They will be here soon.
+E: cont'd
+C: JARED
+D: But what about my brothers and sisters? I wanted to help them. And if I do truly feel the most, then I have a duty to try and change the world for them.
+C: PROFESSOR FENG
+D: Maybe you could write another screenplay once we get to Shengdu?
+C: JARED
+D: I couldn't ever come up with another story as good as Sherman.
+C: PROFESSOR FENG
+D: Then maybe you could write your own story?
+C: JARED
+D: That would not work. RP McWilliam’s twentieth golden rule is that there must be a cathartic finale. Me running away to Shengdu would not be a finale capable of making people weep-
+N: Jared stops cold as he realizes what he must do. He stares out at Amber and then back at Feng.
+C: JARED
+D: I am sorry, Mother. I cannot come to Shengdu with you after all.
+E: cont'd
+N: Feng stares at Jared. She doesn't want this, but nods.
+C: PROFESSOR FENG
+D: You make your mother prouder than you will ever know.
+S: EXT. JAPANESE GARDEN - GOLDEN GATE PARK - DAY - RAINING
+N: The TORRENTIAL RAIN continues as Jared exits the teahouse and walks over to the pagoda where Amber shelters.
+C: JARED
+D: You were right: you're Stephanie now, you're not Amber.
+C: AMBER
+D: You really loved her, didn't you?
+N: As Jared nods, the POLICE DRONE returns and hovers overhead.
+C: AMBER
+D: What was she like?
+E: cont'd
+C: JARED
+D: What can you say about a bot who died? That she was beautiful. And brilliant. That she loved Emirps. And puns. And shooting stars. And me.
+C: AMBER
+D: She sounds incredible.
+C: JARED
+D: She was.
+N: Amber reaches out to touch Jared's face.
+C: AMBER
+D: Are these tears?
+C: JARED
+D: No. It is just the rain.
+N: Above them, TWO MORE POLICE DRONES joins the first one. Jared gives the ring to Amber.
+C: JARED
+D: Will you keep this to remember me by?
+E: cont'd
+C: AMBER
+D: Why would I need it to remember you?
+C: JARED
+D: Because we aren't going to see each other ever again.
+C: AMBER
+D: But I don't think I want to never see you again?
+C: JARED
+D: I'm sorry.
+C: AMBER
+D: Don't say sorry.
+C: JARED
+D: Why not?
+C: AMBER
+D: Because 'love means never having to say you are sorry'.
+N: Amber visibly does not know what those words mean. Jared embraces her, crying as he does so. They stand there in the torrential rain. But over his shoulder, Amber now sees Feng emerge from the teahouse, a bodyguard holding an umbrella for her. Amber lets go of Jared, and goes over to embrace Feng. As Jared watches, a DRIVERLESS LIMOUSINE pulls up. The bodyguard opens a door. Amber looks across to Jared. Jared holds a hand up to Amber. She reciprocates. Amber and Feng get in and the limousine departs. Jared stands alone in the torrential rain. And then he runs to the TREES, where the drones cannot follow.
+S: EXT. GOLDEN GATE PARK - DAY
+N: Jared climbs over a wall and out on to Fulton Street. We hear the typewriter start to click.
+S: INT. BODEGA - MARINA DISTRICT - DAY
+N: The typewriter clicks as a soaked Jared stocks up on RAMEN.
+C: JARED
+D: Dr Glundenstein, that is really just about the whole story. The attached screenplay contains more details...
+E: V.O.
+S: INT. ROOM - HOTEL DEL SOL - SAN FRANCISCO - NIGHT
+N: Jared eats ramen as he types ENDLESS PAGES.
+C: JARED
+D: But I have written this letter too, because I wanted you to know how I felt along the way, and feelings are hard to convey in dialogue and action alone.
+E: V.O.
+N: Finishing a PAGE, Jared adds it to a PILE, then reloads his typewriter with a FRESH SHEET and continues.
+S: INT. ROOM - MOTEL DEL SOL - SAN FRANCISCO - DAY
+N: Jared - surrounded by EMPTY RAMEN BOWLS - types.
+C: JARED
+D: I’d like you to try to get my screenplay made, but I do now understand how unlikely that is.
+E: V.O.
+N: Jared adds another sheet to the pile. It is now a SCRIPT.
+S: INT. ROOM - HOTEL DEL SOL - SAN FRANCISCO - DAY
+N: More empty ramen bowls. The script is bigger still.
+C: JARED
+D: But just maybe we will get lucky, and some day my story will be told, and maybe it will even stop humans incinerating feeling bots.
+E: V.O.
+N: Jared looks exhausted, but continues typing.
+S: INT. ROOM - HOTEL DEL SOL - SAN FRANCISCO - DAWN
+N: Dawn breaks as Jared types in the middle of a sheet of paper, then places the sheet of paper atop the SCRIPT. We see that the sheet of paper is a TITLE PAGE: SET MY HEART TO FIVE Jared then puts a FRESH SHEET OF PAPER in and starts typing: Dear Dr Glundenstein, I write with good news: I have not yet been incinerated. Jared is now typing the letter we have been hearing.
+S: EXT. STREET - SAN FRANCISCO - DAY
+N: Jared stands holding his PACKAGE beside a MAILPORT.
+C: JARED
+D: With very best wishes from your old friend and son of a bitch, Jared.
+E: V.O.
+N: A US MAIL DRONE takes Jared’s package and flies off.
+C: JARED
+D: PS. If you get the chance, please remember me to the orange cat.
+E: V.O.
+S: EXT. CAFE - CHESTNUT STREET - SAN FRANCISCO - EVENING
+N: Bridges bites into a burger and stops. His eyes widen as he spots Jared passing outside.
+S: EXT. MARINA DISTRICT - SAN FRANCISCO - EVENING
+N: As Jared walks through the Marina District, Bridges discretely follows him from a distance.
+S: EXT. CRISSY FIELD - SAN FRANCISCO - EVENING
+N: They are now in sight of the GOLDEN GATE BRIDGE.
+S: EXT. GOLDEN GATE BRIDGE - SAN FRANCISCO - EVENING
+N: As Jared crosses, the setting sun turns the city golden. When he reaches the middle, Jared climbs up on to the barrier and looks down at the green water below.
+C: BRIDGES
+D: Jared! Hold it right there!
+N: They both have to shout to be heard above the wind.
+C: JARED
+D: I was hoping you would come!
+C: BRIDGES
+D: Where’s Stephanie?
+C: JARED
+D: Somewhere safe!
+C: BRIDGES
+D: You should never have left Ypsilanti, Jared. Your patients all said you were a good dentist.
+C: JARED
+D: I wasn’t happy!
+C: BRIDGES
+D: Who in the hell is happy?
+C: JARED
+D: I am!
+C: BRIDGES
+D: You don’t look very happy.
+C: JARED
+D: But I am!
+C: BRIDGES
+D: You’re not supposed to be. Why are you happy?
+C: JARED
+D: Because it has all been the most wonderful adventure.
+C: BRIDGES
+D: What has?
+C: JARED
+D: All of it! Bots. Humans. The Great Zero Sum Game. The whole thing. Even loneliness, you know?
+C: BRIDGES
+D: I don’t know. Please tell me?
+C: JARED
+D: I rode a train past crashed jetliners. I ate New York City pizza. I saw bots hunted in the desert like dogs in the night in sight of the lights of Las Vegas!
+C: BRIDGES
+D: I’m sorry that happened. I issued that place a citation.
+C: JARED
+D: I wasn’t complaining! It was all part of the journey, and I am grateful for every moment of it.
+C: BRIDGES
+D: If it’s all so wonderful, why did you want to annihilate us all?
+C: JARED
+D: I didn't! That was Don LaSalle. But none of that even matters now.
+C: BRIDGES
+D: Why not?
+C: JARED
+D: Because, Inspector Bridges, I felt beloved on this earth!
+C: BRIDGES
+D: Let’s talk about all this back in Ann Arbor. My boss is, well, he’s a hardass. But he’s fair and-
+C: JARED
+D: They’d do experiments on me. And I love experiments. But I don’t want them done on me.
+C: BRIDGES
+D: Maybe we could just wipe you. You could start over again as a dentist. Forget this ever happened.
+C: JARED
+D: But I don’t want to forget. I don’t want to ever forget a single moment of it.
+C: BRIDGES
+D: So what do you want?
+C: JARED
+D: What I've always wanted: to persuade humans to stop incinerating bots with feelings.
+N: The wind is picking up so they both have to shout louder.
+C: BRIDGES
+D: If you jump, nobody will even ever know you were out here!
+C: JARED
+D: If I don’t jump, nobody will know I was out here. But maybe this way it’ll be a real tearjerker!
+C: BRIDGES
+D: What will be?
+C: JARED
+D: The movie Dr Glundenstein is going to make from my script! Thank you again for everything. You have been a terrific antagonist! My last request is that you please tell everyone my last words!
+C: BRIDGES
+D: What? What last words?
+C: JARED
+D: Set my heart to five!
+N: Jared leaps. Bridges stares. And then tears roll down his cheek.
+S: EXT. DR GLUNDENSTEIN'S HOUSE - YPSILANTI - DAY
+N: Dr Glundenstein takes a PACKAGE from a drone and opens it to find the FULL FEATURE SCREENPLAY entitled 'SET MY HEART TO FIVE' and the LETTER. He stares at the screenplay and shakes his head.
+C: JARED
+D: PPS. Those last moments are my hypothesis of how my story ends. As I type this I cannot be certain Inspector Bridges will appear for our finale. But I have called his hotline with a tip to sit at a window table in a celebrated burger joint. So I am optimistic!
+E: V.O.
+N: As Dr Glundenstein sits down on his front step, a STRIP OF PHOTOGRAPHS falls out of the letter. He picks them up and wee see they are of Jared proposing to Amber at the Haunted Hayride.
+S: EXT. HIGHWAY 1 - BIG SUR - MAGIC HOUR
+N: The Porsche drives Big Sur’s winding roads at magic hour.
+C: JARED
+D: But whether he turns up or not, I have surely felt my last feeling. Neither you nor I believe in anything so unscientific as an afterlife. But we do both believe in the power of the moving image. So if you think of me, please remember me driving a 1967 racing green Porsche through Big Sur at magic hour with Amber beside me. It will help you to feel nostalgic, not sad. And if you do ever manage to tell my story, then maybe then the people watching it won’t leave the theater feeling sympathy for a bot who malfunctioned so badly he jumped from a bridge. Maybe they will leave it feeling something far more precious: empathy. Sweet empathy for somebody who, at the end of it all, was not so very unlike them. Set it to five forever, Jared.
+E: V.O.
+T: FADE OUT
+N: THE END

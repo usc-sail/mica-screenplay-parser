@@ -1,0 +1,17 @@
+Parsing Screenplays for Extracting Social Networks in Movies, Agarwal et al.
+
+1. Missing scene boundary keywords (INT./EXT.)
+2. Uncapitalized scene boundaries
+3. Uncapitalized character names
+
+4. The watermark in pdf can create lines with some characters of the watermark
+5. There can be any number of blank lines between successives screenplay lines
+6. Speaker numbers and page numbers at the start and end of a line with screenplay content in between
+7. '*' character at the end of each line
+8. header metadata in a line containing keywords like REV., dates
+9. dialogue expression, usually paranthesized between brackets
+10. Capitalized lines about titles on screen e.g. "5 YEARS LATER"
+11. The entire line can be capitalized sometimes
+12. character names with "INT", "CUT" (scene header, transition keywords) in them get misclassified e.g. CLINT BARTON, CUTTER
+13. script parser throws error when all text is lowercased
+14. script parser should work when blank lines are removed

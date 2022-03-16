@@ -1,0 +1,2719 @@
+M:                                                     TE
+M:                                                    U
+M:                                              IT
+M:                                            ST
+M:                               LEGO TITAN
+0: 
+0: 
+M:                        EP 103: “THE FORGEMASTER”
+0: 
+0: 
+M:                                   IN
+M:                               Written by
+M:                           IS
+M:                             The Shepherds
+M:                    AV
+0: 
+M:                            22 MIN REVISION
+0: 
+M:                                 3.29.21
+M:                D
+M:          A
+M:     N
+M: EE
+M: G
+0: 
+0: 
+0: 
+0: 
+M:     LEGO Systems A/S
+0: S:     EXT. LANDING (DREAM WORLD) - DAY
+N:     Mateo’s eyes snap open and he sits up in bed. Quickly taking
+N:     in the new status of the landing: two more beds in the little
+N:     sanctuary for Logan and Cooper. Izzie jumps on hers, backpack
+N:     on with a dangling plushie keychain.
+0: 
+0: 
+0: 
+0: 
+C:                                                      TE
+C: 1                       MATEO                                     1
+E:                   (to himself)
+D:               That’s new...
+0: 
+0: 
+0: 
+0: 
+C:                                                     U
+C: 2                       COOPER                                    2
+D:               Bout time you got here!
+0: 
+0: 
+0: 
+0: 
+C:                                           IT
+C: 3                       LOGAN                                     3
+D:               Thought you said this whole Dream
+D:               World place was crazy. This just
+D:               looks like your dumb room. Wait- is
+0: 
+0: 
+0: 
+0: 
+C:                                         ST
+D:               your dad about to bring us snacks?
+D:     Izzie jumps SUPER high. Landing in front of Mateo with a
+D:     flourish.
+D: 4
+0: 
+0: 5
+N:                         IZZIE
+0: 
+C:                                  IN
+D:               Let’s go do something fun!
+C:                         MATEO
+D:               Mr. Oswald said to wait for him
+D:                                                                   4
+0: 
+0:                                                                   5
+C:                        IS
+D:               here at the Landing. He said it’s
+D:               our safe zone--
+D:     But a door to the DREAM BRIDGE is already forming.
+D:               AV
+0: 
+0: 
+C: 6                       LOGAN                                     6
+D:               That’s what I’m talking about!
+D:               Where we going?
+D:           D
+0: 
+0: 
+0: 
+C: 7                       IZZIE                                     7
+D:               Somewhere exciting! Somewhere
+D:               awesome! Somewhere like --
+D:     A
+0: 
+0: 
+0: 
+0: 
+N:     Mateo runs after the others as they disappear through the
+T:     door and we CUT TO --
+N:     N
+0: 
+0: 
+0: 
+0: 
+N:     AN OVERSIZED MOTTLED PIGEON, perched on a trash can COOING as
+N:     we WIDEN OUT TO REVEAL --
+N: EE
+0: 
+0: 
+0: 
+0: 
+S:     EXT. BIZZARO BROOKLYN - DOUBLE REALM (DREAM WORLD) - DAY
+N:     MATEO, IZZIE, COOP, and LOGAN stroll down their block.
+N: G
+0: 
+0: 
+0: 
+0: 
+C: 8                       COOPER                                    8
+D:               Our neighborhood?!
+D:     Izzie points down the block to MRS. CASTILLO perched in the
+D:     window of her food truck, snoozing...
+0: 0:                                                                  2.
+0: 
+C: 9                        IZZIE                                        9
+D:                What? You don’t dream about street
+D:                food?
+D:      The kids stroll past a news stand and a grumpy NEWS STAND
+D:      GUY... and the bodega where a BUSY-BODY OWNER paints over
+0: 
+0: 
+0: 
+0: 
+C:                                                      TE
+D:      graffiti out front...
+D:      They stop at a crosswalk. The figure in the don’t walk signal
+D:      suddenly floats up and away -- News Stand Guy’s feet suddenly
+D:      lift off as he starts FLOATING, newspapers and FINANCIAL
+0: 
+0: 
+0: 
+0: 
+C:                                                     U
+D:      MAGAZINES take flight like birds.
+D: 10                       NEWS STAND GUY                           10
+0: 
+0: 
+0: 
+0: 
+C:                                         IT
+D:                Arrgh! Stocks are soaring again...
+D:      Logan shuffles forward in awe, the weirdness of the Dream
+D:      World apparent all around him. Bodega Owner stops painting
+0: 
+0: 
+0: 
+0: 
+C:                                       ST
+D:      and looks up at the sky, which is full of psychedelic colors.
+D:      As he looks back at the bodega, all the colorful GRAFFITI he
+D:      covered immediately paints itself back. Newspaper Stand Guy
+D:      struggles to catch his flock of flying papers and --
+0: 
+0: 
+0: 
+0: 
+0: 11
+N:      hops. This is MR. HOPPER.   IN
+N:      HONK! Logan stops short as a taxi screeches to a halt in
+N:      front of him. His eyes go wide - the taxi is a toad. And it
+0: 
+C:                          MR. HOPPER                               11
+C:                           IS
+D:                Who needs a ride? Hop on in!
+D:      Logan watches the pigeon on the trashcan pick up a briefcase
+D:      in its beak, waddle into the taxi as it hops off.
+D:                AV
+0: 
+0: 
+C: 12                       COOPER                                   12
+D:                How is it possible nobody else
+D:                experiences dreams or remembers
+D:                them like we do?!
+D:            D
+0: 
+0: 
+0: 
+C: 13                       IZZIE                                    13
+D:                Other dreamers aren’t like us,
+D:                they’re--
+D:      A
+0: 
+0: 
+0: 
+0: 
+C: 14                       LOGAN                                    14
+D:                Oooh, maybe they’re like lame non-
+D:      N
+0: 
+0: 
+0: 
+0: 
+N:                player characters in a video game?
+N:      Logan gets a mischievous look. He reaches out as another
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:      dreamer skips down the sidewalk. He nudges her --
+C: 15                       NOVA                                     15
+D:                Hey! Watch out!
+D: G
+0: 
+0: 
+0: 
+0: 
+N:      Izzie swats Logan.
+0: 0:                                                                  3.
+0: 
+C: 16                       IZZIE                                    16
+D:                You big turkey; that’s my BFF.
+E:                    (yells after Nova)
+D:                Nova, wait up!
+D:      Izzie runs after Nova as she skips off down the sidewalk.
+0: 
+0: 
+0: 
+0: 
+C:                                                       TE
+C: 17                       MATEO                                    17
+D:                It’s not like a video game...
+D:      Mateo approaches Mrs. C’s food truck, a curious look on his
+0: 
+0: 
+0: 
+0: 
+C:                                                      U
+D:      face as he looks at her snoozing...
+E: 18                       MATEO (CONT’D)                           18
+0: 
+0: 
+0: 
+0: 
+C:                                            IT
+D:                At least I don’t think...
+D:      He reaches out to nudge the sleeping taco truck lady when --
+0: 
+0: 
+0: 
+0: 
+C:                                          ST
+C: 19                       MRS. CASTILLO                            19
+D:                Mijo, share your dreams with the
+D:                world, but keep your hands to
+D:                yourself.
+0: 
+0: 
+C:                                 IN
+D:      The food truck suddenly sprouts legs and a head... Mateo
+D:      stares wide-eyed, realizing the truck is actually resting on
+D:      the back of a tortoise’s shell. Señor Tortuga’s shell to be
+D:      precise. The boys soak in the spectacle as we CUT TO --
+C:                          IS
+E:      EXT. BIZZARO BROOKLYN - DOUBLE REALM (DREAM WORLD) - SAME
+D:      Izzie rounds a building corner to find an empty alleyway.    No
+D:                AV
+0: 
+0: 
+N:      sign of Nova. She’s about to double back when --
+N:      THE SHADOWS along the back wall begin to move... Izzie’s eyes
+N:      go wide with fear and --
+N:            D
+0: 
+0: 
+0: 
+N: 20                       MR. OZ (O.S.)                            20
+N:                Isabel!
+N:      Izzie glances back to see MR. OZ standing at the mouth of the
+N:      A
+0: 
+0: 
+0: 
+0: 
+N:      alley, ROCKET SHIP SCHOOL BUS parked behind him. A stern look
+N:      on his face.
+N:      N
+0: 
+0: 
+0: 
+0: 
+N: 21                       MR. OZ (CONT’D)                          21
+N:                You have no business wandering the
+N:                Dream World without proper
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:                training... It’s too dangerous now.
+N:      Izzie glances back to the alley, but the shadows no longer
+N:      look menacing.
+N: G
+0: 
+0: 
+0: 
+0: 
+C: 22                       IZZIE                                    22
+D:                Well dang, Mr. Oz, when do we start
+D:                training already?
+D:      Oz sighs. Then gestures towards his ship.
+0: 0:                                                                  4.
+0: 
+S:      EXT. SHADOWKEEP - ESTABLISHING
+N:      The ominous keep looms over a nightmarish swap landscape...
+0: 
+S:      INT. SHADOWKEEP - DAY
+0: 
+0: 
+0: 
+0: 
+C:                                                       TE
+D:      The Night Hunter stands before the Nightmare King on his
+D:      sinister throne. Darklings scurry about the center of the
+D:      throne room where an intricate DAIS contraption sits.
+0: 
+0: 
+0: 
+0: 
+C:                                                      U
+C: 23                       NIGHTMARE KING                           23
+D:                We cannot reshape the Dream World
+D:                if Oz and those children figure out
+0: 
+0: 
+0: 
+0: 
+C:                                         IT
+D:                what they have in their possession!
+C:                I must have it!
+D:      The Nightmare King strides over to stand menacingly atop the
+0: 
+0: 
+0: 
+0: 
+C:                                       ST
+D:      dais contraption as Snivel presents a glass and metal jar-
+D:      like canister full of pure imagination. Sparkly liquid light.
+C: 24                       NIGHT HUNTER                             24
+D:                And you will eventually, your
+0: 
+C:                                    IN
+D:                darkness, but you don’t have the
+D:                power to waste chasing these kids
+D:                around--
+C:                         IS
+C: 25                       NIGHTMARE KING                           25
+D:                That hourglass could be my undoing!
+E:                    (controls his anger)
+D:                The Dream Forge must not be left
+D:                AV
+0: 
+N:                standing... I’ll see to it myself.
+N:                Your job is to find me more
+N:                dreamers...
+N:      Snivel plugs the canister into the contraption on the dais,
+N:            D
+0: 
+0: 
+0: 
+N:      releasing pure imagination into the intricate groves carved
+N:      there... and as they flow towards the center, they turn a
+N:      dark shade of red...
+N:      A
+0: 
+0: 
+0: 
+0: 
+N:      The Nightmare King thrusts the base of his staff into the
+N:      center of the dais... with wrenching CREAKS and GROANS the
+N:      dais rises, gear-like as --
+N:      N
+0: 
+0: 
+0: 
+0: 
+N:      The CEILING opens up, revealing the dark nightmarish sky...
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:      The Nightmare King’s staff absorbs the creative energy from
+N:      the canister before he hefts his staff aloft as a NIGHTMARE
+N:      STORM forms in the sky above and we CUT TO --
+N: G
+0: 
+0: 
+0: 
+0: 
+S:      INT. OZ’S ROCKET SHIP - DAY
+N:      Z Blob jiggles in his seat from the velocity of Oz’s ship
+N:      rocketing through the dream ether. We see DREAM REALMS
+N:      passing by outside the bus windows.
+0: 0:                                                                  5.
+0: 
+N: 26                       MR. OZ (O.S.)                             26
+N:                The Dream World is a vast and
+N:                wondrous place, full of different
+N:                realms of the imagination...
+N:      WIDEN OUT to reveal Mateo, Cooper, and Izzie in their seats.
+0: 
+0: 
+0: 
+0: 
+C:                                                       TE
+D:      Oz and Albert in front, manning the controls. Cooper cranes
+D:      his neck to see outside.
+C: 27                       COOPER                                    27
+E:                    (to himself)
+0: 
+0: 
+0: 
+0: 
+C:                                                      U
+D:                Whoa...
+D: 28                       MR. OZ                                    28
+0: 
+0: 
+0: 
+0: 
+C:                                            IT
+D:                And it is up to us to--
+D:      Logan strolls in through the bulkhead door in back.
+0: 
+0: 
+0: 
+0: 
+C:                                          ST
+C: 29                       LOGAN                                     29
+D:                My dudes, Oz has a classroom back
+D:                there. How lame is that? And a lab.
+D:                And a room with books...
+D: 30
+0: 
+0: 
+0: 31
+N:                          ALBERT
+0: 
+C:                                   IN
+E:                    (under his breath)
+D:                It’s called a library...
+C:                          LOGAN
+D:                                                                    30
+0: 
+0: 
+0:                                                                    31
+C:                         IS
+D:                And a full-on cafeteria!
+C: 32                       IZZIE                                     32
+D:                Oooh! Is it sushi night?
+D:                AV
+0: 
+0: 
+N:      Izzie is about to unbuckle and stand when --
+N:      Oz jerks the controls. The bus banks hard. Logan stumbles.
+N:      THWAP! His face pressed against a bus window, eyes scrunched
+N:            D
+0: 
+0: 
+0: 
+N:      in pain.
+C: 33                       MR. OZ                                    33
+D:                -- and it is up to us to protect
+D:      A
+0: 
+0: 
+0: 
+0: 
+C:                these realms from THAT!
+D:      Logan opens his eyes to see --
+D:      N
+0: 
+0: 
+0: 
+0: 
+N:      OUTSIDE -- The NIGHTMARE STORM SWIRLS IN THE ETHER...   and
+N:      out of the storm come --
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:      NIGHT TERRORS... streaking towards the ship! Right at the
+N:      window and --
+N:      LOGAN yells, pries himself from the glass... Oz and Albert
+N: G
+0: 
+0: 
+0: 
+0: 
+N:      spring into evasive maneuvers as alarms start ringing on the
+N:      control panel.
+N: 34                       MR. OZ (CONT’D)                           34
+N:                The Nightmare King has returned...
+0: 0:                                                               6.
+0: 
+N:      Oz banks again. THWAP! Logan gets plastered against another
+N:      window.
+C: 35                       LOGAN                                    35
+E:                    (muffled against glass)
+D:                The who?
+0: 
+0: 
+0: 
+0: 
+C:                                                       TE
+D:      OUTISDE -- The Nightmare Storm rages! Night Terrors swoop in,
+D:      RAKING the side of the ship. Sparks fly!
+D: 36                       MR. OZ                                   36
+0: 
+0: 
+0: 
+0: 
+C:                                                      U
+D:                The Nightmare King. And it’s up to
+D:                us to stop him from turning the
+D:                Dream World into a land of
+0: 
+0: 
+0: 
+0: 
+C:                                         IT
+D:                Nightmares!
+D:      MATEO watches Oz pilot like a maniac as Albert frantically
+D:      works the control panel --
+0: 
+0: 
+0: 
+0: 
+C:                                       ST
+C: 37                       MATEO                                    37
+D:                How are we supposed to stop him?
+D:      OZ excitedly turns to show the kids his hourglass stored at
+0: 
+C: 38                       MR. OZ IN
+D:      his side. Taking his hands off the controls.
+0: 
+N:                We will use all the tools at our
+N:                disposal. Chief among them being
+0:                                                                   38
+C:                         IS
+D:                the Dream Chaser’s Hourglass...
+D:      The ship noses into a DIVE! Z Blob’s little eyes go wide as
+D:      he jiggles. Izzie squeals in delight. Cooper holds on. Mateo
+D:                AV
+0: 
+N:      screams. Albert is unfazed. And Logan goes --
+N:      THWAP! into the front window, staring out as Oz’s ship PLOWS
+N:      INTO SEVERAL NIGHT TERRORS! Collecting them on the front
+N:      grill as the ship screams in a downward dive.
+N:            D
+0: 
+0: 
+0: 
+C: 39                       ALBERT                                   39
+D:                My god, son! Do you not know how to
+D:                use a seatbelt?
+D:      A
+0: 
+0: 
+0: 
+0: 
+N:      Albert presses a RED BUTTON. WHITE HOT ENERGY crackles across
+N:      the bus and ZAP the Night Terrors like a bug zapper.
+N:      N
+0: 
+0: 
+0: 
+0: 
+N:      Albert pulls up out of the nose dive. The ship clears the
+N:      Nightmare Storm for safer skies. Logan flops to the floor.
+N: EE
+0: 
+0: 
+0: 
+0: 
+C: 40                       IZZIE                                    40
+D:                Where do we get our hourglasses so
+D:                we can join this fight?
+D: G
+0: 
+0: 
+0: 
+0: 
+C: 41                       ALBERT                                   41
+D:                That necessitates a visit to the
+D:                Dream Forge...
+D:      Logan sits up from the floor, woozy.
+0: 0:                                                               7.
+0: 
+C: 42                       LOGAN                                 42
+D:                Is it close enough to walk?
+D:      Logan collapses on the floor as we CUT TO --
+0: 
+0: 
+0: 
+0: 
+C:                                                       TE
+D:      EXT. FOREST EDGE - FANTASY REALM - DAY
+D:      We find Oz’s ship already landed beneath the clouds of Dream
+D:      Ether hanging in the sky like fog. The kids stand before a
+D:      trail that disappears into the dark woods. Oz and Albert
+0: 
+0: 
+0: 
+0: 
+C:                                                      U
+D:      approach.
+D: 43                       MR. OZ                                43
+0: 
+0: 
+0: 
+0: 
+C:                                          IT
+D:                We walk from here. The Dream Forge
+D:                is on the other side of these
+D:                woods, guarded by the Forgemaster.
+0: 
+0: 
+0: 
+0: 
+C:                                        ST
+C: 44                       IZZIE                                 44
+D:                He sounds... serious.
+C: 45                       ALBERT                                45
+D:                He most certainly is! A very
+0: 
+C:                                 IN
+D:                powerful Dream World entity who
+D:                will test your worthiness. Pass
+D:                that test and you will face the
+D:                Forge to acquire your hourglass.
+C:                         IS
+C: 46                       LOGAN                                 46
+D:                I don’t understand why we need a
+D:                dumb hourglass.
+D:                AV
+0: 
+0: 
+C: 47                        MR. OZ                               47
+D:                Only the most exceptional become
+D:                Dream Chasers, Logan. And to become
+D:                a true Dream Chaser you need an
+D:                hourglass.
+D:            D
+0: 
+0: 
+0: 
+C: 48                       LOGAN                                 48
+D:                Pshh, I’m the most exceptional one
+D:                here. I bleed exceptional! See you
+D:      A
+0: 
+0: 
+0: 
+0: 
+N:                at the forge, suckers!
+N:      Logan takes off into the woods.
+N:      N
+0: 
+0: 
+0: 
+0: 
+C: 49                       COOPER                                49
+D:                Normally he hears the word “test,”
+D: EE
+0: 
+0: 
+0: 
+0: 
+N:                and runs in the opposite direction.
+N:      Izzie laughs as she and Cooper head after Logan.
+C: 50                       MATEO                                 50
+D: G
+0: 
+0: 
+0: 
+0: 
+N:                Mr. Oz, there’s usually a lesson
+N:                before a test... or a study
+N:                guide... I dunno, maybe some
+N:                training?
+0: 0:                                                                 8.
+0: 
+N:      Oz casts a worried glance to the horizon --
+C: 51                       MR. OZ                                  51
+D:                There’s no time for self doubt,
+D:                Mateo...
+0: 
+0: 
+0: 
+0: 
+C:                                                       TE
+D:      THE NIGHTMARE STORM billows on the horizon. Growing.
+D:      Spreading. Headed in their direction.
+E: 52                       MR. OZ (CONT’D)                         52
+D:                The Nightmare King knows we’re
+0: 
+0: 
+0: 
+0: 
+C:                                                      U
+D:                here.
+D:      Albert sees the worried look on Mateo’s face. Pats him on the
+0: 
+0: 
+0: 
+0: 
+C:                                           IT
+D:      hand, trying to be reassuring.
+C: 53                       ALBERT                                  53
+D:                Worry not, young man! The best form
+0: 
+0: 
+0: 
+0: 
+C:                                         ST
+D:                of training is in fact being thrown
+D:                from the nest and learning to fly!
+D:      Albert heads after the others into the woods.
+D: 54                       MR. OZ
+0: 
+C:                                 IN
+D:                Don’t let him spook you. What’s the
+D:                saying: “You always wake up before
+D:                you hit the ground?”
+D:                                                                  54
+C:                         IS
+D:      Oz chuckles. Mateo just stares at him. Clearly not reassured.
+0: 
+S:      EXT. GORGE - FANTASY REALM - DAY
+N:                AV
+0: 
+0: 
+N:      The crew emerges from the forest to find an old PLAYGROUND
+N:      with a wooden jungle gym and sandbox. A KID, dressed in
+N:      overalls, sits in the sandbox building sand castles. He looks
+N:      up expectantly as the crew approaches.
+N:            D
+0: 
+0: 
+0: 
+C: 55                       LOGAN                                   55
+D:                What’s up, little man? Know where I
+D:                can find the Dream Forge?
+D:      A
+0: 
+0: 
+0: 
+0: 
+N:      The little kid assesses the crew. The kid trades a look with
+N:      Oz, then shapes a sandcastle in the sandbox. And as he does --
+N:      N
+0: 
+0: 
+0: 
+0: 
+N:      A MASSIVE SAND CASTLE TOWER forms in the distance. The others
+N:      gawk. Logan smirks.
+N: EE
+0: 
+0: 
+0: 
+0: 
+C: 56                       LOGAN (CONT’D)                          56
+D:                So far I’m acing this test.
+D:      The little kid jabs his hand in the sandbox, digs a huge
+D: G
+0: 
+0: 
+0: 
+0: 
+N:      trough... the ground TREMBLES... Logan’s eyes CUT TO --
+N:      A MASSIVE CANYON now stands between the crew and the tower,
+N:      Logan shoots Little Kid a look --
+0: 0:                                                               9.
+0: 
+C: 57                       LOGAN (CONT’D)                        57
+D:                Not cool, little man. Not cool.
+C: 58                       COOPER                                58
+D:                How are we supposed to get across!?
+0: 
+0: 
+0: 
+0: 
+C:                                                       TE
+C: 59                       MATEO                                 59
+D:                This is part of the test, isn’t it?
+C: 60                       MR. OZ                                60
+D:                The Dream World is pure
+0: 
+0: 
+0: 
+0: 
+C:                                                      U
+D:                imagination. The product of our
+D:                collective dreams made real.
+0: 
+0: 
+0: 
+0: 
+C:                                         IT
+D:      Oz pulls his hourglass from the Velcro on his suit.
+E: 61                       MR. OZ (CONT’D)                       61
+D:                And with an hourglass to focus, you
+0: 
+0: 
+0: 
+0: 
+C:                                       ST
+D:                can harness the very essence of the
+D:                Dream World to create.
+D:      The kids watch as the sand in Oz’s hourglass alights.
+D:      Swirling around...
+D: 62
+C:                                  IN
+C:                          MR. OZ (CONT’D)
+D:                Inspiration, creativity, focus...
+D:                these are the keys to --
+D:                                                                62
+C:                         IS
+D:      Oz picks up a handful of sand from the sandbox, flings it out
+D:      and --
+E: 63                       MR. OZ (CONT’D)                       63
+D:                AV
+0: 
+0: 
+N:                Dreamcrafting!
+N:      DREAMCRAFTS A BRIDGE that spans the canyon to the other side!
+C: 64                       LOGAN                                 64
+D:            D
+0: 
+0: 
+0: 
+N:                Cool lecture. Dream Forge is in
+N:                that tower? We got to get inside? I
+N:                got this...
+N:      A
+0: 
+0: 
+0: 
+0: 
+N:      Logan marches towards the bridge. The sandbox kid shoots Oz a
+N:      look. And as Logan reaches the bridge, the doors to the tower
+N:      swing open to reveal --
+N:      N
+0: 
+0: 
+0: 
+0: 
+N:      A HUGE GNARLY SAND GOLEM KNIGHT, clad in heavy armor, hefting
+N:      a mean-looking shield and mace. Logan hits the brakes.
+N: EE
+0: 
+0: 
+0: 
+0: 
+C:      GULP...
+C: 65                       LOGAN (CONT’D)                        65
+D:                Uhhh... maybe I don’t got this.
+D: G
+0: 
+0: 
+0: 
+0: 
+C: 66                       IZZIE                                 66
+E:                    (yells)
+D:                Be exceptional!
+0: 0:                                                                10.
+0: 
+C: 67                       ALBERT                                   67
+D:                My dear boy, Sir Oswald just
+D:                explained how to dreamcraft.
+D:                Inspiration, creativity, focus--
+D: 68                          LOGAN                                 68
+0: 
+0: 
+0: 
+0: 
+C:                                                        TE
+C:                ARRRGHHHH!
+D:      The crew watches Logan charge at the hulking knight and --
+D:      WHAM! Logan takes a shield-bash to the face, flies off the
+0: 
+0: 
+0: 
+0: 
+C:                                                       U
+D:      bridge and disappears into the foggy ether below.
+D:      Oz turns to the others, smiles --
+0: 
+0: 
+0: 
+0: 
+C:                                            IT
+C: 69                       MR. OZ                                   69
+D:                Who’s next?
+0: 
+0: 
+0: 
+0: 
+C:                                          ST
+D:      Off the wide-eyed stares, we CUT TO --
+C:      A RAPID-FIRE SEQUENCE --
+D:      COOPER -- on the bridge facing the knight.
+D: 70
+C:                                     IN
+C:                          MR. OZ (CONT’D)
+D:                Okay, choose an object as your
+D:                INSPIRATION. Use that to spark your
+D:                CREATIVITY. FOCUS on your idea.
+D:                                                                   70
+C:                         IS
+D:                Build upon that...
+C: 71                       COOPER                                   71
+E:                    (thinking)
+D:                AV
+0: 
+0: 
+N:                Build... build... I GOT IT!
+N:      Cooper pulls a MODEL KIT TIRE from his pocket.
+C: 72                       COOPER (CONT’D)                          72
+D:            D
+0: 
+0: 
+0: 
+N:                I’ll dreamcraft a super decked-out
+N:                nitro-fueled muscle car! Show this
+N:                dude the real meaning of kit bash.
+N:      A
+0: 
+0: 
+0: 
+0: 
+N:      FFWOMP! He dreamcrafts it into a UNICYCLE, wobbling on it as
+N:      the knight approaches...
+N:      N
+0: 
+0: 
+0: 
+0: 
+C: 73                       MR. OZ                                   73
+D:                Lacks creativity...
+D: EE
+0: 
+0: 
+0: 
+0: 
+N:      WHAM! Cooper goes flying off the bridge as WE CUT TO --
+N:      IZZIE -- standing before the bridge. She fumbles with her
+N:      backpack, spilling a massive amount of plushies from her
+N:      pack. She loses her balance and as she tries to catch them
+N: G
+0: 
+0: 
+0: 
+0: 
+N:      all. Albert sighs.
+C: 74                       ALBERT                                   74
+D:                Too much inspiration.
+0: 0:                                                              11.
+0: 
+N:      Izzie finally holds BUNZAI aloft... but WHAM! She flies off
+N:      the bridge as we CUT TO --
+0: 
+S:      EXT. GORGE - FANTASY REALM - MOMENTS LATER
+0: 
+0: 
+0: 
+0: 
+C:                                                      TE
+D:      Mateo stands at the foot of the bridge. Z Blob plays in the
+D:      sandbox. He tries to eat a plastic bucket.
+C: 75                       MR. OZ                                  75
+D:                Focus... tune out all
+0: 
+0: 
+0: 
+0: 
+C:                                                     U
+D:                distractions... let go of your
+D:                fears... have confidence in
+D:                yourself.
+0: 
+0: 
+0: 
+0: 
+C:                                         IT
+C: 76                       MATEO                                   76
+D:                But Mr. Oswald, how am I supposed
+D:                to focus without an hourglass?
+0: 
+0: 
+0: 
+0: 
+C:                                       ST
+C: 77                       MR. OZ                                  77
+D:                There will be times when you don’t
+D:                have one. Or when you run out of
+D:                dream sand... What will you do
+0: 
+0: 
+C:                                 IN
+D:                then? Give up? No! Get creative,
+D:                Mateo! You got this.
+D:      Mateo’s eyes dart towards a rusty metal jungle gym ladder
+D:      that juts out of the playground but leads to nowhere. He
+C:                         IS
+D:      shakes off the idea momentarily forming in his head. Instead
+D:      pulls out his trusty drawing pencil, and picks up Z Blob.
+D:      Mateo dreamcrafts his pencil into a sword. He charges at the
+D:                AV
+0: 
+N:      opposing knight but WHAM! Mateo topples off the bridge.
+N:      WE TRACK WITH MATEO as he and Z Blob plummet into the foggy
+N:      depths of the gorge. Mateo screams as we CUT TO --
+N:            D
+0: 
+0: 
+0: 
+S:      INT. MATEO AND IZZIE’S ROOM - DAWN
+N:      Mateo wakes in his bed with a scream. His eyes snap open to
+N:      A
+0: 
+0: 
+0: 
+0: 
+N:      find Izzie perched over him, staring down. Mateo screams
+N:      again!
+N:      N
+0: 
+0: 
+0: 
+0: 
+C: 78                       IZZIE                                   78
+D:                You didn’t make it either?
+D: EE
+0: 
+0: 
+0: 
+0: 
+N:      Mateo lets out a frustrated sigh. Z Blob comes out of the
+N:      backpack, rubbing his head, and yacks up the tiny bucket.
+0: 
+S:      EXT. MATEO AND IZZIE’S BLOCK - DAY
+N: G
+0: 
+0: 
+0: 
+0: 
+N:      Mateo and Izzie hurry down their block. Backpacks on. They
+N:      see the News Stand Guy organizing his financial magazines...
+N:      the Bodega Owner painting... Mr. Hopper frowning as he honks
+N:      his horn.
+0: 0:                                                                12.
+0: 
+C: 79                       MR. HOPPER                              79
+D:                C’mon! I don’t got all day!
+D:      Izzie spots Nova shuffling to school. Izzie waves. Nova
+D:      barely acknowledges her.
+0: 
+0: 
+0: 
+0: 
+C:                                                      TE
+D:      The kids arrive at MRS. CASTILLO’S FOOD TRUCK. Mrs. C
+D:      snoozes, perched in the window. Her tortoise on the counter.
+C: 80                       MATEO                                   80
+D:                How are we supposed to cross that
+0: 
+0: 
+0: 
+0: 
+C:                                                     U
+D:                bridge? Nothing about the Dream
+D:                World makes sense to me.
+0: 
+0: 
+0: 
+0: 
+C:                                         IT
+C: 81                       MRS. CASTILLO                           81
+D:                Are you keeping your hands to
+D:                yourself? Or your dreams?
+0: 
+0: 
+0: 
+0: 
+C:                                       ST
+D:      Mateo does a double take. But Mrs. C looks asleep. Eyes
+D:      closed.
+E: 82                       MRS. CASTILLO (CONT’D)                  82
+D:                I told you, share your dreams with
+0: 
+0: 
+C:                                 IN
+D:                the world. If you don’t think your
+D:                instincts are any good, change the
+D:                way you think.
+D:      Mrs. C opens her eyes and smiles...
+C:                         IS
+C: 83                       IZZIE                                   83
+D:                You mean think like a dream?
+D:                AV
+0: 
+C: 84                       MATEO                                   84
+D:                Mrs. Castillo, do you remember...
+D:                anything about your dream last
+D:                night?
+D:            D
+0: 
+0: 
+0: 
+C: 85                       MRS. CASTILLO                           85
+D:                I remember the breakfast burrito I
+D:                dreamed about: Korean short rib,
+D:                black beans and eggs!
+D:      A
+0: 
+0: 
+0: 
+0: 
+C: 86                       IZZIE                                   86
+D:                OMG! I need that in my belly muy
+D:      N
+0: 
+0: 
+0: 
+0: 
+C:                pronto, Mrs. C!
+D:      Mrs. C. chuckles as she gets to work. Mateo’s mind races. He
+D: EE
+0: 
+0: 
+0: 
+0: 
+N:      grabs a napkin and quickly sketches out a plan as we CUT TO --
+0: 
+S:      INT. CITY MIDDLE - CAFETERIA - DAY
+N: G
+0: 
+0: 
+0: 
+0: 
+N:      Mateo grasps his napkin sketch and marches up to the back
+N:      table where COACH JEFFRIES presides over the SHEEP WEEK
+N:      BRACKET posted on the back wall.
+0: 0:                                                                 13.
+0: 
+N:      Logan and Cooper congregate with a group of COOL KIDS (one we
+N:      will come to know as DALLAS) looking at the teams as Coach
+N:      Jeffreys fills in the names.
+C: 87                       MATEO                                    87
+E:                    (waving his napkin)
+0: 
+0: 
+0: 
+0: 
+C:                                                       TE
+D:                Guys, I figured out how we can
+D:                enter the Dream Forge!
+D:      Logan cringes. The cool kids snicker.
+0: 
+0: 
+0: 
+0: 
+C:                                                      U
+C: 88                       DALLAS                                   88
+D:                Who is this now?
+0: 
+0: 
+0: 
+0: 
+C:                                           IT
+C: 89                       MATEO                                    89
+D:                I’m their teammate.
+D: 90                       DALLAS                                   90
+0: 
+0: 
+0: 
+0: 
+C:                                         ST
+E:                    (laughing)
+D:                Good luck with that, Logan.
+D:      The cool kids walk away.
+D: 91
+0: 
+0: 
+0: 92
+C:                          LOGAN
+E:                    (put off)
+D:                You were saying?
+C:                          MATEO
+D:                                   IN                              91
+0: 
+0: 
+0:                                                                   92
+C:                         IS
+E:                    (dejected, putting his
+E:                     napkin in his pocket)
+D:                Nothing.
+D:                AV
+0: 
+0: 
+C: 93                       IZZIE (O.S.)                             93
+D:                Has anyone seen Nova?
+D:      The kids turn to see Izzie holding a hamster cage. The
+D:      hamster is running in his wheel.
+D:            D
+0: 
+0: 
+0: 
+C: 94                       LOGAN                                    94
+D:                What’s with the rat?
+D:      A
+0: 
+0: 
+0: 
+0: 
+C: 95                       IZZIE                                    95
+D:                Hamster, dude. Obvi. It’s Nova’s
+D:                turn to watch him tonight. Science
+D:      N
+0: 
+0: 
+0: 
+0: 
+N:                class stuff. But I haven’t seen her
+N:                all day. I don’t know if she came
+N:                to school...
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:      As Izzie walks off to look for Nova, Mateo realizes Z Blob is
+N:      reaching out of his backpack to try and eat the sign up
+N:      sheets on Coach Jeffrey’s table.
+N: G
+0: 
+0: 
+0: 
+0: 
+N:      He quickly tucks Z back in his bag. Casts a worried look
+N:      around and spots --
+N:      ZOEY... standing with her lunch tray. Staring skeptically.
+0: 0:                                                               14.
+0: 
+C: 96                           MATEO                              96
+D:                 Uhh... Hi-
+C: 97                        ZOEY                                  97
+D:                 I don’t think so.
+0: 
+0: 
+0: 
+0: 
+C:                                                        TE
+D:       Zoey walks away with her lunch tray.
+C: 98                           MATEO                              98
+D:                 Cool.
+0: 
+0: 
+0: 
+0: 
+C:                                                       U
+C: 99                        LOGAN                                 99
+D:                 Nice one, Street Meat.
+0: 
+0: 
+0: 
+0: 
+C:                                             IT
+D:       EXT. GORGE - FANTASY REALM - DAY
+D:       The team gathers in front of the canyon. Albert looks to the
+0: 
+0: 
+0: 
+0: 
+C:                                           ST
+D:       horizon. The Nightmare Storm has darkened the sky...
+C: 100                       ALBERT                               100
+D:                 Oswald, old chap, what if these
+D:                 pupils of yours aren’t up to the
+0: 
+0: 
+0: 
+0: 101
+N:                 task?
+0: 
+0: 
+C:                           MR. OZ
+C:                                      IN
+D:       Oz grumbles. Scratches his beard.
+D:                                                                101
+C:                          IS
+D:                 Alright! Gather round... you may
+D:                 have failed last night--
+C: 102                       ALBERT                               102
+D:                 AV
+0: 
+0: 
+N:                 Miserably...
+C: 103                       MR. OZ                               103
+D:                 But you need to cross this bridge.
+D:                 And you need to do it tonight.
+D:             D
+0: 
+0: 
+0: 
+N:       The kids shuffle around. Nervous.
+N: 104                       MR. OZ (CONT’D)                      104
+N:       A
+0: 
+0: 
+0: 
+0: 
+N:                 Well don’t all try at once.
+N:       Izzie looks to Mateo. He averts his gaze. She growls.
+N:      N
+0: 
+0: 
+0: 
+0: 
+C: 105                       IZZIE                                105
+D:                 Look, none of us has an hourglass.
+D: EE
+0: 
+0: 
+0: 
+0: 
+N:                 So how can we be expected to
+N:                 dreamcraft well enough to beat this
+N:                 scary old knight?
+C: 106                       LOGAN                                106
+D: G
+0: 
+0: 
+0: 
+0: 
+N:                 I’m not scared.
+0: 0:                                                               15.
+0: 
+C: 107                       IZZIE                                   107
+D:                 My point is, maybe this test is to
+D:                 get us to think outside the box. To
+D:                 think like a dream!
+D:       The kid in the sandbox stops building his sandcastles. He
+0: 
+0: 
+0: 
+0: 
+C:                                                        TE
+D:       looks up expectantly.
+C: 108                       MR. OZ                                  108
+D:                 Very good, Izzie. Just because you
+D:                 are learning to dreamcraft, it
+0: 
+0: 
+0: 
+0: 
+C:                                                       U
+D:                 doesn’t mean you always have to
+D:                 dreamcraft the solution.
+0: 
+0: 
+0: 
+0: 
+C:                                          IT
+D:       Izzie shoots Mateo a final emphatic look. Mateo steps
+D:       forward, but --
+D: 109                       LOGAN                                   109
+0: 
+0: 
+0: 
+0: 
+C:                                        ST
+D:                 I mean if this is all like a dream
+D:                 or whatever... what if--
+D:       Mateo watches as Logan walks over to the rickety old ladder
+D:       on the jungle gym. The one that leads to nowhere, like it
+0: 
+0: 
+C:                                  IN
+D:       used to have a slide on it...
+D:       Logan climbs up the ladder... and keeps climbing into the fog
+D:       that hangs above the playground... DISAPPEARING...
+C:                          IS
+D:       The kids trade worried looks with each other until --
+E: 110                       LOGAN (O.S.) (CONT’D)                   110
+D:                 Hey, suckers!
+D:                 AV
+0: 
+0: 
+N:       The kids glance to --
+N:       THE OTHER SIDE OF THE CANYON... and there’s LOGAN doing a
+N:       victory dance.
+N:             D
+0: 
+0: 
+0: 
+C: 111                       ALBERT                                  111
+D:                 I say, the lughead did it. He
+D:                 reached the Forge.
+D:       A
+0: 
+0: 
+0: 
+0: 
+N:       Cooper races to climb up. Izzie squeals with delight as she
+N:       follows suit. Disappearing into the fog.
+N:     N
+0: 
+0: 
+0: 
+0: 
+N:       Mateo sighs. Reluctantly follows. Puts Z Blob in his backpack
+N:       before climbing up. But as he climbs, Z Blob spits something
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:       out that falls to the ground...
+N:       Oz picks it up - it’s the napkin from Mrs. C’s taco truck. Oz
+N:       looks at the drawing.
+N: G
+0: 
+0: 
+0: 
+0: 
+N:       IT’S A PICTURE OF MATEO CLIMBING THE LADDER WITH THE TEAM
+N:       CLIMBING BEHIND HIM...
+0: 0:                                                               16.
+0: 
+S:       EXT. SANDCASTLE TOWER - DAY
+N:       As Oz, Albert, and the kids arrive at the tower, THE MASSIVE
+N:       DOORS swing wide... they peer into the dark interior as --
+N:       The KID FROM THE SAND BOX emerges... his OLDER voice at odds
+0: 
+0: 
+0: 
+0: 
+C:                                                        TE
+D:       with his appearance.
+C: 112                       FORGEMASTER                          112
+D:                 Welcome to the Dream Forge...
+0: 
+0: 
+0: 
+0: 
+C:                                                       U
+C: 113                       COOPER                               113
+D:                 Wait, you’re the Forgemaster?!
+0: 
+0: 
+0: 
+0: 
+C:                                          IT
+C: 114                       LOGAN                                114
+D:                 Pretty cool, little man. Pretty
+D:                 cool.
+0: 
+0: 
+0: 
+0: 
+C:                                        ST
+D:       Izzie struggles to contain her enthusiasm.
+C: 115                       IZZIE                                115
+D:                 Mr. The Forgemaster, we passed your
+D:                 test. We’ve got a lot on our
+0: 
+0: 
+0: 116
+C:                                     IN
+D:                 plates, so can we have our
+D:                 hourglasses now?
+C:                           FORGEMASTER
+D:                 You have proven you are not
+D:                                                                116
+C:                          IS
+D:                 ordinary dreamers. But do you have
+D:                 what it takes to acquire an
+D:                 hourglass and become Dream Chasers?
+D:                 For that, you must face the Forge.
+D:                 AV
+0: 
+0: 
+N:       Mateo gazes into the dark confines of the tower. Worried...
+C: 117                       MATEO                                117
+D:                 What’s in the Forge?
+D:             D
+0: 
+0: 
+0: 
+C: 118                       FORGEMASTER                          118
+D:                 It's different for every dreamer.
+D:                 But know this: if you are not up to
+D:       A
+0: 
+0: 
+0: 
+0: 
+N:                 the task, the Dream Forge will
+N:                 exact a heavy toll...
+N:     N
+0: 
+0: 
+0: 
+0: 
+C: 119                       IZZIE                                119
+D:                 Don’t worry, our dad puts funds on
+D:                 our subway metro card weekly. Ever
+D: EE
+0: 
+0: 
+0: 
+0: 
+N:                 since I got stranded in Manhattan
+N:                 after a disastrous field trip to
+N:                 the Museum of Natural History.
+C: 120                       ALBERT                               120
+D: G
+0: 
+0: 
+0: 
+0: 
+N:                 He’s referring to those who are not
+N:                 prepared; for them, the Forge is
+N:                 too much. Their minds can't take
+N:                 it.
+N:                           (MORE)
+0: 0:                                                               17.
+0: 
+C:                           ALBERT (CONT'D)
+D:                 They forget about the Dream World
+D:                 and everything they've encountered.
+D:       Mateo trades a look with Z Blob on his shoulder.
+D: 121                       MATEO                                121
+0: 
+0: 
+0: 
+0: 
+C:                                                        TE
+D:                 Wait, So... we might become normal
+D:                 dreamers again?
+C: 122                       LOGAN                                122
+D:                 Oh don’t be a wuss, Matty.
+0: 
+0: 
+0: 
+0: 
+C:                                                       U
+C: 123                       MATEO                                123
+D:                 Stop calling me Matty.
+0: 
+0: 
+0: 
+0: 
+C:                                            IT
+C: 124                       LOGAN                                124
+D:                 I’m ready to do this now. C’mon!
+D:                 Let’s get it on! LOOOOOGAAAAN!
+0: 
+0: 
+0: 
+0: 
+C:                                          ST
+C: 125                       MATEO                                125
+D:                 Well I’m not. Mr. Oswald, you said
+D:                 we’d have training. You never said
+D:                 anything about risking Z Blob or
+0: 
+0: 
+C: 126                       MR. OZ
+C:                                  IN
+D:                 forgetting the Dream World. I... I
+D:                 need some time to think about this.
+0: 
+N:                 Wait, Mateo... You may not have
+0:                                                                126
+C:                          IS
+D:                 enough training, but you do have
+D:                 friends... Even the most personal
+D:                 trials of the Forge are easier
+D:                 knowing friends are by your side.
+D:                 AV
+0: 
+0: 
+N:       But Mateo walks off. Izzie groans.
+C: 127                       LOGAN                                127
+D:                 Told you - wuss. I’m ready to go
+D:             D
+0: 
+0: 
+0: 
+N:                 without him.
+C: 128                       COOPER                               128
+D:                 Would you cut it out. I’m not.
+D:       A
+0: 
+0: 
+0: 
+0: 
+C: 129                       FORGEMASTER                          129
+D:                 They’re clearly not ready. And I
+D:     N
+0: 
+0: 
+0: 
+0: 
+N:                 can’t wait around until they are.
+N:       Oz shoots a worried look to the horizon. The nightmare storm
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:       builds. Growing closer. A wind begins to pick up.
+C: 130                       MR. OZ                               130
+D:                 The Dream world needs these kids.
+D:                 One more night, please?
+D: G
+0: 
+0: 
+0: 
+0: 
+N:       The Forgemaster looks at the kids.
+0: 0:                                                                  18.
+0: 
+C: 131                       FORGEMASTER                             131
+E:                     (sighs)
+D:                 Fine... but ready or not, they must
+D:                 face the Forge tomorrow night
+D:                 because the Nightmare King grows
+D:                 stronger as we speak...
+0: 
+0: 
+0: 
+0: 
+C:                                                        TE
+D:       And we CUT TO --
+0: 
+S:       EXT. ENCHANTED FOREST - NIGHT
+0: 
+0: 
+0: 
+0: 
+C:                                                       U
+D:       NOVA stumbles through the woods. In her pajamas. Fear on her
+D:       face. Dark circles under eyes.
+0: 
+0: 
+0: 
+0: 
+C:                                          IT
+D:       She ducks behind a gnarled tree to hide. That’s when she
+D:       hears --
+0: 
+0: 
+0: 
+0: 
+C:                                        ST
+D:       A DARK AND ERIE TUNE BEING WHISTLED... echoing through the
+D:       forest... We recognize it as the Night Hunter’s tune...
+D:       Nova springs up to run but -- A GIANT HAMSTER CAGE appears
+D:       out of nowhere. CLUNKING to the ground around her... CLANG!
+D:       echo through the trees...
+C:                                  IN
+D:       The cage door swings shut. The hyena cackles of Darklings
+0: 
+N:       The Night Hunter’s whistled lullaby suddenly pierces the
+N:       night. Getting closer... Nova screams. Shoves at the bars.
+C:                          IS
+D:       The tune getting louder...
+D:       One more shove and the door springs open. Nova careens off
+D:       through the woods in a panic as we CUT TO --
+D:                 AV
+0: 
+0: 
+S:       EXT. MATEO AND IZZIE'S APARTMENT - DAWN - ESTABLISHING
+N:       The sun rises in Brooklyn. We hear the BUNZAI ANIME THEME
+N:             D
+0: 
+0: 
+0: 
+N:       SONG as we push in on Mateo and Izzie’s window.
+0: 
+S:       INT. MATEO AND IZZIE’S ROOM - DAWN
+N:       A
+0: 
+0: 
+0: 
+0: 
+N:       Izzie awakes in her bed and shuts off the music from her
+N:       tablet. The hamster is still spinning furiously in his wheel
+N:     N
+0: 
+0: 
+0: 
+0: 
+N:       by her bed.
+N:       She sits up as the pile of plushie toys spills off of her.
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:       She looks over to Mateo’s bed: He’s already gone. Izzie sighs
+N:       as she gets up, shuts off the music.
+0: 
+S:       INT. MATEO AND IZZIE’S APARTMENT - DAY
+N: G
+0: 
+0: 
+0: 
+0: 
+N:       Izzie scurries through the kitchen. Her dad JAY in his
+N:       paramedic uniform, whips up her bag lunch. Izzie opens the
+N:       bag. Takes a whiff.
+0: 0:                                                               19.
+0: 
+C: 132                       IZZIE                                132
+D:                 Mmmmm... Empanadas...
+C: 133                       JAY                                  133
+D:                 Hey, is your brother alright?
+0: 
+0: 
+0: 
+0: 
+C:                                                         TE
+C: 134                          IZZIE                             134
+D:                 Yeah, why?
+C: 135                       JAY                                  135
+D:                 He turned down movie night tonight.
+0: 
+0: 
+0: 
+0: 
+C:                                                        U
+D:                 What about you? We could watch a
+D:                 kung fu flick...
+0: 
+0: 
+0: 
+0: 
+C:                                            IT
+C: 136                       IZZIE                                136
+D:                 Oohh, sorry Pops, I got a BIG
+D:                 homework assignment tonight. Really
+D:                 scary deadline. And it’s getting
+0: 
+0: 
+0: 
+0: 
+C:                                          ST
+D:                 closer.
+D:       Izzie cringes as she hustles out the door. Jay watches her
+D:       go. Clearly not the answer he was expecting.
+0: 
+S:       EXT. CITY MIDDLE - DAY
+C:                                      IN
+D:       STUDENTS scamper past SHEEP WEEK posters as the bell rings.
+C:                          IS
+D:       INT. MR. OSWALD’S CLASS - DAY
+D:       Mateo sits at his desk, drawing in his notebook, purposefully
+D:                 AV
+0: 
+0: 
+N:       avoiding eye contact with --
+N:       COOPER AND LOGAN in the next row of desks as they try to
+N:       catch his attention. Mr. Oz lectures from the front of the
+N:       class --
+N:             D
+0: 
+0: 
+0: 
+C: 137                       MR. OZ                               137
+D:                 ... and we could learn a lot from
+D:                 those brave astronauts, who at
+D:       A
+0: 
+0: 
+0: 
+0: 
+N:                 great personal risk, made MANY
+N:                 sacrifices for humanity. Were they
+N:                 scared? Yes! But did they let those
+N:     N
+0: 
+0: 
+0: 
+0: 
+N:                 fears stand in the way of something
+N:                 that would benefit all mankind? Or
+N:                 did they stand with their team and--
+N: EE
+0: 
+0: 
+0: 
+0: 
+C: 138                       JADYN (O.S.)                         138
+D:                 Mr. Oswald...
+D:       Mr. Oz glances up. Sees a kid with BRACES and a confused look
+D: G
+0: 
+0: 
+0: 
+0: 
+N:       on his face raising his hand.
+C: 139                       JADYN (CONT’D)                       139
+D:                 What does the Space Program have to
+D:                 do with germination?
+0: 0:                                                               20.
+0: 
+N:       Oz scratches his beard. WIDEN OUT to reveal a diagram of a
+N:       plant on the chalkboard.
+C: 140                       MR. OZ                               140
+D:                 Ah, well.. Ahem, you see--
+0: 
+0: 
+0: 
+0: 
+C:                                                        TE
+D:       The BELL RINGS. The kids in the class all scramble out of the
+D:       door. Cooper and Logan catch a look from Oz: he wants a word
+D:       alone with Mateo. They grab their bags and exit.
+D:       Mateo slowly gathers his things.
+0: 
+0: 
+0: 
+0: 
+C:                                                       U
+E: 141                        MR. OZ (CONT’D)                     141
+D:                 Mateo...
+0: 
+0: 
+0: 
+0: 
+C:                                            IT
+C: 142                       MATEO                                142
+D:                 I know I’m supposed to do the right
+D:                 thing here. But what if I’m not cut
+0: 
+0: 
+0: 
+0: 
+C:                                          ST
+D:                 out for this, and the Dream Forge
+D:                 does take its toll. What if I
+D:                 forget the Dream World... What if I
+C:                 lose Z Blob...
+D: 143                       MR. OZ
+0: 
+C:                                   IN
+D:                 What if, what if... What if you
+D:                 succeed, Mateo?! Listen, you have
+D:                 more creativity than anyone I’ve
+D:                 seen in a long time. You don’t lack
+D:                                                                143
+C:                            IS
+D:                 the inspiration. And in time, you
+D:                 will learn to focus, I’m sure of
+D:                 it. But the one thing you don’t
+D:                 have: confidence.
+D:                 AV
+0: 
+0: 
+N:       Oz produces the napkin Mateo dropped outside the Dream Forge.
+N:       Mateo sees the drawing he made on it.
+C: 144                       MATEO                                144
+D:             D
+0: 
+0: 
+0: 
+N:                 How did you...
+N:       Mateo looks in his backpack. Z Blob stares back. Grumbles at
+N:       Mateo.
+N:       A
+0: 
+0: 
+0: 
+0: 
+C: 145                       MR. OZ                               145
+D:                 The Dream World needs all of you if
+D:     N
+0: 
+0: 
+0: 
+0: 
+N:                 it is going to withstand the
+N:                 darkness that threatens it. Be the
+N:                 leader your team needs. Face the
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:                 Forge and emerge together as true
+N:                 Dream Chasers.
+N:       Mateo slowly nods. Building his confidence up as WE CUT TO --
+N: G
+0: 0:                                                                 21.
+0: 
+S:       INT. CITY MIDDLE - HALLWAY - DAY
+N:       Izzie carries a HAMSTER in its CAGE as she scans the hallway.
+N:       ZOEY closes her locker and turns to see NOVA gathering her
+N:       books. Zoey studies her curiously before turning and walking
+N:       away. Izzie veers in Nova’s direction --
+0: 
+0: 
+0: 
+0: 
+C:                                                        TE
+C: 146                       IZZIE                                  146
+D:                 Hey, it’s your night to watch --
+D:       Nova turns from her locker, sees the cage and screams!
+0: 
+0: 
+0: 
+0: 
+C:                                                       U
+D:       Izzie’s expression darkens - Nova looks haggard; dark circles
+D:       under her eyes, fearful look on her face.
+0: 
+0: 
+0: 
+0: 
+C:                                            IT
+C: 147                       IZZIE (CONT’D)                         147
+C:                 OMG, Nova... what’s wrong?!
+D: 148                       NOVA                                   148
+0: 
+0: 
+0: 
+0: 
+C:                                          ST
+D:                 I’m sorry... I-- I don’t feel well.
+C: 149                       IZZIE                                  149
+D:                 Do you have a cold?
+C: 150                       NOVA
+D:                 No, nightmares...
+C:                                     IN
+D:       Izzie’s eyes narrow as her gears spin, and we CUT TO --
+D:                                                                  150
+C:                          IS
+D:       INT. CITY MIDDLE - CAFETERIA - DAY
+D:       Mateo marches confidently through the cafeteria towards Logan
+D:                 AV
+0: 
+0: 
+N:       and Cooper huddled with the COOL KIDS around a table, working
+N:       on something... But as he approaches, he watches as they --
+N:       HAND IN A TEAM SIGN UP SHEET TO COACH JEFFREYS...
+N:             D
+0: 
+0: 
+0: 
+C: 151                       COACH JEFFREYS                         151
+D:                 Alright, the Wolves are on the
+D:                 Sheep Week bracket!
+D:       A
+0: 
+0: 
+0: 
+0: 
+N:       Mateo watches Coach put a WOLF logo on the competition
+N:       bracket hanging on the wall. Logan and Cooper high five and
+N:       walk off.
+N:     N
+0: 
+0: 
+0: 
+0: 
+N: 152                       COACH JEFFREYS (CONT’D)                152
+N:                 Hey, Teo. D’you wanna sign up a
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:                 team this year? You got some stiff
+N:                 competition with Coop and Logan’s
+N:                 team.
+N:       Mateo’s confidence melts. He shakes his head, turns to leave
+N: G
+0: 
+0: 
+0: 
+0: 
+N:       and nearly runs into Izzie. She has a worried look on her
+N:       face and the hamster cage in her hands.
+0: 0:                                                               22.
+0: 
+C: 153                       IZZIE                                153
+D:                 Alright, guess who’s been in Nova’s
+D:                 nightmares for several nights in a
+D:                 row?
+D: 154                       MATEO                                154
+0: 
+0: 
+0: 
+0: 
+C:                                                          TE
+D:                 This stupid hamster.
+C: 155                       IZZIE                                155
+D:                 No! The same turkeys who captured
+D:                 Cooper and corrupted Mr.
+0: 
+0: 
+0: 
+0: 
+C:                                                         U
+D:                 Sharkface...
+D:       Mateo doesn’t react. Izzie bubbles with impatience.
+0: 
+0: 
+0: 
+0: 
+C:                                          IT
+C: 156                       IZZIE (CONT’D)                       156
+D:                 We need to get our hourglasses,
+D:                 Mateo. We need to save her, just
+0: 
+0: 
+0: 
+0: 
+C:                                        ST
+D:                 like when we saved Cooper. The team
+D:                 needs to help her!
+C: 157                       MATEO                                157
+D:                 There is no team...
+0: 
+0: 
+C:                                  IN
+D:       Mateo plods away. Izzie stews. Trying to process. She glances
+D:       at the bracket, then across the cafeteria to Logan and Cooper
+D:       sitting with Dallas and the Cool Kids.
+C:                          IS
+C: 158                       IZZIE                                158
+D:                 Arrghhh! Why are boys so dumb?!
+C: 159                       COACH JEFFREYS                       159
+D:                 AV
+0: 
+N:                 Izzie, are you on a team this year?
+C: 160                       IZZIE                                160
+D:                 If you want something done, you
+D:                 have to do it yourself!
+D:             D
+0: 
+0: 
+0: 
+N:       Coach Jeffreys is unsure of what just happened.
+N:       A
+0: 
+0: 
+0: 
+0: 
+S:       EXT. MATEO AND IZZIE’S APARTMENT - NIGHT
+N:       We come in on Mateo and Izzie’s window as the light goes out.
+N:     N
+0: 
+0: 
+0: 
+0: 
+S:       INT. MATEO AND IZZIE’S ROOM - NIGHT
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:       Mateo lies in bed. He turns over to look at his sister’s side
+N:       of the room. Sees Izzie is already asleep. Her Bunzai plushie
+N:       peeking out of the backpack resting at the foot of her bed.
+N: G
+0: 
+0: 
+0: 
+0: 
+N:       He rolls over and stares at Z Blob looking at him from inside
+N:       his own backpack next to his bed.
+N:       Mateo’s eyes slowly close as we CUT TO --
+0: 0:                                                               23.
+0: 
+S:       EXT. THE LANDING (DREAM WORLD) - DAY
+N:       Mateo’s eyes snap open. He can hear voices, in mid-
+N:       argument...
+N: 161                       LOGAN (O.S.)                            161
+0: 
+0: 
+0: 
+0: 
+C:                                                        TE
+D:                 I don’t want to tell him, you tell
+D:                 him!
+C: 162                       COOPER (O.S.)                           162
+D:                 I’m not the one who had to open his
+0: 
+0: 
+0: 
+0: 
+C:                                                       U
+D:                 big fat mouth! You tell him--
+D:       Mateo sits up in his Dream World bed. Finds Logan and Cooper.
+0: 
+0: 
+0: 
+0: 
+C:                                          IT
+C: 163                       MATEO                                   163
+D:                 Guys, you don’t have to fight about
+D:                 it. I already know.
+0: 
+0: 
+0: 
+0: 
+C:                                        ST
+C: 164                       COOPER                                  164
+D:                 Oh good, that’ll save some time - I
+D:                 haven’t yet worked out how long
+D:                 this door thingy lasts and Izzie’s
+0: 
+C: 165                       MATEO
+C:                 Wait, WHAT?!
+C:                                   IN
+D:                 already been gone a few minutes.
+D:                                                                   165
+C:                          IS
+D:       Mateo springs to his feet. Notices the Dream Bridge door is
+D:       open and a bridge stretches off to points unknown...
+C: 166                       LOGAN                                   166
+D:                 AV
+0: 
+0: 
+N:                 Uh, yeah - your sister totally ran
+N:                 off to go help her friend Nova?
+C: 167                       MATEO                                   167
+D:                 Oh no... No, no, no! This is bad...
+D:             D
+0: 
+0: 
+0: 
+C: 168                       COOPER                                  168
+E:                     (to Logan)
+D:                 See, I told you! But you had to egg
+D:       A
+0: 
+0: 
+0: 
+0: 
+N:                 her on...
+N:       Logan shrugs innocently. Mateo marches toward the bridge.
+N:     N
+0: 
+0: 
+0: 
+0: 
+C: 169                       MATEO                                   169
+D:                 We’ve got to go find her before the
+D: EE
+0: 
+0: 
+0: 
+0: 
+N:                 Nightmare King does...
+C: 170                       COOPER                                  170
+D:                 What about the Dream Forge? If we
+D:                 don’t go back tonight, we might not
+D: G
+0: 
+0: 
+0: 
+0: 
+N:                 get another chance...
+C: 171                       LOGAN                                   171
+D:                 Oh, I think Mateo is A-OK with
+D:                 that.
+0: 0:                                                                24.
+0: 
+C: 172                       MATEO                                 172
+E:                     (stopping in his tracks)
+D:                 What’s that supposed to mean?
+C: 173                       LOGAN                                 173
+D:                 Some people just aren’t cut out for
+0: 
+0: 
+0: 
+0: 
+C:                                                        TE
+D:                 this sort of thing.
+C: 174                       MATEO                                 174
+D:                 Oh, just like I’m not cut out for
+D:                 your Sheep Week Team?
+0: 
+0: 
+0: 
+0: 
+C:                                                       U
+D:       Mateo glares at the others. Cooper can’t meet his eye.
+0: 
+0: 
+0: 
+0: 
+C:                                          IT
+C: 175                       MATEO (CONT’D)                        175
+D:                 I don’t need you guys anyway. I’ll
+D:                 find Izzie on my own.
+0: 
+0: 
+0: 
+0: 
+C:                                        ST
+D:       Mateo puts Z Blob on his shoulder and disappears through the
+D:       Dream Bridge Door as we CUT TO --
+0: 
+S:       EXT. ENCHANTED FOREST (FANTASY REALM) - DAY
+0: 
+C:                                  IN
+D:       A YELLOW BRICK ROAD cuts through a dark patch of forest...
+D:       Nova and Izzie stand on the shimmering road, backing away
+D:       from a pack of cackling DARKLINGS trying to encircle them.
+C:                          IS
+C: 176                       NOVA                                  176
+D:                 Izzie, I don’t like this dream!
+D:       Izzie fumbles with her backpack...
+D:                 AV
+0: 
+0: 
+C: 177                       IZZIE                                 177
+D:                 Don’t worry, I got this!
+E:                     (muttering to herself)
+D:                 Inspiration... creativity...
+D:             D
+0: 
+0: 
+0: 
+N:                 focus...
+N:       She pulls out her BUNZAI plushie. The Darkling in the lead
+N:       pauses, trades an uneasy look with its companions.
+N:       A
+0: 
+0: 
+0: 
+0: 
+N:       Izzie scrunches her eyes shut. We ZOOM IN ON HER FACE as we
+T:       FLASH CUT TO --
+N:     N
+0: 
+0: 
+0: 
+0: 
+N:       AN IZZIE ANIME BATTLE ACTION SEQUENCE --
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:       She performs a bad-ass fight routine as the BUNZAI THEME SONG
+N:       rages, like she’s charging up some crazy combat anime spell
+N:       and --
+N:       SMASH CUT BACK TO -- IZZIE gripping her Bunzai plushie,
+N: G
+0: 
+0: 
+0: 
+0: 
+N:       holding it out towards the Darklings... She opens her eyes.
+N:       Nothing happens. They HOWL with laughter and continue
+N:       forward.
+0: 0:                                                                  25.
+0: 
+C: 178                       IZZIE (CONT’D)                          178
+D:                 Arrgh! I need a stupid hourglass!
+C: 179                       NOVA                                    179
+D:                 What are you doing?!
+0: 
+0: 
+0: 
+0: 
+C:                                                       TE
+C: 180                       IZZIE                                   180
+D:                 Improvising!
+D:       Izzie YELLS and leaps forward with her plushie and starts
+D:       BASHING Darklings anyway. FFWUMP! FFWUMP! Her ferocity
+0: 
+0: 
+0: 
+0: 
+C:                                                      U
+D:       catches them off guard... Until Izzie realizes she’s waded
+D:       right into the middle of them.
+0: 
+0: 
+0: 
+0: 
+C:                                          IT
+D:       The Darklings snarl at Izzie, instantly getting sinister.
+D:       Izzie yelps and turns tail to run.
+D:       The Darklings race after her as Izzie grabs Nova by the hand
+0: 
+0: 
+0: 
+0: 
+C:                                        ST
+D:       and pulls her along.
+C: 181                       IZZIE (CONT’D)                          181
+D:                 Okay, bad idea!
+0: 
+N:       heels as --
+C:                                   IN
+D:       They race down the yellow brick road, Darklings on their
+0: 
+N:       MATEO emerges from a Dream Bridge Door just in time to see
+N:       Izzie and the pack of Darklings headed right for him!
+C:                          IS
+D:       His eyes go wide! Z Blob’s squeeze shut!
+D:       Mateo whips out his trusty drawing pencil, nearly drops it as
+D:                 AV
+0: 
+0: 
+N:       the Darklings race right towards him and --
+N:       FWWISH! Mateo dreamcrafts his pencil into... a HUGE pencil!
+N:       The Darklings skid to a halt, not sure how to react.
+N:       Assessing Mateo as he stands protectively in front of Izzie
+N:             D
+0: 
+0: 
+0: 
+N:       and Nova.
+C: 182                       IZZIE (CONT’D)                          182
+D:                 You know I had this under control!
+D:       A
+0: 
+0: 
+0: 
+0: 
+C: 183                        MATEO                                  183
+D:                 Clearly...
+D:     N
+0: 
+0: 
+0: 
+0: 
+N:                     (yells at the Darklings)
+N:                 Go back to wherever you came from,
+N:                 or else... Or else--
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:       THHWWIP! A shadow bolt THUDS into the ground in front of
+N:       Mateo.
+N: 184                       NIGHT HUNTER (O.S.)                     184
+N: G
+0: 
+0: 
+0: 
+0: 
+N:                 Or else what? You’ll draw me a
+N:                 mustache?
+N:       The kids’ gaze darts over to the tree line where --
+0: 0:                                                                26.
+0: 
+N:       THE NIGHT HUNTER strides onto the yellow brick road. He hefts
+N:       his crossbow.
+N: 185                       NIGHT HUNTER (CONT’D)                 185
+N:                     (chuckles)
+N:                 This worked out better than I
+0: 
+0: 
+0: 
+0: 
+C:                                                        TE
+D:                 thought... Looks like I can always
+D:                 count on you to do the right thing.
+D:       The ground RUMBLES as MR. SHARKFACE rumbles out of the tree
+D:       line. Izzie’s eyes immediately water --
+0: 
+0: 
+0: 
+0: 
+C:                                                       U
+C: 186                       IZZIE                                 186
+D:                 Mr. Sharkface...
+0: 
+0: 
+0: 
+0: 
+C:                                               IT
+C: 187                       NIGHT HUNTER                          187
+D:                 Someday you’re going to learn
+D:                 that’s a liability.
+0: 
+0: 
+0: 
+0: 
+C:                                             ST
+E:                     (yells to his Darklings)
+D:                 Capture them all!
+D:       Hunter is about to fire again, when --
+D: 188
+C:                 ARRRGHHHH!
+C:                                    IN
+E:                              LOGAN (O.S.)
+0: 
+N:       WHAM! Logan charges in from out of nowhere and bowls the
+0:                                                                 188
+0: 
+0: 
+N:       Night Hunter over. Sends his crossbow skidding to the ground
+C:                          IS
+D:       in front of Izzie.
+D:       The Darklings aboard Sharkface break down in laughter.
+D:                 AV
+0: 
+0: 
+N:       Cooper emerges from the Dream Bridge door, rushes over to
+N:       help Logan up and join the other kids. Mateo shoots Cooper a
+N:       look --
+C: 189                       MATEO                                 189
+D:             D
+0: 
+0: 
+0: 
+N:                 Think you can dreamcraft something
+N:                 to get us out of here?
+N:       Night Hunter picks himself up. But Izzie grabs the crossbow,
+N:       A
+0: 
+0: 
+0: 
+0: 
+N:       aiming it at him. The Darklings immediately stop laughing.
+N:       Cooper pulls out his model kit wheel.
+N:     N
+0: 
+0: 
+0: 
+0: 
+C: 190                       COOPER                                190
+D:                 I don’t know... I imagine this
+D: EE
+0: 
+0: 
+0: 
+0: 
+N:                 thing just like my model kits, but
+N:                 it doesn’t work.
+C: 191                       IZZIE                                 191
+D:                 Think like a dream, Coop.
+D: G
+0: 
+0: 
+0: 
+0: 
+N:       Cooper nods. The Darklings cautiously inch forward.
+C: 192                       LOGAN                                 192
+D:                 It’s now or never, dude!
+0: 0:                                                                  27.
+0: 
+N:       Cooper focuses as we FLASH CUT TO --
+N:       A BLUEPRINT SEQUENCE as Cooper imagines the car he is kit
+N:       bashing and assembling in mid air. Dream Ether swirling and --
+T:       FLASH CUT BACK TO --
+0: 
+0: 
+0: 
+0: 
+C:                                                       TE
+D:       FFWUMP! The model kit wheel transforms into a GIANT TIRE...
+C: 193                       LOGAN (CONT’D)                          193
+D:                 Nice one, master kit basher.
+0: 
+0: 
+0: 
+0: 
+C:                                                      U
+C: 194                       COOPER                                  194
+D:                 What do we do now?!
+0: 
+0: 
+0: 
+0: 
+C:                                          IT
+D:       Mateo surveys the situation. Taking stock... Finally --
+D: 195                       MATEO                                   195
+0: 
+0: 
+0: 
+0: 
+C:                                        ST
+D:                 Get creative...
+0: 
+S:       EXT. ENCHANTED FOREST - MOMENTS LATER
+0: 
+N:       revealing --
+C:                                      IN
+D:       The trees crash as something plows through them, finally
+0: 
+N:       Cooper’s giant wheel... Mateo leading all the kids, running
+N:       it like a hamster wheel, Mr. Sharkface RUMBLING after them
+C:                            IS
+D:       with the Darklings and Hunter aboard in pursuit!
+D:       The wheel careens back onto the yellow brick road, gaining
+D:       speed.
+D:                 AV
+0: 
+0: 
+C: 196                        LOGAN                                  196
+D:                 Izzie, I’ll never make fun of your
+D:                 rat again!
+D:             D
+0: 
+0: 
+0: 
+C: 197                          IZZIE                                197
+C:                 HAMSTER!
+C: 198                       COOPER                                  198
+D:       A
+0: 
+0: 
+0: 
+0: 
+N:                 Uh, guys... how do we stop this
+N:                 thing?!
+N:     N
+0: 
+0: 
+0: 
+0: 
+C: 199                       IZZIE                                   199
+D:                 What?! Don’t stop--
+D: EE
+0: 
+0: 
+0: 
+0: 
+N:       Izzie glances out as they run the wheel --
+N:       UP AHEAD -- A GIANT GRIMHOLD crashes onto the road, right in
+N:       their path!
+N: G
+0: 
+0: 
+0: 
+0: 
+C: 200                       IZZIE (CONT’D)                          200
+D:                 Okay, stop this thing! Stoooop!
+0: 0:                                                               28.
+0: 
+N:       All the kids SCREAM as the wheel barrels right at the
+N:       Grimhold, no chance at stopping... The beast raising its arms
+N:       high like it’s going to smash them and --
+N:       VVVROOOM! Cooper’s giant wheel rockets right up the beast,
+N:       like it was a ramp! Shooting them straight up in the sky...
+0: 
+0: 
+0: 
+0: 
+C:                                                        TE
+D:       bursting out of the forest in a swirl of leaves.
+D:       The Grimhold’s momentum carrying it forward as it --
+D:       WHAM! Stumbles right into an oncoming Sharkface! Sending the
+0: 
+0: 
+0: 
+0: 
+C:                                                       U
+D:       baddies tumbling to the ground and the Night Hunter yelling
+D:       as we CUT TO --
+0: 
+0: 
+0: 
+0: 
+C:                                          IT
+D:       THE KIDS -- ROLLING OFF DOWN A HILL in the wheel...
+0: 
+S:       EXT. EDGE OF FOREST - DAY
+0: 
+0: 
+0: 
+0: 
+C:                                        ST
+D:       The kids all gather in the middle of a circle of HUGE
+D:       TOADSTOOLS. Cooper’s wheel on the ground.
+D: 201                       COOPER                               201
+0: 
+0: 
+0: 
+0: 202
+C:                                     IN
+D:                 Mateo, dude... quick thinking on
+D:                 how to use that wheel! That could
+D:                 have gone wrong in sooo many ways.
+C:                           MATEO                                202
+C:                          IS
+D:                 We all made it work.
+C: 203                       IZZIE                                203
+D:                 One thing I do know, I want that
+D:                 AV
+0: 
+0: 
+N:                 dang hourglass.
+C: 204                       LOGAN                                204
+D:                 Yeah, I mean, I could have totally
+D:                 pulled off some sick moves if I had
+D:             D
+0: 
+0: 
+0: 
+N:                 an hourglass. So what are we
+N:                 waiting for? Clock is ticking,
+N:                 right?
+N:       A
+0: 
+0: 
+0: 
+0: 
+N:       Everyone turns to face Mateo. He stands there with Z Blob on
+N:       his shoulder.
+N:     N
+0: 
+0: 
+0: 
+0: 
+C: 205                       COOPER                               205
+D:                 Teo... you ready?
+D: EE
+0: 
+0: 
+0: 
+0: 
+N:       Mateo meets the gaze of his friends.
+C: 206                       MATEO                                206
+D:                 I think WE’RE ready. If we stand
+D:                 together like Mr. Oswald said. But
+D: G
+0: 
+0: 
+0: 
+0: 
+N:                 what do you say?
+N:       Cooper smiles. Nods. Logan rolls his eyes. But nods.
+0: 0:                                                               29.
+0: 
+C: 207                       COOPER                               207
+D:                 Man, Mr. Oz is gonna flip when he
+D:                 hears about this.
+C: 208                       IZZIE                                208
+D:                 You know what’s really going to
+0: 
+0: 
+0: 
+0: 
+C:                                                       TE
+D:                 curl his beard...
+D:       Izzie pulls the Night Hunter’s crossbow from her backpack.
+E: 209                       IZZIE (CONT’D)                       209
+0: 
+0: 
+0: 
+0: 
+C:                                                      U
+D:                 You see the look on that big
+D:                 turkey’s face when I grabbed it?
+0: 
+0: 
+0: 
+0: 
+C:                                          IT
+C: 210                       NOVA                                 210
+D:                 My Mom was right: I’ve got to stop
+D:                 eating so much sugar before bed.
+D:                 This is the weirdest dream...
+0: 
+0: 
+0: 
+0: 
+C:                                        ST
+D:       Everyone turns to look at Nova who has been standing there
+D:       the whole time, confused. Nova yawns. And wanders off into
+D:       the serene distance.
+D: 211                       IZZIE
+0: 
+C:                                  IN
+D:                 Good thing you won’t remember it
+D:                 when you wake up.
+D:                                                                211
+0: 
+0: 
+N:       Izzie laughs. And as we PULL UP AND OUT, we catch a fleeting
+C:                          IS
+D:       glimpse of --
+D:       A WINGED SHADOW -- SWOOPING OVER THE TREELINE...
+D:                 AV
+0: 
+0: 
+N:       A GRYPHON WATCHING THE CHILDREN...
+T:       AND WE FADE TO BLACK...
+C:       END OF EPISODE
+C:             D
+C:       A
+C:     N
+C: EE
+D: G
+0: 

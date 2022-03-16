@@ -1,0 +1,2587 @@
+M: BORDERLANDS
+M: Written by
+M: Oren Uziel
+M: Based on the game by Gearbox
+M: Revisions by
+M: Craig Mazin
+M: Revisions by
+M: Tony Rettenmaier & Juel Taylor
+M: Current Revisions by
+M: Eli Roth
+M: 10-12-20
+S: 1 EXT. DEEP SPACE 1
+N: Even for a place as vast and unpopulated as deep space, this particular area seems like East Bumblefuck. No ships fly by, no fancy planets with those ooh-ahh CGI rings... Nope. Nothing. Nothing but the same zillion boring stars you always see in the opening of one of these-- hold on... wait. Some of the stars SHIFT, and we realize that in the center of the screen, in a long vertical strip, those blinky lights weren't stars but ACTUAL BLINKY LIGHTS... TITLE: GERAKI SYSTEM, OUTER REACH The STRUCTURE is slowly TURNING, revealing that we were looking sideways at something quite massive. A SPACE STATION, brutish and foreboding. TITLE: PRISON COLONY "HEPHAESTUS" And as it rotates further, we see now that the entire station is in the shape of an enormous A. TITLE: PROUDLY OWNED AND OPERATED BY THE ATLAS CORPORATION
+S: 2 INT. PRISON CELL - DAY? NIGHT? WHO CARES. 2
+N: HAIR. Greasy, unkempt hair hanging down in front of a face we can barely make out. Just an eye. Man? Woman? A water drop hits the prisoner's face, not sure if it's water torture or bad plumbing. REVEAL: the PRISONER SUSPENDED IN MID-AIR by ANTI-GRAV CUFFS around the wrists. Jesus pose. Wearing a particularly unflattering ATLAS INMATE GARMENT. This is LILITH, 40. It's clear from her hair, her skin... but mostly the way she just hangs there without panic or anger... that she's been here for a LONG TIME. On her RIGHT FOREARM, a TATTOO. A simple shape of an ARCH, like an upside-down U. Or V. She stares at it. Remembering to remember something. Or perhaps someone. And then, before we hear or see anything, her EYES SHIFT quickly, full alert. We hear the metallic clanking of robot GUARDS approaching, followed by an electronic keypad, then a loud BUZZ.
+C: ROBOT GUARD
+D: 50621. Come with us.
+E: O.S.
+N: The cuffs release, and Lilith drops, landing on the ground. She looks up through blurry eyes and sees two sad looking Atlas-branded robots. One looks like a garbage can with an eyeball on a wiry, metal stick. The robots help her stand. It's clear she has been dangling there for a while.
+S: 3 INT. PRISON COLONY CORRIDOR - ENDLESS 3
+N: Lilith walks, hands in Atlas-branded HANDCUFFS. A large digital sign reads "No Rest for the Wicked." They pass prisoners in their cells. Lilith makes eye contact with ATHENA, 30s, who holds her arm in a high-tech torture device in the wall, gritting her teeth in pain. Athena wears a headband that collects sweat and drains it into tubes which feed into the floor. A digital display ticks days off her 9,374 day sentence. Athena, unable to take any more, pulls her arm out and drops to the floor.
+C: TORTURE BOX VOICE
+D: Congratulations criminal, you're thirty six days closer to freedom! Your precious bodily fluids nourish our community with Atlas 'fluid-fuel' technology...
+N: We follow the tubes down below, where the sweat drains into an Atlas-branded 'Fluid Fuel' box, which pumps fluid below into a
+S: 4 INT. PRISON COLONY SHOWER 4
+N: Shower underneath where a gross looking prisoner washes. The shower water drains into a cell below.
+S: 5 INT. PRISON COLONY KITCHEN 5
+N: where a chef cooks a disgusting stew in a crockpot with skag by-products. An endless "ecosystem" of recycled fluids.
+S: 6 INT. WHITE ROOM - LATER 6
+N: A door SLIDES OPEN with a hiss. Lilith is nudged into the room by the Mantis robot with a little BZZT. Before she can turn around the door closes behind her. Her cuffs pop off. She SQUINTS because it's absurdly bright in here. Yes, from the lights over head, but also... almost everything is white. White floors, white desk, white walls. There's a chair for her at the table. Large windows show the star field outside. And on the other side of the desk... A MAN. Dressed to match the room. Perfectly dapper. He "flips" through the pages of a HOLOGRAPHIC INMATE FILE. His right hand is cybernetic. Designed to be appreciated. And yes, the file says ATLAS on it. So does the wall behind his head. And another one. "ATLAS... At last."
+C: THE MAN
+D: Sit. Lilith... "The Phantom of Promethea." "The Menoetian Night Cat." The "Eden- 5 She-Ghost." I rather like that one. Still, a bit grandiose for a thief.
+E: when she does
+N: He goes back to her file. In the images, holographic footage of Lilith breaking into various places, taken from surveillance cameras. We see images of items now. Statues, gems, metallic bricks, computer chips...
+C: THE MAN
+D: Fifteen bounties on your head, forty different law enforcement entities after you... seems you can find and steal anything-- no matter how protected. For a price, of course. But that isn't why you do it. Is it.
+N: Something menacing in his voice there. Lilith tenses ever so slightly. The Man notices. Almost delighted by it.
+C: THE MAN
+D: Lilith-- I'm not here to judge you, we're long past that. I'm here to hire you.
+N: And now he leans back, self-satisfied. And waits. Waits right there in his seat, right under the word ATLAS. Lilith looks at him. At the word. At him. Oh. Holy shit. He's--
+C: LILITH
+D: Are you...?
+C: THE MAN
+D: Deukalian Atlas. Pleased to meet you. So glad you guessed my name.
+C: LILITH
+D: ... You came to your own prison. To hire an inmate. To... what, steal something?
+E: off his smug look
+C: ATLAS
+D: Not steal. Find. And not something.
+N: He removes a PHOTO from his jacket, and hands it to Lilith. Lilith looks at the photo. It's of a YOUNG GIRL, maybe 12. Sweet and innocent-looking. But a hint of sadness too. She plays around in the picture, seemingly from a happier time.
+C: ATLAS
+D: Someone. My daughter, Allara. Taken hostage by a group of anarchists. I paid their absurd ransom and then-- no contact. That was one year ago.
+C: LILITH
+D: If you know so much about me then you know I don't rob graves.
+C: ATLAS
+D: She's alive.
+C: LILITH
+D: Which ear did they send?
+C: ATLAS
+D: She's alive.
+N: Atlas says this with a 'Don't fuck with me' tone. Lilith drops the badass prisoner posture. A little.
+C: LILITH
+D: Why me? You're Deukalian Atlas, you have a private army.
+C: ATLAS
+D: Six private armies. I sent my elite militia, the Crimson Lance, to find her. Even they've come up empty. Then it occurred to me that I was using a rather large hammer to solve a vicious rat problem, when what I needed was a vicious rat of my own.
+N: Atlas pulls out an apple. Lilith looks at it like she hasn't seen one in a long time. Maybe ever.
+C: ATLAS
+D: From an original seed. You ever try one? Didn't think so.
+N: CHOMP. He flips through her file again. We see images of Lilith's exploits. Demolished walls, bullet holes....
+C: ATLAS
+D: Never got caught-- until you broke into my allegedly impossible-to-find secret research facility on Phaeton.
+C: LILITH
+D: You'd think that would hurt my employment chances. And yet...
+C: ATLAS
+D: You got further than anyone was ever supposed to. Much, much further, which, in turn, exposed security flaws not even my best engineers were aware of. Thus, earning you this proposal: retrieve my daughter, and I grant you your freedom.
+C: LILITH
+D: And if I say no?
+N: Atlas tosses the one-bite apple into a little blue buzzing light. The apple disintegrates with a BZZT. Get the message?
+C: LILITH
+D: Good thing I love kids.
+S: 7 INT. DOCKING BAY - LATER 7
+N: We're in a DOCKING CHAMBER, a suspended BRIDGE leads to the hull of a JUMPSHIP. Atlas waits for Lilith outside a door.
+C: ATLAS
+D: I'd be happy to outfit you with the latest in Atlas weapons technology...
+N: The door opens and Lilith steps out in her classic Borderlands Lilith outfit. She spins and holsters her old looking (but hi-tech to us) VLADOFF INFINITY PISTOL..
+C: LILITH
+D: Thanks, but I'm more of a Vladoff girl.
+C: ATLAS
+D: Had a feeling you'd say that. But take this.
+N: Atlas hands her a small black Atlas-branded communicator with one button on it.
+C: ATLAS
+D: When you locate Allara, use this to signal me. Penetrates any disruption fields, goes directly to me. It's a one-of-a-kind prototype, so try not to break it.
+C: LILITH
+D: Yeah, cool, but-- why not just chip me and--
+C: ATLAS
+D: Chips can be removed. Your concern is simple. Find girl, get girl, push button.
+N: They arrive at the ship. He turns to her. Quite serious.
+C: ATLAS
+D: No one steals from a man with six armies. But you broke into my facility on Phaeton anyway. In fact, I don't think you even knew what was in there. That's why you did it... You just heard there was something incredible in there, and you had to know what it was. You're not a thief at heart, Lilith. You're an explorer. A seeker of the hidden, compelled to find that which no one else has. And that is why I believe you will find my daughter. Now, your chariot awaits...
+E: off Lilith
+N: He gestures to the ship. She steps on, then turns back. Remembering to ask the most obvious question of all.
+C: LILITH
+D: Where exactly am I going?
+C: ATLAS
+D: Home.
+E: a little smile
+N: PANIC in Lilith's eyes. She makes a motion to the door...
+C: LILITH
+D: WAIT WAIT NO NO N--
+N: WOOSH--WHAMMM. The doors SLIDE SHUT, trapping her inside. The ship is RELEASED from its moorings, and we're--
+S: 8 INT. JUMPSHIP - CONTINUOUS 8
+N: A small vessel with an autopilot, designed to carry just a few people. In this case, one very, very, very angry--
+C: LILITH
+D: YOU MOTHERFUUU--
+N: The ship accelerates, and she falls backwards. Really should have gotten into a seat before--
+S: 9 EXT. SPACE - CONTINUOUS 9
+N: --the ship ACCELERATES into space, hurtling away from us until the glow of its engines disappears among the stars.
+S: 10 EXT. THE ARID BADLANDS - PANDORA - HOURS LATER 10
+N: The sun-- wait, that's a diamond-ish covered moon?-- whatever... the BRIGHT THING IN THE SKY is shining down on the BAKED, PARCHED GROUND. Not a sound, other than the whistle of a HOT WIND, and the rusty whine of-- THE DERELICT SPACEPORT - maybe it was nice back in its day, but on this day, it's a piece of shit. And then... THE ATLAS JUMPSHIP roars into view, circles around, hovering over what was once a landing pad, but is now metal poles with scraps of wood.
+S: 11 INT. JUMPSHIP 11
+N: The DOOR OPENS, revealing a VERY PISSED OFF Lilith. She shields her eyes from the glare.
+C: PLEASANT AUTOPILOT VOICE
+D: Please exit the ship.
+C: LILITH
+D: Nope. Not happening.
+C: PLEASANT AUTOPILOT VOICE
+D: You need to exit the ship.
+C: LILITH
+D: Suck my di-
+N: With that, the ship begins TILTING--
+C: LILITH
+D: Okay! Okay! I'm going!
+C: PLEASANT AUTOPILOT VOICE
+D: Have a pleasant trip.
+N: An AIR BLAST SHOOTS from the ship, sending Lilith to the ground.
+S: 12 EXT. THE ARID BADLANDS - PANDORA - DAY 12
+N: She lands on the rocky dirt with a THUD, a beat later an Atlas PACK drops next to her, nearly hitting her head. She breathes a sigh of annoyance, and then an ATLAS INFLATABLE SAFETY RAFT LANDS ON HER. Lilith looks up and fires off a torrent of NSFW words, none of which we can hear as the jump ship takes off. Lilith looks out toward the horizon. In the far distance, a MURKY HAZE... some massive area blanketed in an evil vapor. Then... a CREAKING NOISE. Lilith turns and sees... A LARGE BILLBOARD, meant to welcome visitors in some long ago, far happier time. A painting of a MOTHER holding her LITTLE DAUGHTER as they both look off into the distance, smiling, as if welcoming some bright, beautiful tomorrow. It reads: Welcome to Pandora! The NEXT paradise planet! Well, it mostly says that. A bunch of the rusting panels have fallen off. It's decaying and riddled with BULLET HOLES. Lilith stares at the little girl's face. So happy, so hopeful. With her shot-out eyes and sniper-rifled teeth. Across her face, someone has SPRAY-PAINTED: WHAT'S IN THE VAULT? Lilith stares at the mother and girl, remember something...
+S: 13 EXT. THE ARID BADLANDS FB - DAY 13
+N: FLASH: The same spot, years earlier. A ship taking off - a little girl crying - screaming for her mother -
+S: 14 EXT. THE ARID BADLANDS - DAY 14
+N: BACK TO THE PRESENT: A GROWL. Unseen by Lilith, a LONE SKAG creeps up behind her. An ugly hyena-sized creature, it opens back its face, all teeth, preparing to charge its unsuspecting prey... Lilith stares at the sign, lost in a memory, the girl screaming for her mother...the sound of the ship leaving - Suddenly - CRASH! The sign is OBLITERATED by a RAIDER TRUCK SMASHING THROUGH, coming right at Lilith, snapping her out of her memory... Lilith DUCKS out of the way... The truck hits the ground and slams into the Skag. Lilith leaps through the hole in the sign, taking cover. The truck roars and spins back, PSYCHO RAIDERS all over it... They whoop and holler with animalistic cries. The raiders floor it - charging right back towards Lilith. Lilith readies her Vladof, when the COMMUNICATOR CHIRPS.
+C: ATLAS
+D: I see you've arrived. Pandora's exosphere is highly ionostatic-
+E: COMMUNICATOR
+C: LILITH
+D: Yeah, hey, I'm a little busy with the welcoming committee -
+N: Atlas continues talking as if nothing she said matters. The Raider truck speeds closer... Lilith scans the landscape, and sees an old corroded chemical barrel labeled FLAMMABLE. The Psychos shoot at Lilith, tearing up the picture of the little girl in the sign. Lilith spins around and FIRES, hitting the barrel as the Psychos drive past it! BOOM! The barrel blows, flipping the Raider Truck ON ITS SIDE, SKIDDING FULL SPEED ACROSS THE DIRT. The Psychos scream, only now it's not out of fun... The driver steers helplessly as they skid towards a giant hole in the ground... The Truck tumbles into the deep hole...a SKAG DEN. It's like falling into an alligator pit, only less friendly. Lilith walks up to the hole, as we hear the chomping and growling of skags eating what's left of the Psychos.
+C: ATLAS
+D: Did you get all that?
+E: COMMUNICATOR
+C: LILITH
+D: Of course. But... just to be sure, do you mind repeating?
+C: ATLAS
+D: I said do not use the communicator until you find and secure Allara.
+E: COMMUNICATOR
+N: The Skag that truck hit is still alive, dragging itself towards Lilith with its front paws. Lilith sees one last Psycho crawling up the wall of the pit. She raises her gun.
+C: LILITH
+D: And if I can't find her?
+N: Suddenly, the Skag leaps - past Lilith - onto the psycho with a chomp to the face! They both fall to the bottom of the pit.
+C: ATLAS
+D: Then welcome home. For good.
+E: COMMUNICATOR
+N: BZZZT. End of communication. Lilith throws her pack over her shoulder and takes a step into the horizon when - BOOM BOOM BOOM BOOM BOOM BOOM BOOM... The title "BORDERLANDS" drops out out of the sky, settling in the dust like the Hollywood sign. Lilith shakes her head, walking on.
+C: LILITH
+D: God I hate this place.
+S: 15 EXT. WASTELANDS OF PANDORDA - DAY 15
+N: We hear THE SOUND OF AN APPROACHING VEHICLE. Oh god, more? Nope... this is just a kitbashed old TRANSPORT BUS. It pulls to a stop, and the DOOR opens with a HISS. The driver is MARCUS. Stocky, 50, circle beard on his face, and a twinkle in his eye. He speaks with an odd accent.
+C: MARCUS
+D: Need a ride?
+N: Lilith looks around. Spot fires, monster guts, and debris scattered around her. Yeah. She needs a ride.
+C: MARCUS
+D: Great! Welcome aboard - people inside, bags up top. Rules are rules. Hey, nice Vladof, love the Infinity!
+S: 16 INT. MARCUS BUS - MOMENTS LATER 16
+N: Marcus drives along, cheery. Checks his mirror to see LILITH, his only passenger. Grabs a microphone. Feedback! SQUEEWEEW!
+C: MARCUS
+D: Hello passenger! My name is Marcus--
+C: LILITH
+D: I can hear you without--
+C: MARCUS
+D: Welcome to Pandora! Look around, at our endless lush rain forests and magical glowing fauna. Kidding! We're not that Pandora, we're the original Pandora, not that anyone believes we took the name first. Next stop: Fyrestone, where all Vault Hunters begin.
+C: LILITH
+D: I'm not a Vault Hunter.
+C: MARCUS
+D: If you say so! But this bus is for transporting Vault Hunters, sooooo...
+N: Marcus pushes a button. A small video screen protected by a cage on the back of the seat in front of her starts up. ON VIDEO SCREEN - a corny fanfare, and a strangely retro WELCOME video begins to play over ANIMATED IMAGES. "A Magic Marcus production..."
+C: NARRATOR
+D: Well hel-LO, brave Vault Hunter!
+C: LILITH
+D: I said, I'm not a--
+C: NARRATOR
+D: So you've come in search of THE LOST VAULT OF THE ERIDEANS!!!
+C: LILITH
+D: Oh my god-- THERE IS NO VAULT. TURN THIS OFF PLEASE.
+C: MARCUS
+D: No can do. Price of Admission!
+N: Marcus mouths along with the words, excitedly watching her reaction in the rear view mirror.
+C: NARRATOR
+D: Right here on the placid, pristine, perfectly-preened paradise planet PAAAAANDDOOOORRRRAAAA!!!
+S: 17 EXT. WASTELANDS - PANDORA - DAY 17
+N: OUTSIDE - a skag takes a shit in the middle of the road before getting its shit pushed in by the bus’ all-terrain tires. Paradise, indeed.
+S: 18 INT. MARCUS BUS - DAY 18
+N: BACK ON THE SCREEN - footage of ERIDEAN RELIEFS depicting angelic humanoid beings.
+C: NARRATOR
+D: The Erideans left little behind, but the technology within each rare Eridean relic that has been found? Why, it's the science behind many of the advanced products sold by all your favorite vertically-integrated multisystem conglomerates! Like Dahl, Atlas, aaaaaand Hyperion!
+C: MARCUS
+D: Hyperion is the WORST, right?
+C: LILITH
+D: Turn this shit off. NOW.
+C: NARRATOR
+D: Legend tells that the Erideans hid their greatest power in a SECRET VAULT somewhere right here on Pandora!
+N: Lilith pulls out her Vladof. Aims for the screen.
+C: MARCUS
+D: Don't shoot - that Infinity will go right through the monitor and into me, which would be bad for both our health at these speeds, ha ha!
+C: NARRATOR
+D: And when our corporate overlords heard about all that juicy treasure, they cranked capitalism up to 11, muscled in, set up shop, and displaced all those peaceful folks who already called Pandora home!
+S: 19 EXT. PANDORA FB - DAY 19
+N: Footage of a HYPERION SHIP landing dead on top of an idyllic FARMING HOMESTEAD. Killing all inside.
+S: 20 INT. MARCUS BUS - DAY 20
+N: Lilith KICKS at the SECURITY CAGE. It doesn't budge.
+C: NARRATOR
+D: But they didn’t just come alone, they brought friends!
+N: Lilith KICKS AND KICKS at the monitor. Marcus looks in the mirror, getting a little concerned.
+C: MARCUS
+D: Hey, um, those are expensive - your leg fall asleep or something?
+C: NARRATOR
+D: ...Hordes of prisoners to use as slave labor in the excavation pits! But radiation affected their brains and turned them into psychopaths who roam the land maiming and killing to this day. But still - no vault!
+C: LILITH
+D: Because THERE IS NO DAMN VAULT.
+N: Her angry boot finally breaks through the cage, cracking the monitor. BZZT. The buzz sends the whole system on the fritz. The video glitches and garbles on all the monitors. Marcus, panicked, hits a control panel. A string of old video tape spills out of a slot like spaghetti. Marcus stops the bus, aghast.
+S: 21 EXT. WASTELANDS - PANDORA - DAY 21
+N: Lilith stands outside the bus, tail between her legs. Marcus screams at her from the driver's seat.
+C: MARCUS
+D: Forty bloody miles to Fyrestone, enjoy starving to death if the Threshers don't eat you first! Oh, and I'll take that fancy pack of yours as payment for breaking my boss entertainment system!
+N: Marcus drives off. She knows he's not wrong, she doesn't even put up a fight. The bus hits a POTHOLE in the road, bumping, sending her pack off the roof and to the ground. Lilith picks it up, dusts it off, and throws it over her shoulder and starts walking into the desolate landscape. But she's not alone... A POV from far, far away watches her through binoculars as she navigates the hostile terrain.
+S: 22 EXT. PANDORA - WASTELANDS - DAY 22
+N: Lilith walks past broken down, shot-up faded signs from DAHL and HYPERION. Vandalized on them by different hands: "VAULT OR DIE" "IT AIN'T HERE" and "NOT MY VAULT!" A few wanted posters for scary looking criminals hang on posts, blowing in the wind. One poster stands out: a serious looking soldier in a Crimson Lance uniform. ROLAND. Wanted: $100,000 alive. $10,000 Head only. $17,500 Head with shoulders attached. Sitting on the post above the poster she sees a doll: a headless bunny. Odd... She pulls the doll off the sign, examines the string on its back, then slips it in her bag.
+S: 23 EXT. SHANTY - OUTSKIRTS - DAY 23
+N: Lilith talks with a few poor civilians, who live in the remains of old Dahl and Hyperion ships. She shows the photo, they shake their heads and go back inside, unable to help.
+S: 24 EXT. STATUE - DUSK 24
+N: A scrap metal and garbage pile in the middle of nowhere, and the foot of a giant, towering statue of some evil warlord. Lilith approaches the statue with trepidation: a Psycho warrior in a spiked steel battle suit, with a horned mask, a giant machete in hand. A terrifying vision, meant to warn anyone who enters these lands. Below it written ALL HAIL KROM. Suddenly, the statue bellows in a loud, crackled, pre- recorded voice:
+C: STATUE
+D: ALL HAIL KROM!
+N: Lilith remembers something terrible. A voice comes into her head. The same voice, blending with the recorded one.
+C: KROM
+D: ALL HAIL KROM.
+E: V.O.
+S: 25 EXT. PANDORA FB - DAY 25
+N: FLASH: Continuation of what we saw earlier. A LITTLE GIRL - REACHING FOR HER MOTHER - SCREAMING. DUST, WIND, CHAOS. A SHIP TAKING OFF... And then KROM- POINTING A CANNON FROM A TURRET AT HER MOTHER.
+S: 26 EXT. STATUE - DUSK 26
+N: BACK TO THE PRESENT: Lilith realizes she's activating a speaker by standing on a small piece of metal. She takes her foot off. It stops. She hears some rustling noise and turns to the scrap pile. Someone, or something, is under there. She pulls her gun, ready, when a child, about 10, pops up with up a rusty weapon. A few other kids scramble out, admiring the find.
+C: CHILD
+D: Betcha it still works!
+N: The child is about to fire the gun, when Lilith grabs the kid's hand. The kid looks surprised.
+C: LILITH
+D: Don't wanna fire an old Tediore if you like having fingers.
+N: Lilith tosses the old gun up and SHOOTS it like a skeet. The gun EXPLODES, much to the kids delight.
+C: LILITH
+D: Chiquita Amigos are about the cheapest guns ever made.
+E: MORE
+C: LILITH
+D: If you ever see someone missing a hand, chances are they owned one. Hey, can you guys tell me-
+E: cont'd
+N: She turns, and sees the kids are GONE. Hiding in the scrap.
+C: LILITH
+D: ...tell me how I'm gonna finish all this chocolate by myself?
+N: Lilith takes out a large Atlas CHOCOLATE BAR from her pack. Just hearing the unwrapping noise and the kids jump out.
+C: KIDS
+D: I'll help - give it, give it -
+C: LILITH
+D: There's plenty for everyone - if I share. But, you have to share something with me. A little info. I want to know if you've seen her.
+N: Lilith shows them the photo of Allara. The kids look at each other, a knowing look between them.
+C: CHILD
+D: You with the red hats? Your bag says Atlas, like their trucks.
+C: LILITH
+D: I need to find her before they do. So I can help her. She's in danger.
+S: 27 EXT. ROCKS - DUSK 27
+N: The kids lead Lilith up a rocky path, over a boulder field. They all climb with fairly natural instincts for the rocks. They reach an opening in the rocks, small enough for a child to fit through.
+C: CHILD
+D: She hides in there where it's safe from Krom and his psychos. If they catch you, they own you...unless you die or lose an arm or something. They're too big to fit in there.
+C: LILITH
+D: Good thing you helped me with that chocolate.
+N: Lilith squeezes her pack in, and then slips into the hole feet first. We see she has total control over her body. She twists, turns, and fits in. Now we get a sense of how she got in and out of places as a thief.
+S: 28 INT. CAVE - DUSK 28
+N: Lilith stands in the cramped corridor in the rock. A small light at the end of the corridor. She takes a step, but her bag wedges in the rock. She leaves it in the wedge.
+C: LILITH
+D: Hello?
+N: Lilith's voice echoes through the cave. At the very end, she sees a large (large for a child) room, with a small girl standing by a fire. The fire illuminates a huge drawing the girl's scratched in the rock with a tool. In the illustration, a winged half-bird/half-human hovers over the ground, in a protective bubble, shooting fire from its hands at psychos below. The girl senses Lilith's presence, but keeps drawing, never turning around.
+C: LILITH
+D: That's a pretty drawing. What is it?
+C: DRAWING GIRL
+D: Firehawk. She can phase walk. Every kid on Pandora knows it.
+C: LILITH
+D: I was a kid on Pandora, I don't know it.
+C: DRAWING GIRL
+D: You probably just forgot it. Firehawk's gonna save us. She's in hiding, but when they find the vault keys, she's gonna come out and burn all the bad people.
+C: LILITH
+D: Let's hope so. Can I ask you something?
+C: DRAWING GIRL
+D: You just did.
+C: LILITH
+D: I haven't asked it yet.
+C: DRAWING GIRL
+D: You asked if you could ask me something. That's a question.
+C: LILITH
+D: Fair enough. Is this you?
+N: Lilith holds up the picture. The girl stops drawing.
+C: DRAWING GIRL
+D: You tell me.
+C: LILITH
+D: I can't if you don't turn around.
+C: DRAWING GIRL
+D: Then ask me to turn around.
+C: LILITH
+D: Would you mind turn -
+C: DRAWING GIRL
+D: I haven't seen her.
+C: LILITH
+D: How can you be sure?
+N: The girl turns around. She's BLIND. Her EYES HAVE BEEN SCRATCHED. Covered with bandages, crudely taped.
+C: DRAWING GIRL
+D: Because I haven't seen anything. You want to hear another story? About the little girl Krom kidnapped and put in a cage for the Raks to scratch her eyes out? And the red hat soldiers who watched and did nothing?
+N: Lilith stumbles back. It's definitely not Allara.
+C: LILITH
+D: ...I'm sorry.
+C: DRAWING GIRL
+D: You're not sorry. But you will be.
+S: 29 EXT. ROCK FACE - NIGHT 29
+N: Lilith exits cave to find the kids, and her pack - gone.
+C: LILITH
+D: Hey. HEEEEYYY!!!!! Dammit.
+C: DRAWING GIRL
+D: Now you're sorry.
+E: from the cave
+C: LILITH
+D: Now I'm PISSED.
+S: 30 EXT. CAMPFIRE - WASTELANDS - NIGHT 30
+N: Lilith sits by a campfire near some rocks. A small rodent- like CREATURE scurries by. Lilith PINS it with a knife.
+S: 31 EXT. CAMPFIRE - LATER 31
+N: Lilith roasts the rodent creature on the stick. It looks about as tasty as rodent on a stick sounds. Off in the distance, we hear Krom's Psychos attack. We don't know who they're attacking, we just hear the victim's screams and the roar of their vehicles. "ALL HAIL KROM" echoes. A large SHADOW GROWS behind Lilith. A CREATURE APPROACHING BEHIND HER... Lilith instinctively turns and FIRES - We hear a METALLIC-VOICED SCREAM, and then a loud CLATTER as something hits the ground.
+C: VOICE
+D: My eye! You shot me in my eye!
+E: SHADOWS
+N: It RISES UP from the rock pile it landed in, and now we see it. Looks like a trashcan balancing on one wheel with two spindly arms waving about and--
+C: SHITTY ROBOT
+D: You've blinded me for life! How will I manage to surviii'm just kidding!
+N: The robot has TURNED around to face forward, revealing its shot-at but perfectly fine ROUND, LIT-UP EYE.
+C: SHITTY ROBOT
+D: I was designed to withstand all kinds of violent acts, even completely unjustified ones like yours!
+C: LILITH
+D: You're the voice on that godawful video.
+C: SHITTY ROBOT
+D: I very well could be! Hyperion used one voice module across an entire line of now-discontinued products, because it's SO PLEASING TO THE EAR!
+N: Lilith cringes. It really is grating.
+C: LILITH
+D: How do I shut you up?
+C: SHITTY ROBOT
+D: I'm programmed for humor, so I will process that as witty banter! Now I bet you're wondering, "what's the deal with this thing?"!!!
+C: LILITH
+D: I'm not. Beat it.
+C: SHITTY ROBOT
+D: I'm a Hyperion brand CL4P-TP, possibly the last of my kind still in service! But you can call me--
+N: She SHOOTS the robot in the eye AGAIN. He goes flying, and lands in a heap.
+C: SHITTY ROBOT
+D: Whoopsy! You accidentally shot me in the face again! As I was saying, you can call me CLAPTRAP!
+C: LILITH
+D: I can do this all night. So piss off.
+C: SHITTY ROBOT
+D: Sorry! No can do! Believe me, I wish I could based on what little I've experienced of your horrendous personality! Buuuut I have no choice.
+C: LILITH
+D: What do you mean? Did Atlas send you?
+C: CLAPTRAP
+D: Atlas? YUCK! I don't work for the competition! No, I've been lying dormant under a garbage heap for-- calculating-- 26 years! But the moment you landed on Pandora, I was re-activated -- because I've been programmed to help you.
+E: MORE
+C: CLAPTRAP
+D: So thank you for waking me from my blissful slumber into this living hell!
+E: cont'd
+C: LILITH
+D: No one knew I was coming here, not even me. Who programmed you?
+N: Gun at his eye.
+C: CLAPTRAP
+D: I don't know! Which is a shame, because you're an awful person and I'd love to know who to blame for this. Since I don't, I have no choice but to serve you UNTIL YOU'RE DEAD... Did that sound like a threat? Sorry! Anyway, it's true. As long as you're NOT DEAD!-- I'm here to help! And I have many skills! Balancing! Turning in circles. Holding objects with only a 38% chance of crushing them!
+E: demonstrates
+C: LILITH
+D: I don't need a partner.
+C: CLAPTRAP
+D: Oh, and I can find pretty much anyone currently alive on Pandora!
+N: This gets Lilith's attention. She lowers the gun.
+C: LILITH
+D: Anyone?
+C: CLAPTRAP
+D: A-ha, so you're looking for someone! Just show me a picture, I'll hack into
+C: the abandoned ECHONET communications
+D: system, search its slowly-dying visual banks for matches, and find your target's last known location!
+C: LILITH
+D: Can't other robots do this?
+C: CLAPTRAP
+D: Not likely! In robot years I'm a dinosaur, probably the last of an obsolete model capable of communicating with Echonet, built by the same manufacturer.
+E: MORE
+C: CLAPTRAP
+D: Your arrival reactivated me, so no one has achieved this because they were attempting with modern technology. Do I need to keep explaining? Is everyone at home following?
+E: cont'd
+C: LILITH
+D: Okay okay, I get it! Find her.
+N: Lilith holds the photo of Allara in front of Claptrap. A SCANNING BEAM emits from his eye, moving over it.
+C: CLAPTRAP
+D: Aaaaaaaccessing network!
+N: He rocks back and forth rhythmically as he sings a song.
+C: CLAPTRAP
+D: Scanning, scanning, scanning, scanning, scanning--
+C: LILITH
+D: Without the singing.
+C: CLAPTRAP
+D: No can do, blame the programming Gods. Scanning, scanning, scanning-- done! Your target was last recorded near an abandoned railroad crossing, up north in the Tundra Express! Too bad for you it's suuuuuuper dangerous. Gee, I hope you DON'T DIE.
+C: LILITH
+D: What's the fastest way there?
+S: 32 EXT. OPEN TERRITORY CLIFFS - DAY 32
+N: From high atop a cliff, Lilith and Claptrap peek over the rocks, looking down on a Canyon. Psychos race around in Outrunners near the entrance. The place is crawling with them. Then her skin goes cold as she reads KROM'S CANYON, written in bones. She pops down, hiding out of sight.
+C: LILITH
+D: Find another way.
+C: CLAPTRAP
+D: Absolutely. Around the canyon, it's only 132 two days on foot, with a 98% percent chance of being attacked by a Crawmaggot!
+N: Lilith thinks about it, strategizing how to do this.
+C: LILITH
+D: Gimme a hand.
+C: CLAPTRAP
+D: I prefer the term "claw-like gripper thingy," but yes, happy to assist.
+N: Claptrap puts out his gripper, taking her foot. He's strong.
+C: LILITH
+D: Don't crush it, that foot's real.
+C: CLAPTRAP
+D: The crush function on this model's armpit-activated. You're perfectly safe. I'm sure at no point will you need to use it.
+N: Claptrap's arm raises her up to a more perilous perch with a better view. She takes out a small pair of binoculars. Then the screen BLINKS - and we're magnified. BLINKS AGAIN - more magnified - someone's watching Lilith...
+S: 33 EXT. KROM'S CANYON - DAY 33
+N: LILITH'S POV: Down below, she sees... a psycho, holding her Atlas pack. Others waving around the various items in her pack. High above, hanging in a cage - Lilith sees THE CHILDREN WHO ROBBED HER. They look terrified. In the sky - RAKS. Giant winged beasts. One at a time, they DIVEBOMB THE CAGE, knocking into the bars, sending it swinging like a pendulum. The kids scream. Down below - other children - working, building, breaking rocks - Krom's slaves. Lilith then notices a terrifying looking man wearing a metal suit with horns, standing on a boulder. Lilith's eyes narrow. She hears the voice in her head.
+C: KROM
+D: ALL HAIL KROM.
+E: V.O.
+N: She aims the rifle at Krom's head, then follows him in her sights as he walks over to... two soldiers wearing Red Hats, near an ATLAS MILITARY VEHICLE. The Crimson Lance... The soldiers glance at the kids in the cage, looking at them with binoculars. They shake their heads no to Krom, then get back in their Atlas vehicle...doing absolutely nothing to help.
+S: 34 EXT. OPEN TERRITORY - CLIFF - DAY 34
+N: Lilith's finger twitches, itching to shoot. Teeth gritting.
+C: CLAPTRAP
+D: I'm sure they'll let us through if you ask politely. That would never get you killed!
+N: Lilith takes her eye off the sight and looks around. Just outside the entrance, by the Outrunners, she spots a Psycho, farther out, refueling at an old pump.
+C: LILITH
+D: Got a better plan.
+S: 35 EXT. KROM'S CANYON - DAY 35
+N: The Rak hits the cage, its claws wildly swinging inside at the kids. The kids SCREAM. The cage swings. Suddenly.... BOOM! The Rak DROPS DEAD, SHOT OUT OF THE SKY. BOOM! Another shot! The cage's chain EXPLODES as it swings - The cage breaks open on the rocks, and the kids ESCAPE! They scramble into the cracks of the rocks like roaches. Krom looks around, no idea what just happened. The slave children duck in terror. The Psychos scream and charge towards the gunfire, bloodthirsty. Suddenly, BANG! BANG! BANG! MORE GUNFIRE, this time from a totally different direction, confusing everyone.
+S: 36 EXT. OPEN TERRITORY - CLIFF - DAY 36
+N: Lilith looks up, mid-run, and sees a GLINT from a rifle, NOW AIMED AT HER, from across the canyon. But it doesn't fire. Lilith keeps running. The POV watches her, then leaves.
+S: 37 EXT. REFUELING PUMP - DAY 37
+N: The Psycho refueling his car steps away from the pump to see what the commotion is. He quickly runs back to put the hose away, when Lilith LEAPS on him from the hood of the Outrunner, strangling him from behind with the hose! Claptrap wheels over to help but just gets KICKED away. Lilith WRAPS THE GAS HOSE around the man's neck and jams the pump into his PSYCHO MASK EYE HOLE.
+C: LILITH
+D: Claptrap! ...Fill 'er up!
+N: Claptrap hits the lever at the pump, sending fuel into the psycho's mask. Within seconds, he's on the ground, dead.
+C: CLAPTRAP
+D: That was so out of character to save those children!
+C: LILITH
+D: It was a distraction. Get on.
+N: Claptrap notices there's only one seat, but a cage on the back of the vehicle, used for transporting anyone unlucky. The headless bunny is in the back. This must have been the guy who picked up the kids.
+C: CLAPTRAP
+D: Oh look, someone left their bunny! So where do I sit?
+S: 38 EXT. WASTELANDS - PANDORA - DAY 38
+N: VRRRROOOOOOMMMMM. Claptrap banging around in the cage.
+C: CLAPTRAP
+D: THIS WAS NOT WHAT I HAD IN MIND!
+N: Lilith barrels across the landscape, wearing the dead Psycho's face mask. A truck full of Psychos PULLS OUT IN FRONT OF HER. Psychos on the back ready to leap on her. She looks to the side - another with psychos pulling up. Lilith looks at the psycho about to leap and HOLDS UP THE DEAD PSYCHO'S MACHETE LIKE MIDDLE FINGER AT HIM. The psychos laugh...and peel off. They join the other vehicle, which breaks away, leaving her. The decoy worked.
+S: 39 EXT. TUNDRA EXPRESS - LATER 39
+N: The Outrunner rolls slowly through a narrow CHANNEL and emerges into AN ABANDONED QUARRY. Cliff walls extend up all around, pockmarked by abandoned mining equipment. She stops.
+C: CLAPTRAP
+D: Please, kill my power. I won't tell.
+C: LILITH
+D: You said you wanted to help.
+C: CLAPTRAP
+D: I said I'm programmed to help. What I want to do is wipe my memory, you horrendous she-devil. Please.
+N: Against the far wall of the quarry, a gargantuan pile of DEAD VEHICLES - trucks, buses, bulldozers, you name it.
+C: LILITH
+D: You sure this was it?
+C: CLAPTRAP
+D: I never make mistakes! We are in the last known location of your quarry. HAHAHAHA - get it?
+N: Lilith looks around. No signs of life.
+C: LILITH
+D: Ask Echonet if she's still here.
+C: CLAPTRAP
+D: Accessing... the girl was here... but it looks like she's long gone by now.
+C: LILITH
+D: Does it.
+E: sees something
+N: CLOSE ON: a smoothed area of ground. Like 90˚ of a circle. Lilith crouches down, examining the ground. Runs her finger over it. Something scraped here. Something like-- A RUSTY DOOR - part of an old TANKER TRUCK on the bottom of the vehicle stack. Lilith PULLS the door OPEN. It SCRAPES the ground. Claptrap peers into the truck's cab from the cage.
+C: CLAPTRAP
+D: I can search for clues if-- ...or I can watch from here.
+E: MORE
+C: CLAPTRAP
+D: I have very little depth perception anyway. I can just magnify. Safer for us both.
+E: cont'd
+N: Lilith sprinkles a little dust from the ground, illuminating a MICRO-WIRE stretched taut across the entrance. Lilith smiles, in her element. Runs her hands over the seat, feeling... then looks down... then up at the roof of the cab... Yup. Got it. She PULLS a lever we didn't see under the seat, and FLINGS the seat BACK, revealing a SPRING-LOADED METAL LADDER, which SHOOTS STRAIGHT UP, PUNCHING right through a HINGED DOOR in the ceiling of the cab. It leads right up into the fortress of piled vehicles. She carefully clambers over the wire and HEADS UP.
+S: 40 INT. ABANDONED LAIR - MOMENTS LATER 40
+N: A TRAPDOOR at the bottom of a stacked RV of some sort is PUSHED UP... and Lilith pokes her head up. Head on a swivel. She pulls her gun. Hits the light on it. Her eyes go wide. Holy shit. She climbs all the way in... and now we see it. THE LAIR - someone was living here. Filthy mattress, shabby clothes, empty skag meat tins, old bits of stuffed animals, including a bunny head that matches the doll. And then-- A WALL OF MADNESS. One wall of the lair is covered in hand drawn MAPS, NOTES, lines drawn between them all, and the writing... TREASURE BEYOND TREASURE - FIND THE KEY - THREE PARTS - DAUGHTER OF ERIDEA - OPEN THE VAULT - SALVATION!!!!! And spray-painted over the whole shebang: THE SAME SHAPE that's on Lilith's arm. Lilith moves in closer... to a page with some kind of ancient writing... she doesn't know what it says, but she's seen these glyphs before...
+C: ECHOING VOICE
+D: Hmm hmm hmm hmm hmmmmm hmmmm....
+N: Lilith WHIRLS. Gun up. An unseen GIRL'S VOICE is ECHOING from somewhere within the massive mountain of vehicles. And it's humming the tune to... Pop Goes The Weasel? The voice seems to be moving. Above. To the right. To the left. This is a trap. Lilith is already on the move.
+S: 41 EXT. TUNDRA EXPRESS QUARRY - SECONDS LATER 41
+N: Lilith HURTLES out of the truck, guns ready.
+C: ECHOING VOICE
+D: All around the stactus plant... The stalker chased the girly...
+N: Lilith finally pinpoints the voice. High atop the pile of dead vehicles... IS A 13-YEAR OLD GIRL. Ratty dress, leather duster, band-aid across the nose, headband, streaks of pink in her dirty hair. Is this-- ?
+C: LILITH
+D: Allara?
+N: Yeah, sure looks like it! But around here, she goes by:
+C: TINY TINA
+D: The stalker thought t'was all in fun...
+N: Tina gets a CRAZED LOOK of JOY in her eyes as she runs toward an old-school DETONATOR. She LEAPS INTO THE AIR--
+C: TINY TINA
+D: POP-- !
+N: She comes down HANDS-FIRST onto the detonator... Lilith RUNS and-- KABOOOOOM! A dozen LANDMINES EXPLODE around our hero!
+C: TINY TINA
+D: --GOES THE STALKER!
+N: Lilith hits the ground hard. Face full of dust. She gets back up just in time to see Tina KICKING A CRATE open.
+C: LILITH
+D: Allara! I'm here to save you!
+C: TINY TINA
+D: Allara? Nah, baby girl, my name's Tina. I'm a little teapot, bloody and cut... here is my CANNON--
+N: She pulls the tarp off some kind of HOWITZER.
+C: TINY TINA
+D: --and here is my BUTT.
+N: Tina then hits the BUTTON... BOOM! Lilith SLIDES under the Outrunner.
+C: TINY TINA
+D: Where'd you go? I looooooove it when assassins drop by. Now I get to make it raaaiiiiin! With ya body parts.
+C: CLAPTRAP
+D: Bleeding out yet?
+E: still caged
+N: Lilith, PISSED, rolls out from under the Outrunner.
+C: LILITH
+D: ALLARA! I'm a friend -
+C: TINY TINA
+D: Tinaaaaa...
+C: LILITH
+D: Whatever. Listen, I'm not an assassin. I'm here to HELP you.
+C: TINY TINA
+D: Uhhhhh, do I look like I need help? Cuz I'm up here and you're all "hidin' under a car" like a B-Y-ITCH.
+N: That does it. Tiny Tina might be deadly, but she's also just a child. And Lilith has had enough. She aims her gun at Tina.
+C: LILITH
+D: You get down here right now or--
+C: TINY TINA
+E: yelling to no one
+C: OH KRIIIIIEEEEGGGGGG? This fancy-ass
+D: wimminz is pointin' guns at your best freh-end...!
+N: CLANG. CLANG. CLANG. Deep ECHOES from within the pile of vehicles. Lilith turns to the noise. Oh god. What now?
+C: TINY TINA
+D: Oh this is gonna be good... for me. For you it's gonna be--
+N: Tina makes FLESH RIPPING and EXPLOSION sounds. CLANG! A door FLINGS OPEN, and we meet: KRIEG, a shirtless, thick-muscled PSYCHO, face covered in a gasmask, only ONE EYE exposed.
+C: CLAPTRAP
+D: Welp, it's been fun, but I can see where this ends, better to be leaving now...
+N: Claptrap starts to rattle the cage, trying to open it. Krieg lifts his CLUB - a massive PIPE fitted with some hideous SPIKED SAW BLADE at the end.
+C: LILITH
+D: You're holed up with psychos?!
+C: TINY TINA
+D: He only USED to be a psycho! Now he's my big BRUDDAAAAH! Cuz I'm SPECIAL! Now tell her what she's won, Krieg!
+C: KRIEG
+D: I HAVE THE SHINIEST MEAT BICYCLE!
+N: Lilith lowers her gun. What? Even Tina hangs her head.
+C: TINY TINA
+D: Ugh. I told you Krieg, you gotta think this stuff through.
+N: Krieg CHARGES AT LILITH, club RAISED... he LEAPS IN THE AIR, she FIRES... he BLOCKS THE BULLETS with the SAW BLADE... shit, this guy's good... Lilith dives aside, barely evading the blade as Krieg SLAMS it down into the ground.
+C: TINY TINA
+D: OH YEAH! It's BADONKADONK TIME!
+N: WHAT? Well, that's what Lilith would have said, but Tina is now firing GRENADES from a LAUNCHER. Lilith and Krieg continue to SWING and SHOOT at each other, all while BOTH OF THEM are EVADING the bombs raining down.
+C: TINY TINA
+D: Throw a few grenades at the fancy-ass stalker, blow stuff up and make people die...!
+E: singing
+C: KRIEG
+D: MY STOMACH IS CLEAR AND MY MIND IS FULL OF BACON!
+N: KABOOM! Grenades exploding everywhere. Only one way out of this... and that's summoning Atlas. Lilith pulls out the COMMUNICATOR, but gets BODY SLAMMED by Krieg... The communicator goes flying... and lands on the ground. As Krieg and Tina continue their assault...
+C: LILITH
+D: CLAPTRAP!
+N: Claptrap tickles his own armpit with one hand, giggling, snapping the cage open. He hops down, wheeling away, bunny in claw-like gripper thingy.
+C: CLAPTRAP
+D: Oh, I'm not part of this.
+C: LILITH
+D: Yes you are!!!!
+C: KRIEG
+D: I'LL LICK YOUR SPINE CLEAN!
+C: TINY TINA
+D: Oooh, look at this bad bitch!
+E: holds an RPG
+N: Tina fires off a ROCKET. KABOOM!
+C: LILITH
+D: CLAPTRAP!!! GET THE COMMUNICATOR!
+C: CLAPTRAP
+D: "Claptrap get this. Claptrap get that." Just for once, I'd like to know you actually appreciated me.
+C: LILITH
+D: WE MET YESTERDAY!
+C: CLAPTRAP
+D: Oh fine.
+N: Claptrap wheels off toward the communicator as Lilith DUCKS another swing from Krieg. Then Lilith eyes the vehicle pile. Gets an idea. She RUNS from Krieg, heading toward the pile...
+C: TINY TINA
+D: Here's a rhyme, now it's time To blow ya mind up your behind...
+N: Tina takes AIM at Lilith, but Lilith is now SCAMPERING up the wall of vehicles. She realizes she can't hit Lilith, because she'll bring the whole wall down, and her with it.
+C: TINY TINA
+D: What? No fair! THERE ARE RULES IN THE MURDER BIDNISS!
+N: Lilith grabs a chain, shoots out a counterweight, and she's HOISTED all the way to:
+S: 42 EXT. THE TOP OF THE VEHICLE PILE - CONTINUOUS 42
+N: Krieg can't do anything except yell from the ground.
+C: KRIEG
+D: I WILL EAT YOUR NEPHEWS!
+N: Lilith trains her gun on Tina. Tina trains her RPG on Lilith.
+C: TINY TINA
+D: Mine's is bigger.
+N: Lilith makes a bold choice. Slowly lowers her gun.
+C: LILITH
+D: Listen. Your father sent me.
+C: TINY TINA
+D: My parents are dead, lady.
+C: LILITH
+D: Your father: Deukalian Atlas.
+C: TINY TINA
+D: Uhhhhhh, my daddy's name was Alfredo Frittata, he was killed by a psycho named Flesh Stick, and his favorite color was vanilla.
+N: Lilith pulls out the picture. It's her.
+C: LILITH
+D: Atlas is your father. This is you. Now whatever's happened to your... mind--
+C: TINY TINA
+D: My mind is awesoooooome wut wut!
+C: LILITH
+D: Oh---kay. But we can make it even better, if you come with--
+N: A bass RUMBLE. Lilith and Tina are immediately on HIGH ALERT. The rumble turns LOUDER... and now it's the sound of dozens of MOTORS... and on the CLIFF RIDGE, we see:
+S: 43 EXT. TUNDRA EXPRESS QUARRY - CLIFF RIDGE - DAY 43
+N: OUTRUNNERS AND DAHL STINGRAYS - badass dune buggies and hovercraft with mounted turrets. Each driven by a SOLDIER IN RED ARMOR, a mix of men and women. And every one of those turrets is TRAINED ON LILITH.
+C: TINY TINA
+D: Daaamn, stretch. You are unnpopulaaah.
+N: A SOLDIER emerges from the lead outrunner. Helmeted, but we can see her face. This is COMMANDANT STEELE, 40, eats shit like you for breakfast, and in a terrible fucking mood.
+C: STEELE
+D: When I saw the Atlas dropship, I figured he'd sent someone new to find the girl... but I never thought it would be a scumbag bounty hunter.
+S: 44 EXT. TUNDRA EXPRESS QUARRY - DAY 44
+N: Claptrap WHEELS INTO VIEW, far below Steele.
+C: CLAPTRAP
+D: Actually, she's not a scumbag bounty hunter. She's a scumbag thief!
+S: 45 EXT. THE TOP OF THE VEHICLE PILE - DAY 45
+N: Tina registers surprise at that. A thief? She's looking at Lilith with a strange new curiosity...
+C: CLAPTRAP
+D: Also, you should know that if I could, I would definitely switch sides right now.
+N: Lilith FIRES A SHOT down at Claptrap. PING!
+C: CLAPTRAP
+D: See why?
+C: LILITH
+D: Who are you?
+C: STEELE
+D: Commandant Steele of the Crimson Lance. And thank you-- really-- for leading us to the girl. Sorry to say only one of us can take her back to Atlas and get a ride off this planet-- and it's gonna have to be me.
+C: TINY TINA
+D: Oh yeah? You and what army?
+C: STEELE
+D: The army that I'm in? Which is here?
+C: TINY TINA
+D: Oooh, she's good.
+C: LILITH
+D: Just stay behind-- hey what--?
+E: guarding Tina
+N: Tina has come around to stand in front of Lilith. Guards her.
+C: TINY TINA
+D: Don't be scurred. Check it out.
+N: Tina nods toward: TWO STUFFED BUNNY RABBITS... if you can call them that. More like stitched-together monstrosities. But right now, they're strapped to VERY LARGE MORTAR ROCKETS.
+C: TINY TINA
+D: That's Mushy Snugglebites and Felicia Sexopants. These ladies got a gut fulla dynamite and a booty like POW!
+C: LILITH
+D: Don't--
+N: But Tina's already pulled a REMOTE out. And hit the button. She looks back at Lilith. Don't what now?
+S: 46 EXT. TUNDRA EXPRESS QUARRY - CLIFF RIDGE - DAY 46
+N: MUSHY SNUGGLEBITES and FELICIA SEXOPANTS roar to life and ROCKET UP INTO THE AIR. They ZIGZAG CRAZILY IN THE SKY, then start heading back, HOMING IN ON THE LANCE. Steele HOPS into her OUTRUNNER, and she and EVERYONE ELSE in the Crimson Lance try to RACE OUT OF THE WAY, as--
+C: KRIEG
+D: POUNDS! OF! FLESSSSSSHHHHH!
+N: BOOOOOM! The mortars SLAM into the CLIFFSIDE, sending it-- and THE LANCE-- SLIDING DOWN and COLLIDING into--
+C: TINY TINA
+D: Ohhhhh that's why you said "don't"...
+S: 47 EXT. THE TOP OF THE VEHICLE PILE - DAY 47
+N: --THE VEHICLE PILE, which begins to COLLAPSE DOWN. Lilith and Tina begin to DROP with the TRUCK they were on top of...
+C: LILITH
+D: ALLARA!
+C: TINY TINA
+D: NOT MY NAME!
+N: They're both RUNNING UP the truck as the truck is SLIDING DOWN... while Crimson Lance vehicles fire TURRETS at falling vehicles so they don't get CRUSHED. It's like Buster Keaton in his classic film "Holy Shit This Is Fucking Nuts" (1935). Lilith and Tina HANG ON and SURF THEIR WAY DOWN. The truck LANDS wheels first on the ground, and they're both TOSSED OFF.
+S: 48 EXT. TUNDRA EXPRESS QUARRY - DAY 48
+N: Lilith hits the ground hard. Like the fourth time today. SOUND GOES OUT - shellshock... she looks around, vision TILTED... sees STEELE is driving toward them - TURRET READY to kill her... This is it? This is how I die??? What a bunch of bullshit. THE TURRET AIMS... STEELE PULLS THE TRIGGER, and... SCREEEEE! A HUGE TRICKED OUT VEHICHLE - THE BANDIT TECHNICAL - SKIDS TO A STOP in front of Lilith... its armor BLOCKING THE SHOT! The door opens. It's-- ROLAND! From the poster! Except his face is covered with a gaiter, so Lilith doesn't quite see it yet.
+C: ROLAND
+D: Get in!
+N: A HAIL OF BULLETS showers the OTHER SIDE of the Bandit Technical. No time to question. Lilith grabs TINA by the arm, and throws her into the Technical. Krieg rushes to join them, jumping in with Lilith. Lilith Behind Roland, Krieg behind Tina.
+S: 49 INT. BANDIT TECHNICAL - DAY 49
+C: KRIEG
+D: DEATH BIRTH!
+N: As soon as they're in, MYSTERY GUY punches it... CLAPTRAP wheels after them. BULLETS firing all around him.
+C: CLAPTRAP
+D: Lilith! Wait for me! I'm your best friend! Remember?
+N: IN THE TECHNICAL... Roland turns to Lilith. Well?
+C: LILITH
+D: Leave him.
+C: CLAPTRAP
+D: I have the communicator!!!!
+N: IN THE TECHNICAL... ah, shit. Lilith pushes the wheel, causing the Technical to SPIN to a stop. Tina FLINGS OPEN the door, Krieg GRABS CLAPTRAP and PULLS HIM IN... Tina sees the headless bunny and grabs it, snuggling it.
+C: TINY TINA
+D: Headless Freddie! You found her!
+N: ...and they PEEL OUT AGAIN.
+S: 50 EXT. TUNDRA EXPRESS QUARRY - DAY 50
+N: STEELE watches with white-hot rage as the Technical drives off. Then she hops back in the saddle, hits the AFTERBURNERS... the rest of the Lance does, too, and:
+S: 51 INT./EXT. HERE WE FUCKIN' GO - DAY 51
+N: THE CHASE begins. Our heroes (who mostly all hate each other) in the Bandit Technical, pursued at HIGH SPEED by STEELE and THE CRIMSON LANCE... We INTERCUT between the chase and the interior of the TECHNICAL, which swerves WILDLY to avoid the INCOMING FIRE.
+S: 52 INT. BANDIT TECHNICAL - DAY 52
+C: ROLAND
+D: Need someone on that turret!
+C: TINY TINA
+D: OOOOH ME!
+N: Lilith pulls a gun on her.
+C: LILITH
+D: Sit down!
+C: TINY TINA
+D: Really? Y'alls save me, now you wants to shoots me? I'm scuuuuuurrrrd.
+N: Krieg puts his BLADE CLUB to Lilith's throat.
+C: KRIEG
+D: BLOOOOOOD!
+N: Roland puts a gun to Krieg's head (steers with the other).
+C: ROLAND
+D: Easy, big fella! Lower the Vladof.
+E: To Lilith
+N: Claptrap just looks around at all of them, crammed into this vehicle, weapons at each other's heads, and EXPLOSIONS impacting all around them.
+C: CLAPTRAP
+D: This is very on brand for Pandora...
+N: Lilith thinks. Then shifts her aim to Roland's head. He shifts his aim to Lilith. Krieg shifts his BLADE CLUB to his own throat. Tina CLAPS at that. WHOOHOO! So much fun!
+C: LILITH
+D: You saving us, or are we hostages?
+N: Roland lowers his gun. Pulls down his gaiter, revealing a grizzled veteran, 40, but instantly readable as a decent man.
+C: ROLAND
+D: I'm saving the girl, you're along for the ride. But right now we have more pressing issues.
+N: PING! BANG! They're shot at, everyone remembers who they're actually fighting.
+C: TINY TINA
+D: Uhhh... how do you peeps keep missing this?
+N: She opens her jacket to reveal LOADS OF GRENADES AND SUCH.
+C: TINY TINA
+D: I'm the Mayor of BlowUpYourButtville Citytown? So I don't really need--
+N: BOOM! Another volley ROCKS the Technical...
+C: LILITH
+D: How did you manage to piss off an entire army?
+C: ROLAND
+D: Used to ride with the Lance. But, things changed when I learned about her.
+N: Roland glances at Tina, grows serious.
+C: ROLAND
+D: Daughter of Eridea.
+C: LILITH
+D: God. Kill me now.
+C: ROLAND
+D: "Only a Daughter of Eridea shall use the keys to open the - "
+C: LILITH
+D: No, no, stop it-- let me out -
+C: ROLAND
+D: "--and open the Vault and inherit the great gift! Treasure beyond treasure!"
+C: TINY TINA
+D: It's true! I'm special. I am SPESHUUUUULLLLL and I'm gonna find the vault and open the vault and get in the vault and do a somersault--
+N: WHABOOOOM! CLOSER!
+C: KRIEG
+D: TANDEM PUMPERNICKEL!
+C: LILITH
+D: If you're truly here to save her then QUIT PREACHING AND SAVE HER ASS.
+C: ROLAND
+D: Take the wheel.
+N: Roland pulls a lever and EXTENDS THE WHEEL back to Lilith, who leans in and steers from the back seat Roland pulls another lever, engaging the gas - SPEEDING UP. The entire vehicle has manual "auto pilot" functions. He operates it all with incredible agility, speed, and skill. Like cat, Roland jumps up spins around backwards, popping out the window, on the sill, legs inside, FIRING AT THE LANCE.
+S: 53 INT. STEELE'S OUTRUNNER - DAY 53
+N: Steele, behind him driving, dodges, firing back.
+C: STEELE
+D: PLAYER! WHAT. ARE. YOU. DOING?!?
+S: 54 INT. BANDIT TECHNICAL - DAY 54
+C: ROLAND
+D: INCOMING.
+N: Lilith steers, shots missing. Roland shoots A SMALL ROCKET LAUNCHER. As Lilith leans over to steer, Tina TICKLES her.
+C: TINY TINA
+D: Who's ticklish?
+C: LILITH
+D: Hey. HEY. STOP THAT. STOP IT.
+N: Lilith ELBOWS Tina off.
+C: TINY TINA
+D: Careful, stretch. Someone hits one of these badonkadonks, they're gonna have to redraw the map.
+E: the bombs in her jacket
+C: LILITH
+D: Ain't happening, cause we're getting the hell off this planet RIGHT NOW. Claptrap! The communicator!
+N: Tina leans back, tickling Krieg.
+C: TINY TINA
+D: I know Kriegypie's ticklish...
+N: She tickles Krieg, he loves it, banging his hands. Lilith swerves. Roland loses balance, almost falling out.
+C: ROLAND
+D: WATCH THE DAMN ROAD!
+N: Tina puts her hands over Lilith's eyes.
+C: TINY TINA
+D: She can't right now!
+C: LILITH
+D: STOP IT! WHAT'S WRONG WITH YOU?! Claptrap - THE COMMINICATOR, NOW!
+E: swats her away
+C: CLAPTRAP
+D: Here you go!
+N: Claptrap passes the communicator to the steering Lilith.
+C: TINY TINA
+D: Are robots ticklish? Woogie woogie...
+N: Tiny Tina reaches under Claptraps armpits tickling Claptrap... and his PINCER HAND closes down on it, BREAKING THE COMMUNICATOR with a CRUNCH. Everyone stares.
+C: CLAPTRAP
+D: Well. I did mention there was a 38% chance of that happening.
+C: TINY TINA
+D: BOOYAH!
+N: Krieg and Tina laugh like this is the funniest thing in the world. Lilith briefly considers blowing her own head off in pure frustration... but the INCOMING FIRE makes it clear there's only one thing she can really do.
+C: LILITH
+D: You programmed to steer???
+N: She hands Claptrap the wheel, and stands, popping out of the turret, face to face with Roland.
+C: LILITH
+D: We have a problem.
+C: ROLAND
+D: Yeah I'll say. WHO'S DRIVING?
+N: Claptrap steers. Tina tries to tickle him, but Claptrap uses an arm to swat her away. Krieg giggles.
+C: CLAPTRAP
+D: Danger. Not safe. Not funny. Seatbelts everyone!
+N: Lilith starts FIRING BACK at the pursuing CRIMSON LANCE OUTRUNNERS. Lilith and Roland actually make a great team. Each one impressed with the other's shooting skills.
+S: 55 EXT. PISSWASH GULLY - DAY 55
+N: HIGH VIEW - an army of vehicles chasing their single prey. They're entering a long ROCKY VALLEY lined on either side by long-abandoned scaffolding and PIPEWORK.
+S: 56 INT. BANDIT TECHNICAL - DAY 56
+N: BACK IN THE TECHNICAL-- Roland drops down, pulling Lilith. He takes the wheel.
+C: LILITH
+D: We're trapped, there's too many, we can't get around them.
+C: ROLAND
+D: Not without some help. HANG IN.
+N: Tina sniffs the air. Yuck. Krieg smells it too. Likes it.
+C: KRIEG
+D: OOOOH, BREATHE IN THE PAIN SAUCE!
+C: LILITH
+D: That ain't pain sauce. That's Pisswash Gully. You have any idea what we're heading into?!?
+C: ROLAND
+D: Unfortunately I do.
+S: 57 EXT. PISSWASH GULLY - DAY 57
+N: SPLASH! The Technical ZOOMS by, splashing our lens with the lovely drainage still pouring out of those pipes.
+S: 58 INT. BANDIT TECHNICAL - DAY 58
+N: IN THE TECHNICAL - Lilith's back in her seat. BUCKLES UP. The ground starts RUMBLING... and the Technical starts SHUDDERING. Lilith isn't surprised. Neither is Roland.
+C: LILITH
+D: They're following...
+S: 59 EXT. PISSWASH GULLY - DAY 59
+N: And then: CRAAAACK! A monster-- a PANDORAN THRESHER-- erupts from below. What does it look like? Imagine the kind of monster that would live underground in a place called Pisswash Gully. Any more stupid questions? I mean, come on. Roland spins in CONTROLLED HYDROPLANE, around the Thresher. The Lance Outrunner behind them gets caught in the wet slick of Thresher piss, spinning out. Tina smells the breeze.
+S: 60 INT. BANDIT TECHNICAL - DAY 60
+C: ROLAND
+D: ROLL IT UP!
+C: TINY TINA
+D: Whoa, those things really smell like -
+E: rolling up her sleeves
+N: SPLASH. Liquid, that shall not be named here - spills into the technical. Everyone EEEEEWWW. Tina LAUGHS.
+C: ROLAND
+D: I MEANT THE WINDOW! ROLL UP THE DAMN WINDOW!
+C: KRIEG
+D: SARDINE SHOWERS!
+S: 61 EXT. PISSWASH GULLY (VFX) - DAY 61
+N: Roland SWERVES, barely avoiding the THRESHER ATTACK. CRACK! More THRESHERS explode up, WHIPPING their nasty TENTACLES.
+S: 62 EXT. PISSWASH GULLY - DAY 62
+N: The Bandit Technical spins in a donut, winding up Face to Face with STEELE. Steele's eyes narrow as she floors it, but a WAVE OF THRESHER PISS sends her vehicle hydroplaning. BEHIND THE TECHNICAL - few CRIMSON LANCER STINGRAYS get taken out by MORE THRESHERS... a few Wilhelm Screams later, and it becomes clear... this entire gully is INFESTED... Lilith keeps her eyes peeled. Watching the shimmering of the PISS POOLS up ahead... signs of impending THRESHING... Roland Floors it, trying to keep it steady. The Outrunners flanking him now, coming at him from all sides. Then, another flash of piss - EVERYONE goes spinning now.
+S: 63 INT. BANDIT TECHNICAL - DAY 63
+N: The crew screams, but Roland keeps his cool, shifting gears, hitting buttons, activating burners, thrusts, air vents, anything to keep control of the truck.
+C: LILITH
+D: YOU GOT A PLAN TO GET US OUTTA HERE OR WE GONNA SWIM OUR WAY OUT?
+N: Straight ahead... A LARGE BUBBLING... WHIRLPOOL.
+C: ROLAND
+D: There. We get out there. We just -
+S: 64 EXT. PISSWASH GULLY (VFX) - DAY 64
+N: BOOM. A GLUTTONOUS THRESHER EXPLODES UPWARDS... this is the biiiig mamajama of Threshers...It roars, the whirlpool in front of it.
+S: 65 INT. BANDIT TECHNICAL - DAY 65
+C: TINY TINA
+D: Whoa. That's a lot of piss.
+N: Roland sees a ROOF SECTION, spinning among the debris in the whirpool. Round, and round and round. Lilith sees.
+C: LILITH
+D: Roland...
+N: Roland THROTTLES UP. He backs up the technical. The remaining Lance vehicles arranging themselves on the sides to block them in.
+C: LILITH
+D: What are you doing.
+C: ROLAND
+D: Have FAITH.
+C: LILITH
+D: WAITWAITWAITWAIT -
+N: Roland HITS THE AFTERBURNERS, PINNING THEM ALL BACK - heading right to the whirlpool - and the giant ass Thresher!
+C: KRIEG
+D: ALL ABOARD THE DEATH CHOOCHOO!
+S: 66 EXT. PISSWASH GULLY (VFX)- DAY 66
+N: Roland white knuckles it as he drives RIGHT AT THE WHIRLPOOL, TIMING IT PERFECTLY TO HIT THE SPINNING ROOF. He hits the roof - FIRING REAR ROCKETS - the momentum LAUNCHES THE TECHNICAL into the air... The Thresher OPENS ITS MOUTH TO SWALLOW THEM. The vehicle flies INTO THE CREATURE'S MOUTH, BREAKING OUT THE OTHER SIDE OF ITS HEAD with a SPLAT! The Technical smacks onto HIGH GROUND overlooking the Gully - and keeps going!
+S: 67 EXT. PISSWASH GULLY - DAY 67
+N: In the Gully, Steele watches, amazed, as the Big Mama Thresher DROPS DEAD. Once it does, the others retreat underground. The Bandit speeds away, long gone. A Lance soldier runs up next to Steele.
+C: LANCE
+D: Commander -
+N: She RAPID-FIRES HER GUN IN THE AIR, SCREAMING.
+C: STEELE
+D: AAAAAAHHHH!!! SON OF A TAINT!
+S: 68 EXT. PANDORA - WASTELANDS - DAY 68
+N: Roland slows the car down to a stop behind some old scrap metal, hiding behind rocks.
+C: ROLAND
+D: See? Faith.
+C: LILITH
+D: That was luck, and skill, but impressive... Kid, you okay?
+C: TINY TINA
+D: Yup. All good.
+E: holds up a pin MORE
+C: TINY TINA
+D: Just, mighta lost a grenade. But let's not panic.
+E: cont'd
+N: Lilith and Roland are about to PANIC THE FUCK OUT, when... a MUFFLED KABOOM, and CLAPTRAP is bounced UP, hits the roof, and bounces back down.
+C: CLAPTRAP
+D: Found it!
+S: 69 EXT. WELL - DAY 69
+N: Everyone washes off by a well, which Roland also uses to pump water and clean off the Bandit. He makes some adjustments to the license plates and front bumper. Lilith eyes Tina.
+C: LILITH
+D: Now that they've seen her we have a whole army after us.
+C: ROLAND
+D: You want me to hide her so you can return to Atlas?
+C: LILITH
+D: I'm here for a job. I found her -
+C: ROLAND
+D: I came here for the same reason. But do you know who she is? What she is?
+C: LILITH
+D: Yes. A girl. Not some descendant of an alien race who can unlock a magic vault that doesn't exist. Her dad is Atlas, remember? He may not be entirely human but he's not an Eridian. We return his daughter maybe he'll let the bounty on your head slide and you can go free.
+C: ROLAND
+D: I'm already free. You're the one he owns.
+C: LILITH
+D: Spare me the holier than thou speech. You're as much of a criminal as I am, you just wear a uniform.
+C: ROLAND
+D: You think he's just gonna let you walk once you give her back? So, what, you can rob him again?
+C: LILITH
+D: What's the other choice, we all go on a magical treasure hunt?
+C: ROLAND
+D: I'm not in this for treasure.
+N: Claptrap presses a button on his chest. ROLAND'S RECORDED VOICE from 5 minutes ago plays:
+C: ROLAND
+D: --Treasure beyond treasure!
+E: VIA CLAPTRAP
+N: Lilith raises an eyebrow: Well?
+C: ROLAND
+D: You left out the salvation part. When a Daughter of Eridea unites the--
+C: LILITH
+D: --yeah, yeah, the pieces of the broken key and opens the vault, some magic bullshit's gonna come tumbling out and save Pandora, we all read the scroll. If the Eridians were so brilliant then why would they care about saving the most worthless planet in the galaxy? CLAPTRAP.
+C: CLAPTRAP
+D: I live to serve.
+C: LILITH
+D: How long to fix that communicator?
+N: Claptrap surveys the broken pieces.
+C: CLAPTRAP
+D: Probably a day or two, depending on how quickly I can scavenge the necessary parts. Of course, killing people will make it go faster!
+C: TINY TINA
+D: LET'S GO FAST!
+C: LILITH
+D: Let's try and not. Look, here's how I see things. This whole planet now wants us dead. But if they get you, we all lose. Now we can kill each other right now and save Steele the trouble--
+N: Krieg raises his club again. Thrilled.
+C: KRIEG
+D: HERE COMES THE BAD TIMES!
+C: LILITH
+D: Orrrrr--
+N: Krieg looks at Tina. Can I please kill her?
+C: TINY TINA
+D: Not yet, bruh. Give her a sec.
+C: LILITH
+D: I play make-believe with you all until this thing-- --fixes that thing-- --and my ride shows up. You find your vault before then, congratulations, I'll even let you say "I told you so." If not, the meal ticket's coming with me.
+E: Claptrap the communicator
+N: Roland considers, turns to Tina.
+C: ROLAND
+D: It's up to you, Daughter of--
+C: LILITH
+D: Jeez, can we just maybe just stick with Tina?!
+N: Off Tina, not failing to notice Lilith used her "real" name this time instead of Allara. She grins, then:
+C: TINY TINA
+D: We take the deal! Cuz she's a stone- cold suckaaaaaaaa! Everyone knows we're gonna find the Vault. You don't know. I'm special.
+N: That line again. But this time, pain in Tina's eyes. A young, lost child's need for validation. I am special. But Lilith isn't ready to give anything back. So:
+C: TINY TINA
+D: You don't believe me? Fine.
+N: Tina reaches into her coat. Everyone flinches... is it explode-o'-clock again?
+C: TINY TINA
+D: Maybe you'll believe this.
+N: Tina pulls out-- her FIST to reveal AN ERIDEAN ARTIFACT. A small piece of carved purple stone, flat on one side, curved on the other, and covered in tiny RUNES that seem to GLISTEN SLIGHTLY. It's beautiful. Lilith and Roland are stunned.
+C: LILITH
+D: Where did you...? My mother... she searched her whole life for...
+E: almost a whisper
+C: TINY TINA
+D: Say it. Say what it is.
+N: Lilith doesn't want to. Because it can't be.
+C: ROLAND
+D: It's one of the Three Lost Pieces of the Vault Key. It's real. And you're the one who can open it.
+N: Off Lilith: No. No, no, no. She shakes it off.
+C: LILITH
+D: It's my job to know a fake when I see one, and that's a fake. So is she.
+N: Roland takes her wrist. Reveals that TATTOO on her arm. The same shape carved around the VAULT KEY PIECE.
+C: ROLAND
+D: Is this fake?
+N: She pulls her hand away with real strength. Now she's angry.
+C: LILITH
+D: Even if that thing were real, and it isn't, you need two more. And no one on the planet knows where they are.
+C: ROLAND
+D: I know one person who might.
+C: LILITH
+D: And how do we get there with every buzzard looking for this truck.
+N: Another truck approaches. Roland looks up, smiling.
+C: ROLAND
+D: We catch a ride.
+N: SCOOTER, a trucker hat grease monkey, looks like he stepped out of a 1970's truck stop. His truck reads: SCOOTER'S SCRAPYARD: Engine Parts, Electrical & Fan Service. Scooter hops out, spitting on the ground.
+C: SCOOTER
+D: Well shit and meatballs, Roland, you didn't tell me you's bringing ladies. I woulda scrubbed up in my wash tub.
+N: Scooter removes his hat, smiling a greasy smile at Lilith.
+C: SCOOTER
+D: Y'all looks like you stepped right out of a magazine, specifically one I keep under m'passenger seat -
+N: Lilith pulls her gun, he shuts up. She gets in the truck. Roland hands Scooter the keys to the technical.
+C: ROLAND
+D: Try not to get it dirty. Or caught.
+C: SCOOTER
+D: Easy buddy, looky who's driving. Ain't nobody gonna catch my riiide.
+C: ROLAND
+D: That's my ride, don't you forget it.
+S: 70 EXT. SANCTUARY - CITY GATE - DAY 70
+N: Welcome to the BIG CITY! I mean , it's still a miserable heap built out of the exposed top portion of the long-abandoned Dahl™ Prime Mining Ship, but for Pandora, it's a metropolis. As the gang cruises by the city’s heavy DEFENSE GATE. Lance soldiers check cars going through the front gate. Roland gets on his radio. He slightly changes his voice, speaking in code for whoever's listening in.
+C: ROLAND
+D: Alley Cat, Alley Cat, do you copy?
+N: A woman in a sassy voice answers on the other end. Gamers will recognize her right away...
+C: RADIO
+D: Read you loud and clear Skag Pup.
+N: Everyone looks at each other. "Skag Pup?"
+C: ROLAND
+D: ...uh, nope, this is Phoenix. I'm here with the delivery.
+C: RADIO
+D: HAHAHAHA He's trying to get me to call him Phoenix.
+E: To others, nearby
+C: ROLAND
+D: I don't have time for games right now-
+C: RADIO
+D: Cool your jets kiddo, we got you. Sanctuary's crawling with insects so we got a change of plans. Stash your ride in bay two and we'll meet you there...Phoenix.
+N: More raucous laughter. Roland quickly shuts it off.
+C: TINY TINA
+D: So...Skag Pup -
+C: ROLAND
+D: PHOENIX.
+N: Awkward silence.
+C: CLAPTRAP
+D: I'm just excited to see what's behind Door #2! My first city in 26 years!
+S: 71 EXT. DOOR #2 - NIGHT 71
+N: They pull into a door marked #2, into a giant garbage dump. There seems to be no system of organization whatsoever, just chutes dumping all kinds of trash into huge piles.
+C: TINY TINA
+D: Oooh yeah, skating in the barforama!
+C: KRIEG
+D: SEWAGE TRAMPOLINE!
+C: LILITH
+D: This was actually a park when I was a kid. Love what they've done with it, this planet's really worth saving.
+C: ROLAND
+D: Just run fast and think of roses.
+S: 72 EXT. GARBAGE PILE - NIGHT 72
+N: The group runs through, coughing, sliding, covering their noses. Claptrap looks totally happy, garbage in his wheels.
+C: CLAPTRAP
+D: Luckily I have no sense of smell, but I can feel the used tissues building up inside of my electronic organs.
+N: They run up to a wall, where a rope ladder drops down. They begin to climb. They send Tina first, who climbs on Krieg's back as he climbs.
+S: 73 EXT. SANCTUARY - BACK WALL - NIGHT 73
+N: They climb over a wall, where they're met by ELLIE, a big girl, early 20s, in overalls.
+C: ELLIE
+D: YOU MADE IT! Commere Skag Pup...
+N: She picks up Roland, squeezing him.
+C: ROLAND
+D: Don't...call...me...that...
+C: ELLIE
+D: Whew, you smell like a stinkbug in an outhouse. Moxxi's waiting for y'all at the bar. Y'all can put these on.
+N: Ellie hands them each strange looking COLLARS. Everyone puts them on, cycling through various holographic masks. Tina gets to one that's greyed out with a lock.
+C: TINY TINA
+D: I want this one!
+C: ELLIE
+D: I ain't spending ten bucks on a fancy mask, pick one already there. And Roland, I mean, Phoenix, drop them drawers because the Lance'll spot those fatigues anywhere. I got you a change.
+N: Everyone puts on the collars, rotating through heads.
+S: 74 EXT. SANCTUARY - STREETS - NIGHT 74
+N: Vendors. Street urchins. Folks scratching out a living. Hard faces and scowls. And a few Crimson Lance patrolling. Everyone's heads have now been replaced with holograms. Lilith wears "Horrorpunk," Krieg "Birdcollar," Roland the skully "Immort4l," (as well as a religious robe), Tina has the Frankenstein-ish "Simul4Crum," and Claptrap has an extra eye and fake mouth. They walk by relatively unnoticed.
+C: CLAPTRAP
+D: What a time to be sentient! Look - telephones you can use to TALK with!
+N: They walk past Roland's HOLOGRAPHIC WANTED POSTER.
+C: ROLAND
+D: Who's that handsome devil?
+C: CITIZEN
+D: A bad-ass killer who'd make Nine Toes brown his trousers. Reward just went up to 150 grand!
+N: Roland looks at Tina as they pass. She's impressed.
+C: ROLAND
+D: See? I'm special, too.
+N: Krieg looks at vendors selling strange animal food. He grabs a bite of BBQ meat, continuing. Nobody dares stop him.
+C: KRIEG
+D: CANNIBAL FROG CONVENTION!
+C: ROLAND
+D: Where’d you find him?
+C: TINY TINA
+D: The barrens. The other psychos left him to die in a skag pit, so I took him home and made him my friend. Kriegy Poo! Make me tall!
+N: Krieg picks up Tina, putting her on his shoulders. As soon as she does, Tina SWIPES a pack of gum off a high shelf and pockets it before the proprietor can see.
+C: LILITH
+D: Tina, don't attract attention -
+C: MARCUS
+D: Hey, you owe me a monitor!
+N: Look at that, it’s Marcus! You know, the kooky bus driver from the beginning? He’s at a MARCUS TOURS & MUNITIONS kiosk.
+C: LILITH
+D: Never seen you before.
+C: MARCUS
+D: Nice try Miss Vladof Infinity, I never forget a gun! What are you up to now, Not-Vault-Hunter?
+C: TINY TINA
+D: She's Vault Hunting!
+C: MARCUS
+D: Ha ha! I knew it!
+N: Lilith flips them both off, keeps walking.
+S: 75 INT. MOXXI'S RED LIGHT - NIGHT 75
+N: If a small military hanger had a three-way with the USCSS Nostromo and an unlicensed Irish pub it would be Moxxi's.
+C: MOXXI
+D: Sorry, y'all are too late, ugly happy hour just ended.
+E: O.S.
+C: ELLIE
+D: Hey, ma. Everyone, it's my ma.
+N: MOXXI walks over. 50's and still got it. Wedged into a red Victorian bustier. Mostly. Top hat on her head. Face? Powdered white. My god, the things she could do to you.
+C: MOXXI
+D: Moxxi. Probably don't remember me...
+E: To Lilith
+N: She puts her hand out to shake Lilith's, but instead pulls her wrist a little and looks at the tattoo.
+C: MOXXI
+D: ...but I sure remember you. Your mom was a good woman.
+C: LILITH
+D: ...but a terrible mother.
+C: MOXXI
+D: Come on in back, got something to show you. You too, sassypants.
+C: TINY TINA
+D: Not without my Kriegy!
+N: She pulls Krieg with her as they follow Moxxi.
+C: KRIEG
+D: CINNAMON COMBAT SHARKS.
+C: MOXXI
+D: He some kinda poet?
+C: LILITH
+D: You get used to it.
+N: Roland follows last. Suddenly a hand on his shoulder.
+C: VOICE
+D: Roland?
+N: Roland reluctantly turns to see a fellow LANCE soldier. This one, however, looks more like the computer nerd of the group.
+C: LARRY
+D: Roland! Oh man I knew that was you!
+N: Roland turns off his collar, revealing his face.
+C: ROLAND
+D: Larry! Hey buddy, great to see you! How'd you spot me?
+C: LARRY
+D: Your boots, man! I drew those!
+N: He points to the boots, which have a cool "R" drawn on them.
+C: ROLAND
+D: That's right you did!
+N: Roland carefully snaps his fingers for Claptrap, gesturing to go into his bag and get out a weapon.
+C: LARRY
+D: I heard everyone was chasing you today! I was like, don't shoot him, that's my roommie! Maybe I can talk to Steele, you can still come back?
+N: Claptrap, below the bar seat, reaches into Roland's bag and hands up a wallet into Roland's expectant hand. Roland throws it back, miming a gun with his fingers. Claptrap then hands him shaving cream. Roland tosses it, his hand getting mad.
+C: ROLAND
+D: I don't think that's a good idea, Steele's still kinda pissed at me.
+C: LARRY
+D: Yeah I'll say. You see the bounty went up? What did you do to her?
+C: ROLAND
+D: Just...what I do best.
+N: Roland smiles, fake charming. He snaps at Claptrap, who picks underwear, breath mints - finally picking up a gun.
+S: 76 INT. MOXXI'S - BACK ROOM - NIGHT 76
+N: Moxxi goes over a map of Sanctuary with Lilith.
+C: MOXXI
+D: ...Go up the steps but stay clear of Dr. Zeds- I don’t know what that nut has been cooking up in there. Around the corner, take the alley, you'll see the house on your right- the one with all the fancy electronic locks. Knock twice- password's ECHO.
+C: LILITH
+D: You sure it's safe to stay there?
+C: MOXXI
+D: Long as you can keep him quiet and she doesn't blow the place up. How's that Lime Ricky honey?
+E: She turns
+N: Krieg and Tiny Tina share a soda with two straws. They MMMMM. Moxxi smiles and turns back to Lilith, more serious.
+C: MOXXI
+D: Look, darling, for what it's worth, I do know that your mother felt-
+C: LILITH
+D: - Don't. Please. I appreciate the help. Let's just leave it at that.
+N: Moxxi nods, understanding.
+S: 77 INT. MOXXI'S RED LIGHT - BAR AREA - NIGHT 77
+N: Roland and Larry laugh, mid-conversation. Both of them sloooowly readying guns behind their backs.
+C: LARRY
+D: Oh man it sure is great to see you, old buddy. And I won't tell a soul.
+C: ROLAND
+D: 'Appreciate that, Larry. I have a pretty good feeling you won't.
+N: Larry pulls his gun when BZZZT. Moxxi SHOCKS Larry with a zapper. He drops to the ground, unconscious.
+C: MOXXI
+D: You should get moving.
+C: ROLAND
+D: Is he -
+C: MOXXI
+D: He'll have one hell of a hangover, but he won't remember much. I set his eggs for "scramble." Go on.
+N: They leave, saying thanks. As they exit, two Lance soldiers pass by and spot Larry on the floor. Before the soldiers can accuse anything, Moxxi turns on them, putting on an act.
+C: MOXXI
+D: HEY! Your buddy here just ran up one hell of a tab and then passed out on me! Who's gonna pay for those drinks? Mr. Atlas? You?
+N: The Soldier steps up to Moxxi, gets in her face. She doesn't back down, but it's clear who would win this fight. He looks around the room, staring everyone down. Then fake smiles.
+C: SOLDIER
+D: Sorry ma'am, we'll take him.
+N: They pick up Larry and drag him out of there. Moxxi watches them go. The crowd goes back to drinking as usual.
+S: 78 EXT. SIDE ALLEY - SANCTUARY - LATER 78
+N: The group turns into a quiet residential alley.
+C: TINY TINA
+D: Are we there yet? I gotta pee.
+C: LILITH
+D: Hold it.
+N: Tina sighs, annoyed, and pulls out the gum she swiped.
+C: TINY TINA
+D: Anybody not named Lilith want some?
+E: CONT’D
+C: ROLAND
+D: Affirmative.
+N: Tina passes Roland the gum, making sure to chew extra loud to annoy Lilith. Roland plays along.
+C: ROLAND
+D: Mmmm. That’s some good gum right there. You’re missing out, Lilith.
+E: CONT’D
+C: TINY TINA
+D: Cool thing is your spit activates the explosion.
+N: WHAT THE FUCK. Roland SPITS THAT SHIT OUT as Lilith grabs Tina, and SMACKS HER ON THE BACK OF THE HEAD, tossing it into the alley. HALF A SECOND LATER -- BOOM! BOOM! Dust. Rubble. People look out of their windows above. The group runs.
+C: LILITH
+D: Are you crazy?!?!?!
+C: TINY TINA
+D: Uhhh. Kinda?
+N: They round a corner...
+S: 79 EXT. TANNIS' HOME - NIGHT 79
+N: They've arrived at a door... perhaps once a maintenance hatch in the mining ship.
+C: LILITH
+D: I think this is it.
+N: She knocks twice.
+C: LILITH
+D: Echo.
+N: Nothing happens.
+C: ROLAND
+D: You sure that's the password?
+C: LILITH
+D: Yes. ECHO.
+C: TINY TINA
+D: Maybe you're supposed to echo it. Like "Echo echo echo..."
+N: The door buzzes open. Tiny strolls past Roland and Lilith.
+C: TINY TINA
+D: You foolz would literally be dead without me.
+S: 80 INT. TANNIS' HOME - CONTINUOUS 80
+N: Soon as they enter, Lilith’s jaw drops. This place is like Tina's lair times a thousand. Not just maps and notes and plans. There are ERIDEAN ARTIFACTS here. TABLETS. ANCIENT SCROLLS. There are blueprints and soil samples and MOSAICS of ANCIENT ALIEN WOMEN... ...and that SHAPE. The same SHAPE on Lilith's arm. On almost everything. It's the one common symbol. Lilith stands there, awestruck. The rest of the gang continues around the corner--
+C: TANNIS
+D: Oh, good. You found the girl.
+N: --where TANNIS, 60, glances up from a workstation. Short silver hair, magnifying goggles on head, and the unblinking, steady gaze of a neuro-atypical scientist who sees a little less than you... but also a whole lot more.
+C: TINY TINA
+D: I'm Tina. Da speshulll one.
+N: Tannis eyes Tina’s extended hand like it’s covered in warts. She’s not the social type. Tannis just studies it.
+C: ROLAND
+D: Tannis is a xeno-archaeologist. She’s been researching the vault for years. If anybody can help us, it’s her.
+C: LILITH
+D: You.
+E: O.S.
+N: They turn to see Lilith, who has just caught up. She stares daggers at Tannis. Her worst memory flooding back. Chills her to the bone. Tannis registers nothing. Until Lilith holds up her arm and shows her tattoo. And at that, with zero emotion:
+C: TANNIS
+D: Oh. Hello, Lilith.
+C: ROLAND
+D: You know each other?
+C: LILITH
+D: Unfortunately. I can't stay here.
+C: TANNIS
+D: You smell like sewage and your wanted poster just went up. You'll be shot in minutes. I suggest you shower and settle in for the night.
+N: Tannis gestures over to a stall in the corner. It looks like a cross between a phone booth and a UV lamp for plants. Tina jumps in and presses a button, which zaps her with light.
+C: TINY TINA
+D: WHOA, ZAPPY! Let's go again!
+E: suddenly clean
+C: TANNIS
+D: Not recommended.
+C: KRIEG
+D: SNIFFING TENNIS BALLS!
+C: ROLAND
+D: I do have seniority -
+N: Krieg, Roland and Tina all struggle for position in the shower. The light zaps again. Tina's HAIR stands on end.
+C: CLAPTRAP
+D: Let me try! I need a spring cleaning-
+C: TANNIS
+D: It's ionostatic, not meant for-
+N: BZZZZT. Claptrap spins around, on Robot speed.
+C: CLAPTRAP WHOA, FOURNINETHREESIXTWO CLAPTRAP
+D: REEEBOOOOTING BOPBOPBOPBOP DINGDONG
+N: Lilith storms into another room and slams the door. Krieg goes to sit in an inconspicuous wooden chair--
+C: TANNIS
+D: Don’t sit on Clork!
+N: Krieg looks at the chair. It's just a chair.
+S: 81 INT. CRAMPED STUDY - NIGHT 81
+N: Lilith stares at the various maps of the planet, the mines. All vault related. Tannis comes in without her seeing.
+C: TANNIS
+D: ... You’re upset.
+C: LILITH
+D: Aren’t you perceptive.
+C: TANNIS
+D: Because of your mother.
+C: LILITH
+D: Because of you. All this mystical fairy tale bullshit... She trusted you. To take care of me, not leave me with a bunch of pirates and run back here and pick up where she left off!
+C: TANNIS
+D: It was what your mother wanted.
+C: LILITH
+D: She wanted you to abandon me? Her dream was for me to become a thief before I was 10, living in gutters, learning to steal, how to kill?
+C: TANNIS
+D: How to survive. And you have. Well done. It was the right decision.
+C: LILITH
+D: I never took a job anywhere near this sector, never a shuttle headed in this general direction, AND YET... somehow... I end up right back here. With you. Of ALL PEOPLE.
+E: CONT’D
+C: ROLAND
+D: Hell of a coincidence...
+C: TANNIS
+D: More like prophecy.
+C: LILITH
+D: The only prophecy coming true is that I'm returning that girl to her father and leaving you here to rot in your "lab" chasing a fantasy.
+N: And before you have a chance to figure out exactly what the hell that's all about... there's the sound of AN ALARM.
+S: 82 EXT. SANCTUARY - CITY GATE - NIGHT 82
+N: Night is falling. The guards are signaling the citizens to get inside the gate.This is a daily routine, but no one seems particularly comforted. For the citizens... nothing but fear at night.
+S: 83 INT. TANNIS' HOME - NIGHT 83
+N: Roland peers out a porthole window. The old and young hustle to get indoors. The able-bodied take up arms.
+C: ROLAND
+D: Krom still owns the night. I'll stand watch.
+C: LILITH
+D: I'll take watch. Feels a lot safer out there.
+E: glares at Tannis
+S: 84 EXT. TOP OF TANNIS' HOME - NIGHT 84
+N: Guards and armed citizens stand watch on rooftops, all illuminated by spotlights that scan the area around the city. A few LARGE ARTILLERY WEAPONS are manned by multiple guards. LILITH - on the roof, rifle in hand, staring out into the night with more than just anger. Memories.
+S: 85 EXT. SANCTUARY CITY - NIGHT 85
+N: IN THE DISTANCE - PSYCHO VEHICLES race by, their lunatic occupants firing wildly into the sky.
+S: 86 EXT. TOP OF TANNIS'S HOME - NIGHT 86
+N: Lilith grips her gun tighter. Uncharacteristically rattled...
+C: TINY TINA
+D: You okay?
+E: O.S.
+N: She turns to see TINA standing by the access hatch that leads to the roof. Quickly puts the wall back up.
+C: LILITH
+D: Get back inside. It's not safe.
+C: TINY TINA
+D: I told you, I don't need your protection. I'm special.
+N: Fine. Whatever. Lilith can't control this kid, and they both know it. Lilith turns back to her watch. Tina takes up watch on her own part of the roof. Weirdly looking back at Lilith, as if taking cues. Standing the way Lilith stands. Moving her eyes back and forth.
+C: TINY TINA
+D: Can I ask you something.
+E: CONT’D
+C: LILITH
+D: Do I have a choice?
+C: TINY TINA
+D: You were a thief. When'd you get caught? Like a year ago?
+C: LILITH
+D: About then. Yeah.
+N: The two of them stay silent for a moment. Then...
+C: LILITH
+D: How did you know I was caught?
+E: CONT’D
+C: TINY TINA
+D: Claptrap told me.
+C: LILITH
+D: No. He said I was a thief. He never said I got caught. Who are you? Your father is Deukalian Atlas. Isn't he?
+C: TINY TINA
+D: ....... Yes and no.
+C: LILITH
+D: It's not a "yes and no" question.
+C: TINY TINA
+D: He's my...creator. Atlas is bananapants obsessed with the Vault. He says only a daughter of Eridea can open it. He found a piece of the Vault key. And on that key... there was a tiny bit of blood.
+E: off Lilith's shock
+C: LILITH
+D: Eridean blood. He cloned an Eridean.
+C: TINY TINA
+D: THIS IS MY STORY I'M TELLING IT! But yeah. And guess who that Eridean is? GUESS!
+E: shrugs
+C: LILITH
+D: Is her name Tina?
+C: TINY TINA
+D: Boom. But it's all good, I don't care I grew up in a lab. I never wanted a mother or a father. A big brother scaring off boyfriends. Pet Skag. Grandma making tea - barf.
+C: LILITH
+D: He created you to open the vault.
+C: TINY TINA
+D: Yeah, and I'm gonna open it before he gets there.
+E: MORE
+C: TINY TINA
+D: He'll take whatever's inside and just make super weapons. That dude has issues.
+E: cont'd
+C: LILITH
+D: There were no "anarchists." You escaped.
+E: putting it together
+C: TINY TINA
+D: I had to. I grabbed the Vault Key piece and snuck on a transport ship. He had us in this secret lab. On--
+C: LILITH
+D: Phaeton.
+C: TINY TINA
+D: Aight, that one was kinda cool the way you said it. Yeah. Phaeton. That "secret research facility?" The one you broke into?... I was the thing that was in it. I saw you. On a security monitor. I mean, I couldn't make out your face real good. But I saw how you broke in- - and I used what I learned from you to break out... So anyhoohah, when I heard ClappityTrap say you were a thief and that Atlas had sent you? It clicked. And that's why I had to break the communicator.
+E: Lilith reels
+N: Lilith turns. How smart is this girl?
+C: LILITH
+D: On purpose? So you had a Claptrap?
+C: TINY TINA
+D: Part of one, an old model I found. No voice or anything, but I learned a few tricks before it died out.
+N: She turns to Lilith, with resolve.
+C: TINY TINA
+D: If Atlas has me, he'll make me open the vault and then he'll lock me up in another secret lab to do more experiments. If you saw the things they did to the others...The rejected clones...
+N: She starts to tear up. Lilith instinctively puts her arm around her. A motherly instinct for the first time.
+C: LILITH
+D: Shhh. It's gonna be okay.
+N: The BULLHORNS return, Krom’s marauders continuing their propaganda. A Pandoran lullaby.
+C: BULLHORN PSYCHO
+D: ALL WILL SUFFER THE RAGE OF KROM.
+N: Lilith peers out into the night, a far-away look in her eyes. We PUSH IN, that shiver-inducing voice echoing in her:
+S: 87 EXT. LILITH'S MEMORY - A SMALL VILLAGE - DAY 87
+N: The same BULLHORN TRUCK. The same voice.
+C: BULLHORN PSYCHO
+D: ALL WILL SUFFER THE RAGE OF KROM.
+N: Fires in the distance. Screams. Pandora has fallen. The psychos are coming. A WOMAN, 30s, rushes with her 8-year-old daughter in her arms. We know them from the SPACEPORT BILLBOARD. This is YOUNG LILITH and LILITH'S MOTHER. AN OPEN JUMPSHIP is waiting, ready to take people away, like the last helicopter out of Vietnam. A younger TANNIS is on the ship, waiting. Lilith's Mother finally gets there, and--
+C: YOUNG LILITH
+D: MOOOOOM!!!!
+C: LILITH'S MOTHER
+D: I'm sorry, lily pad. I have to stay. I have to find the Vault.
+N: --hands Lilith to Tannis. Lilith doesn't understand. Instantly overwhelmed with fear as her mother backs away.
+C: LILITH'S MOTHER
+D: Get her out of here.
+E: to Tannis
+C: YOUNG LILITH
+D: No. NO.
+N: The gunfire is upon them. Tannis drags Lilith onto the getaway ship, even as she fights with all her might.
+C: LILITH'S MOTHER
+D: ALWAYS REMEMBER I LOVE YOU! MY TREASURE BEYOND TREASURE!
+N: Lilith's Mother loads a gun. Races for her TRUCK to escape the madness. BUT AS THE OPEN JUMPSHIP RISES IN THE AIR, she sees: KROM. Lord of the Psychos arrives like a barbarian conqueror of old, riding atop a HUGE TANK. He aims a rocket launcher at her mother. Lilith screams... Her mother looks at Lilith as she rises up into the air. An explosion. And the end of everything.
+S: 88 EXT. TOP OF TANNIS' HOME - THE NEXT MORNING 88
+N: Lilith AWAKENS with a jolt. Then she remembers. Looks around, no sign of Tina. Some primal instinct kicking into gear.
+S: 89 INT. TANNIS' HOME - DAY 89
+N: Lilith comes sliding down the LADDER:
+C: LILITH
+D: Tina!
+N: Tina looks up from the table. Mouth full of sugary Atlas brand SPLODEO'S™ cereal.
+C: TINY TINA
+D: Whuh?
+N: Lilith exhales, relief quickly turning to mild embarrassment. Roland has his guns laid out, cleaning them.
+C: ROLAND
+D: Chow down. Big day ahead.
+C: LILITH
+D: It's too quiet. Where's Claptrap?
+C: TANNIS
+D: At the market, getting parts for your communicator. I couldn't stop him from following your orders to fix it.
+N: A look between Tina and Lilith. Tina puts her spoon down.
+C: TINY TINA
+D: I'm not hungry anymore.
+C: ROLAND
+D: Tina, we're finding that vault today.
+C: LILITH
+D: I wouldn't get her hopes up if you don't know where the key pieces are.
+C: TANNIS
+D: I do. Come.
+N: Tannis leads Lilith into her study.
+S: 90 EXT. BLACK MARKET - DAY 90
+N: Claptrap rolls through the market, strutting like Saturday Night Fever Travolta. He waves hi and greets the other robots, who steer clear of him.
+C: CLAPTRAP
+D: Hey baby, you speak binary?
+N: A robot GLITCHES angry robotic noises at him as he passes.
+C: CLAPTRAP
+D: Someone needs an oil change -
+N: He wheels by Moxxi's and sees Moxxi and Ellie with their hands spread out, flat on the bar. Two LANCE SOLDIERS behind them with guns trained on them. STEELE interrogates.
+C: CLAPTRAP
+D: Good morning!
+N: Moxxi shoots Claptrap a look, then refocuses Steele.
+C: MOXXI
+D: You think I don't want 150 grand? I'm telling you, Roland was never here, this sorry sack was drunk off his ass and now he's just making up excuses.
+E: re: Larry
+N: Ellie gives Claptrap the get the hell outta here look. Larry, a bit dazed, suddenly sees Claptrap, recognizing him.
+C: LARRY
+D: That's his robot! He was with him, I told you, he's here!
+N: Steele turns, and just misses Claptrap. She runs out into the crowd, and can't see him, but by the way he's wheeling into people as he speeds away.
+C: CLAPTRAP
+D: 'scuse me, coming through, got a computer virus, highly contagious!
+E: V.O.
+N: Steele turns back to Moxxi, death stare. Signals for one soldier to come with her. Turns to Larry.
+C: STEELE
+D: Keep an eye on them. That's an order.
+N: Steele and the other solder chase after Claptrap, knocking people out of the way. As soon as Steele's gone, Larry turns to Moxxi, posturing like he's gonna boss her around, when Ellie SQUEEZES HIS HEAD IN HER HANDS LIKE A VICE GRIP. Larry shakes and drops to the ground, out cold.
+C: MOXXI
+D: Subtle, kiddo, I like it.
+C: ELLIE
+D: Aw, ma, you're embarrassing me.
+C: MOXXI
+D: Come on, we gotta warn them.
+N: Ellie slumps Larry over her shoulder, carrying him through the back door by herself. Moxxi follows behind.
+S: 91 INT. TANNIS' HOME - DAY 91
+N: A MOUNTAIN OF WEAPONS. Machine guns. Explosives. Combat rifles. Matter fact, just put all the in-game weapons on the damn table. Fan-service this shit up. Roland inspects and packs them, trying to stop Tina and Krieg from touching them. Tannis produces a DUSTY OLD JOURNAL from a high shelf.
+C: TANNIS
+D: Your mother left me this.
+C: LILITH
+D: ... Is that... her diary?
+C: TANNIS
+D: What? Don't be absurd. Your mother wasn't some idiot sentimentalist. Did you even know the woman? Oh. Well, I suppose you didn't. You were rather young when she was blown up.
+E: MORE
+C: TANNIS
+D: This is a mining journal she found. Left behind by a Dahl Corporation bureaucrat.
+E: cont'd
+N: Tannis opens the journal. Lays it atop the weaponry. Page after page of scribbled notes, lists, maps...
+C: TANNIS
+D: He documented everything the miners found. Most of it, useless. But on this page... look.
+N: She turns a page... a SKETCH...
+C: LILITH
+D: The key...
+C: TANNIS
+D: He thought it was a useless piece of Eridean pottery. The man had no clue he had found part of the Vault Key. So he catalogued it and stored it in a warehouse facility in the largest mine on Pandora. The Dahl Corporation abandoned their entire operation days later. And everything was left behind.
+E: closing the journal
+C: LILITH
+D: So if it’s still there why don’t you already have it?
+C: TANNIS
+D: Because the mine is in Caustic Caverns.
+C: CLAPTRAP
+D: ECHO ECHO ECHO, OH NEVER MIND, RUN! WE HAVE TO RUN! THEY'RE COMING.
+E: O.S.
+N: Claptrap has burst into the front door and closes it behind him. Krieg jumps up, ready for battle, slamming the door.
+C: KRIEG
+D: MEAT PAJAMAS???
+C: TINY TINA
+D: Easy, big daddy. Clappy, slow your roll, what the dillio?
+C: CLAPTRAP
+D: Steele, the one who really hates Roland, which suggests the two of them had some -
+C: ROLAND
+D: GET TO THE POINT.
+C: CLAPTRAP
+D: She was at the bar interrogating Moxxi and Ellie with your friend Larry. Was that his name? Seemed like a decent roommate.
+C: LILITH
+D: Did The Lance see you?
+C: CLAPTRAP
+D: Luckily I have stealth mode so I'm almost certain they didn't -
+N: POUNDING at the door.
+C: STEELE
+D: COME OUT WITH YOUR HANDS UP. YOU HAVE THIRTY SECONDS OR WE BLOW YOUR HEADS OFF.
+E: O.S.
+N: Roland is already suiting up for battle. Tina grabs guns too. Lilith has to take them out of her hands.
+C: LILITH
+D: Is there another exit?
+N: They hear a metallic BANG from the BACK window. Bang Bang, like a metal lid banging a garbage can.
+C: CLAPTRAP
+D: A mating call!
+N: Tannis looks out the window, into an alley. Outside she sees Moxxi and Ellie, with a large garbage bin, waving them down. Two large men dressed as garbagemen stand with them.
+S: 92 EXT. TANNIS' HOME - DAY 92
+N: Steele gives the command to several soldiers who solder off the front door's locks and kick it in.
+S: 93 INT. TANNIS' HOME - DAY 93
+N: They break in and find...nobody home. Just something simmering on the stove. A liquid...Steele smells it. She looks around. Suddenly, she realizes she's in danger and covers her mouth.
+C: STEELE
+D: GET BACK, IT'S GONNA...!
+N: She turns to run, but stops...and yawns. Suddenly tired. A little dizzy. Delirious, even...
+C: STEELE
+D: ...one sec...Oh man, I'm really...can we just... maybe just hold up a minute? I didn't get a lot sleep last night, just replaying the whole thing in...pisswash...with Roland and...
+N: Steele passes out. The other soldiers look confused. They boiling steam fills the room, and they too yawn. One sits on Clork the chair like it's the best thing EVER.
+C: LANCE SOLDIER
+D: This chair feels like a marshmallow...
+N: Clork collapses. And like that, they're all fast asleep.
+S: 94 EXT. STREETS - DAY 94
+N: Two workers roll the garbage bin through a back alley.
+S: 95 INT. GARBAGE BIN - DAY 95
+N: Roland, Tannis, Krieg, Tiny Tina and Claptrap all cram together inside the garbage bin.
+C: LILITH
+D: Is there any way to get in and out of here that doesn't involve garbage?
+C: ROLAND
+D: Getting in isn't what concerns me, it's getting - AAAAAHHH
+S: 96 INT. GARBAGE CHUTE - DAY 96
+N: And with that they are DUMPED DOWN A GARBAGE CHUTE. Sliding, sliding, sliding - landing in an outdoor pile.
+S: 97 EXT. GARBAGE DUMP - DAY 97
+N: They have to RUN through the trash to get to the truck, coughing and gagging on the smell. They make it to the truck. Roland jumps in to drive, but the wheels are slipping on the garbage.
+C: ROLAND
+D: We're stuck in the damn -
+C: KRIEG
+D: TOAD PUKE HYDROPLANE!
+N: Roland hits the gas again, and Krieg uses his super human strength to PUSH THE TRUCK, and get it running. Everyone jumps in.
+S: 98 EXT. SALT FLATS - DAY 98
+N: The truck drives through the barren salt flats.
+S: 99 INT. SANITATION TRUCK - DAY 99
+N: They ride in silence. Miserable.
+C: TANNIS
+D: Next time we should take the cotton candy truck. I'll make a note.
+N: She pulls out a small note pad, and writes this down. Everyone glares at her, amazed. That was even an option? Tannis pockets the notebook and pulls out a small zapper, like a travel version of her shower. Everyone watches her, as she cleans herself. She now looks like she just came out of hair & make up, the others basically just left Burning Man.
+C: TANNIS
+D: Much better.
+N: She sniffs herself and puts the zapper away. Everyone just stares at her. She doesn't quite get why everyone glares.
+C: TANNIS
+D: What. Did you guys want to use it?
+S: 100 EXT. SALT FLATS - DAY 100
+N: They walk from the truck to a small shack, near the base of a large abandoned mine. Roland carries the gun. Lilith hangs back with Claptrap. Looking at the IMAGE on her forearm. Wondering if she's been wrong this whole time...
+C: LILITH
+D: How long to fix it?
+E: re: communicator
+C: CLAPTRAP
+D: I spoke at length with a half-broken logic board at the market. I had to learn her entire language from scratch -
+C: LILITH
+D: The short version.
+C: CLAPTRAP
+D: Just two more parts to completion and we'll be ready to call Atlas and hand his daughter over to him, thereby satisfying whatever selfish urge you're pursuing. Congratulations!
+N: Lilith looks Tina, who holds Krieg's machete handle, the blade end in Krieg's hand. They swing it together merrily.
+C: LILITH
+D: Just tell me when it's fixed.
+S: 101 INT. MINE SHAFT - DAY 101
+N: PITCH BLACK. Until... CREEEEEEAK! A PORTHOLE opens above us. Sunlight blasts inside. And five silhouettes peek down.
+C: TINY TINA
+D: HELLLLOOOOOOOO!
+C: TINY TINA'S ECHO
+D: HELLLOOOOOO! HELLLOOOOO! HELLLLOOOOOO!
+S: 102 EXT. MINE SHAFT - DAY 102
+N: In a valley between large promontories, the gang encircles a METAL HATCH etched into a small patch of concrete.
+C: KRIEG
+D: ANUS OF THE WOOORRRLLD!!!
+E: into the hole
+C: KRIEG'S ECHO
+D: OF THE WORRRLLD! OF THE WORRRLLD!
+N: Lilith facepalms.
+C: CLAPTRAP
+D: Would you look at that! A ladder! Unfortunately my design doesn't facilitate this type of vertical travel. Drats. Guess I'll-- --AAAAAAAHHHH!!!
+E: Roland kicks him in the hole
+N: Then Roland looks at everyone else. Shrugs.
+C: ROLAND
+D: Destiny awaits.
+N: One by one, they all climb down. When they're all in, Krieg pulls the hatch shut. And we get to see the "TOXIC: DO NOT ENTER. REALLY." warning on the other side...
+S: 103 INT. CAUSTIC CAVERNS - LATER 103
+N: A RIVER OF BUBBLING, BOILING, YELLOW-GREEN DEATH. It winds ahead, contained by a natural channel of PURPLE CRYSTAL, with a natural current moving DOWN and into a TUNNEL ahead.
+C: TANNIS
+D: Chemical waste from the mining equipment. It eats through everything but the natural crystal in the cavern. Which is why we're going in that.
+N: An abandoned MINE BOAT - just a rusty tub carved into a large chunk of crystal. It's moored to the rocky "shore."
+C: KRIEG
+D: MEAT SOUP!
+N: Excited, Krieg HOPS into the MINE BOAT. His impact pushes the mine boat down... the LIQUID DEATH alllllmost spills over the side... then the boat rises back up. Lilith scowls at him, then carefully lifts and places Tina in the boat. She follows. Then Tannis. And finally Roland. With each added passenger, the boat sinks lower. The liquid death is barely under the lip of the boat. Just five more pounds, and-- Claptrap wheels over, ready to come aboard.
+C: CLAPTRAP
+D: Looks like there's room for--
+N: Everyone points a weapon at him. Do not get on this boat.
+C: TANNIS
+D: I have a job for you.
+C: CLAPTRAP
+D: Hooray! Now I can watch you all melt from a safe and reasonable distance!
+N: Tannis points to a RUSTY TRACK that rises up into a small access tunnel in the rock.
+C: TANNIS
+D: You're small enough to get in there. Head through the tunnel, locate the main access control, and find us a way into the mine facility.
+C: CLAPTRAP
+D: Can do!
+C: LILITH
+D: Quietly.
+C: CLAPTRAP
+D: No problem. I wouldn't want anything bad to happen to each one of you in the most horrifying way possible...
+N: With that lovely farewell, he WHEELS UP THE RAILING, and heads out of view. Tannis releases the catch that moors the boat, and they begin FLOATING along with the current into a...
+S: 104 INT. DARK SCARY TUNNEL - LATER 104
+N: It’s A Small World's dastardly cousin. The gang drifts along. Tense. Silent, save for the gurgling sounds of certain acidic death. A bat-like creature falls from the top into the river, liquifying instantly. Roland speaks in a quiet voice only Lilith can hear.
+C: ROLAND
+D: You really gonna turn her over to Atlas? You can live with that?
+C: LILITH
+D: You'd do the same.
+C: ROLAND
+D: I did the same. For too damn long. Six months ago she was just another mission to me.
+C: LILITH
+D: What changed?
+C: ROLAND
+D: The way you felt in that prison? That's how I began to feel in the Lance. They rescued me from a bad, bad place, built me up, into this. The more missions I did, the more I made, the more worthless I felt. Then some kid showed me a drawing - of her, saving Pandora. I just thought, real or not, these kids have hope, and I'm here to take that away. Look where we are, and they have hope. And I thought I can help them, I can fight for them. Otherwise, what am I?
+C: LILITH
+D: I used to have that same hope, dreams of my mom finding the vault. But once the treasure hunt makes you an orphan, it stops being fun. You realize it's all some lie, made up to distract you from the companies taking everything. And that's when you decide to start taking back.
+C: ROLAND
+D: Sounds like you're the one who needs saving.
+N: Tannis leans back, having heard everything.
+C: TANNIS
+D: She does. But first she needs to stop blaming her mother. It's the source of her constant pain.
+N: A small BLUE CRYSTAL juts out from the eridium. The Mine Boat floats past it and... Did that CRYSTAL JUST MOVE? Fuck. It did. Like it was some UNSEEN MONSTER’S EYE. And-- wait a sec-- yep, that was a GROWL. The creature watches them...
+S: 105 INT.CAUSTIC CAVERNS - MAKESHIFT DOCK - DAY 105
+N: The mine boat floats slowly to the EDGE, where there's a makeshift dock built out of a crystal formation. They moor the boat and get out, stepping on to the dirt shore. Up ahead, a WALL OF METAL. On it, in huge letters: "DAHL MINING, the world is ours," with "ours" crossed out and KROMZ scratched over it.
+C: TINY TINA
+D: Guys... look.
+N: They walk over to Tina, who is crouched on the rocky ground over: A TINY PANDORAN SAPLING, pushing through the parched soil here, in defiance of everything this place is. They all stare at it. Even now, even here, they can't help but fall prey to the most human of delusions. Hope. Until CLAPTRAP emerges from an ACCESS TUNNEL above, and lands WHEEL- FIRST on the sapling, CRUSHING IT.
+C: CLAPTRAP
+D: Mission accomplished!
+N: They all stare in horror as he does THE TWIST in celebration, which means his wheel is GRINDING THE SAPLING into the dirt.
+C: CLAPTRAP
+D: Who's the best? I'm the best! Give me a job, I pass the test!
+E: notices them staring
+C: Well YOU'RE WELCOME.
+D: Impossible to please...
+E: wheeling off
+N: Up ahead, a DOOR in the huge wall opens as Claptrap approaches. Our heroes all look sadly at the DEAD SAPLING, then ready their weapons. Time to head in.
+S: 106 INT. ENTRANCE TO THE MINE AREA - MOMENTS LATER 106
+N: They move carefully down a corridor. Rusty scaffolds line the walls. After a few steps, Krieg STOPS dead. And puts a hand out to stop Tina from walking further. He's scared. He's looking at: RED PAINT smeared on a rock. The shape of an EYE.
+C: KRIEG
+D: Scream showers...
+C: ROLAND
+D: Bloodshots. Might still be here.
+E: studies it
+N: Tina gets excited. Opens her jacket. Loads of BOMBS.
+C: TINY TINA
+D: Let's go find out.
+C: LILITH
+D: No bombs.
+C: TINY TINA
+D: I'll be surgical!
+C: LILITH
+D: No bombs. Not yet. Let me and Roland scout first. I know-- you can handle yourself. But there's only one of you in the whole world. And you're special.
+N: First time she's said it back to Tina, who sort of pretends to be sulky about being protected, but mostly? Heart full.
+S: 107 INT. ATOP THE SCAFFOLDING - MOMENTS LATER 107
+N: Lilith and Roland's heads peeks over the top, looking at the BLOODSHOT PSYCHO STRONGHOLD. A ramshackle settlement of abandoned vehicles, shipping containers and scrap metal. Scattered about: PSYCHOS, all with the BLOODSHOT SYMBOL on their chests and armor. Cooking skagmeat, peeing off ledges, chasing TINKS with FLAMETHROWERS-- you know, the usual. Roland sinks back down behind the top of the scaffolding to stay out of sight. Lilith joins him. Can see he's tense.
+C: LILITH
+D: You've dealt with them before?
+C: ROLAND
+D: Once, near Titan's End. We barely survived. That was with an army. I don't know what being down here does, but they get an extra dose of crazy.
+S: 108 INT. ENTRANCE TO THE MINE AREA - MOMENTS LATER 108
+N: Lilith and Roland return to the rest of the party.
+C: ROLAND
+D: We need a way around. There's too many to shoot through.
+C: LILITH
+D: Or blow up.
+E: eyeing Tina
+C: TANNIS
+D: We can't blend in, we look nothing like them. Except you, handsome.
+E: To Krieg
+C: KRIEG
+D: Dental farm.
+C: CLAPTRAP
+D: According to my calculations, the odds of a successful stealth operation in this scenario is... zero percent. Wow! You never see that! Impressive!
+C: LILITH
+D: ... Did you factor in a distraction?
+C: CLAPTRAP
+D: Of course! I analyzed sixteen million versions where one of you creates a distraction. Total failure!
+C: LILITH
+D: No. Not one of us.
+C: CLAPTRAP
+D: Sorry what was that now?
+S: 109 INT. BLOODSHOT STRONGHOLD - MOMENTS LATER 109
+N: A Bloodshot Psycho waddles out of his makeshift hut, huge MACHINE GUN in hand. Then stops as he hears:
+C: CLAPTRAP
+D: Good morning!
+E: O.S.
+N: Dozens of Psychos turn at once to see: CLAPTRAP, wheeling right up to the middle of their stronghold.
+C: CLAPTRAP
+D: I am here because I want to be, and not for a more justifiable reason, like trying to be a distraction!
+N: TO THE SIDE - our heroes - moving silently, single-file behind a shack. Lilith glares at him. Idiot. THE PSYCHOS - transfixed. Staring at Claptrap in confusion.
+C: CLAPTRAP
+D: Even though it makes NO SENSE for me to say what I'm about to say, and even though ANYONE RATIONAL would suspect it was just part of a crude plan, I have decided ENTIRELY ON MY OWN to say the following. Y'all bitches need to eat your own butts with your--
+E: hangs his "head", then
+N: ANGLE ON: Tina, on the side, mouthing along with him...
+C: CLAPTRAP
+D: --poopy mouthed ass-faces--
+E: O.S.
+N: BACK ON CLAPTRAP:
+C: CLAPTRAP
+D: --until you die from loser poisoning like the stupid pus-crotches that you "is." Also... Your mothers are apparently made of "fart sauce." Again, with just a moment's thought, it should be painfully obvious that--
+E: the heaviest sigh
+N: And that's the last word he gets out before A THOUSAND BULLETS rain down on him. Claptrap FLOPS OVER, tries to wheel away, gets PINBALLED back and forth by bullets, as OUR HEROES SKEDADDLE. They duck through the stronghold UNSEEN, while: In the B.G., psychos WHEEL A MAKESHIFT CANNON into view. Oh, this is gonna be good...
+C: CLAPTRAP
+D: Hey, HEY! Not in the undercarriage!
+N: IN THE RIVER - The blue creature, hearing the gunfire, moves towards the noise.
+S: 110 INT. BEYOND THE BLOODSHOT STRONGHOLD - LATER 110
+N: Our heroes climb up into view, onto a raised area beyond the stronghold. BANGBANGBANGBANG. The psychos are really giving it to poor Claptrap.
+C: TINY TINA
+D: Is he gonna be okay?
+N: wha-BOOM! The sound of CANNONFIRE, and our heroes watch as something is shot out from the stronghold, arcing across the massive cavern, heading toward-- Lilith GRABS Tina and yanks her out of the way just before: CLAPTRAP lands at their feet like a mortar shell. Tumbles head over wheel for a bit, then wobbles back up.
+C: LILITH
+D: So much for your zero percent.
+N: He wheels slowly up to her. Pissed. Looks her in the eyes.
+C: CLAPTRAP
+D: You're not out yet.
+C: TANNIS
+D: It's in there.
+E: pointing ahead
+N: Tannis steps towards a HUGE warehouse door when - PING. They stop, hearing a noise. Ping. Ping. They turn to see Claptrap expelling bullets from his back side.
+C: CLAPTRAP
+D: What? I'm expelling the excess lead. How else is it supposed to exit my body?
+N: They wait for him to finish, then turn back to walk when PINGPINGPINGPINGPING. They freeze, hoping this will end. ...standing still, waiting for it...all good, back on the move- PINGPINGPINGPINGPING. Tiny Tina and Krieg are about to explode in laughter. Lilith is ready to shoot him again.
+C: CLAPTRAP
+D: What? How is this funny? I fail to see the humor.
+N: Ping.
+S: 111 INT. WAREHOUSE - LATER 111
+N: DARKNESS gives way to light as a door CREAKS OPEN. CRATES visible. Dead silent. Lilith leads the others inside.
+C: TINY TINA
+D: Sweet. So... the key piece is in one of these crates. One of these--
+N: They sweep their lights across the room. There are HUNDREDS AND HUNDREDS of crates in here.
+C: TINY TINA
+D: --kabillion crates.
+C: ROLAND
+D: This could take a minute.
+C: CLAPTRAP
+D: Four days if you work around the clock, which you can't, because your bodies require rest every sixteen hours. Laaaazzzzyy...
+N: Lilith doesn't pay attention, moving through rows of crates. Something under her skin...almost like a compass, guides her. She stops, takes two steps back. Crouches down. In between two large crates, a smaller metal box. She flips the lid off and looks inside. Rocks, mostly. She dumps rocks out, reflected light glittering in her eyes. Tina notices, and sees the glowing object. She tugs at Tannis' shirt, pointing, but Tannis is busy bickering with Roland.
+C: TANNIS
+D: ...that's senseless, have to search by size, they wouldn't store a small piece in a large -
+C: ROLAND
+D: - I've been raiding my whole life, we start left and sweep right -
+C: LILITH
+D: I have it.
+E: O.S.
+N: They swing their lights to see Lilith, who holds up... A KEY PART. Identical to the one Tina has.
+C: TANNIS
+D: How did you...?
+N: Lilith shrugs. Odd. She's not really sure herself.
+C: LILITH
+D: I guess... I'm just lucky.
+N: You know, this is the kind of story where no one ever seems to catch a break, so let's just take a moment to feel GOOD about this. There was a plan, it worked, she found the-- Oh. Shit. I'm suuuper sorry, but a huge BLUE CRYSTAL HAND has just PUNCHED its way up through the floor and GRABBED LILITH. Introducing... the CRYSTALISK! Think Mighty Joe Young, but mostly made of crystal and insane. Roland AIMS his gun, but there's no way he can fire without risking killing Lilith.
+C: LILITH
+D: Get Tina out!
+N: Lilith THROWS the key piece to Roland.
+C: LILITH
+D: GO!
+N: SLO-MO: Roland PICKS UP TINA, who reaches out in panic at Lilith, who is going to die. We've seen this before... But Tiny Tina isn't Tiny Lilith. Tiny Tina is a goddamned lunatic clone-made daughter of Eridea with a few megatons in her jacket, and that THING isn't taking her Lilith away. So she flips the pin off the STICKY GRENADE in her hand, and FLINGS IT... and we watch it arc past Lilith's face and land squarely on THE CRYSTALISK'S BUTT.
+C: TINY TINA
+D: Crack shot!
+N: AN EXPLOSION - as the Crystalisk's ass is blown apart, along with the rest of him, in a shower of blue ickyness. Lilith hits the ground. Holy shit. Looks at Tina. Thank you. But no time for handshakes and air kisses, because the ground is rumbling, and so everyone RUNS...
+S: 112 EXT. ESCAPE FROM CAUSTIC CAVERNS - 0% CHANCE OF SURVIVAL! 112
+N: Our heroes RUN from the warehouse, and behind them... TWO MORE CRYSTALISKS. Huge BEASTS in pursuit. But this is Borderlands, so you gotta know the Bloodshot Psychos heard Tina's big kaboom, and they're running toward our heroes. So at least we've got that not going for us.
+C: CLAPTRAP
+D: Looks like zero percent might have been generous!
+N: Lilith sees: A MINESHAFT off to the side, in the no man's land between the Crystalisks behind and the psychos ahead.
+C: LILITH
+D: THIS WAY!
+N: They bolt into the entrance to the mine, Psychos closing in behind them, followed by Crystalisks. Lilith and Roland turn back, shooting, blasting Psychos, who don't seem to be at all intimidated by the gunfire. It only angers them more.
+S: 113 INT. MINE - DAY 113
+N: Down the tunnel - an ELEVATOR PLATFORM made of CRYSTAL, sitting at the bottom of a shaft. Elevator cables are broken. Power supply's busted open.
+C: CLAPTRAP
+D: Well, I had fun! Would you like me to sing a song while you're torn limb from limb, to ease the pain of impending death?
+N: Bloodshots round the corner, along with more Crystallisks. Lilith and Roland shoot, but too many coming. Lilith sees some liquid death bubbling through cracks in the rock walls. She turns to Tina, looking her in the eye.
+C: LILITH
+D: Tina! Redraw the map.
+N: Redraw the--? Ohhhhh. You mean? A bunch at once? Now? Aww yeah! Tina steps forward. She flips her coat open, pulls a shit-ton of tiny bombs out by the harness they're hanging from, then SPINS and THROWS... She then takes out The Headless Bunny, and pulls the cord in its back. She tosses it and covers her hear ears, as do the others. The Psychos stop and pick up the bunny, puzzled.
+C: HEADLESS BUNNY
+D: Hug me! I'm your friiiiend -
+E: warbly recording
+N: BOOOOOOM! The entire floor of the cavern is ROCKED by a world- class explosion, setting the entire facility QUAKING. Some Psychos and Crystalisks are still alive, though, and as they pick themselves up:
+C: CLAPTRAP
+D: So, we're pretty much back to certain death? Yes or yes?
+C: LILITH
+D: Wait for it!
+N: The ground QUAKES AGAIN, and this time... FOOSH! A geyser of GREEN YELLOW LIQUID DEATH crashes through a crumbling wall, and only now do we realize Lilith's plan.
+C: LILITH
+D: Hang on.
+N: WHAAA--BOOOOOM!!!! All of the cavern walls begin to fail at once, and a TIDAL WAVE of LIQUID DEATH pours in, flooding the massive cavern, killing everything it touches.
+C: KRIEG
+D: BILE FARM!
+N: A Crystallisk runs at them - but is hit with a geyser of liquid, killing it. The floor below rumbles, but the car doesn't move. Liquid shoots around the outside of the car. Tannis looks up sees something in the ceiling. The liquid pushes up below the elevator car - trying to force it upwards. The car rattles, trying to move up. Tannis looks up at the open ceiling, seeing a beam.
+C: TANNIS
+D: THAT BEAM'S BLOCKING US!
+N: Roland and Krieg battle psychos, whose bodies land in the car, making a little pile. Lilith sees the beam holding them back, then RUNS UP the psycho pile - LEAPING - grabbing a ceiling beam! She swings her legs up, her head now upside down, and kicks at the metal cross beam jamming them! A geyser BURSTS into the wall, and Krieg grabs an attacking psycho, PLUGGING THE LEAK WITH HIS HEAD. Liquid runs out of the psycho's eyes and mouth. The floor now bubbling, liquid death leaking into the car. They dance around it.
+C: ROLAND
+D: RUNNING OUT OF FLOOR HERE, LIL!
+N: Tannis rides Claptrap for safety. Tina rides on Krieg's back. Lilith kicks, kicks and kicks, finally - MOVES THE BEAM. FWHOOSH! THE PLATFORM is PROPELLED UPWARD by the massive force of a LIQUID DEATH GEYSER... the crystal protecting our heroes, but they're rocketing up at insane speed, and:
+S: 114 EXT. PROMONTORY - CONTINUOUS 114
+N: They BLAST up and through a mesh VENTILATION SCREEN at the top of the promontory, and get FLUNG into the air...
+S: 115 INT. WEDDING CEREMONY - DAY 115
+N: Whiskey barrels everywhere, along with rows set up like pews, about twenty Pandoran citizens and their families in an intimate ceremony. At the alter, SIR ALEISTER HAMMERLOCK, a Pandora version of an 19th century British dandy explorer, and WAINWRIGHT JAKOBS, a whiskey drinking Southerner, dressed in their Sunday best. They stand by a wedding cake under an alter. A Justice of the Peace reads from a book, whiskey in hand.
+C: JUSTICE OF THE PEACE
+D: ...for the most thrilling adventure of all. Love. Do you, Wainwright Jakobs -
+C: JAKOBS
+D: - Damn right I do, let's get this thing overwith, I want a drink!
+N: The crowd laughs.
+C: JUSTICE OF THE PEACE
+D: And do you, Sir Aleister Hammerlock-
+N: CRASH! Our heroes smash into the tent on the platform, crashing right into the cake table.
+C: HAMMERLOCK
+D: What the dickens?!?
+N: EVEYRONE PULLS GUNS. Lilith, Tina, Roland, Tannis, and Claptrap all stand, politely. The whole gathering in total shock. Our heroes slooooooooowly exit, stage left.
+C: LILITH
+D: Congratulations.
+C: ROLAND
+D: Didn't mean to crash the party.
+C: TANNIS
+D: Very handsome couple. That one's more handsome. But that just makes the uglier one more lucky.
+C: TINY TINA
+D: Mmmmm...strawberry. Tasty.
+E: eating cake
+C: KRIEG
+D: HAPPY LIFE MEMORIES!
+C: CLAPTRAP
+D: I...I always cry at weddings. The power of human love...
+E: tearing up
+S: 116 EXT. WEDDING CEREMONY - DAY 116
+N: They step outside, Roland shows Lilith the vault key piece.
+C: ROLAND
+D: Looks like this is our lucky day.
+C: STEELE
+D: DROP THE GIRL.
+E: O.S.
+N: They look up and see: THE ENTIRE CRIMSON LANCE pulling up, guns trained on them. Steele at a turret.
+C: TINY TINA
+D: How'd General Rancid find us?
+C: STEELE
+D: Not a lot of fan service trucks delivering garbage to abandoned mines.
+C: ROLAND
+D: Scooter. They got him.
+E: to Lilith
+C: STEELE
+D: Game over Roland. Let's make this quick.
+C: ROLAND
+D: It was always a game to you. These people, their lives.
+C: STEELE
+D: I'm thrilled you found your purpose on here because now you get to live out your days on this shit hole. I don't give a rat's ass, so long as we have her. You know I don't give last warnings, so LET. HER. GO.
+N: Roland glances at Lilith, eyes shooting over to a "Just Married" VW Bus close by. He slips her the vault key piece.
+C: ROLAND
+D: Sure. I'll let 'er go.
+N: Roland PULLS OUT TWO GUNS, FIRING AT STEELE, RUNNING AT HER. She dives down into her truck. Chaos. Gunfire. Running.
+C: LILITH
+D: WHAT ARE YOU DOING?
+C: ROLAND
+D: SAVE TINA!
+E: to Lilith
+N: Lilith grabs Tina, running for the VW. Lance firing at them.
+C: JAKOBS
+D: Now that ain't no way to treat a lady and her little girl. Come on!
+C: HAMMERLOCK
+D: NOW IT'S A CEREMONY!
+N: Hammerlock and Jakobs DEFEND LILITH and company as they run for the VW, firing at the Lance. The wedding guests jump in on the action, shooting at the Lance, who they all clearly hate. Roland, draws fire, with incredible tactical moves, rolling, shooting, firing. Steele ducking in her tank.
+C: JAKOBS
+D: Hey sunshine!
+N: Lilith turns, Jakobs tosses her the VW keys. She nods thanks and gets in the bus, pulling away. Steele sees.
+C: STEELE
+D: STOP THEM!
+N: But the wedding guests block, shooting. No way to chase.
+S: 117 EXT. VW - JUST MARRIED BUS - DAY 117
+N: Lilith and company speed away. Two RAKS dive bomb the VW.
+C: TINY TINA
+D: INCOMING!
+N: Jakobs takes a sip of whiskey and shoots down one of the Raks. Hammerlock gives him a little kiss.
+C: HAMMERLOCK
+D: Bloody good shot!
+N: The second Rakk DIVE BOMBS LILITH.
+S: 118 INT. VW - JUST MARRIED BUS - DAY 118
+C: LILITH
+D: TANNIS, DRIVE!
+N: Tannis grabs the wheel while Lilith SHOOTS THE SECOND RAK, WHO LANDS, SPLATTING ON THE WINDSHIELD.
+C: TANNIS
+D: You really made things worse.
+C: LILITH
+D: KRIEG, HELP ME!
+C: KRIEG
+D: VISCERA PAINT PARADE!
+N: Krieg and Lilith pull the Rak off the windshield while Tannis steers, but it's still smeared in blood.
+C: CLAPTRAP
+D: I can't wait to see how this ends!
+N: Lilith wipes the guts and sees they're headed FOR A HILL! The bus SLIDES DOWN THE HILL, OUT OF CONTROL.
+S: 119 EXT. WEDDING CEREMONY - DAY 119
+N: NEAR ROLAND, the Lance soldiers have him, but everyone now just watches the bus as it careens TOWARDS A CLIFF. The fighting has stopped to watch the bus, in horror.
+S: 120 INT. VW - JUST MARRIED BUS - DAY 120
+N: IN THE VW BUS: everyone screams.
+C: CLAPTRAP
+D: WE'RE GONNA DIE! I MEAN, THEY ARE. I'M FREE! I'M FREE!
+S: 121 EXT. VW - JUST MARRIED BUS - DAY 121
+N: The bus skids OVER THE CLIFF - FALLING TOWARDS THE ROCKS!
+S: 122 INT. VW - JUST MARRIED BUS - DAY 122
+N: Tannis looks at Lilith, who shrugs. What can you do... Lilith white knuckles, holding the wheel. Concentrating. Tiny Tina screams - and at the last second they ALL PUT THEIR HANDS OUT - AND IN A FLASH OF LIGHT, THE BUS DISAPPEARS.
+S: 123 EXT. CLIFF - DAY 123
+N: Everyone runs up to watch the bus fall...and disappear in a flash. Roland cheers, ecstatic. Steele fumes.
+C: ROLAND TINAAAAAAA!!!! That's my girl!!!!
+D: Told you she's the -
+N: Steele ZAPS HIM with a taser, knocking him out.
+C: STEELE
+D: Prepare him for questioning.
+N: Two Lance soldiers pick him up. Steele looks below, not understanding how they got away. Where are they... *NOTE - If we are in budget crisis mode, they can teleport in the mine when they are about to crash into the roof. Roland's sacrifice would be holding up a wall so they can escape.*
+S: 124 EXT. WINDSHEAR WASTE - RIGHT NOW 124
+N: We’re in a FRIGID SWIRL of frozen air driven by howling wind. The landscape is snow and ice, flat and cold as far as the eye can see. AURORA PANDORALIS swirls across the sky. A solitary BULLYMONG stumbles into frame, its face coated with ice... then it keels over and dies, frozen stiff. Then, about three feet above the snowy ground... a DOME OF PURPLE ENERGY crackles into view... EXPANDS... and then... Lilith, Tina, Tannis, Krieg, and Claptrap appear in the bus, NOSE FIRST. But still three feet above the-- aaaaand they all just fell. The bus falls back onto its wheels, crushing them. The door opens. Everyone stumbles out of the bus, shocked.
+C: TINY TINA
+D: I TOLD YOU! I ... AM ... SPECIALLLL! Teleportation whaaaaaat? I MOVE STUFF WITH MY MIND YALLLLL!
+N: Lilith stumbles out, and, oh god. Nope. Doubles over. Pukes.
+C: TANNIS
+D: Curious. The teleportation seems to have made her ill. How did you do that?
+E: To Tina
+C: TINY TINA
+D: ... Huh. I don't know. It just kinda... happened. Hey, Roland's gonna be okay, right?
+E: to Lilith
+C: LILITH
+D: He's an elite soldier, he'll be okay. Where are we?
+E: stumbling up
+C: TANNIS
+D: Windshear Waste. We have approximately ten minutes before we expire.
+C: CLAPTRAP
+D: What do you mean "we," meatbag?
+C: KRIEG
+D: THE TINY ONE AND THE SAD-FACED MOTHER! AND THE BLUE TATTOO FOREVER AND EVER!
+E: O.S. they turn to him
+N: Then he points back to-- A CAVE ENTRANCE. Shelter!
+C: TINY TINA
+D: SWEET! Gonna grab me some primo-ass NAPTIME!
+N: She goes BOUNDING happily toward the cave. Tannis and Claptrap follow. Lilith watches Tina go. The girl is special. It's all real. The Vault. The Key. The Daughter of Eridea. The Treasure Beyond Treasure. Her mother's faith.
+S: 125 INT. CAVE - LATER 125
+N: A natural shelter from the storm. Krieg stokes small fire with his own hand. Good Lord. TINA - snores softly on the ground, where she's basically face-planted. Hard to blame her. Busy day. TANNIS - in a deeper part of the cave, out of earshot from Krieg, has the TWO KEY PIECES. Lilith watches as Tannis fits them together. They slide into each other perfectly, joint in groove, and snap together with a CLICK. They are now one. A single CONICAL SHAPE. Then she just stares at it. Until:
+C: LILITH
+D: So what happens next?
+C: TANNIS
+D: Ah. Now you believe... This isn't just a key.
+N: Tannis holds the key up, so that the firelight shines against it, casting shadows on the cave wall. As she turns it, the light SHINES through crystals, creating strange shapes on the wall. It almost looks like...
+C: LILITH
+D: Is that... a map?
+C: TANNIS
+D: It's Pandora. And there.
+N: Lines of light converge on a single point.
+C: TANNIS
+D: The location of the one true Vault. It's a shame your mother couldn't be here to see this.
+C: LILITH
+D: ... where is that?
+C: TANNIS
+D: Let's see. It appears to be in the northwest end of... Oh. Yes. Krom's Canyon.
+E: squints, then
+N: Lilith knew it. Pandora's gonna Pandora.
+C: LILITH
+D: Without Roland we don't stand a chance getting through.
+C: TANNIS
+D: We have no choice. It's Krom or Atlas. Take your pick.
+C: LILITH
+D: It's suicide. Plus there are three parts to the key. We only have two.
+C: TANNIS
+D: No. We have the third part. "The Daughter of Eridea will place the key and open the Vault, revealing a Treasure Beyond Treasure that will save us all."
+E: glancing at Tina
+C: LILITH
+D: If she's the key, what happens...is this going to kill her?
+N: Tannis looks at Lilith, puzzled in her odd, blank way.
+C: TANNIS
+D: Of course. She has to die. Did your mother never tell you? She was the one who found the scroll detailing the ritual.
+C: LILITH
+D: I was eight. I can barely remember her face.
+C: TANNIS
+D: When the Daughter of Eridea places the key, a great energy is summoned forth. The pieces are consumed, and the Vault opens. There is no salvation without sacrifice. I assumed you knew.
+S: 126 EXT. CAVE - MOMENTS LATER 126
+N: Lilith crouches in the frigid air, trying to absorb what she's just heard. Pandora. Miserable Pandora. Where mothers are stolen from daughters, and little girls have to die... Claptrap moves in gingerly and NUDGES her with his-- WHAP! She slaps his dumb claw away.
+C: CLAPTRAP
+D: Whoa! Sorry! I thought for a moment there you had frozen to death. It was a really nice moment. I'll treasure it always! Also, I found an old shuttlewreck nearby and scavenged the final parts I needed. It's fixed!
+E: remembers
+N: He hands over-- THE COMMUNICATOR. Good as new. Shivering, Lilith slowly reaches out and takes it. Her gears turning. Yes. This is the only way. She gets up from the snow, turns, and heads into the cave.
+C: CLAPTRAP
+D: Really? No "thank you?" Nothing? Is anyone seeing this?
+N: But there's no one there. Just the dead BULLYMONG, with one frozen-open eye staring blankly at him.
+S: 127 INT. CAVE - MOMENTS LATER 127
+N: Lilith marches straight past Krieg, who mutters over his fire. Straight past Tannis, who is drawing a map based on the key shadows. A glance at Tina, who sleeps. Then she keeps going. Deeper into the cave.
+S: 128 INT. INNER CAVE - MOMENTS LATER 128
+N: The spark of a FLARE. Lilith tosses it in, illuminating a dank space. She looks back. Yeah. No one is going to hear her in here. She takes the communicator out. A breath... then PRESSES THE BUTTON. A moment, then... STATIC, and--
+C: ATLAS
+D: Lilith?
+E: COMMUNICATOR
+C: LILITH
+D: I have her. She's safe. With me.
+C: ATLAS
+D: That took-- less time than-- expected. The signal's-- ionization-- we'll have to wait until the next cycle to--
+E: COMMUNICATOR distorted static
+C: LILITH
+D: I know what she is. And I think you can hear me just fine.
+N: SHHHHHhshssss. The static disappears. And then: ATLAS appears in the cave. Right there. Well, a hologram. But the tech is quite impressive.
+C: ATLAS
+D: Oh no. I've been found out.
+C: LILITH
+D: This communicator was nothing but junk the whole time. You chipped me.
+C: ATLAS
+D: Better, I chipped your gun. I knew no matter what you'd never leave that. You're a "Vladof girl," right? Allara? Well. She's been chipped since manufacture. But she managed to disable it after landing on Pandora.
+C: LILITH
+D: She's smart.
+C: ATLAS
+D: She takes after her "father." After the Lance failed to find her, I realized I was missing an opportunity.
+C: LILITH
+D: Someone who would help her. To find the rest of the key. And the Vault.
+C: ATLAS
+D: And you behaved exactly as I predicted. "A seeker of the hidden, compelled to find that which no one else has." Of course, I was hoping you wouldn't figure out my ruse until you led me to the Vault. But you know where it is, don't you.
+E: studying her... MORE
+C: ATLAS
+D: Yes. You do. You have the keys, and you have the location, and soon enough, whatever's inside the Vault will be mine.
+E: cont'd
+C: LILITH
+D: If she opens it, she'll die.
+C: ATLAS
+D: She's a tool, Lilith. I grew her in a pod for one purpose.
+C: LILITH
+D: Grow another one! You have the keys, the location, let her go, I'll take her with me.
+C: ATLAS
+D: Clones are expensive and take time and I don't throw assets away.
+C: LILITH
+D: I could destroy the key, then you'd have nothing.
+C: ATLAS
+D: Then I'd kill her out of spite. Very, very slowly. Lilith, you're a talented thief, but a terrible negotiator.
+N: SWITCH IN POV - someone arriving at the entrance to this INNER CAVE. Looking in at Lilith and the holographic ATLAS.
+C: ATLAS
+D: I'm coming to collect Allara. And because I'm a man of my word, I grant you your reward. You are free, Lilith. Congratulations.
+N: ON LILITH - staring in impotent shock at Atlas, who then DISAPPEARS in a shimmer of light. Lilith hangs her head for a moment, then senses a presence. She turns to see: TINA - who heard that last bit, and only that last bit. We can see the betrayal etched on her face. And a dark rage.
+C: TINY TINA
+D: I hope I was worth it.
+C: LILITH
+D: Wait. No, Tina, I was trying to -
+C: TINY TINA
+D: Tell it to my sweet baby.
+N: Krieg steps out from the shadows and knocks Lilith out with his weapon. They look at her for beat, then step out. BLACK.
+S: 129 EXT. SALT FLATS - MORNING 129
+N: A flat gritty salt bed as far as they eye can see. Until we find: an abandoned MOBILE MINING VEHICLE, Crimson Lance logo painted on it. This is their fortress. The "Crimson Fastness."
+S: 130 INT. CRIMSON FASTNESS - BRIG - CONTINUOUS 130
+N: A makeshift brig. Armed Lancers stand at attention around-- ROLAND - whose armor has been removed. He's CHAINED BY HIS ARMS to a steel pipe that runs along the ceiling. Oh, and he’s currently GETTING THE SHIT BEAT OUT OF HIM BY TWO LANCE SOLDIERS. Rocky in the meat locker. Steele steps in. They stop.
+C: STEELE
+D: Stand down, I'll take it from here.
+N: The soldiers leave them alone. When they're gone, she dabs his face with a handkerchief.
+C: ROLAND
+D: Hell of a welcome back. Why didn't you just kill me?
+C: STEELE
+D: I wanted to see you like this. And to ask you where they went.
+C: ROLAND
+D: I saw the same thing as you. That's as far as I know. They could be anywhere on the whole damn planet.
+C: STEELE
+D: Why would you go AWOL on your family for these... gutter people?
+C: ROLAND
+D: Gutter people? Come on. You saw what that girl did. Her power.
+C: STEELE
+D: I don't know what I saw, only that they escaped somehow. Some Eridian tech they've been hiding.
+C: ROLAND
+D: It's her. And these people need her, and we can't let men like Atlas get that power and keep stomping on them. The vault, the keys? Those stories are real, Victoria--
+C: STEELE
+D: Don’t. You gave up the right to call me that when you quit on me.
+C: ROLAND
+D: Men like Atlas, they don't care about anything, just more power. There's no end -
+C: STEELE
+D: CORRECT. The giant corporations win. Always. They have the resources. So do you want to be on the winning side, or one of the losers?
+C: ROLAND
+D: I know what side I'm on. And I think inside you feel the same.
+C: STEELE
+D: ENOUGH. You broke the first rule. You got emotionally involved with the target.
+C: ROLAND
+D: I learned from the best.
+N: WHAM! Steele puts everything into this punch. She walks out, leaving him chained, coughing.
+S: 131 EXT. REMAINS OF CAVE - DAY 131
+N: POV - Blurry - from Lilith, on the ground, by a fire. As it comes into focus she sees TWO PSYCHOS, bundled up in Skag furs, finishing chaining Claptrap to the back of their vehicle.
+C: CLAPTRAP
+D: Fellas, fellas! I live to serve, but, let me confirm my friend in there is dead and then I can go free! You could take her weapons, maybe peel her face off for a new mask?
+C: PSYCHO
+D: I dunno. Do you need a new mask?
+E: to the other Psycho
+N: His friend would answer, but he just got shot in the FACE. BLAM. Knocked out of frame before we could even see any gnarly shit that would push us into an R rating.
+C: LILITH
+D: He does now.
+N: LILITH, half-emerged from the rubble, gun aimed at: THE REMAINING PSYCHO, who raises his-- nope. BOOM. Down he goes.
+C: CLAPTRAP
+D: Hooray! You're alive!
+N: Lilith staggers to her feet. Banged up. Cold. But breathing.
+C: CLAPTRAP
+D: Say, uh, how long were you standing there?
+N: Lilith limps over to one of the Psychos. Takes his Skag fur.
+C: LILITH
+D: Lemme guess. You didn't mean it.
+C: CLAPTRAP
+D: What? No, of course I meant it. I just wanted to make sure we were still on the same page about that.
+C: LILITH
+D: Heartwarming. Where'd-- ?
+E: looks around
+C: CLAPTRAP
+D: They found an abandoned buggy on the ridge. I fixed it for them, and had a perfectly acceptable way out of here but just couldn't bear the thought of leaving you when there was a .000025% chance you were alive! So-- where to, partner?
+C: LILITH
+D: Krom's Canyon.
+C: CLAPTRAP
+D: Great idea! No concern for your own life whatsoever. What I am concerned about is when you're going to unchain me fro-mmmWWHOOOOA!
+N: Lilith PEELS OUT, dragging the chained CLAPTRAP behind her like a string of cans on a wedding limo. As the car speeds across the frozen icescape...
+S: 132 INT. CRIMSON FASTNESS - BRIG - DAY 132
+N: Roland’s still hanging from his chains. Larry facing him, holding up some sharp tools.
+C: LARRY
+D: I used to look up to you, man. Now I have to scrap you for parts. It's nothing personal, but I am the medic.
+N: Larry and the other Lances laugh. Roland's only got eyes for one thing in the room: that KEY RING on the guard’s waist...
+C: ROLAND
+D: Larry, please - I need water.
+C: LARRY
+D: Sorry Roly-poly! Fresh out.
+E: pours out his canteen
+C: ROLAND
+D: I’ve got gum in my jacket...please.
+C: LARRY
+D: Oooooh, is that so? Lookie here! We got gum, boys!
+E: excavating Tina’s gum
+N: Larry pops a stick, CHEWS OBNOXIOUSLY. Taunting Roland.
+C: LARRY
+D: Mmmmm-mmmmmm! You guys want some gum? Todd, come get yourself a stick!
+N: Then he shares Roland’s gum with EVERY GUARD IN THE ROOM. They all chew and laugh. Roland just counts silently to himself. 18... 19... 20... BOOM!...... BOOMBOOMBOOM!!! We don’t see it, because that would be NC-17 material, but you can guess what happened by the BLOOD that just splattered all over Roland and-- TING! What was that? Ah, the GUARD’S KEYS landing at Roland’s feet, his chains broken. Roland smiles. Still got it. He unchains himself with his free hand, and then picks up a radio from the guard's belt. He tunes in...
+C: RADIO
+D: ...moving all his forces deeper into Krom's canyon...
+S: 133 EXT. KROM'S CANYON - GATE - TIME PASSES - SUN/MOON DUSK 133
+N: Lilith finally arrives at the gates of Krom's Canyon. Stops her vehicle. From behind her--
+C: CLAPTRAP
+D: Stopping so soon?
+E: O.S.
+N: She turns back to see Claptrap... still CHAINED behind her. He's been hard-towed this entire time. Deserved it, too. Lilith gets out and looks around. Weirdly, not a soul there. She unchains Claptrap.
+C: LILITH
+D: I need you to check Echonet again. Gotta find the exact location of a certain place in here.
+C: CLAPTRAP
+D: Oh, I'm sorry! I'd jump right on that, but I'm too busy shaking gravel out of my crack!
+E: hopping around
+S: 134 EXT. KROM'S CANYON - GHOST VILLAGE - SUN/MOON DUSK 134
+N: LOOKING DOWN on Lilith and Claptrap trekking through the canyon on foot (and wheel). It's brutally quiet. Up ahead... A DEAD VILLAGE - a settlement of derelict homes. And there's no sound except Lilith's breathing.
+C: CLAPTRAP
+D: This must've been one of the original Pandoran settlements. How quaint!
+N: She looks across at a house. Missing door. Broken glass. She stops, a little trepidation.
+C: LILITH
+D: This... was my home.
+S: 135 INT. LILITH'S HOME - MOMENTS LATER 135
+N: Lilith walks through. Claptrap follows. She hasn't seen this place since she was Tina's age. Since her mother was alive. And now... it's a ruin. Like her. She stops at the entrance to a small room, then enters. Faded yellow and blue on the walls. Broken remnants of toys. Near the rotting wood of her old bed, there's a TEDDY BEAR. Lilith bends down to pick it up. It's a lot like the one Tina was carrying around. Odd, how close they are. And then something catches Lilith's eyes-- under the bed. She pulls it out. It's a SMALL TIN with a crude drawing on it. A drawing of a SHAPE. The same shape on Lilith's arm. She OPENS the tin. Inside... FOLDED PAPER. DRAWINGS. We saw these in Lilith's fuzzy memories when she first landed here. Lilith looks at the first one. A 5-year old's self-portrait in crayon. "LILITH." Then another one of her and her mother. They stand smiling under the Pandoran Sun/Moon. Lilith smiles at these forgotten glimpses of a childhood she can barely remember... Then she looks at the last drawing, and her blood runs cold. We do not see it. Just the shock on her face. And the dawning revelation of something enormous. In an instant, she understands everything. She knows why her mother stayed. She knows why she is the way she is. She knows that she has to find Tina as quickly as possible... She drops the picture and RUNS out. Claptrap hesitates, confused, then follows... As we hear the sound of their vehicle roar, we drift down to the edge of the drawing left there on the floor. The drawing we still cannot yet see...
+S: 136 EXT. KROM’S CANYON - SUN/MOON DUSK 136
+N: Back with Tina, Tannis, and Krieg. They move SLOWLY. It's deathly quiet here. On either side of them: DIORAMAS OF DEATH. Strange SCENES made of dead bodies, all pinned in place by spears or chunks of petrified trees. Don't freak out. It's more Pirates of the Caribbean scary than Saw scary. Let the production designer wow you.
+C: TINY TINA
+D: This dude is compensatin' for something.
+C: TANNIS
+D: ...arches...look for anything with a door way, an arch, any flat rock face with a key shape... Ignore this junk, it's just meant to scare people off.
+N: On cue, more corpses re-animate. Tannis JUMPS.
+C: TANNIS
+D: In all fairness that was legitimately terrifying.
+N: PSYCHOS start popping out of nooks and crannies from above them on the rocks. Salivating over these three juicy steaks who just waltzed right onto their grill. Krieg notices.
+C: KRIEG
+D: Jackall picnic...
+C: TANNIS
+D: Perhaps we should consider--
+E: CONT’D
+C: TINY TINA
+D: RUNNING!
+N: Tina heaves a grenade up on the ridge and they HAUL ASS. The Psychos jump down the rocks, loving the cat and mouse. More appearing by the second. It’s not looking good until--
+C: TINY TINA
+D: Roland??? ROLAND!!!
+E: CONT’D
+N: --Tina spots Roland SPEEDING TOWARDS THEM. Piloting a hijacked CRIMSON LANCE STINGRAY HOVERCRAFT. Swag on one trillion.
+C: ROLAND
+D: DUCK!
+C: TINY TINA
+D: Kriegy! The floor game!
+N: They land heavy on the other side, too heavy, just as -- BOOM! -- Tina’s Christmas presents detonate behind them. But the victory is short-lived. Roland can’t keep control of the hovercraft. He jumps off as it crashes. Roland shoots, but more to help them run for cover.
+C: ROLAND
+D: Where's Lilith?
+C: KRIEG
+D: A RIVER OF BETRAYAL.
+C: TINY TINA
+D: She called Daddy on me so we ditched her. How'd you find us?
+C: ROLAND
+D: Lance on the radio, talking about a meeting with Krom, we need to move!
+C: TINY TINA
+D: WHERE TO?? TANNIS, COME ON!
+N: They back away, into a wall. All but Tannis, who stays, staring at the cliff face. But... from this exact spot... THE ROCKS FORM the OPTICAL ILLUSION of an ARCH. And in front of the arch, a short rock with a small CRACK in it just big enough for a shard to fit. Like a KEY.
+C: TANNIS
+D: A lifetime of searching... Here. IT'S HERE! IT'S HEEEEEERE! I feel emotion!
+N: The others join her and see it, mesmerized. But then, A RUMBLING. Remember those Psychos? Well, they caught up. And this time they brought the whole family: THE PSYCHO ARMY - in their vehicles, marching on foot, sitting on harnessed skags, and led by: KROM - roided up via experimental Atlas super-solider serum, Colonel-Kurtz-bald, a Goliath among men. Steering at the helm of the... oh boy, gear-heads and car nerds, here comes: THE BADASSASAURUS - a vehicular nightmare made of two huge tanks Siamese-Twinned together, enormous EXHAUST PIPES spewing thick smoke behind it, and an articulated TURRET rising up from the middle... holding a FIRE-BREATHING METAL T- REX HEAD... because THIS IS PANDORA AND THIS IS ACT THREE AND EVERYTHING IS ABOUT TO GO TO ELEVEN.
+C: TINY TINA
+D: We go down fighting?
+C: TANNIS
+D: They're not attacking.
+N: It's true. They've stopped. Assembled, weapons out, ready for the slaughter, but that's it. Krom sits back...and LAUGHS.
+C: ROLAND
+D: What's he laughing about?
+N: They look up as the FOG CLEARS to reveal... the BIG A in the sky, and descending rapidly from it... THE ATLAS WARSHUTTLE... about the size of the dropship he sent Lilith in. Tina steps back. This is whom she fears the most. Father.
+C: TINY TINA
+D: I really have issues with my dad.
+N: The ship LANDS, and Atlas emerges. Alone. He stands there between Krom's army and Tina. Then and Krom exchange a serious nod, then... he beams a smile at Tina, all charm.
+C: ATLAS
+D: I am so proud of you. You survived. You found the Key. You found the Vault. You have brought your father joy, Allara.
+E: off Tina's confusion
+C: TINY TINA
+D: My name is TINA! And I'm never gonna open the Vault for you.
+C: ROLAND
+D: You heard the little lady.
+E: raising his rifle
+C: ATLAS
+D: You see the army of lunatics behind me, yes? I've promised Krom all the guns and ammunition he could ever want... enough to break the will of this entire planet. Or, say, a girl.
+N: Tina pulls out a HAND-ROCKET. Wraps the Key to it with a strip of torn cloth.
+C: TINY TINA
+D: Any one of these freaks comes near me, and your precious Key goes on a sexy funtime date with this fine piece of ka- bootie.
+C: ATLAS
+D: All right! No one touches her!
+E: nods, well played
+N: Tina smiles: Gotcha, "dad."
+C: ATLAS
+D: Her.
+N: He gestures to Krom, who understands immediately. Krom slams his fist down on a BUTTON at the helm of his Badassasaurus, and two SPEAR- HEADED CHAINS FIRE OUT of the T-Rex head and PIERCE KRIEG, who is instantly YANKED OFF HIS FEET as the chains retract back, dragging him toward the PSYCHOS.
+C: TINY TINA ROLAND
+D: KRIEG! KRIEG! *
+N: Atlas smiles. Good. It's working. Of course it's working. KROM slams his fist down on another button, and the T-Rex head BELCHES FIRE DOWN, singing Krieg in a cloud of HEAT.
+C: KRIEG
+D: NOTHING BUT BLEEDING!
+N: Tina tries to rush to Krieg's side. No fear of the heat. But Roland restrains her as the mighty Krieg struggles in vain to free himself from the chains. The Psychos LAUGH at him as Krom blasts him with another belch of FLAME.
+C: KRIEG
+D: THE PAIN SCREAMS FROM INSIDE!
+C: TINY TINA
+D: STOP IT!
+N: Atlas doesn't even bother looking at her. He just watches the sport of Krieg's torture. Another BLAST of fire. Krieg is moving slower. Losing will. He's not burning, he's melting.
+C: TINY TINA
+D: STOPSTOPSTOP, I'LL OPEN IT!
+N: Atlas puts his hand up. Krom stops... The chains release and Krieg drops. Exhausted, but alive. Our gang in shock.
+C: ROLAND
+D: Tina, think about--
+C: TINY TINA
+D: I'M the special one! And he's my friend! So he's special, too!
+N: Roland relents. Stuck between a rock and a hard place. Atlas grins: Gotcha, "daughter." Tina stares at him, enraged. But he's beaten her. She puts the rocket away, takes the key in hand, and walks slowly to the KEYHOLE ROCK. ATLAS - watches in greedy anticipation. TANNIS - watches too. Emotionless as always. Curiosity more than anything else. The final secret. Roland grits his teeth. Tina stops in front of the keyhole. Looks at the KEY in her hand. Back at Atlas. He nods to her. Finish your task. She raises the KEY high... gives out a mighty YELL... and... SLAMS THE KEY INTO THE KEYHOLE! Silence. No sound. Just a huge Psycho army and a Psycho Lord and Tannis and Roland and Krieg and Atlas and... TINA. Who opens one eye. Ummm... is it open? Looks at the key in the hole. Looks at the entrance to the Vault. Nothing happened. From the ranks of the army, a Psycho starts LAUGHING and POINTING at the hilarious awkwardness of it all. Atlas, unamused, gestures to Krom, who gestures to another Psycho, who immediately SHOOTS the laughing Psycho in the back.
+C: ATLAS
+D: Allara...
+N: Tina is pulling the key out and sticking it back in. Nothing.
+C: TINY TINA
+D: Tina. The hell is... ?
+E: keeps trying the key
+N: Tannis watches Tina. Gears turning. Roland stares, confused.
+C: TINY TINA
+D: Maybe if I twist it like, clockwise? Which way is clockwise again? "Echo echo echo?"
+N: Atlas rubs his eyes. Headache. Disappointment.
+C: ROLAND
+D: I saw you... You're the Daughter of Eridea...
+C: ATLAS
+D: Apparently not.
+C: TINY TINA
+D: What? Maybe it needs a password!
+C: ATLAS
+D: There was always a chance my petri dish "Eridean" wouldn't have a pure enough bloodline. I'll have to start over and make a new Allara, building on what I've learned. I'll need her intact nervous system to do a proper genetic analysis for the next regeneration. ... Pull her head and spine from her body and put it on my ship.
+E: to Krom off Krom's confusion
+C: TINY TINA
+D: Whoa whoa, okay, hey you know what? You can call me Allara if you want.
+N: But he's already walking to his ship. Calls back to Krom.
+C: ATLAS
+D: And don't forget the key.
+N: Krom nods to his men. Three Psycho brutes start walking toward a terrified Tina. Roland steps up, ready for the worst. And then:
+C: LILITH
+D: STOP.
+E: O.S.
+N: Everyone LOOKS UP. LILITH stands at the top of the CANYON. A lone hero set against the sun/moon. The Queen of Awesomeness. KROM turns his helmeted face at Lilith, the way he did all those years ago... Lilith SLIDES DOWN the banked cliffside, landing on the ground like a cat. Then rises up. Eyes on Atlas.
+C: LILITH
+D: You're not going to kill her.
+N: She starts walking to Tina. And as she does, she drops her gun to the ground. Then her other gun. Then her ammo belt. Until she's completely disarmed. What is she doing?
+C: LILITH
+D: We're going to make a deal.
+N: Atlas laughs.
+C: ATLAS
+D: The great negotiator returns! Our deal is concluded. You're alive.
+E: smile fades
+C: LILITH
+D: I know... Now you're going to let her live.
+N: She stands next to Tina.
+C: ATLAS
+D: And why would I ever do that?
+C: LILITH
+D: Because I'm going to open the Vault... I'm the Daughter of Eridea.
+N: Lilith reaches out and takes the KEY from Tina. The first time she's held the assembled key... and she holds it high. Behold. THE GROOVES IN THE KEY begin to GLOW. Like purple fire in the stone. Lilith exhales. She wasn't sure that would work. But it did.
+S: 137 INT. LILITH'S HOME - DAY 137
+N: FLASH TO - the DRAWING on the floor of Lilith's home. A little stick figure girl drawn in crayon... making PURPLE SWIRLS in the air... domes of energy...
+S: 138 EXT. KROM'S CANYON - DAY 138
+N: BACK TO SCENE - Lilith looks down at her forearm. The mark... is GLOWING.
+C: ROLAND
+D: That was you...
+N: Tina stares in shock. But... she's the special one... Atlas takes a step forward. Eyes lit up in desire. Yes. YES.
+C: LILITH
+D: Stop. She lives. Give me your word.
+E: and he does
+C: ATLAS
+D: You have it. And I have nothing to gain by breaking it. Open the Vault, and she lives. NOBODY HURTS THE GIRL.
+N: Krom nods. Lilith looks to Atlas, nods okay. She turns to the KEYHOLE... but TINA gets in between her and the rock.
+C: TINY TINA
+D: But I'm the special one. Me. I'm special! I teleported us!
+C: LILITH
+D: No... I did that.
+S: 139 INT. VW - JUST MARRIED BUS - DAY 139
+N: FLASH OF HER MEMORY - the bus falls - Tina screams, and next to her... Lilith is screaming NO in a rage... the rage of a mother protecting a daughter...
+S: 140 EXT. KROM'S CANYON - DAY 140
+N: BACK TO SCENE - It was Lilith? It was Lilith all along?
+C: TINY TINA
+D: Why did you let me think it was me?
+C: LILITH
+D: I didn't know I did it. I was just a little girl...I forgot who I was...
+N: ON ATLAS - he steps forward, growing impatient, clapping twice, but Krieg looks at him and growls... as if to say, "C'mon man, give them a moment." Lilith looks to Roland. Finally understanding.
+C: LILITH
+D: I did it because I had someone to believe in. Because to me, you're the most special girl in the galaxy.
+N: Tina smiles. Lilith tries too, but it's hard to keep up the facade. Tina's smile fades in response. Something's wrong.
+C: LILITH
+D: My mother sent me away to protect me. Because whoever opens the vault...
+N: It takes Tina a moment. And then she does. No... She looks to Tannis, who nods. It's true. And Tina's little heart breaks. She had Lilith for a moment, and now she's leaving. Forever.
+C: TINY TINA
+D: But... you can't...
+C: LILITH
+D: It's okay. I'm ready.
+C: ATLAS
+D: So am I. Now, if you please.
+N: Lilith stands up. Roland comes over to take Tina's hand... to keep her back and let Lilith do what she has to do. Lilith walks toward the KEYHOLE. Looks back to her friends.
+C: LILITH
+D: Keep her safe.
+N: They nod. There's a tear in Krieg's eye.
+C: LILITH
+D: Hey. Don't bury me. Redraw the map. Way more heroic.
+E: smiles through tears
+N: Tina nods, taking that quite seriously, even as the tears trickle down her cheeks. And that's it. Nothing more to be said. Lilith walks to the KEYHOLE. Lilith lifts the KEY, raises it high...
+C: LILITH
+D: I wish you were here to see it.
+E: to herself
+N: Then... she SLAMS THE KEY DOWN into the HOLE, and... THE SPACE WITHIN THE ARCH – EXPLODES IN A PURPLE LIGHT. It PENETRATES through Lilith’s BODY... The purple glow nearly blinds everyone. Lilith SCREAMS in AGONY... the energy literally LIFTING HER OFF THE GROUND... FLOWING THROUGH HER, pouring from her eyes, her mouth... INSIDE THE GATE – ANOTHER DIMENSION APPEARS! THE VAULT! ...a final terrible SCREAM from LILITH... THE ENERGY DISSIPATES... and Lilith’s body FALLS TO THE GROUND. Eyes open. No focus. The mark on her arm glows no more. She's dead. Atlas strides forward into the OPEN VAULT... some kind of extra-dimensional space that has been revealed. An echoing, otherwordly chamber of SWIRLING LIGHT AND ENERGY. It's beautiful... Behind him, Tina rushes over to Lilith's dead body. Tries to revive her. But it's pointless. Dead is dead, and she's really dead. Seriously. Stop thinking she isn't. She is. Claptrap wheels over. Looks down at Lilith's body.
+C: CLAPTRAP
+D: Hoora--!!!! --ndous! Suuuuper horrendous. Anyway, nice knowing you. I'm off to do what ever I damn well please! Byeeee!
+E: Tina glares
+N: As he starts rolling away...
+S: 141 INT. VAULT - DAY 141
+N: IN THE VAULT - Atlas enters. In the middle of the room, there is a small CHEST. No lock. Yes. At last... all of the years, all of the money, all of the lives burned... for this. Behind him, Tannis and Krieg crane their necks to see. Behind THEM... Krom and his army keep their weapons aimed at our heroes. No chance for last minute heroics. Atlas puts his hands on the chest... flips the lid open and... INSIDE IS.... Nothing. Nothing at all. What the fuck? He runs his hands in and out of the space. No. It can't be. Nothing? NOTHING? After all this?
+C: ATLAS
+D: No. This is a trick. The Vault is under this. Or through this. DID YOU THINK THIS WOULD STOP ME?!?!
+N: The Psychos look at each other. They may be crazy, but this dude is nuuuuuuts....
+C: ATLAS
+D: I found your Vault! I opened it! If you buried treasure here, I will dig it up. I will dig down to the core! I WILL ENSLAVE EVERY LAST MAN, WOMAN AND CHILD ON PANDORA IF I HAVE TO! I WILL CRACK THIS PLANET IN TWO!
+N: Tina stares in shock and horror at what Atlas is saying. Everyone on Pandora is in terrible danger. That's probably why she doesn't notice: THE MARK ON LILITH’S ARM ... begins to GLOW. A faint purple... then more intense... ...and then the MARK GROWS, crawling up Lilith’s arm in SWIRLS AND LOOPS... And now Tina sees it. She backs away from Lilith. What’s happening? The swirling tattoo-like marks glow brighter and brighter... turning from PURPLE to ORANGE.
+C: ATLAS
+D: THE TREASURE... WILL... BE....
+N: And that's as far as he gets with that, because there's a SHADOW moving on the wall... some light source coming from--? LILITH - the swirls on her skin glowing orange... TANNIS - steps forward... yes... of course. How could she have missed it all along? Lilith's EYES SNAP OPEN, and they are FIRE. Orange flame. Tina scrambles back to Krieg, terrified. Roland watches, awestruck. Atlas' jaw hangs. The Psychos stare in shock. Lilith RISES to her feet. No, not Lilith. I told you she was dead, and she is. This isn't Lilith anymore. She is... FIREHAWK. We're still going to call her Lilith, because we can. But like the drawing, SHE. IS. FIREHAWK. Lilith fists clench... she straightens... and WINGS OF FIRE sprout from her back as she assumes her ultimate form.
+C: TINY TINA
+D: What's happening?
+C: TANNIS
+D: This is what the Erideans left inside. A gift of salvation for the people of Pandora... They delivered us a champion.
+N: The power inside the Vault has been set free, transforming the once Daughter of Eridea into an avenging ANGEL.
+C: ROLAND
+D: Treasure beyond treasure.
+S: 142 INT. CAVE OPENING - DAY 142
+N: IN THE CAVE with the blind girl - her picture GLOWS. Her eyes can SEE again. Her smile growing, in total awe.
+S: 143 EXT. GARBAGE PILE - DAY 143
+N: IN THE GARBAGE OF PANDORA - The kids feel the ground rumble, light glowing in the sky. They watch, stunned. She's HERE.
+S: 144 EXT. KROM'S CANYON - FINAL BATTLE - DAY 144
+N: AT THE VAULT ENTRANCE Lilith rises into the air with beats of her flaming wings, and turns her burning gaze onto... ATLAS. Who is smart enough to know this is about to get very, very, kinda sorta bad.
+C: ATLAS
+D: KILL HER!!!!!!!
+N: That's all Krom need to hear. He slams his fist down on a button, and the BADASSASAURUS LURCHES FORWARD, spitting FIRE, and the PSYCHO ARMY CHARGES... FIRING EVERYTHING AT LILITH AND TINA AND TANNIS AND ROLAND AND KRIEG, AND: LILITH spins to face them, and instantly creates an ORANGE ENERGY DOME around her and her friends... stopping the bullets dead. The Psychos stop firing. It's Lilith's turn. And NOW the BATTLE FOR PANDORA begins. Rather than spell it all out beat by beat, let me give you the high points. Lilith can: PHASEWALK – instantaneous movement through another dimension, allowing her to traverse distances in the blink of an eye, or teleport someone else at will. Which means she's BEHIND the enemy, attacking them from the rear, and when they TURN to face her, she's not there... and now she's FLANKING THEM... and when they fire at her friends, she's instantly moving them through space as well... PHASELOCK – lock a Psycho in a bubble of energy, trapping them helplessly in mid-air... and then SLAM them down into their fellow Psychos, which is particularly fun when one of them is wearing something explosive like a flamethrower backpack or a cooking grenade... But when you're facing an army of a THOUSAND PSYCHOS, you need what we nerds like to call an "area of effect" attack. You know. Something that covers some space. Like: PHASESTRIKE – a concussive ENERGY BLAST that blows enemies backwards, smashing their bones and rendering them gooey. THE PROTECTIVE ENERGY DOME - It’s keeping most of the horde out, but the truly insane are muscling through in ones and twos. Roland switches from one target to the next. His rifle spitting lead. Krieg takes out a WHOLE BUNCH OF RAGE on the Psychos who left him for dead. That big ol' sawbladefootclub of his is connecting with a LOT of skulls. Tina tosses grenades like party favors. Even Tannis pops a few caps in a few asses. Claptrap does impressive karate chops. Who knew?
+C: KRIEG
+D: NOBODY STOPS THE BLOOD TRAIN!!!!
+E: thwack
+N: WITH LILITH - in the middle of the chaos, when she hears...
+C: TINY TINA
+D: LILITH!
+N: She turns quickly to Tina... eyes flaming with concern. But Tina is not in trouble. What she IS is TINY TINA, THE WORLD'S DEADLIEST 13 YEAR-OLD, and she's got a whole mess of SWEET BABIES that need delivering to a bunch of Psychos...
+C: TINY TINA
+D: Wanna play catch?!
+E: CONT’D
+N: Oh yeaaaaaah. Fire-eyed Lilith, goddess of flame and retribution, SMILES. That's a sweet idea. Tina heaves baby after baby into the air like rice at a wedding. Lilith force- catching each, flinging them into the horde.
+C: TINY TINA
+D: YOU get an internal injury! And YOU get an internal injury! And YOU--
+E: CONT’D
+N: The bombs make for a great light show. And a ton of severed limbs. But there’s a looooot of Psychos out here. And they’re weighing hard on Lilith’s protective forcefield. She phasewalks back inside, beside Roland. The light flickers on the force field. Lilith losing strength. More psychos come.
+C: ROLAND
+D: We can't hold them much longer!
+N: Even with Lilith’s new awe-inspiring power, she can’t attack and play defense at the same time. This is about to be Hollywood’s shortest climax, if not for: THE CRIMSON LANCE - arriving in force, the very militia that used to serve Atlas, now turned against him! They cut down Psychos by the dozen from atop their Stingrays and Outrunners. And at the front of the pack... STEELE.
+C: STEELE
+D: Listen up soldiers, little change of pace. Today, THE LANCE DEFENDS PANDORA.
+N: BOOM BOOM BOOM BOOM BOOM and they FIRE AT KROM'S PSYCHOS. WITH ROLAND - as he realizes what just happened. A grin. Then, with renewed vigor, he turns back to the fight.
+C: KRIEG
+D: MURDER ENSEMBLE!!
+N: WITH ATLAS - seeing the tide begin to turn. What are they doing???? He scowls, stalks up the ramp of his ship, already calculating the net fiscal losses from this misadventure.
+C: LILITH
+D: Going somewhere?
+N: Lilith suddenly blinks in front of him, blocking his path. Before he can get a word in -- WOOMP! -- Lilith hits him with a CONCUSSIVE BLAST, sending him skidding into the dirt. Atlas has never felt pain like this before. Been a while since anyone’s dared lay a finger on him. He wipes the blood from his nose, shocked. Then... pissed. He stands. Dusts his million dollar jacket.
+C: ATLAS
+D: Do you know who I am?! I own this galaxy! And you--
+N: WOOMP! This one knocks him right to the vault. But now when he looks up, there’s fear in his eyes. He backpedals on his ass away from Lilith, into the vault.
+S: 145 EXT. KROM’S CANYON - DAY 145
+N: In the thick of it. The gang’s still fighting. Claptrap karate chops Psychos like a Cuisinart.
+C: CLAPTRAP
+D: Interplanetary ninja assassin Claptrap activated!
+N: ROLAND - has found his way to Steele, mid-fight.
+C: ROLAND
+D: Forgot how good you looked shooting a repeater!
+C: STEELE
+D: Happy to be here, but don't consider this a date. Not yet. LOOKOUT!
+N: They shoot psychos, fighting back to back, like old times. Tannis sketches a quick calculation, not shooting anyone.
+C: TINY TINA
+D: You gonna kill them with math?
+C: TANNIS
+D: Actually, yes.
+N: She fires at a rock that causes a LANDSLIDE, CRUSHING A GANG OF PSYCHOS.
+C: TINY TINA
+D: AWESOME! I WANNA TRY MATH!
+C: TANNIS
+D: Oh it's easy, you simply calculate the mass times gravity-
+S: 146 INT. THE VAULT - DAY 146
+N: Lilith looms over Atlas. He’s reached stage 3: BARGAINING.
+C: ATLAS
+D: Okay, okay! You win! What do you want? Money? A planet? Oh come ooooon! It was just business!
+C: LILITH
+D: "Rip her head from her spine."
+C: ATLAS
+D: You like the kid? I’ll clone you ten of them! Free of charge!
+N: That makes her smirk. Her fist glows a brilliant orange as she powers up. Tired of his shit.
+C: LILITH
+D: You know, Atlas, for such a wealthy businessman, you're a terrible negotiator.
+N: As she WINDS UP FOR THE FINISHING BLOW-- she senses something behind her-- DUCKS JUST IN THE NICK OF TIME-- as a CHAINSAW MACE (figure it out) flies right over her head. She turns. Because now she's standing face to face with KROM.
+C: ATLAS
+D: What the hell took you so long?!
+N: Lilith doesn’t wait for the bell. She blinks behind Krom in an instant, but with a little glitching. But Krom BLOCKS THAT SHIT. Inhumanly fast. Lilith's energy dropping.
+S: 147 EXT. KROM’S CANYON - DAY 147
+N: Back outside, Roland and the Crimson Lance mop up the rest of the Psychos as the last one flee. Claptrap throws a toilet.
+C: CLAPTRAP
+D: Aaaaaaand stay out!
+C: TINY TINA
+D: Where’s Lilith?
+E: looking around
+S: 148 INT. THE VAULT - DAY 148
+N: In the vault, it’s a different story. Krom doesn’t have statues all over Pandora for nothing. One big swing of his chainsaw mace sends Lilith to the ground.
+C: ATLAS
+D: Yes! Haha! Yesss! That’s why I pay you the big bucks!
+N: As Krom towers over Lilith, ready to lay the hammer -- BOOM! -- an explosion against his back makes him stumble. Tina’s in the vault. Terrified but standing her ground.
+C: TINY TINA
+D: Get away from her you bully!!
+N: She chucks another grenade, but he SWATS IT LIKE A FLY. Three huge steps and he’s there, slapping her to the ground. Yeesh.
+C: LILITH
+D: No...
+C: ATLAS
+D: Remember, I need the head and the spine.
+N: Krom cracks his neck. Gets ready for surgery. Tina looks to Lilith, not as a precocious bad-ass... but as a little girl.
+C: LILITH
+D: Tina... need a light.
+N: Tina lights a lighter. Krom laughs, holding his flamethrower. Then... FLAMES flicker around Lilith's skin... her tattoos growing WHITE HOT - as she absorbs the elements from Tina's lighter... and as Krom goes for the kill... KROM HEATS UP. He takes off his helmet. He's YOUNG, and really, really out of shape. Atlas is shocked. Lilith doesn't care. She just keeps cooking him. His suit almost melting.
+C: KROM
+D: Whoa, top, stop, stop, I'M NOT EVEN THE ORIGINAL KROM! I NEVER KILLED YOUR MOTHER, I WASN'T EVEN BORN YET! I KILLED THE OTHER GUY AND TOOK HIS SUIT, I COPIED THE VOICE, NOBODY CARED -
+N: HE EXPLODES.. Flames emanate from Lilith like some divine aura. She just went THROUGH Krom... Then her attention falls on Atlas...
+C: ATLAS
+D: Oh God. No! DON'T MELT ME! PLEASE!
+E: CONT’D
+N: But Lilith just powers down. Tattoos still glowing, she picks Tina up. And Tina hugs her neck like the kid she is.
+C: LILITH
+D: Ready to get outta here?
+N: Tina nods. Then, hand in hand, they head for the exit.
+C: ATLAS
+D: So... that’s it? We good?
+N: As Lilith crosses the threshold that leads back to Pandora, she finally turns around. Smiles sardonically.
+C: LILITH
+D: Today’s your lucky day, Atlas ...at last.
+N: And with that, she TAKES THE KEY FROM THE VAULT DOOR...
+C: ATLAS
+D: NO, WAIT--
+N: ... and CLOSES THE VAULT. Trapping Atlas inside.
+S: 149 EXT. KROM’S CANYON - DAY 149
+N: Lilith turns to Tina, smiles. Then crushes the key in her hand. The gang approaches. Lilith clocks Steele’s presence.
+C: LILITH
+D: I see you two kissed and made up.
+E: to Roland
+C: ROLAND
+D: More like kicked each other’s ass and made up, but yeah.
+C: STEELE
+D: He grows on ya. Hey, sorry I tried to kill you. Company business.
+C: TINY TINA
+D: Oh, I never take that stuff personally. We're good.
+N: Tannis examines her glowing tattoos--
+C: LILITH
+D: Do you mind?
+N: There's a whirring sound, and then:
+C: VOICE
+D: Lilith.
+E: O.S.
+N: Lilith's blood chills. She knows that voice. She turns slowly and sees: CLAPTRAP - in a strange rigid pose. An image is being projected out of his eye. A woman's face. She’s bloody. Dying, actually.
+C: LILITH
+D: Mama?
+C: LILITH’S MOTHER
+D: Lilith... if you’re hearing this... I didn’t make it.
+S: 150 EXT. PANDORA - SOME TIME AGO - DAY 150
+N: Lilith’s Mother, in an alley, on her last legs. Krom’s blast didn’t kill her. At least not right away. Psychos run rampant in the distance. She finds a spot near a trash heap. Good a place as any to die.
+C: LILITH’S MOTHER
+D: That means it’s up to you, lily pad. I know it’s not fair, but now the vault is your destiny.
+E: V.O.
+N: As her eyes grow heavy, they fall on something in the trash heap... An old Hyperion CL4P-TP robot. LATER - Lilith’s Mother has wrested its BACK PANEL open. Using the last of her strength to re-jigger its wires. Now we notice she has the SAME TATTOO as Lilith.
+C: LILITH’S MOTHER
+D: Someday, this place will call you back. This world can be beautiful again. You’re gonna make it so.
+E: V.O.
+N: Then... we see CLAPTRAP’S LIGHT FLICKER ON...
+S: 151 EXT. KROM’S CANYON - BACK TO SCENE - DAY 151
+N: Lilith, looking at the hologram of her mother’s face. So close she could touch her. If only. Her eyes water...
+C: LILITH’S MOTHER
+D: I’m just sorry I couldn’t be here to see it.
+C: LILITH
+D: So am I...
+C: LILITH’S MOTHER
+D: When the time comes for you to return, you won’t be alone. I programmed this unit to help with whatever you need... My treasure beyond treasure.
+N: Tina joins Lilith and takes her hand.
+C: LILITH’S MOTHER
+D: I love you, Lilith...
+E: CONT’D
+C: LILITH
+D: I love you too, Mama. I'm sorry I doubted. I'm sorry. I'm--
+N: The image DISAPPEARS. And Claptrap regains whatever his version of consciousness is.
+C: CLAPTRAP
+D: Whoa. That was weird. How could I have forgotten about that? It seems SO IMPORTANT. Would’ve been useful in the beginning, amirite?
+N: Lilith hangs her head. Unbelievable.
+C: LILITH
+D: Yeah. Great. Look, you did your job. And technically, I died.
+C: CLAPTRAP
+D: Correct!
+C: LILITH
+D: What I'm saying is-- you're free to go.
+C: CLAPTRAP Yes! I agree.
+D: The thing is... well, you're less terrible than everyone else on this planet. I no longer wish death upon you. And what higher praise can I give than that?
+E: looks around
+C: LILITH
+D: A lot. A lot higher praise.
+C: CLAPTRAP
+D: And we'll work up to it! As a team!
+C: ROLAND
+D: He's right. We've won this battle, but there are still Psychos out there. And Skags and Rakk Hives. The work isn't over.
+N: CLOSE ON LILITH, listening to:
+C: MAN'S VOICE
+D: No. But the Vault contained hope. Hope in the form of a flaming goddess who will lead us in the fight to save the good people of Pandora.
+E: O.S.
+N: She nods. Yes. That is what she is. Hope. And... Wait. I'm sorry, who the fuck was saying that? Lilith turns and sees... KRIEG. And then, in Lilith's head, she hears:
+C: KRIEG
+D: She... hears me? The real me?
+E: IN HER HEAD
+C: LILITH
+D: I do.
+N: Krieg drops his club. Falls to his knees. Overwhelmed. And yells to the sky:
+C: KRIEG
+D: NIPPLE SALAD!
+N: Everyone looks at each other. What was that?
+C: KRIEG
+D: Sorry.
+E: IN HER HEAD heavy sigh
+N: They sit, Tina, in between Lilith and Roland, Krieg on one side, Steele the other. Claptrap wheels over, and Krieg pets him like a dog. Even Tannis comes by, pouring a cup of tea for Tina. No idea where the fuck that came from. And Tina looks around...at her family. A tear in her eye. Then... A HONK. A brand new BANDIT TECHNICAL rolls up with MOXXI, SCOOTER and ELLIE behind the wheel. And with them, MARCUS in his bus. Ellie, Moxxi and Scooter hop out of the Bandit Technical.
+C: SCOOTER
+D: Well dip my ass in honey and wipe me with fire ants, I missed a battle, didn't I?
+C: ROLAND
+D: Perfect timing, right as it ended.
+C: ELLIE
+D: Reckoned anyone alive might wanna catch a ride...
+C: SCOOTER
+D: Ain't that my line?
+C: MOXXI
+D: Must've been some fight. Were you on fire?
+C: LILITH
+D: Yup.
+C: MOXXI
+D: ............ Okay.
+C: MARCUS
+D: I hear some Psychos are attacking a settlement in the Rust Commons. They could use a few vault hunters - I mean, finders - like yourselves!
+C: LILITH
+D: I'm not a... I guess I am.
+C: MARCUS
+D: Hey, you lost your Vladof! Fear not, I've got an extra Maliwan. Try it!
+N: Marcus reaches in his bag, and tosses her a Maliwan. She spins it around an holsters it.
+C: LILITH
+D: Thanks, guess I'm a Maliwan girl now. You go on ahead. We'll catch up.
+N: Lilith smiles at Tina. Ready? Yeah. She's ready. Lilith takes her by the hand, and FIREHAWK AND TINY TINA phaseshift through time and space... a glorious streak of FIRE across the sky... and my friends, I'm so sorry to say it, but this is: THE END.

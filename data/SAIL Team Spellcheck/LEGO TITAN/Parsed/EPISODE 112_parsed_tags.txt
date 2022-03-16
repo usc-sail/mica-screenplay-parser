@@ -1,0 +1,2419 @@
+M:                                                           TE
+M:                        LEGO DREAM CHASERS
+0: 
+0: 
+0: 
+0: 
+M:                                                TU
+M:                           Episode 112
+0: 
+M:           ( Formerly 123 Lost Oz + 124 Finding Albert )
+0: 
+0: 
+0: 
+0: 
+M:                                            I
+M:                                         ST
+M:       With Albert trapped in the dream world, Oz is acting
+M:     funny. So he’s not able to intercede when Chief Inspector
+M:      Strick captures zBlob. As the gang heads into the dream
+M:      world to save Albert and their schoolmates, Mateo goes
+M:      off on his own to free his buddy from the Observatory.
+0: 
+M:                                 IN
+M:       Everyone ends up reunited however in a massive battle
+M:            aboard the Nightmare King’s flying airship.
+M:                          IS
+M:                            Written by
+0: 
+M:                          Peter Sattler
+M:               AV
+0: 
+0: 
+M:                            6.10.2021
+M:              D
+M:        A
+M:     N
+M: EE
+0: 
+0: 
+0: 
+0: 
+M: LEGO SYSTEMS A/S
+M: G
+0: M:                                ACT 1:
+0: 
+0: 
+S:     INT. MATEO'S APARTMENT / BEDROOM - WAKING WORLD - NIGHT
+0: 
+N:     CLOSE ON A YEARBOOK. We see Mateo’s classmates. He goes down
+0: 
+0: 
+0: 
+0: 
+C:                                                       TE
+D:     the line, circling various faces. He finally gets to a photo
+D:     of Jayden, the kid we know is being tormented by the
+D:     Nightmare King. He circles that one. And now we know what
+D:     he’s doing. He’s making a list of all the kids in trouble.
+0: 
+0: 
+0: 
+0: 
+C:                                                TU
+D:     Mateo looks up to see Izzi watching him. They exchange a
+D:     silent nod acknowledging the stakes of the game.
+0: 
+N:     QUICK SUIT-UP SEQUENCE
+0: 
+0: 
+0: 
+0: 
+C:                                         I
+C:                                      ST
+D:     Sam throws the yearbook into his backpack.
+D:     Izzi throws her stuffed bunny in hers.
+D:     ZBlob jumps in and gives him a thumbs up.
+D:     Straps on. Shoelaces pulled tight. They’re ready to roll.
+0: 
+0: 
+C:                                IN
+D:     EXT. CITY STREETS / TACO TRUCK - WAKING WORLD - DUSK
+0: 
+N:     Izzi and Mateo silently walk down the streets. As they pass a
+C:                         IS
+D:     brownstone, Coop walks out and joins them without a word. A
+D:     few more steps and Logan pops out of his building and joins
+D:     them too. Like West Side Story, or something out of The Wild
+D:     Bunch, they quietly join the posse and head off down the
+D:             AV
+0: 
+0: 
+N:     street.
+0: 
+N:     They pass Mrs. C’s taco stand as she’s closing up. She
+N:     watches them go, a glimmer of awe in her eye at these growing
+N:            D
+0: 
+0: 
+0: 
+N:     dream warriors.
+0: 
+0: 
+S:     EXT. OBSERVATORY - WAKING WORLD - DUSK
+N:       A
+0: 
+0: 
+0: 
+0: 
+N:     Mateo, Coop, Izzi, and Logan walk up only to find Zoey
+N:     N
+0: 
+0: 
+0: 
+0: 
+N:     waiting there for them.
+0: 
+C: 1                       MATEO                                   1
+D: EE
+0: 
+0: 
+0: 
+0: 
+N:               Zoey. What are you doing here?
+0: 
+C: 2                       COOP                                    2
+D:               I thought you weren’t interested in
+D: G
+0: 
+0: 
+0: 
+0: 
+N:               being a dream chaser.
+0: 
+C: 3                       ZOEY                                    3
+D:               I’m not here because of you guys.
+D:               I’m here because of Albert. I got
+D:               that chimp captured. I’m wanna get
+D:               him out.
+0: 0:                                                               2.
+0: 
+0: 
+C: 4                        COOP                                      4
+D:                Yea? And how do we know this
+D:                partnership won’t result in US
+D:                getting captured too?
+0: 
+C: 5                        ZOEY                                      5
+D:                I guess you’ll just have to trust
+0: 
+0: 
+0: 
+0: 
+C:                                                        TE
+D:                me.
+0: 
+C: 6                        IZZI                                      6
+D:                Geesh, would you turkeys lay off!
+D:                We need all the help we can get!
+0: 
+0: 
+0: 
+0: 
+C:                                                 TU
+D:                That means her, and it especially
+D:                means... Mister Oswald.
+0: 
+N:      She pushes the door to the observatory open only to find...
+0: 
+0: 
+0: 
+0: 
+C:                                          I
+C:                                       ST
+D:      INT. OBSERVATORY/OZ’S LAB - WAKING WORLD - DUSK
+0: 
+N:      Loud punk rock music is playing. Oz is covered in a rainbow
+N:      of colorful splatters as he throws up a giant graffiti mural
+0: 
+C:                                 IN
+D:      on the side of the lab. It’s like he’s turned into an over-
+D:      enthused Venice beach hipster. His id is running wild,
+D:      unrestrained by his rational mind, he’s flitting from one
+D:      sensorial experience to the next without rhyme or reason.
+C:                          IS
+C: 7                        MATEO                                     7
+D:                Uh, Mister Oz? Are you okay?
+D:              AV
+0: 
+0: 
+C: 8                        OZ                                        8
+D:                Kids! Kids! The new generation! The
+D:                life in your eyes. I can FEEL it
+D:                coming off you, you know? You
+D:             D
+0: 
+0: 
+0: 
+N:                hungry? Who’s hungry? I made
+N:                paella. You have to taste it. Savor
+N:                that saffron. It’s like the sun’s
+N:                playing jazz on your tongue!
+N:        A
+0: 
+0: 
+0: 
+0: 
+C: 9                        LOGAN                                     9
+D:      N
+0: 
+0: 
+0: 
+0: 
+N:                Wait a minute. You said Albert is
+N:                basically half of Oz’s mind, right?
+N: EE
+0: 
+0: 
+0: 
+0: 
+C: 10                       ZOEY                                  10
+D:                Yea.
+0: 
+C: 11                       LOGAN                                 11
+D: G
+0: 
+0: 
+0: 
+0: 
+N:                So now that he’s captured...
+0: 
+C: 12                       ZOEY                                  12
+D:                He’s missing half his personality.
+0: 
+C: 13                       OZ                                    13
+D:                Whoa! Check this dude out!
+0: 0:                                                               3.
+0: 
+0: 
+N:      Oz runs up to zBlob, sticks his fingers into the goo,
+N:      obsessed with the texture. Giggling as it jiggles.
+0: 
+C: 14                       IZZI                                  14
+D:                Wow. Who knew Oz was so...
+D:                colorful.
+0: 
+0: 
+0: 
+0: 
+C:                                                        TE
+C: 15                       COOP                                  15
+D:                I guess anyone would be if you take
+D:                away the logical side of their
+D:                brain.
+0: 
+0: 
+0: 
+0: 
+C:                                                TU
+C: 16                       MATEO                                 16
+D:                Oz! Come on! You gotta snap out of
+D:                it. We need your help. We need to
+D:                find out who put that lock on our
+D:                dream gate.
+0: 
+0: 
+0: 
+0: 
+C:                                            I
+C:                                         ST
+C: 17                       AGENT STRICK                          17
+D:                That’s easy. I did.
+0: 
+N:      They spin to find AGENT STRICK! She quickly throws a glass
+0: 
+0: 
+0: 
+C: 18                       MATEO
+C:                                 IN
+D:      cloche over zBlob, capturing him into a containment tube like
+D:      a specimen. He’s been caught at last.
+0: 
+0:                                                                18
+C:                          IS
+D:                STOP! You can’t do that!
+0: 
+C: 19                        AGENT STRICK                         19
+D:                Finally. I knew you were here
+D:              AV
+0: 
+0: 
+N:                somewhere!
+0: 
+C: 20                       MATEO                                 20
+D:                Oz, do something! You can’t let her
+D:             D
+0: 
+0: 
+0: 
+N:                take zBlob!
+0: 
+C: 21                       OZ                                    21
+D:                He’s right. You can’t take him
+D:        A
+0: 
+0: 
+0: 
+0: 
+N:                anywhere... until you’ve tried this
+N:                paella.
+N:      N
+0: 
+0: 
+0: 
+0: 
+C: 22                       AGENT STRICK                          22
+E:                    (ignoring him)
+D: EE
+0: 
+0: 
+0: 
+0: 
+N:                You should knew better than anyone
+N:                how dangerous this creature is. The
+N:                Night Bureau exists precisely to
+N:                hold the line between the dream
+N: G
+0: 
+0: 
+0: 
+0: 
+N:                world and the waking world. To
+N:                prevent nightmares from crossing
+N:                over!
+0: 
+C: 23                       MATEO                                 23
+D:                But he’s not a nightmare! He’s my
+D:                best friend.
+E:                          (MORE)
+0: 0:                                                               4.
+0: 
+C:                          MATEO (CONT'D)
+D:                And he’s not hurting anyone. He’s
+D:                been helping! Why, he’s as much a
+D:                dreamchaser as we are!
+0: 
+C: 24                       AGENT STRICK                          24
+D:                That’s where you’re wrong. As of
+D:                today, this branch is closed, and
+0: 
+0: 
+0: 
+0: 
+C:                                                        TE
+D:                YOU are no longer dreamchasers.
+D:                Turn in your badges.
+0: 
+N:      Beat.
+0: 
+0: 
+0: 
+0: 
+C:                                                   TU
+C: 25                       IZZI                                  25
+D:                We were supposed to get badges?
+0: 
+C: 26                        AGENT STRICK                         26
+E:                    (sigh)
+0: 
+0: 
+0: 
+0: 
+C:                                            I
+C:                                         ST
+D:                He never gave you your badges?
+D:                Honestly, Oz, what kind of an
+D:                operation were you running here?
+0: 
+N:      She looks over to see Oz making a sand castle out of the rice
+0: 
+C:                                  IN
+D:      in his paella dish. She shakes her head.
+0: 
+0: 
+S:      EXT. OBSERVATORY - WAKING WORLD - DUSK
+C:                            IS
+D:      The kids walk away.
+0: 
+C: 27                       MATEO                                 27
+D:               AV
+0: 
+0: 
+N:                This is awful.
+0: 
+C: 28                       IZZI                                  28
+D:                I know! We never even got to SEE
+D:              D
+0: 
+0: 
+0: 
+N:                the badges! I bet they were super
+N:                cool.
+0: 
+C: 29                       MATEO                                 29
+D:        A
+0: 
+0: 
+0: 
+0: 
+N:                Not the badges. zBlob!
+N:      N
+0: 
+0: 
+0: 
+0: 
+C: 30                       COOP                                  30
+D:                ZBlob? What about Jayden and the
+D:                other kids at school?
+D: EE
+0: 
+0: 
+0: 
+0: 
+C: 31                       ZOEY                                  31
+D:                What about Albert?
+D: G
+0: 
+0: 
+0: 
+0: 
+C: 32                       LOGAN                                 32
+D:                Okay! We have to free all of them.
+D:                So what do we do?
+0: 
+N:      Everyone looks to Mateo.
+0: 0:                                                                 5.
+0: 
+0: 
+C: 33                       MATEO                                      33
+D:                I don’t know. I mean, without Z,
+D:                I’m not sure what to do.
+0: 
+N:      He keeps glancing back to the observatory. Clearly distracted
+N:      by zBlob’s absence. Like Dumbo without his feather.
+0: 
+0: 
+0: 
+0: 
+C:                                                           TE
+C: 34                       ZOEY                                       34
+D:                I’ll tell you what we do. We go
+D:                into the dream world tonight and
+D:                rescue Albert. Once he’s free, Oz
+D:                goes back to normal, and then he
+0: 
+0: 
+0: 
+0: 
+C:                                                   TU
+D:                can help you deal with Strick. And
+D:                then we’ll have the firepower we
+D:                need to face the Nightmare King.
+0: 
+N: 35                       IZZI                                       35
+0: 
+0: 
+0: 
+0: 
+C:                                            I
+C:                                         ST
+D:                Okay. Sounds good, right Teo?
+0: 
+C: 36                       MATEO                                      36
+D:                Huh? Yea. Sure.
+0: 
+0: 
+C:      his buddy.                  IN
+D:      But he keeps looking back at the observatory, still missing
+0: 
+0: 
+T:                                                      DISSOLVE TO:
+C:                          IS
+D:      EXT. DREAM LANDING - DREAM WORLD
+D:              AV
+0: 
+0: 
+N:      Izzi is doing warm-up stretches with Bunzai bunny. Getting
+N:      ready for the night.
+0: 
+C: 37                       ZOEY                                       37
+D:             D
+0: 
+0: 
+0: 
+N:                Okay. Is everyone ready?
+0: 
+C: 38                       LOGAN                                      38
+D:                Yea. Let’s go.
+D:        A
+0: 
+0: 
+0: 
+0: 
+C: 39                       IZZI                                       39
+D:      N
+0: 
+0: 
+0: 
+0: 
+N:                Wait. Mateo’s not here yet.
+0: 
+C: 40                       COOP                                       40
+D: EE
+0: 
+0: 
+0: 
+0: 
+N:                Did he go to bed at the same time
+N:                as you?
+0: 
+C: 41                       IZZI                                       41
+D: G
+0: 
+0: 
+0: 
+0: 
+N:                Well, now that I think of it, he
+N:                was up late reading one of his
+N:                zBlob comics.
+0: 
+C: 42                       ZOEY                                       42
+D:                Then I know exactly where he is. He
+D:                went to go save his friend.
+0: 0:                                                               6.
+0: 
+0: 
+C: 43                        LOGAN                                43
+E:                    (sarcastically)
+D:                Aw, great.
+0: 
+C: 44                       IZZI                                  44
+D:                Well, even if he did, I’m sure
+D:                he’ll be here. He said he’d be
+0: 
+0: 
+0: 
+0: 
+C:                                                        TE
+D:                here.
+0: 
+C: 45                       ZOEY                                  45
+D:                People say a lot of things they
+D:                don’t mean, Izzi. If he didn’t want
+0: 
+0: 
+0: 
+0: 
+C:                                                 TU
+D:                to stick to the plan, then I’ll
+D:                take the lead. And I say we go on
+D:                without him.
+0: 
+N: 46                       COOP                                  46
+0: 
+0: 
+0: 
+0: 
+C:                                          I
+C:                                       ST
+D:                Ok. Well, I guess that makes sense.
+0: 
+N:      They start heading out. Izzi wonders where he brother could
+N:      be.
+0: 
+0: 
+C:                                 IN
+C:                          IS
+C:              AV
+C:             D
+C:        A
+C:      N
+C: EE
+D: G
+0: 0:                                                                 7.
+0: 
+0: 
+0: 
+N:                                   ACT 2:
+0: 
+0: 
+S:      INT. OBSERVATORY/OZ’S LAB - WAKING WORLD - NIGHT
+0: 
+N:      zBlob in his bell jar are sitting on a pedestal, a bunch of
+0: 
+0: 
+0: 
+0: 
+C:                                                         TE
+D:      high tech equipment pointed at him. Strick is studying him,
+D:      watching him change forms while a computer spits out a screen
+D:      full of data.
+0: 
+N: 47                       AGENT STRICK                             47
+0: 
+0: 
+0: 
+0: 
+C:                                                TU
+D:                Fascinating. A true anomaly in the
+D:                fabric of reality. Have a look at
+D:                these numbers, Oz.
+0: 
+N:      She turns to see Oz trying to teach himself how to juggle.
+0: 
+0: 
+0: 
+0: 
+C:                                             I
+C:                                          ST
+D:      She sighs and turns back to her work.
+0: 
+N:      But there, in the window behind her, we see MATEO! He’s
+N:      crawled up the outside of the observatory and is peeking
+N:      inside, whispering to Oz.
+0: 
+C: 48                       MATEO
+D:                Psst! Mister Oz!
+C:                                   IN                              48
+C:                            IS
+C: 49                       OZ                                       49
+D:                Hey, Mateo. You don’t know how to
+D:                juggle do you?
+D:              AV
+0: 
+0: 
+C: 50                       MATEO                                    50
+D:                Uhh... no, but I could show you if
+D:                you do me a favor.
+D:             D
+0: 
+0: 
+0: 
+C: 51                         OZ                                     51
+D:                Noice!
+D:        A
+0: 
+0: 
+0: 
+0: 
+S:      EXT. FOREST - FANTASY REALM - DAY
+N:      N
+0: 
+0: 
+0: 
+0: 
+N:      A young unaware dreamer, TOBY, is cowering in a tree, holding
+N:      on to dear life while below him, two nasty little darklings
+N:      are circling, like wolves.
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:      ON A NEARBY PERCH, Zoey, Coop, Izzi, and Logan are watching.
+0: 
+C: 52                       COOP                                     52
+D: G
+0: 
+0: 
+0: 
+0: 
+N:                I know that kid. He’s in my choir
+N:                class. Poor guy. So what’s the
+N:                plan? How do we save him?
+0: 
+C: 53                         ZOEY                                   53
+D:                We don’t.
+0: 0:                                                               8.
+0: 
+0: 
+C: 54                       IZZI                                  54
+D:                What?
+0: 
+C: 55                       ZOEY                                  55
+D:                We wait for him to get captured so
+D:                we can find out where they take
+D:                him. So we can find Albert.
+0: 
+0: 
+0: 
+0: 
+C:                                                         TE
+C: 56                       LOGAN                                 56
+D:                You mean we’re just gonna let them
+D:                take him?
+0: 
+0: 
+0: 
+0: 
+C:                                                   TU
+C: 57                       ZOEY                                  57
+D:                We said rescue Albert. That was the
+D:                plan. We’re sticking to the plan no
+D:                matter what, got it?
+0: 
+0: 
+0: 
+0: 
+C:                                          I
+C:                                       ST
+C: 58                       COOP                                  58
+D:                Look!
+0: 
+N:      DOWN BELOW, we see a few more darklings have showed up and
+N:      are chopping down the tree with a big ax. One final crack and
+0: 
+0: 
+C: 59                       IZZI
+C:                                 IN
+D:      the tree slowly buckles and falls.
+0: 
+0: 
+N:                This doesn’t feel right.
+0:                                                                59
+C:                          IS
+D:      Izzi watches them haul Toby off. Zoey climbs onto the back of
+D:      Zion.
+D:              AV
+0: 
+0: 
+C: 60                       ZOEY                                  60
+D:                See, now we can follow them.
+D:             D
+0: 
+0: 
+0: 
+S:      INT. OBSERVATORY/OZ’S LAB - WAKING WORLD - NIGHT
+0: 
+N:      Agent Strick eyeballs a monitor intensely. Fiddling with some
+N:      knobs.
+N:        A
+0: 
+0: 
+0: 
+0: 
+C: 61                       AGENT STRICK                          61
+D:      N
+0: 
+0: 
+0: 
+0: 
+N:                Alright, little anomaly. Time to
+N:                find out what you’re made of.
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:      ON THE SCREEN, the scan fills in line by line until Strick’s
+N:      looking at an x-ray of a human skeleton tucked into a ball.
+0: 
+N:      She’s confused, pops up from behind her computers to see Oz
+N: G
+0: 
+0: 
+0: 
+0: 
+N:      is crammed into the bell jar, not zBlob.
+0: 
+N: 62                       AGENT STRICK (CONT'D)                 62
+N:                Oz?! What are you doing in there?
+N:                Where’s the dream creature?
+0: 0:                                                                  9.
+0: 
+0: 
+C: 63                          OZ                                    63
+D:                   More importantly, where’s my
+D:                   juggling teacher?
+0: 
+C: 64                          MATEO                                 64
+D:                   Sorry Oz, I’ll have to give you a
+D:                   raincheck on the lesson.
+0: 
+0: 
+0: 
+0: 
+C:                                                         TE
+D:      Strick sees Mateo and zBlob standing triumphantly in the
+D:      doorway of Oz’s lab.
+0: 
+N: 65                          AGENT STRICK                          65
+0: 
+0: 
+0: 
+0: 
+C:                                                   TU
+D:                   You! You have no idea the threat
+D:                   that thing is to the waking world!
+0: 
+C: 66                          MATEO                                 66
+D:                   Maybe. But he’s also my friend. And
+0: 
+0: 
+0: 
+0: 
+C:                                              I
+C:                                           ST
+D:                   I don’t abandon my friends.
+0: 
+N:      With that he taps the control panel and the high tech
+N:      security door whips shut. Now she’s trapped inside the lab,
+N:      just like Oz was a few episodes ago.
+0: 
+C:      She fumes.                    IN
+C:                            IS
+D:      EXT. LANDING STRIP - FANTASY REALM - DAY
+0: 
+N:      Toby is dragged in and thrown into a fantasy style wooden
+N:      cage. Next to him, a series of crude cages with more kids in
+N:              AV
+0: 
+0: 
+N:      them. And inside one, we find... ALBERT.
+0: 
+0: 
+S:      EXT. LANDING STRIP/UP A TREE - FANTASY REALM - CONTINUOUS
+N:             D
+0: 
+0: 
+0: 
+N:      Out of the top of a nearby tree, we see Zoey’s head pop up.
+N:      The other kids peek out too. They spot Albert and the others.
+N:      Paydirt!
+N:        A
+0: 
+0: 
+0: 
+0: 
+C: 67                          ZOEY                                  67
+D:      N
+0: 
+0: 
+0: 
+0: 
+N:                   See! I knew it. My plan worked.
+N:                   Okay. Here’s what’s next. You wait
+N:                   here. I’ll go down and break out
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:                   Albert. While those darklings are
+N:                   chasing us, you can get the kids.
+0: 
+C: 68                          COOP                                  68
+D: G
+0: 
+0: 
+0: 
+0: 
+N:                   Wait... look at that!
+0: 
+N:      He points to the horizon where we see a massive shadow
+N:      emerging from the clouds.
+0: 
+N:      IT’S A HUGE AIRSHIP that looks a lot like MR. SHARKFACE. It
+N:      lumbers across the sky, heading towards them.
+0: 0:                                                              10.
+0: 
+0: 
+N:      The darklings on the ground wave it in for a landing. That
+N:      must be where they’re taking the kids, up to the airship!
+0: 
+N:      Izzi gasps at the sight of her beloved stuffed animal turned
+N:      into this flying fortress.
+0: 
+N: 69                       IZZI                                     69
+0: 
+0: 
+0: 
+0: 
+C:                                                        TE
+D:                Oh, poor Mister Sharkface.
+0: 
+C: 70                       COOP                                     70
+D:                Hold on, Zoey. We gotta change our
+D:                plan. That thing is filled with
+0: 
+0: 
+0: 
+0: 
+C:                                                   TU
+D:                darklings. There’s no way we can...
+0: 
+C: 71                       ZOEY                                     71
+D:                I’m in charge. I have a plan. We’re
+D:                going to stick to it.
+0: 
+0: 
+0: 
+0: 
+C:                                          I
+C:                                       ST
+D:      She hops on Zion, and they jet off to rescue Albert, leaving
+D:      the others waiting in the tree.
+0: 
+N: 72                       LOGAN                                    72
+0: 
+C:                her plan?        IN
+D:                Should we follow her? Or stick to
+0: 
+0: 
+N:      They kids look at each other indecisively.
+C:                          IS
+D:      EXT. LANDING STRIP - FANTASY REALM - CONTINUOUS
+D:              AV
+0: 
+0: 
+N:      Albert is complaining to one of the darklings who have him
+N:      locked up in his rustic old cage.
+0: 
+C: 73                       ALBERT                                   73
+D:             D
+0: 
+0: 
+0: 
+N:                I say old boy, you do know we’re in
+N:                a dreamworld, don’t you? There’s
+N:                nothing stopping you from coming up
+N:                with some more comfortable
+N:        A
+0: 
+0: 
+0: 
+0: 
+N:                accommodations.
+N:      N
+0: 
+0: 
+0: 
+0: 
+N:      The darkling just rattles the cage, snarling at him. Albert
+N:      rolls his eyes.
+N: EE
+0: 
+0: 
+0: 
+0: 
+C: 74                       ALBERT (CONT'D)                          74
+D:                Well if you’re going to be like
+D:                that, then you deserve what you’re
+D:                about to get.
+D: G
+0: 
+0: 
+0: 
+0: 
+N:      The darkling raises an eyebrow, turns around just in time to
+N:      see ZOEY CHARGING FULL BLAST AT HIM.
+0: 
+N:      The darklings sound the alarm, and in a split second, the
+N:      flying creatures grab the other cages and drag the kids up to
+N:      the airship.
+0: 0:                                                              11.
+0: 
+0: 
+S:      EXT. LANDING STRIP/UP A TREE - FANTASY REALM - CONTINUOUS
+0: 
+N:      Coop, Izzi, and Logan see this unexpected turn.
+0: 
+C: 75                       COOP                                    75
+D:                Shoot! They’re taking the kids! I
+D:                knew we should have gone down
+0: 
+0: 
+0: 
+0: 
+C:                                                        TE
+D:                there! C’mon!
+0: 
+N:      They all race down to help.
+0: 
+0: 
+0: 
+0: 
+C:                                                   TU
+D:      EXT. LANDING STRIP - FANTASY REALM - DAY
+0: 
+N:      Zoey fights to free Albert, but she’s outnumbered. She
+N:      dispatches two or three darklings. She’s got a clear path to
+N:      Albert’s cage when suddenly,
+0: 
+0: 
+0: 
+0: 
+C:                                          I
+C:                                       ST
+D:      MORE darklings land from the sky in her path. She can’t reach
+D:      him now. And what’s worse, two more darklings swoop in, hoist
+D:      up Albert’s cage and start flying off with it.
+0: 
+C: 76                       ALBERT
+D:                I say! Put me down! IN
+D:      The darklings swarm Zoey and Zion, getting them pinned down.
+D:                                                                  76
+C:                          IS
+D:      They can’t do anything.
+0: 
+N:      Suddenly, LOGAN’S MONSTER FORM, LOLO comes charging in. He
+N:      plucks the darklings off and throws them over the trees.
+N:              AV
+0: 
+0: 
+N:      Snarling like a wild animal the whole time. The other
+N:      darklings scatter and LOLO transforms back into Logan as the
+N:      other dreamchasers rush up.
+N:             D
+0: 
+0: 
+0: 
+N:      But it’s too late. The last of the darklings and cages take
+N:      to the sky, all headed to the Sharkface airship.
+0: 
+C: 77                       IZZI                                    77
+D:        A
+0: 
+0: 
+0: 
+0: 
+N:                Are you okay?
+N:      N
+0: 
+0: 
+0: 
+0: 
+C: 78                       COOP                                    78
+D:                I told you we should have changed
+D:                the plan!
+D: EE
+0: 
+0: 
+0: 
+0: 
+C: 79                       IZZI                                    79
+D:                C’mon, let’s get on Zion, he can
+D:                fly us up there.
+D: G
+0: 
+0: 
+0: 
+0: 
+N:      Zoey hesitates, staring up at the imposing airship.
+0: 
+C: 80                       ZOEY                                    80
+D:                I... I’m not sure...
+0: 0:                                                              12.
+0: 
+0: 
+C: 81                       IZZI                                  81
+D:                C’mon what are you waiting for!
+0: 
+C: 82                       ZOEY                                  82
+D:                I... I can’t.
+0: 
+N: 83                       LOGAN                                 83
+0: 
+0: 
+0: 
+0: 
+C:                                                          TE
+D:                You can’t? Why not?
+0: 
+C: 84                       ZOEY                                  84
+D:                Why not?! Just look at what
+D:                happened! I screwed everything up.
+0: 
+0: 
+0: 
+0: 
+C:                                                   TU
+C: 85                       MATEO                                 85
+D:                Well, you were a better leader than
+D:                I was.
+0: 
+0: 
+0: 
+0: 
+C:                                           I
+C:                                        ST
+D:      Mateo emerges behind them, zBlob on his shoulder.
+0: 
+C: 86                       COOP                                  86
+D:                There you are!
+0: 
+0: 87
+0: 
+0: 
+0: 88
+C:                          IZZI
+C:                                 IN
+D:                I told you he’d come.
+0: 
+C:                          MATEO
+D:                                                                87
+0: 
+0: 
+0:                                                                88
+C:                          IS
+D:                I never should have gone after
+D:                zBlob first. I was wrong. I’m
+D:                sorry.
+D:              AV
+0: 
+0: 
+C: 89                       ZOEY                                  89
+D:                Well you’re too late. We already
+D:                lost. The whole thing went
+D:                sideways.
+D:             D
+0: 
+0: 
+0: 
+C: 90                       MATEO                                 90
+D:                Well, even the best plans require a
+D:                little flexibility. But lucky for
+D:        A
+0: 
+0: 
+0: 
+0: 
+N:                us, I know someone who’s a master
+N:                of it. Right, buddy?
+N:      N
+0: 
+0: 
+0: 
+0: 
+N:      He nods to zBlob, our lovable amorphous gooball. Mateo closes
+N:      his eyes and conjures zBlob into an upgraded version of the
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:      quadcopter mode we saw previously. Clearly, Mateo’s
+N:      dreamcrafting is getting better.
+0: 
+N:      The gang all climbs aboard. Everyone but Zoey.
+N: G
+0: 
+0: 
+0: 
+0: 
+C: 91                       IZZI                                  91
+D:                Zoey, aren’t you coming?
+0: 
+C: 92                       ZOEY                                  92
+D:                I... I told you I’ll just mess it
+D:                up again. Go on without me.
+0: 0:                                                              13.
+0: 
+0: 
+C: 93                       MATEO                                 93
+D:                I hope you’ll change your mind.
+D:                Leaders are allowed to do that, you
+D:                know.
+0: 
+N:      So Mateo and his friends, riding an amazing ‘zblob aircraft,’
+N:      shoot off towards the Nightmare King’s Sharkface Airship,
+0: 
+0: 
+0: 
+0: 
+C:                                                        TE
+D:      leaving Zoey and Zion alone on the ground.
+0: 
+N:      A quiet beat. The griffin nudges Zoey.
+0: 
+N: 94                       ZOEY                                  94
+0: 
+0: 
+0: 
+0: 
+C:                                                 TU
+D:                What? Don’t give me that look.
+0: 
+0: 
+0: 
+0: 
+C:                                          I
+C:                                       ST
+C:                                 IN
+C:                          IS
+C:              AV
+C:             D
+C:        A
+C:      N
+C: EE
+D: G
+0: 0:                                                              14.
+0: 
+0: 
+0: 
+N:                                 ACT 3:
+0: 
+0: 
+S:      INT. OBSERVATORY/OZ’S LAB - WAKING WORLD - NIGHT
+0: 
+N:      We cut back to the lab where we find Strick yelling into an
+0: 
+0: 
+0: 
+0: 
+C:                                                           TE
+D:      an airduct where the cover has been pried off.
+0: 
+C: 95                       AGENT STRICK                             95
+D:                Oz! Can you hear me? How is it
+D:                going?
+0: 
+0: 
+0: 
+0: 
+C:                                                 TU
+C: 96                       OZ (O.S.)                                96
+E:                    (echoing)
+D:                Hellooooo in there. Wow it sounds
+D:                amazing in here. You have got to
+0: 
+0: 
+0: 
+0: 
+C:                                          I
+C:                                       ST
+D:                try this.
+0: 
+C: 97                       AGENT STRICK                             97
+E:                    (frustrated)
+D:                Would you stop that and climb
+0: 
+0: 
+0: 
+C: 98                       OZ
+C:                                 IN
+D:                through to the other side! We have
+D:                to get out of here!
+0: 
+0:                                                                   98
+C:                          IS
+E:                    (echoing)
+D:                Yodel-ladey-eh-he-hoooo!
+0: 
+N:      Agent Strick grinds her teeth at this knucklehead.
+N:              AV
+0: 
+0: 
+S:      EXT. SKY/SHARKFACE AIRSHIP - FANTASY REALM - DAY
+N:             D
+0: 
+0: 
+0: 
+N:      On the surface, the dream creatures of this realm are running
+N:      for their lives, fleeing in terror and chaos as the Sharkface
+N:      airship skims across the tops of trees, knocking them to the
+N:      ground. The Nightmare King’s presence is wreaking havoc on
+N:        A
+0: 
+0: 
+0: 
+0: 
+N:      this world, as it does everywhere it goes.
+N:      N
+0: 
+0: 
+0: 
+0: 
+N:      But beneath it all, Mateo and his crew slowly skim behind,
+N:      flying stealthily in Sharkface’s wake. They fly up to its
+N:      belly. There’s a hatch they can get in.
+N: EE
+0: 
+0: 
+0: 
+0: 
+C: 99                       COOP                                     99
+D:                Just a little closer! A little
+D:                closer!
+D: G
+0: 
+0: 
+0: 
+0: 
+N:      Logan taps him on the shoulder and points up. They look to
+N:      see A DARKLING CANNON AIMED OVER THE SIDE, POINTED RIGHT AT
+N:      THEM.
+0: 
+N:      They fire! BOOM! The zBlob ship disappears in an explosion of
+N:      dream sand.
+0: 0:                                                                  15.
+0: 
+0: 
+N:       The darklings look over the railing, snickering, satisfied
+N:       that they’ve taken care of the dreamchasers.
+0: 
+N:       But as we hover there, we discover zBlob has turned into a
+N:       rope ladder and is hanging from the belly hatch, with the
+N:       gang climbing up and inside, undetected.
+0: 
+0: 
+0: 
+0: 
+C:                                                         TE
+D:       INT. SHARKFACE AIRSHIP/ENGINE ROOM - FANTASY REALM - DAY
+0: 
+N:       The gang tumbles out into a greasy engine room.
+0: 
+0: 
+0: 
+0: 
+C:                                                    TU
+C: 100                       IZZI                                    100
+D:                 Holy smokes that was close!
+0: 
+C: 101                       LOGAN                                   101
+D:                 Where are we?
+0: 
+0: 
+0: 
+0: 
+C:                                           I
+C:                                        ST
+D:       Coop is peeking out the door where we see row after row of
+D:       darklings marching by.
+0: 
+N: 102                       COOP                                    102
+0: 
+C:                                   IN
+D:                 Oh man, I don’t know how we’re
+D:                 supposed to get to the cages.
+D:                 There’s nothing but darklings out
+D:                 here!
+C:                           IS
+D:       Mateo looks at his sister with a coy smile.
+0: 
+C: 103                       MATEO                                   103
+D:               AV
+0: 
+0: 
+N:                 Nothing but darklings, eh?
+0: 
+0: 
+S:       INT. SHARKFACE AIRSHIP/HALLWAY - FANTASY REALM - DAY
+N:              D
+0: 
+0: 
+0: 
+N:       A head pops out of the steel door cautiously. It’s Izzy, but
+N:       she’s wearing some kind of DARKLING COSTUME she dreamcrafted.
+N:       It’s not half bad.
+N:         A
+0: 
+0: 
+0: 
+0: 
+C: 104                       IZZI                                    104
+D:       N
+0: 
+0: 
+0: 
+0: 
+N:                 This is crazy! Why am I the only
+N:                 one doing this?
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:       She looks back to see the other guys’ attempts at costumes.
+N:       They’re ridiculous.
+0: 
+C: 105                       IZZI (CONT'D)                           105
+D: G
+0: 
+0: 
+0: 
+0: 
+N:                 Ah, the curse of being the more
+N:                 talented sibling.
+0: 
+N:       She takes a deep breath and steps out into the hallway where
+N:       she immediately comes face to face with a darkling.
+0: 0:                                                                  16.
+0: 
+0: 
+C: 106                       IZZI (CONT'D)                           106
+D:                 Uh hey there. How about that
+D:                 Nightmare King, huh? Don’t you just
+D:                 love his... us... nightmareiness?
+0: 
+N:       Watching from the door, Mateo bites his lip, worried it won’t
+N:       work, but apparently, the darkling doesn’t seem to notice.
+0: 
+0: 
+0: 
+0: 
+C:                                                         TE
+D:       The creature turns and heads down the hall as a row of more
+D:       crew members file in behind Izzi, forcing her to keep moving.
+0: 
+N:       She looks back at Mateo, giving him a questioning shrug.
+0: 
+0: 
+0: 
+0: 
+C:                                                 TU
+D:       Mateo motions for her to follow them.
+0: 
+0: 
+S:       INT. SHARKFACE AIRSHIP/ENGINE ROOM - FANTASY REALM -
+N:       CONTINUOUS
+0: 
+0: 
+0: 
+0: 
+C:                                           I
+C:                                        ST
+D:       Mateo closes the door, returning to Coop and Logan.
+0: 
+C: 107                       MATEO                                   107
+D:                 Well, she seems to be doing okay,
+0: 
+C:                                  IN
+D:                 but she can’t cover the entire ship
+D:                 by herself. We have to find another
+D:                 way to look around.
+C:                           IS
+C: 108                       COOP                                    108
+D:                 I think I might have that covered.
+0: 
+N:       He pulls a grate off of a big pipe, spinning his trusty dream
+N:               AV
+0: 
+0: 
+N:       wrench proudly.
+0: 
+0: 
+S:       INT. SHARKFACE AIRSHIP/CARGO BAY - FANTASY REALM - DAY
+N:              D
+0: 
+0: 
+0: 
+N:       Izzi marches along with the other darklings as they enter a
+N:       large cargo bay. As they come to a halt, she keeps walking
+N:       and bumps into the one in front of her.
+N:         A
+0: 
+0: 
+0: 
+0: 
+C: 109                        IZZI                                   109
+D:       N
+0: 
+0: 
+0: 
+0: 
+N:                 Oops, sorry, er, I mean...
+N:                 grrrowlll.
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:       She looks around and finally finds what they came here for.
+0: 
+N:       ALL THE KIDS TRAPPED IN CONTAINERS. Rows and rows of pipes
+N:       are sucking their creativity out and filling jar after jar
+N: G
+0: 
+0: 
+0: 
+0: 
+N:       with dark dream magic. Izzi is shocked at this strange
+N:       ‘factory line’ dream machine.
+0: 
+N:       A darkling nudges her to keep moving. She’s forced to fall in
+N:       with the rest of the ‘troops’
+0: 
+N:       We drift away from Izzi and up to a
+0: 0:                                                               17.
+0: 
+0: 
+S:       INT. SHARKFACE AIRSHIP/CARGO BAY CATWALK - FANTASY REALM -
+N:       CONTINUOUS
+0: 
+N:       He’s surveying the operation. One of the darklings is
+N:       TAUNTING A CAGED ALBERT in the background while their boss
+N:       paces.
+0: 
+0: 
+0: 
+0: 
+C:                                                           TE
+C: 110                       NIGHTMARE KING                       110
+D:                 You fools. I only took this monkey
+D:                 to lure that green blob here. And
+D:                 now you’ve shot him out of the sky!
+0: 
+0: 
+0: 
+0: 
+C:                                                   TU
+D:       The Dark Archer stands at attention, seething at the dressing
+D:       down from his commander.
+0: 
+N: 111                       NIGHTMARE KING (CONT'D)              111
+N:                 No matter. With every night of
+0: 
+0: 
+0: 
+0: 
+C:                                           I
+C:                                        ST
+D:                 dreams my power grows. More
+D:                 children, more nightmares... more
+D:                 power. And once I have my hands on
+D:                 that creature... my dream can
+D:                 finally come true.
+0: 
+C:                                  IN
+D:       The Nightmare King looks out with greedy eyes at the vast
+D:       ‘factory floor’ of his airship where he eagerly watches jars
+D:       and jars filled with dark dream magic from these poor
+C:                           IS
+D:       children.
+0: 
+0: 
+S:       INT. SHARKFACE AIRSHIP/PIPE - FANTASY REALM - DAY
+N:               AV
+0: 
+0: 
+N:       The boys are shimmying on their hands and knees. Single file
+N:       inching down the thick steel pipe.
+N:              D
+0: 
+0: 
+0: 
+C: 112                       COOP                                 112
+D:                 I can’t believe that Zoey. All that
+D:                 talk about how tough she is and at
+D:                 the first sign of trouble, she
+D:         A
+0: 
+0: 
+0: 
+0: 
+N:                 bails.
+N:       N
+0: 
+0: 
+0: 
+0: 
+C: 113                       LOGAN                                113
+D:                 Well, it’s no wonder she bailed
+D:                 after the way you treated her,
+D: EE
+0: 
+0: 
+0: 
+0: 
+N:                 Mateo.
+0: 
+C: 114                       MATEO                                114
+D:                 What? What did I do?
+D: G
+0: 
+0: 
+0: 
+0: 
+C: 115                       LOGAN                                115
+D:                 I know you’ve got a crush on her,
+D:                 but I hardly think barging in to
+D:                 criticizing her leadership skills
+D:                 is the way to her heart.
+0: 0:                                                               18.
+0: 
+0: 
+C: 116                       MATEO                                116
+D:                 What? I didn’t criticize her... and
+D:                 who said I had a crush on her? I
+D:                 mean, did SHE say I had a crush on
+D:                 her?
+0: 
+N: 117                       COOP                                 117
+0: 
+0: 
+0: 
+0: 
+C:                                                         TE
+D:                 Would you two clam up! Someone’s
+D:                 coming.
+0: 
+N:       They pause by an air vent. Outside, we see the Dark Archer
+N:       pass by.
+0: 
+0: 
+0: 
+0: 
+C:                                                    TU
+D:       INT. SHARKFACE AIRSHIP/CAPTAIN’S QUARTERS - FANTASY REALM -
+D:       CONTINUOUS
+0: 
+0: 
+0: 
+0: 
+C:                                           I
+C:                                        ST
+D:       The Dark Archer leaves that hallway and enters the Nightmare
+D:       King’s personal study. The private lair of our villain,
+D:       filled with strange dream artifacts. But at the center of it
+D:       all, his primary talisman... HIS JEWELED STAFF. The Dark
+D:       Archer approaches, gazes into the crystal.
+0: 
+C: 118                              IN
+C:                           DARK ARCHER
+D:                 Show me... the dream chasers.
+D:                                                                118
+C:                           IS
+D:       A swirl of dark dream magic. The swell of magical music. The
+D:       glow of mystical light from this magnificent gem finally
+D:       materializes to reveal...
+D:                  AV
+0: 
+0: 
+N:       A BUTT.
+0: 
+N: 119                       DARK ARCHER (CONT'D)                 119
+N:                 What?!
+N:                 D
+0: 
+0: 
+0: 
+N:       We realize the image on the gem is showing us the view
+N:       through Logan’s hat, which happens to be currently pointed at
+N:       Mateo’s read end as they shimmy down the hallway.
+N:         A
+0: 
+0: 
+0: 
+0: 
+N: 120                       DARK ARCHER (CONT'D)                 120
+N:       N
+0: 
+0: 
+0: 
+0: 
+N:                 Wait a minute... that looks like...
+N:                 They’re in the vents!
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:       He rushes out.
+N: G
+0: 0:                                                                19.
+0: 
+0: 
+0: 
+N:                                     ACT 4:
+0: 
+0: 
+S:       INT. SHARKFACE AIRSHIP/CARGO BAY - FANTASY REALM - DAY
+0: 
+N:       We move past cage after cage. The children are tired, weary.
+0: 
+0: 
+0: 
+0: 
+C:                                                         TE
+D:       We finally find a familiar face. It’s Jayden.
+0: 
+N:       Izzi in her darkling costume sneaks up.
+0: 
+N: 121                         IZZI                                  121
+0: 
+0: 
+0: 
+0: 
+C:                                                     TU
+D:                   Psst. Jayden!
+0: 
+C: 122                         JAYDEN                                122
+D:                   Ughhh, stop... please.. just stop.
+D:                   You can have whatever you want...
+0: 
+0: 
+0: 
+0: 
+C:                                             I
+C:                                          ST
+C: 123                         IZZI                                  123
+D:                   No, Jayden! It’s me, Izzi!
+0: 
+N:       Jayden snaps to attention. Looks closer to see it’s really
+0: 
+0: 
+0: 124
+N:       her.
+0: 
+C:                             JAYDEN
+C:                                     IN
+D:                   Izzi? How did you get in here? And
+D:                                                                   124
+C:                            IS
+D:                   why do you look like those
+D:                   monsters?
+0: 
+C: 125                         IZZI                                  125
+D:               AV
+0: 
+0: 
+N:                   No time to explain! I’m here to
+N:                   bust you guys out.
+0: 
+C:       ACROSS THE ROOM
+D:              D
+0: 
+0: 
+0: 
+N:       The Dark Archer runs in, grabs the nearest darkling he can
+N:       find.
+N:         A
+0: 
+0: 
+0: 
+0: 
+C: 126                         DARK ARCHER                           126
+D:                   You! Search the ship! Those dream
+D:       N
+0: 
+0: 
+0: 
+0: 
+N:                   chasers are here somewhere!
+0: 
+N:       A squad of darklings fan out, making their way across the
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:       room where they will soon find Izzi.
+0: 
+C:       WITH IZZI
+D: G
+0: 
+0: 
+0: 
+0: 
+N:       Izzi sees all this, panics.
+0: 
+C: 127                         IZZI                                  127
+D:                   Oh nuts! I’ll be right back!
+0: 
+N:       She scurries away. Slinks along the cages, trying not to be
+N:       found when she bumps into someone.
+0: 0:                                                                  20.
+0: 
+0: 
+C: 128                       IZZI (CONT'D)                           128
+D:                 AHH!!
+0: 
+N:       But she sees... it’s just Mateo, Logan, and Coop.
+0: 
+C: 129                       IZZI (CONT'D)                           129
+D:                 It’s you guys! We gotta do
+0: 
+0: 
+0: 
+0: 
+C:                                                           TE
+D:                 something quick. They know we’re
+D:                 here!
+0: 
+C: 130                       MATEO                                   130
+D:                 We’ll start opening the cages. You
+0: 
+0: 
+0: 
+0: 
+C:                                                    TU
+D:                 find Albert!
+0: 
+N:       Izzi dashes off.
+0: 
+N:       Mateo, Coop, and Logan all start springing open cages.
+0: 
+0: 
+0: 
+0: 
+C:                                           I
+C:                                        ST
+D:       Grateful kids start rushing out.
+0: 
+N:       But the darklings are soon on them. One by one our heroes
+N:       take them out.
+0: 
+0: 
+C:       footballs.                 IN
+D:       Logan morphs into Lolo and starts hurling darklings like
+0: 
+0: 
+N:       A darkling charges zBlob but he just SWALLOWS the thing,
+C:                           IS
+D:       absorbing it into his blobby body. The darkling is floating
+D:       there unable to move. A muffled scream as it throws a futile
+D:       fit.
+D:               AV
+0: 
+0: 
+N:       Coop uses his wrench to open a cage when a darkling corners
+N:       him. Thinking fast, he spins a bolt and BOOM the cage door
+N:       falls down on top of the darkling, squishing him.
+N:              D
+0: 
+0: 
+0: 
+S:       INT. SHARKFACE AIRSHIP/CARGO BAY CATWALK - FANTASY REALM -
+C:       CONTINUOUS
+D:         A
+0: 
+0: 
+0: 
+0: 
+N:       Up on the catwalk, we find Albert watching from his cages.
+N:       N
+0: 
+0: 
+0: 
+0: 
+C: 131                       ALBERT                                  131
+D:                 I say, those children seem to have
+D:                 gotten loose. Well bully for them,
+D: EE
+0: 
+0: 
+0: 
+0: 
+N:                 wish I was as lucky.
+0: 
+C: 132                       IZZI                                    132
+D:                 You don’t need luck, Albert, you
+D: G
+0: 
+0: 
+0: 
+0: 
+N:                 got me!
+0: 
+N:       Izzi rushes in and unlocks his cage letting him out.
+0: 0:                                                                 21.
+0: 
+0: 
+C: 133                       ALBERT                                 133
+D:                 I say. Quite brilliant. Now let’s
+D:                 get topside. My fur is getting
+D:                 matted from all this confinement.
+0: 
+C: 134                       IZZI                                   134
+D:                 What’s that?
+0: 
+0: 
+0: 
+0: 
+C:                                                           TE
+D:       Izzi’s transfixed by a small room just off the catwalk.
+0: 
+0: 
+S:       INT. SHARKFACE AIRSHIP/ SHIP’S HEART CHAMBER - FANTASY REALM -
+0: 
+0: 
+0: 
+0: 
+C:                                                   TU
+D:       CONTINUOUS
+0: 
+N:       It’s a small engine room with one strange thing set inside
+N:       it. Accented like a small shrine. It’s a child’s tooth. Izzi
+N:       is stunned to silence as she slowly approaches the glowing
+0: 
+0: 
+0: 
+0: 
+C:                                           I
+C:                                        ST
+D:       artifact.
+0: 
+C: 135                       ALBERT                                 135
+D:                 What are you doing? Let’s go!
+0: 
+0: 136
+0: 
+0: 
+0: 137
+C:                           IZZI
+D:                 That’s my tooth.
+0: 
+C:                           ALBERT
+D:                                    IN                            136
+0: 
+0: 
+0:                                                                  137
+C:                           IS
+D:                 What?
+0: 
+C: 138                       IZZI                                   138
+D:                 When Mister Sharkface was my
+D:               AV
+0: 
+0: 
+N:                 pillow. He had a pocket for the
+N:                 tooth fairy. I put my last baby
+N:                 tooth in there right before my
+N:                 parents split up. And the tooth
+N:              D
+0: 
+0: 
+0: 
+N:                 fairy forgot to take it.
+0: 
+N:       Izzi is moved to deep emotion, staring into this remnant of
+N:       her childhood. Albert gently takes her shoulders.
+N:         A
+0: 
+0: 
+0: 
+0: 
+C: 139                       ALBERT                                 139
+D:       N
+0: 
+0: 
+0: 
+0: 
+N:                 We may yet be able to save this
+N:                 shark. And all the memories in it.
+N:                 But we can’t do it today.
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:       A tear rolls down Izzi’s cheek. She nods with strength. And
+N:       her and Albert dash off.
+N: G
+0: 
+0: 
+0: 
+0: 
+S:       EXT. SHARKFACE AIRSHIP/DECK - FANTASY REALM - DAY
+0: 
+N:       The kids all run onto the deck. Mateo, Coop, and Logan
+N:       leading the freed kids, including Jayden and Toby.
+0: 
+N:       Izzi joins them with Albert.
+0: 0:                                                                  22.
+0: 
+0: 
+N:       But once they’re up there. The darklings pour onto the deck,
+N:       circling them. Followed by the Nightmare King himself, with
+N:       the Dark Archer behind him.
+0: 
+C: 140                       NIGHTMARE KING                          140
+D:                 I must say. It’s impressive you’ve
+D:                 gotten this far. But you were fools
+0: 
+0: 
+0: 
+0: 
+C:                                                         TE
+D:                 to break into my ship without a
+D:                 plan to escape.
+0: 
+C: 141                        MATEO                                  141
+D:                 You’re right. I don’t have a plan.
+0: 
+0: 
+0: 
+0: 
+C:                                                    TU
+E:                     (beat)
+D:                 But she does.
+0: 
+0: 
+N:       WHOOSH. ZION BUZZES THE AIRSHIP. The darklings scramble.
+0: 
+0: 
+0: 
+0: 
+C:                                           I
+C:                                        ST
+D:       Chaos as this new threat arrives.
+0: 
+C: 142                       IZZI                                    142
+D:                 Zoey! She came back!
+0: 
+0: 143
+0: 
+0: 
+0: 144
+C:                           COOP
+C:                                  IN
+D:                 Did you plan this?
+0: 
+C:                           MATEO
+D:                                                                   143
+0: 
+0: 
+0:                                                                   144
+C:                           IS
+D:                 No. I just had faith she’d change
+D:                 her mind. Cause that’s what good
+D:                 leaders do.
+D:               AV
+0: 
+0: 
+N:       Zion lands on the deck, Zoey on its back.
+0: 
+C: 145                       ZOEY                                    145
+D:                 Get on quick!
+D:              D
+0: 
+0: 
+0: 
+N:       But before they can, the Dark Archer dreamcrafts a NET GUN.
+N:       He fires it and a rope net wraps around Zion, totally
+N:       capturing him. Zoey spills to the ground next to him. Our
+N:         A
+0: 
+0: 
+0: 
+0: 
+N:       heroes run up to her.
+N:       N
+0: 
+0: 
+0: 
+0: 
+C: 146                       IZZI                                    146
+D:                 Are you okay?
+D: EE
+0: 
+0: 
+0: 
+0: 
+C: 147                       MATEO                                   147
+D:                 Thanks for coming back. Sorry we
+D:                 weren’t much help.
+D: G
+0: 
+0: 
+0: 
+0: 
+C: 148                       ZOEY                                    148
+D:                 Don’t be. I thought about what you
+D:                 said, and this time, I gave my plan
+D:                 a little wiggle room.
+0: 
+N:       ZOOM. Everyone looks up to see Oz’s rocketship cruising in
+N:       alongside them.
+0: 0:                                                                  23.
+0: 
+0: 
+S:       EXT. SKY/OZ’S ROCKET SHIP - FANTASY REALM - DAY
+0: 
+N:       Agent Strick is at the helm.
+0: 
+C: 149                       AGENT STRICK                            149
+D:                 Oz! Get the grappling cannon ready!
+D:                 We only get one shot at this.
+0: 
+0: 
+0: 
+0: 
+C:                                                         TE
+D:       No response.
+0: 
+N: 150                       AGENT STRICK (CONT'D)                   150
+N:                 OZ?!
+0: 
+0: 
+0: 
+0: 
+C:                                                    TU
+D:       Behind her, we find Oz hanging on the side of a giant
+D:       grappling hook. The wind ripping through his hair. He’s
+D:       straddling the giant ‘fish hook’ painting flowers on the
+D:       outside.
+0: 
+0: 
+0: 
+0: 
+C:                                            I
+C:                                         ST
+C: 151                       OZ                                      151
+D:                 One second! Just putting on some
+D:                 extra touches!
+0: 
+0: 
+C:                                  IN
+D:       PFOOOM! THE GUN ACCIDENTALLY FIRES, with OZ ON IT! He rides
+D:       it like a rocket through the air where it finally...
+C:                           IS
+D:       EXT. SHARKFACE AIRSHIP/DECK - FANTASY REALM - CONTINUOUS
+0: 
+N:       ...PUNCHES A HOLE IN THE DECK OF SHARKFACE. The rope pulls
+N:       taught.
+N:               AV
+0: 
+0: 
+N:       Oz tumbles off and lands next to Albert.
+0: 
+C: 152                       OZ                                      152
+D:              D
+0: 
+0: 
+0: 
+N:                     (back to normal)
+N:                 Albert. It’s you. Well you’re a
+N:                 sight for sore eyes.
+N:                     (looks around)
+N:         A
+0: 
+0: 
+0: 
+0: 
+N:                 Hm. Where exactly are we?
+N:       N
+0: 
+0: 
+0: 
+0: 
+N:       ON THE ROCKETSHIP
+0: 
+N:       Agent Strick pulls back on the yoke. The rope tightens. She
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:       starts pulling one side of the deck up, and SHARKFACE STARTS
+N:       TO TIP OVER.
+0: 
+C:       ON THE SHARKFACE DECK
+D: G
+0: 
+0: 
+0: 
+0: 
+N:       Things start sliding across the deck. The Dark Archer and the
+N:       Nightmare King have to duck behind the wheelhouse to hang on.
+0: 
+C: 153                       MATEO                                   153
+D:                 Hold on to something!
+0: 0:                                                               24.
+0: 
+0: 
+N:       The rescued kids start sliding towards the edge.
+0: 
+N:       Coop uses his dream wrench to cut Zion loose. He and Zoey
+N:       grab the freed rope net and fling it at the kids, giving them
+N:       something to hold onto.
+0: 
+N:       The darklings aren’t so lucky, they slide off the deck and go
+0: 
+0: 
+0: 
+0: 
+C:                                                          TE
+D:       tumbling to the forest canopy below.
+0: 
+C: 154                       MATEO (CONT'D)                       154
+D:                 C’mon! We gotta climb!
+0: 
+0: 
+0: 
+0: 
+C:                                                    TU
+D:       The kids all make their way to the grappling hook and start
+D:       pulling themselves across to the rocketship.
+0: 
+N:       With Zion free, Zoey hops on his back and starts helping kids
+N:       climb on there too.
+0: 
+0: 
+0: 
+0: 
+C:                                           I
+C:                                        ST
+D:       ON THE ROCKETSHIP
+0: 
+N:       Strick is helping the last of the kids off the rope and into
+N:       the ship.
+0: 
+N:       ON THE SHARKFACE DECK      IN
+N:       The Nightmare King isn’t going to let his prey get away so
+C:                           IS
+D:       easily. He claws his way up the slanted deck, gets to the
+D:       grappling hook. He swings his magical staff AND SLICES THE
+C:       ROPE.
+D:               AV
+0: 
+0: 
+N:       The airship heaves over.
+0: 
+C:       ON THE ROCKETSHIP
+D:              D
+0: 
+0: 
+0: 
+N:       With the tension cut loose, the rocketship swerves wildly,
+N:       and Strick tumbles out of the door into open air.
+0: 
+N:       In a moment of terror ala Hans Gruber in Die Hard, she feels
+N:         A
+0: 
+0: 
+0: 
+0: 
+N:       her stomach go weightless as falls. She screams in terror and
+N:       then... LANDS in a green sticky substance.
+N:       N
+0: 
+0: 
+0: 
+0: 
+N:       She finds herself INSIDE OF A ZBLOB BUBBLE, floating in the
+N:       air below. zBlob saved her. He floats back up to the rocket
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:       and pops, leaving her covered in green ooze, but grateful.
+0: 
+N:       Oz is back at the helm, Albert at the second stick. They’re
+N:       back in their full faculties.
+N: G
+0: 
+0: 
+0: 
+0: 
+C: 155                       OZ                                   155
+D:                 Okay everybody. Let’s get out of
+D:                 here!
+0: 
+N:       And with that, they blast off away from the airship. Safe at
+N:       last.
+0: 0:                                                               25.
+0: 
+0: 
+0: 
+N:                                   TAG:
+0: 
+0: 
+S:       EXT. SCHOOL/GROUNDS - WAKING WORLD - DAY
+0: 
+N:       The dreamchasers watch as their friends run and play at
+0: 
+0: 
+0: 
+0: 
+C:                                                         TE
+D:       recess. Smiles on all their faces. We catch Jayden tossing a
+D:       football and laughing.
+0: 
+N:       Mateo is watching when he feel someone over his shoulder.
+N:       It’s Agent Strick. Mateo gulps.
+0: 
+0: 
+0: 
+0: 
+C:                                                   TU
+C: 156                       AGENT STRICK                            156
+D:                 I can’t say that I completely
+D:                 endorse the methodologies of this
+D:                 particular branch of the Night
+0: 
+0: 
+0: 
+0: 
+C:                                             I
+C:                                          ST
+D:                 Bureau. But I can’t argue with your
+D:                 effectiveness.
+0: 
+C: 157                       MATEO                                   157
+D:                 So you’re not gonna close us down?
+0: 
+C: 158                              IN
+C:                           AGENT STRICK
+D:                 You were right about the Nightmare
+D:                 King. I had no idea he had grown
+D:                                                                   158
+C:                           IS
+D:                 some powerful. I should have
+D:                 listened to you. We’re going to
+D:                 need all the dream chasers we can
+D:                 get to face him. And that includes
+D:               AV
+0: 
+0: 
+N:                 you.
+0: 
+C: 159                       MATEO                                   159
+D:                 And... what about zBlob?
+D:              D
+0: 
+0: 
+0: 
+C: 160                       AGENT STRICK                            160
+D:                 You did a good job keeping him out
+D:                 of my hands, just make sure you
+D:         A
+0: 
+0: 
+0: 
+0: 
+N:                 don’t let him fall into anyone
+N:                 else’s either. Deal?
+N:       N
+0: 
+0: 
+0: 
+0: 
+N:       Mateo beams. Reaches into his backpack to ‘pet’ his buddy.
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:       ON THE OTHER SIDE OF THE PLAYGROUND
+0: 
+N:       Izzi slides up to Zoey, who’s watching all the rescued kids
+N:       play on the playground.
+N: G
+0: 
+0: 
+0: 
+0: 
+C: 161                       ZOEY                                    161
+D:                 You think they’ll even remember
+D:                 that we saved them?
+0: 0:                                                               26.
+0: 
+0: 
+C: 162                       IZZI                                 162
+D:                 No, but we will. We’ll all remember
+D:                 what you did last night.
+0: 
+C: 163                       ZOEY                                 163
+D:                 Wasn’t exactly my finest hour. I’m
+D:                 notused to having to listen to
+0: 
+0: 
+0: 
+0: 
+C:                                                         TE
+D:                 other people’s ideas. I think maybe
+D:                 your brother is better at it than I
+D:                 am.
+0: 
+N: 164                        IZZI                                164
+0: 
+0: 
+0: 
+0: 
+C:                                                 TU
+D:                 Maybe. But that’s why we need you
+D:                 around. So he can listen to your
+D:                 ideas too.
+0: 
+N:       She smiles.
+0: 
+0: 
+0: 
+0: 
+C:                                           I
+C:                                        ST
+C: 165                       IZZI (CONT'D)                        165
+D:                 Would you excuse me? I wanna catch
+D:                 that agent lady before she leaves.
+D:                 I gotta find out about those
+D:                 badges!
+0: 
+N:       She bolts up to go. Pauses.
+C:                                     IN
+C:                           IS
+C: 166                       IZZI (CONT'D)                        166
+D:                 If she gives them to us... do you
+D:                 want one too?
+D:               AV
+0: 
+0: 
+N:       Zoey thinks.
+0: 
+C: 167                       ZOEY                                 167
+D:                 Yea.
+D:              D
+0: 
+0: 
+0: 
+N:       Wide on the playground as Izzi chases after Agent Strick. The
+N:       dreamchasers watch their friends play happily against the
+N:       warm sunlight.
+C:         A
+C:       N
+C: EE
+D: G
+0: 

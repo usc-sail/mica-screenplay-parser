@@ -1,0 +1,1144 @@
+M:             LEGO TITAN
+0: 
+M: EP 117 "ASSAULT ON CASTLE NOCTURNIA"
+0: 
+0: 
+M:             Written by
+0: 
+M:            Ghia Godfree
+0: 
+0: 
+0: 
+M:             D1 9.28.21
+0: S: 1   INT. CASTLE NOCTURNIA (DREAM WORLD) – CRYSTAL HALL – DAY      1
+0: 
+N:     DIRECT PICKUP FROM Episode 116 “The Worthy Dreamer.” OPEN ON
+C:     IZZIE, animated.
+C: 1                       IZZIE                                     1
+D:               Think about it. Luna wouldn’t hide
+D:               the story of how to defeat the
+D:               Nightmare King in a book! This is
+D:               the Dream World, people.
+0: 
+N:     Our team -- MR. OZ, ALBERT, MATEO, Z BLOB, ZOEY, LOGAN,
+N:     COOPER, PHIL, ZIAN, and the DREAMLINGS -- considers this.
+C: 2                       ALBERT                                    2
+D:               Point taken, Isabel. But if the
+D:               story isn’t in a book, where is it?
+C: 3                       IZZIE                                     3
+D:               Right there.
+0: 
+N:     With a sweep of her arm, Izzie gestures upwards to the
+N:     gorgeous, impressionistic STAINED-GLASS WINDOWS above them.
+N:     Sunlight streams in, refracted through the colorful glass.
+C: 4                       LOGAN                                     4
+D:               Um, what am I missing?
+C: 5                       COOPER                                    5
+E:                   (shrugs)
+D:               Beats me.
+0: 
+N:     ANGLE ON Mateo, staring at the windows, thoughtfully. From
+N:     his POV, we see... each window is comprised of different-
+N:     sized PANELS (like a MANGA COMIC). Mateo suddenly grins.
+C: 6                       MATEO                                     6
+D:               It’s like Bunchu and the Attack of
+D:               the Killer Goo!
+C: 7                       IZZIE                                     7
+D:               Yep. Volume 23.
+C: 8                       MATEO                                     8
+D:               Genius, sis!
+C: 9                       IZZIE                                     9
+E:                   (with a cocky grin)
+D:               I know.
+0: 
+N:     Mateo rolls his eyes but tousles his sister’s hair lovingly.
+N:     The others look on, confused.
+0: N:      LEGO 09/28/21       "Assault on Castle Nocturnia"            2.
+0: 
+C: 10                         ZOEY                                    10
+D:                  One of you gonna tell us what’s up?
+C: 11                         IZZIE                                   11
+D:                  Our favorite Bunchu Bunny manga is
+D:                  a flip book. When you turn the
+D:                  pages, the images animate.
+C: 12                         ZOEY                                    12
+D:                  And that’s relevant because...?
+C: 13                         MATEO                                   13
+D:                  What if the windows are sorta the
+D:                  same? We don’t need to read Luna’s
+D:                  story, we need to watch it!
+0: 
+N:        Our team looks doubtful, but Mr. Oz and Albert perk up.
+C: 14                         MR. OZ                                  14
+D:                  I could see Luna obscuring the true
+D:                  nature of the story to protect it
+D:                  from the Nightmare King...
+C: 15                         ALBERT                                  15
+D:                  And tying it to Castle Nocturnia so
+D:                  only a Dreamchaser could find it.
+C: 16                         COOPER                                  16
+D:                  Cool. So, how do we decipher a
+D:                  story set in some windows?
+C: 17                         MATEO                                   17
+E:                      (shrugs)
+D:                  No idea.
+0: 
+N:        Everyone groans, except Logan, puzzling over one window.
+C: 18                         LOGAN                                   18
+D:                  Hey Mr. Oz. Who’s that?
+0: 
+N:        He points to the one decipherable image in the FIRST STAINED-
+N:        GLASS WINDOW: It’s MIGO, a sweet and adorable DREAM CREATURE.
+C: 19                         MR. OZ                                  19
+D:                  That is Luna’s best friend, Migo.
+D:                  From the moment she dreamcrafted
+D:                  Migo, the two were inseparable.
+0: 
+N:        Seeing the similarities between the Luna/Migo bond and their
+N:        own friendship, Mateo and Z Blob exchange a glance.
+C: 20                         ALBERT                                  20
+D:                  Sadly, when Luna disappeared, Migo
+D:                  did too.
+0: N:      LEGO 09/28/21       "Assault on Castle Nocturnia"             3.
+0: 
+C: 21                         MATEO                                    21
+D:                  I bet they’re together.
+0: 
+N:        Z Blob solemnly jiggles in agreement. Suddenly--
+0: 
+N:        BOOM! Loud, ominous THUNDER echoes around the room. For a
+N:        beat, everyone freezes in fear.
+C: 22                         COOPER                                   22
+E:                      (afraid)
+D:                  Please tell me that wasn’t...
+0: 
+N:        Zoey hops astride Zian and flaps into the air. She stares out
+N:        of the stained-glass windows.
+0: 
+N:        REVERSE to reveal... a NIGHTMARE STORM! Black, billowing
+N:        clouds fill the sky. Zian touches back down.
+C: 23                         ZOEY                                     23
+D:                  Yeah, it’s a Nightmare Storm. And
+D:                  it’s approaching fast.
+C: 24                         PHIL                                     24
+E:                      (ashen-faced)
+D:                  If it reaches us, it will corrupt
+D:                  the Castle!
+0: 
+N:        Our team instinctively huddles closer together.
+C: 25                         ALBERT                                   25
+D:                  We hid our tracks. How’d this
+D:                  happen?
+0: 
+N:        Teo can’t help it, he sneaks a look at Logan.
+C: 26                         LOGAN                                    26
+D:                  Hey, don’t blame me! I didn’t give
+D:                  away our location!
+0: 
+N:        On cue, the EYE TRACKER on Logan’s HAT BLINKS. Everyone
+N:        gapes. Logan slumps, deflated.
+C: 27                         LOGAN (CONT'D)                           27
+D:                  I did, didn’t I?
+0: 
+N:        Everyone nods as the NIGHT HUNTER’S smug visage swirls into
+N:        view within the eye shape on Logan’s hat.
+C: 28                         NIGHT HUNTER                             28
+D:                  Very astute, Logan. Only a
+D:                  brainless Dreamchaser would fall
+D:                  for such an obvious ploy...
+0: 
+N:        The Night Hunter winks out.
+0: N:      LEGO 09/28/21       "Assault on Castle Nocturnia"          4.
+0: 
+C: 29                         IZZIE                                 29
+D:                  I guess you could say he’s had his
+D:                  eye on you for quite some time...
+0: 
+N:        Logan rips the hat from his head angrily, unsure what to do
+N:        with it. Z Blob grabs the hat and swallows it! [Note: It
+N:        dissolves to GREEN GOO as it hits his belly.]
+C: 30                         MR. OZ                                30
+D:                  Well, that’s one way to destroy a
+D:                  bugged hat.
+0: 
+N:        Clocking the glum, frightened faces of our team, Mateo steps
+N:        forward.
+C: 31                         MATEO                                 31
+D:                  What’s everyone so upset about?
+D:                  This can work to our advantage!
+C: 32                         COOPER                                32
+E:                      (unsure)
+C:                  I don’t know, Teo...
+C: 33                         MATEO                                 33
+D:                  No, this is good. If you guys can
+D:                  keep the Nightmare Storm at bay, I
+D:                  can decode Luna’s story. Then we
+D:                  can all defeat the Nightmare King
+D:                  together.
+C: 34                         ZOEY                                  34
+E:                      (eyes narrowed)
+D:                  If the Nightmare King’s itching for
+D:                  a fight, he came to the right
+D:                  place.
+C: 35                         IZZIE                                 35
+E:                      (impressed)
+D:                  Dang Zoey, you’re scary when you’re
+D:                  pissed.
+0: 
+N:        Phil clears his throat and steps forward.
+C: 36                         PHIL                                  36
+D:                  I may be able to help as well. You
+D:                  see, in 1577, Dream Keeper Shin not
+D:                  only installed indoor plumbing, he
+D:                  had the foresight to--
+C: 37                         ZOEY                                  37
+D:                  Phil! Weapons? Yes? Or no?
+0: N:      LEGO 09/28/21         "Assault on Castle Nocturnia"          5.
+0: 
+C: 38                         PHIL                                    38
+D:                  What would you say if I told you
+D:                  Castle Nocturnia has a powerful
+D:                  light cannon?
+0: 
+N:        Logan fist-pumps.
+C: 39                         LOGAN                                   39
+D:                  I’d say hells yeahhh!
+C: 40                         MR. OZ                                  40
+D:                  Dreamlings, find a place to hide.
+D:                  Cooper, you and I will assist
+D:                  Mateo. Everyone else, with Phil.
+0: 
+N:        As the Dreamlings scurry off and Izzie, Albert, Zoey, Logan
+N:        and Phil race away, CUT TO:
+0: 
+S: 2      EXT. SHARKYFACE AIRSHIP - DAY                                   2
+0: 
+N:        Hidden within the Nightmare Storm, the MR. SHARKYFACE AIRSHIP
+N:        flies towards the Castle. The NIGHTMARE KING stands eerily
+N:        still as NIGHTLINGS, including SUSAN, SNEAK, and SNIVEL, race
+N:        to and fro aboard the airship.
+0: 
+N:        The Night Hunter slinks up alongside the Nightmare King.
+C: 41                          NIGHT HUNTER                           41
+D:                  We’re almost in range, your
+D:                  Scariness.
+0: 
+N:        The Nightmare King smiles malevolently.
+C: 42                         NIGHTMARE KING                          42
+D:                  Today we show the Dreamchasers what
+D:                  the Dark Army can do.
+0: 
+N:        The Nightlings let out an unholy CHEER and race to take up
+N:        positions. Some notch BOWS with ARROWS; others load CANNONS.
+N:        Linger on Sneak looking less than gung-ho as we CUT TO:
+0: 
+S: 3      EXT. CASTLE NOCTURNIA (DREAM WORLD) – RAMPART – DAY             3
+0: 
+N:        Phil, Izzie, Albert, Logan, Zoey, and Zian spill out onto the
+N:        Castle’s rampart, and stare in horror at the truly terrifying
+N:        sight of the encroaching Nightmare Storm.
+C: 43                         ALBERT                                  43
+D:                  We have to stop the storm before it
+D:                  can corrupt the castle.
+0: N:      LEGO 09/28/21       "Assault on Castle Nocturnia"             6.
+0: 
+C: 44                         IZZIE                                    44
+D:                  Where’s that light cannon, big guy?
+0: 
+N:        With a flourish, Phil whips a sheet off the LIGHT CANNON.
+N:        (Retro-futuristic in style.) Zoey whistles, impressed.
+C: 45                         ZOEY                                     45
+D:                  Score one for Dream Keeper Shin.
+0: 
+N:        But when Phil pulls on the cannon’s lever to fire the
+N:        cannon... it won’t budge!
+C: 46                         PHIL                                     46
+D:                  It’s stuck!
+0: 
+N:        Our team stares at the Nightmare Storm, rolling closer.
+C: 47                         ALBERT                                   47
+D:                  We need to hurry!
+0: 
+N:        Albert joins Phil and together, they try to tug on the lever.
+N:        But try as they might, it doesn’t move an inch.
+C: 48                         IZZIE                                    48
+D:                  Brace yourselves!
+0: 
+N:        Izzie pulls out her hourglass and dreamcrafts her HAMMER. She
+N:        swings it over her head...
+0: 
+N:        BOOSH! She brings the hammer down on the lever, which slams
+N:        down and fires the cannon!
+0: 
+N:        BAWOOSH! Everyone momentarily shields their eyes as a
+N:        blinding BLAST OF LIGHT blazes forth!
+0: 
+N:        ANGLE ON our team as they watch the continuous beam of light
+N:        streak through the sky...
+C: 49                         LOGAN                                    49
+D:                  C’mon, please work...
+0: 
+N:        FATHOOM! The light beam SLAMs into the Nightmare Storm,
+N:        freezing it in place! Phil and Albert high-five.
+C: 50                         ZOEY/IZZIE/LOGAN                         50
+D:                  Yes! / Direct hit! / Boo-yah!
+0: 
+N:        OFF our heroes celebrating this success, we CUT TO:
+0: 
+S: 4      INT. CASTLE NOCTURNIA – CRYSTAL HALL – CONTINUOUS                4
+0: 
+N:        ON Z Blob moving one of the wall’s crystal tiles back and
+N:        forth.
+0: N:      LEGO 09/28/21       "Assault on Castle Nocturnia"             7.
+0: 
+0: 
+N:        As the light streaming through the windows hits the tile, it
+N:        reflects into Mateo’s eyes. He looks up, intrigued, but his
+N:        attention is drawn by a frustrated SIGH from Cooper.
+C: 51                         COOPER                                   51
+D:                  Why didn’t Luna leave us some
+D:                  freaking instructions?!
+C: 52                         MR. OZ                                   52
+D:                  What do you do when you’re building
+D:                  something and the instructions are
+D:                  missing?
+C: 53                         COOPER                                   53
+D:                  Look online to see if anyone’s
+D:                  posted ‘em.
+C: 54                          MR. OZ                                  54
+D:                  But surely you must trust your
+D:                  instincts.
+C: 55                         COOPER                                   55
+E:                      (doubling-down)
+D:                  No seriously, Mr. Oz. They have
+D:                  everything online.
+C: 56                         MR. OZ                                   56
+E:                      (deadpan)
+D:                  I’m not sure this would be there.
+C: 57                         COOPER                                   57
+E:                      (with a groan)
+D:                  Which is why it’s totally
+D:                  impossible without instructions!
+0: 
+N:        Mr. Oz looks like he’s going to argue but Teo interjects.
+C: 58                          MATEO                                   58
+D:                  C’mon, Coop. Nothing’s impossible.
+D:                  As long as we do it together.
+E:                      (off Coop’s dubious look)
+D:                  We can do this. You did figure out
+D:                  how to unlock Luna’s Hourglass,
+D:                  after all.
+0: 
+N:        Cooper suddenly straightens, struck by a thought.
+C: 59                         COOPER                                   59
+D:                  Wait! The Hourglass!
+0: 
+N:        Oz, Teo and Z Blob exchange a confused glance as Cooper bends
+N:        down to examine the floor. He searches around until...
+0: N:      LEGO 09/28/21       "Assault on Castle Nocturnia"          8.
+0: 
+C: 60                         COOPER (CONT'D)                       60
+D:                  A-ha! I knew there was a reason
+D:                  that pattern felt familiar!
+0: 
+N:        Cooper picks up Luna’s Hourglass and holds it above a TILE
+N:        decorated with the same designs: FULL MOON, SUN, CRESCENT
+N:        MOON, etc. He presses down on the middle of the tile and --
+0: 
+N:        THWUNK! The tile FLIPS OVER to reveal... a beautiful, crystal
+N:        PEDESTAL! Oz and Teo let out a startled GASP as Cooper picks
+N:        slots Luna’s Hourglass into an HOURGLASS shaped INDENTATION
+N:        on the pedestal. Nothing happens.
+C: 61                         COOPER (CONT'D)                       61
+D:                  Luna’s Hourglass must be the key!
+D:                  It’s unlocked the rest of the
+D:                  Castle’s secrets so far.
+0: 
+N:        Mateo looks thoughtfully from the light pouring through the
+N:        windows to the Hourglass atop the pedestal and back.
+C: 62                         MATEO                                 62
+D:                  What if there were a way to direct
+D:                  the light from the stained-glass
+D:                  windows through the Hourglass?
+C: 63                         MR. OZ/COOPER                         63
+D:                  Huh? / Whaddaya mean?
+C: 64                         MATEO                                 64
+D:                  Show ‘em, Z.
+0: 
+N:        Z Blob races over to move the tile he was playing with
+N:        earlier back and forth. As it moves, it reflects the light
+N:        shining through the stained-glass windows in different
+N:        directions. (Think bouncing light off reflective shields to
+N:        light the tomb in The Mummy). Cooper grins.
+C: 65                         COOPER                                65
+D:                  Who needs instructions when they’ve
+D:                  got us?
+0: 
+N:        Coop and Mateo high-five; it feels like old times.
+C: 66                         MR. OZ                                66
+D:                  Excellent thinking, you two! Let’s
+D:                  get these tiles into position.
+0: 
+N:        Mateo, Z Blob, Cooper, and Oz race around positioning the
+N:        crystal tiles so that the light flowing through the FIRST
+N:        STAINED-GLASS WINDOW bounces off different tiles until... it
+N:        pierces Luna’s Hourglass! Suddenly...
+0: N:      LEGO 09/28/21       "Assault on Castle Nocturnia"          9.
+0: 
+0: 
+N:        WHOOSH! A translucent PEGASUS materializes and gallops
+N:        straight for Cooper! He flinches, frozen in place and WHOOSH!
+N:        The Pegasus passes right through him!
+C: 67                          MATEO                                67
+E:                      (awed)
+D:                  It’s a hologram.
+0: 
+N:        (Note: The sunlight streaming through the stained-glass
+N:        windows is reflected off the crystal tiles and through the
+N:        Hourglass thus creating a HOLOGRAM style projection that
+N:        could look real or have a sepia tone to give it an aged feel.
+N:        As the hologram plays, Oz, Mateo, and Cooper will
+N:        narrate/connect the dots for our audience.)
+0: 
+N:        Oz, Mateo, Z Blob, and Cooper watch transfixed as a
+N:        translucent LUNA materializes. She looks lonely.
+C: 68                         MR. OZ                                68
+D:                  Luna... She looks so lonely.
+0: 
+N:        In the hologram, Luna dreamcrafts MIGO. She envelopes the
+N:        sweet DREAM CREATURE in a hug. Together, Luna and Migo are
+N:        happy. They play on the swings, they visit Dream Realms, they
+N:        read, they share an ICE CREAM SUNDAE.
+C: 69                         MATEO                                 69
+D:                  I’m glad she dreamcrafted Migo.
+0: 
+N:        Mateo smiles down at Z Blob –- the parallels between the two
+N:        relationships apparent.
+C: 70                         MR. OZ                                70
+E:                      (thoughtful)
+D:                  I wonder why Luna included this...
+0: 
+N:        As if in answer to his question, Oz, Mateo, Z Blob, and
+N:        Cooper are suddenly surprised to see Migo gesticulate angrily
+N:        at Luna when she tries to leave him. He wants her to stay.
+C: 71                         COOPER                                71
+D:                  Why’s he so upset?
+0: 
+N:        In the hologram, Luna tries to placate Migo but he’s
+N:        inconsolable. Her face fills with regret.
+C: 72                         MATEO                                 72
+D:                  He wanted all of Luna’s attention.
+0: 
+N:        Luna hugs Migo goodbye and he immediately throws a tantrum,
+N:        screaming and pounding the floor.
+0: N:      LEGO 09/28/21       "Assault on Castle Nocturnia"           10.
+0: 
+C: 73                         MR. OZ                                  73
+D:                  I think Migo grew resentful of
+D:                  Luna’s responsibilities as Dream
+D:                  Keeper and her ability to go to the
+D:                  Waking World.
+C: 74                         COOPER                                  74
+D:                  What a baby. She couldn’t help that
+D:                  she had to leave for a little bit.
+0: 
+N:        The hologram changes again -- this time, Migo waits until
+N:        Luna falls asleep. Then he picks up her Hourglass and tries
+N:        to dreamcraft... but nothing happens.
+C: 75                         MATEO                                   75
+E:                      (surprised)
+D:                  He’s trying to dreamcraft...
+0: 
+N:        In the hologram, Migo is frustrated by his inability to
+N:        dreamcraft. He throws plates and cups at the wall, SMASHING
+N:        them. He ROARS, enraged!
+0: 
+N:        Z Blob grabs Mateo’s hand as if to say –- that wouldn’t
+N:        happen to us.
+0: 
+N:        In the hologram, Luna catches Migo YELLING at Dreamlings,
+N:        scaring them. Luna scolds Migo and he sulks petulantly.
+C: 76                         MR. OZ                                  76
+D:                  His frustrations and fears are
+D:                  corrupting him.
+0: 
+N:        DARK SMOKE swirls within the hologram, making it feel ominous
+N:        and unsettling. When the smoke clears, Luna turns fitfully in
+N:        her sleep. Oz, Mateo, Z Blob and Cooper watch horrified as
+N:        Migo invades Luna’s dream as a nightmare!
+N: 77                          MR. OZ (CONT'D)                        77
+N:                      (shocked)
+N:                  W-w-whaa--
+0: 
+N:        Luna wakes up, frightened to see Migo elongate and transform
+N:        into... the Nightmare King!
+0: 
+N:        Oz, Mateo, Z Blob, and Cooper gasp, thunderstruck.
+C: 78                         MATEO                                   78
+E:                      (astonished)
+D:                  Luna created the Nightmare King.
+0: 
+N:        OFF our heroes’ shock, CUT TO:
+0: N:      LEGO 09/28/21       "Assault on Castle Nocturnia"          11.
+0: 
+S: 5      EXT. SHARKYFACE AIRSHIP - DAY                                  5
+0: 
+N:        The Nightmare King, his eyes narrowed in anger at the steady
+N:        beam of light holding the Nightmare Storm at bay. The Night
+N:        Hunter lowers his CROSSBOW, approaches warily.
+C: 79                         NIGHT HUNTER                             79
+D:                  I’m sorry, your Ghastliness. That
+D:                  light cannon is just too strong.
+C: 80                         NIGHTMARE KING                           80
+D:                  We’ll see about that...
+0: 
+N:        The Nightmare King strides to the bow of the ship and
+N:        WHISTLES LOUDLY. A beat. And then...
+0: 
+N:        TWO NIGHT TERRORS fly out of the fog to hover by the ship.
+N: 81                         NIGHTMARE KING (CONT'D)                  81
+N:                  Destroy the cannon, my lovelies.
+0: 
+N:        The Night Terrors SHRIEK with glee and disappear into the
+N:        billowing clouds of the Nightmare Storm.
+C: 82                         NIGHT HUNTER                             82
+D:                  And if any Dream Chasers get hurt
+D:                  in the process...
+E:                      (evil chuckle)
+D:                  All the better.
+0: 
+N:        OFF that terrifying pronouncement, CUT TO...
+0: 
+S: 6      EXT. CASTLE NOCTURNIA – RAMPART – DAY                          6
+0: 
+N:        ON Zoey, peering intently at the Nightmare Storm. She spots
+N:        movement in the clouds and then... two Night Terrors burst
+N:        forth with a SHRIEK! Homing in on the Light Cannon!
+C: 83                         ZOEY                                     83
+D:                  Night Terrors headed this way!
+0: 
+N:        Zoey hops astride Zian and takes to the skies. Phil leaps up
+N:        to join her.
+C: 84                         ZOEY (CONT'D)                            84
+D:                  I’ll take the ugly one.
+C: 85                         PHIL                                     85
+D:                  Which one is that? They’re both
+D:                  hideous!
+0: 
+N:        Zoey shakes her head and flies off to engage one Night
+N:        Terror, drawing it away from the rampart.
+0: N:      LEGO 09/28/21         "Assault on Castle Nocturnia"       12.
+0: 
+0: 
+N:        Phil heads for the other Night Terror. He SNAPS his tail and
+N:        fires a light beam but the Night Terror swoops past him,
+N:        making a beeline for the cannon! Logan spots it.
+C: 86                         LOGAN                                   86
+D:                  Oh no you don’t!
+0: 
+N:        The Night Terror reaches out its claws for the cannon...
+N:        Logan POPS into LO-LO and leaps forward to grab the Night
+N:        Terror by the tail! The Night Terror roars and shakes Lo-Lo
+N:        off... sends him skidding across the rampart. The Night
+N:        Terror advances on Lo-Lo, teeth snapping.
+C: 87                           LO-LO                                 87
+D:                  WHOOOA!
+0: 
+C:        WHIP to Izzie, pissed.
+C: 88                         IZZIE                                   88
+D:                  Oh, it’s on.
+0: 
+N:        She HURLS her HAMMER at the Night Terror and... WHOMP! It
+N:        SLAMS into it, knocking the beast off the rampart as the
+N:        hammer returns to Izzie’s hand of its own accord (think
+N:        Thor’s hammer in Avengers). Albert and Lo-Lo gape.
+C: 89                         IZZIE (CONT'D)                          89
+D:                  Like my new hammer? I dreamcrafted
+D:                  it to act like a boomerang and
+D:                  always come back to me.
+C: 90                         ALBERT/LO-LO                            90
+D:                  Criminy. / Sweet!
+0: 
+N:        As Albert helps Lo-Lo to his feet, the Night Terror returns
+C:        with a SHRIEK!
+C: 91                         ALBERT                                  91
+D:                  Ready for round two?
+0: 
+N:        Lo-Lo grins.
+C: 92                         LO-LO                                   92
+D:                  Born ready, chimp.
+0: 
+N:        OFF our heroes protecting the cannon, CUT TO...
+0: 
+S: 7      INT. CASTLE NOCTURNIA – CRYSTAL HALL – CONTINUOUS             7
+0: 
+N:        Oz, Teo, Coop, and Z Blob manipulate the CRYSTAL TILES into
+N:        position beneath the SECOND STAINED-GLASS WINDOW.
+0: N:      LEGO 09/28/21       "Assault on Castle Nocturnia"            13.
+0: 
+C: 93                         COOPER                                   93
+D:                  How is knowing that the Nightmare
+D:                  King used to be Migo supposed to
+D:                  help us defeat him?
+C: 94                         MATEO                                    94
+D:                  I think we have to activate each
+D:                  window to get the whole story.
+0: 
+N:        They rotate all the tiles to beam the light streaming from
+N:        the second window through the Hourglass. And then...
+0: 
+N:        WHOOSH! A hologram of Luna and Migo, looking determined,
+N:        appears. Oz, Mateo, Z Blob and Cooper watch as Luna patiently
+N:        tries teaching Migo how to dreamcraft. But each time he
+N:        fails, he gets angrier.
+C: 95                         MATEO (CONT'D)                           95
+D:                  She tried to teach him, but his
+D:                  failures just made him mad.
+0: 
+N:        Luna encourages Migo to keep trying but he SNARLS at her and
+N:        stalks off. Luna bows her head, despondent.
+C: 96                         MR. OZ                                   96
+D:                  What Migo failed to grasp is
+D:                  failure is an important part of the
+D:                  process. Only through practice can
+D:                  one expect to create something new.
+0: 
+N:        The hologram changes to reveal the Nightmare King siphoning
+N:        imagination from a group of unaware dreamers! He uses this
+N:        dark dream energy to dreamcraft a NIGHTLING!
+C: 97                         COOPER                                   97
+E:                      (bitter)
+D:                  Why learn to dreamcraft when you
+D:                  can just steal kids’ imaginations?!
+0: 
+N:        The hologram shifts again. Astride her Pegasus, Luna watches
+N:        on horrified as the Nightmare King and his Dark Army corrupt
+N:        an entire realm!
+C: 98                         MR. OZ                                   98
+D:                  This must be the moment Luna
+D:                  decided she had to imprison him.
+0: 
+N:        As the hologram ends, Coop turns to the others, excited.
+C: 99                         COOPER                                   99
+D:                  The third window should tell us how
+D:                  Luna defeated the Nightmare King!
+0: N:       LEGO 09/28/21         "Assault on Castle Nocturnia"        14.
+0: 
+0: 
+N:         Mateo hugs Z Blob and whips out the DREAMIE-SCREAMIES (Dream
+N:         World Walkie-Talkies).
+C: 100                         MATEO                                 100
+D:                   How’s it going out there?
+0: 
+T:                                                             CUT TO:
+0: 
+S: 8       EXT. CASTLE NOCTURNIA – RAMPART – DAY                          8
+0: 
+N:         ON Zoey atop Zian, staying one step ahead of a Night Terror.
+N:         She hears the SQUAWK of her Dreamie-Screamie and picks up.
+C: 101                         ZOEY                                  101
+D:                   Kinda busy here, Teo.
+0: 
+N:         In the BG, Izzie, Lo-Lo, and Phil are still wrangling with
+N:         the other Night Terror as Albert guards the cannon.
+C: 102                         MATEO                                 102
+D:                   We’re almost done! The last stained-
+D:                   glass window holds the key to
+D:                   defeating the Nightmare King!
+C: 103                          ZOEY                                 103
+D:                   Then watch it already. We could use
+D:                   some help!
+0: 
+N:         Zoey ends the transmission and tucks the Dreamie-Screamie
+N:         away. Eyeing the beam of light shooting from the cannon, Zoey
+N:         gets an idea. She whispers something to Zian, who nods and
+N:         dives for the beam.
+C: 104                           ZOEY (CONT'D)                       104
+D:                   Easy...
+0: 
+N:         Zian slows down, allowing the Night Terror to gain on them.
+N:         It’s almost on top of them when...
+C: 105                           ZOEY (CONT'D)                       105
+D:                   NOW!
+0: 
+N:         Zoey agiley flips OVER THE BEAM as Zian FLIES UNDER IT! The
+N:         Night Terror tries to change course, but can’t! It careens
+N:         into the light beam and dissolves into DREAM ETHER! Zoey
+N:         lands back on Zian with a grim smile.
+C: 106                         ZOEY (CONT'D)                         106
+D:                   Nice work, Zian.
+0: 
+N:         ANGLE ON Izzie hurling her hammer at the other Night Terror.
+N:         The hammer THWICKS through the air.
+0: N:       LEGO 09/28/21       "Assault on Castle Nocturnia"          15.
+0: 
+0: 
+N:         But the Night Terror zips out of the way and the hammer
+N:         accidentally SLAMS into Lo-Lo! Oof! He’s knocked off his feet
+N:         as Izzie winces.
+C: 107                         LO-LO                                   107
+D:                   Ack! Watch it! That thing stings.
+C: 108                         IZZIE                                   108
+D:                   Oopsies. Sorry, Lo-Lo!
+0: 
+N:         Lo-Lo dizzily stands.
+C: 109                         LOGAN                                   109
+D:                   I told you not to call me that!
+C: 110                         IZZIE                                   110
+E:                       (catching her hammer)
+D:                   Whatever you say, Lo-Lo!
+0: 
+N:         Just then, BOOSH! The Night Terror swoops in, knocking
+N:         Izzie’s hammer away! Uh-oh! It advances on Izzie, snarling.
+N:         Albert and Logan race for her but are too far away...
+0: 
+N:         RAAGH! With a roar, Phil shoots a light beam at the Night
+N:         Terror and SHUNK! The Night Terror turns to crystal!
+C: 111                         ALBERT                                  111
+D:                   Nice shot, Phil!
+0: 
+N:         Phil flashes Albert a thumbs-up as Izzie holds up her hand a
+N:         la Thor waiting for his hammer.
+C: 112                         IZZIE                                   112
+D:                   This is NOT a drill people.
+0: 
+N:         Her hammer WHOOSHES back into Izzie’s hand. She grins and
+N:         whips it around to SMASH the Night Terror into DREAM ETHER!
+0: 
+N:         Logan, Izzie, Albert and Phil WHOOP with delight as Zoey and
+N:         Zian alight atop the rampart alongside them, victorious.
+0: 
+N:                                                           SMASH TO:
+0: 
+S: 9       EXT. SHARKYFACE AIRSHIP - DAY                                  9
+0: 
+N:         The Nightmare King, HOWLING. He angrily FIRES a SHADOW BOLT
+N:         from his staff, forcing Susan, Snivel and Sneak to dive for
+N:         cover. The Night Hunter grimaces.
+C: 113                         NIGHTMARE KING                          113
+D:                   I won’t be thwarted by an old man,
+D:                   a monkey, and a couple of children.
+0: N:       LEGO 09/28/21       "Assault on Castle Nocturnia"            16.
+0: 
+C: 114                         NIGHT HUNTER                            114
+D:                   Your Scariness, a small contingent
+D:                   could get around the light cannon.
+D:                   Let me go in and get the little
+D:                   green blob for you.
+0: 
+N:         The Nightmare King composes himself. Sneers.
+C: 115                         NIGHTMARE KING                          115
+D:                   No, you’ve had more than enough
+D:                   chances. It’s time I take care of
+D:                   these Dreamchasers myself.
+0: 
+N:         The Nightmare King leaps astride his NIGHT MARE, who takes to
+N:         the skies. As they fly off, he calls over his shoulder:
+N: 116                         NIGHTMARE KING (CONT'D)                 116
+N:                   Prepare to attack!
+0: 
+N:         The Night Hunter slumps, a little crestfallen. Catches Susan,
+N:         Sneak, and Snivel looking at him and lashes out.
+C: 117                         NIGHT HUNTER                            117
+D:                   You heard him! Man your stations!
+0: 
+N:         As the Nightlings jump and scurry into position, CUT TO:
+0: 
+S: 10      EXT. CASTLE NOCTURNIA – RAMPART – DAY                        10
+0: 
+N:         Our team is in a celebratory mood. But then, Albert catches
+N:         sight of something zoom out of the stormclouds... he squints.
+C: 118                         ALBERT                                  118
+D:                   What’s that?
+0: 
+N:         Our team whips around to see... the Nightmare King on his
+N:         Night Mare! BOOSH! He fires a barrage of SHADOW BOLTS,
+N:         forcing our heroes to scramble and dive for cover. And
+N:         then...
+0: 
+N:         FATHWOOM! A SHADOW BOLT SMASHES into the light cannon,
+N:         obliterating it! As debris rains down, the beam of light
+N:         sputters out and our team stares in horror at...
+0: 
+N:         The Sharkyface ship, appearing out of the Nightmare Storm!
+0: 
+N:         OFF our heroes facing the approaching onslaught, CUT TO:
+0: 
+S: 11      INT. CASTLE NOCTURNIA – CRYSTAL HALL – CONTINUOUS            11
+0: 
+N:         The light from the final hologram flickers over Oz, Mateo, Z
+N:         Blob, and Cooper.
+0: N:       LEGO 09/28/21       "Assault on Castle Nocturnia"           17.
+0: 
+0: 
+N:         They watch reverently as Luna materializes at a desk,
+N:         surrounded by crumpled papers covered in calculations. She
+N:         looks frazzled and frightened.
+C: 119                         MATEO                                   119
+D:                   She’s so scared.
+C: 120                         MR. OZ                                  120
+D:                   Trying to figure out how to
+D:                   imprison the Nightmare King took a
+D:                   terrible toll on Luna...
+0: 
+N:         In the hologram, Luna picks up a picture of her and Migo in
+N:         happier times. Sets it aside with a mournful smile.
+N: 121                         MR. OZ (CONT'D)                         121
+N:                   Deep down, she still felt like he
+N:                   was her dear friend.
+0: 
+N:         The hologram changes and we see Luna meet up with three
+N:         figures, partially hidden by shadows. All three hold
+C:         HOURGLASSES by their sides.
+C: 122                         COOPER                                  122
+D:                   She had help from other
+D:                   Dreamchasers!
+C: 123                         MATEO                                   123
+D:                   Maybe that’s how she did it...
+0: 
+N:         A loud BOOM within the hologram makes our team jump. Luna and
+N:         the Dreamchasers looks over their shoulders, fearful.
+C: 124                         MATEO (CONT'D)                          124
+D:                   This is it.
+0: 
+N:         Mateo clutches Z Blob’s hand... the moment of truth...
+0: 
+N:         Luna steps alongside the three DREAMCHASERS. As they hold
+N:         aloft their HOURGLASSES, ready to face down the Nightmare
+N:         King, reveal... one of the Dreamchasers is Oz!
+C: 125                         COOPER                                  125
+D:                   What the--?
+0: 
+N:         Mateo, Z Blob, and Cooper look over at Oz, shocked. They are
+N:         so focused they don’t see...
+0: 
+N:         The Nightmare King surreptitiously sneak into the room! He
+N:         stops in his tracks, shocked by the sight of Luna. Thinking
+N:         for a second that she’s real, he reaches out his hand...
+0: N:       LEGO 09/28/21       "Assault on Castle Nocturnia"         18.
+0: 
+C: 126                         NIGHTMARE KING                       126
+E:                       (sotto, to self)
+D:                   Luna...
+0: 
+N:         As his hand PASSES THROUGH the hologram, he lets out a
+N:         frustrated GROWL that draws our team’s attention. Startled,
+N:         Cooper bumps into one of the crystal tiles, halting the
+N:         hologram. Mateo stares at the Nightmare King, aghast.
+C: 127                         MATEO                                127
+D:                   How could you, Migo?
+C: 128                         NIGHTMARE KING                       128
+E:                       (with a snarl)
+D:                   No one calls me that!
+0: 
+N:         He whips his staff around...
+0: 
+N:         BAWOOSH! He fires a DREAMBOLT at the last stained-glass
+N:         window, which EXPLODES and shatters against the floor! Before
+N:         anyone can react, the Nightmare King swings his staff around
+N:         and knocks Cooper off his feet.
+0: 
+N:         Oz fires his TELESCOPE RIFLE but the Nightmare King dodges –-
+N:         faster than the eye can see. Mateo’s hourglass alights with
+N:         energy as he dreamcrafts Z Blob into KNIGHT MODE!
+0: 
+N:         OFF our heroes locked in battle with the NK, CUT TO:
+0: 
+S: 12      EXT. SHARKYFACE SHIP/CASTLE NOCTURNIA – RAMPART – DAY        12
+0: 
+N:         The battle raging outside.
+C: 129                         ZOEY                                 129
+D:                   Everyone get down!
+0: 
+N:         Our team dives for cover as the Night Hunter gives a signal
+N:         and Nightlings fire the ship’s cannons! BOOM! BOOM! BOOM!
+0: 
+N:         SHADOW BOLTS THUD into the castle, shaking the rampart. Zoey
+N:         on Zian and Phil take to the skies as everyone else picks
+N:         themselves up, a little shaky.
+C: 130                         LOGAN                                130
+D:                   Teo and Coop better hurry.
+C: 131                         ALBERT                               131
+D:                   You’re right. I don’t know how much
+D:                   more abuse the Castle can stand...
+0: 
+N:         Suddenly, FWOOM! The airship’s grappling hook lands on the
+N:         rampart! Nightlings stream across!
+0: N:       LEGO 09/28/21          "Assault on Castle Nocturnia"         19.
+0: 
+0: 
+N:         Izzie uses her hammer to THWACK incoming Nightlings. Logan
+N:         POPS into Lo-Lo, rolls himself into a ball, and BARRELS
+N:         through a group. BOOM!
+0: 
+N:         On the ship, the Night Hunter has Albert dead to rights,
+N:         crossbow aimed...
+C: 132                         NIGHT HUNTER                            132
+D:                   I’ve got you now, you insufferable
+D:                   monkey.
+0: 
+N:         FFWIIP! Zoey clocks the crossbow bolt streaking towards
+N:         him... no escape... she yanks Zian around... WINDS HER
+N:         CLOCK...
+0: 
+N:         THUD! The Night Hunter stares in confusion at the crossbow
+N:         bolt stuck in the side of the castle and Albert cradled
+N:         unharmed in Zian’s paws! Off Albert’s relief, CUT TO:
+0: 
+S: 13      INT. CASTLE NOCTURNIA – CRYSTAL HALL – DAY                   13
+0: 
+N:         Sir Z keeps blocking the Nightmare King’s SHADOWBOLTS, but is
+N:         obviously tiring. Mateo and Cooper dreamcraft ARROWS. FFWIIP!
+N:         FFWIIP! The Nightmare King has no trouble FLICKING them away!
+0: 
+N:         ANGLE ON Oz. He’s got a bead on the NK. Fires his rifle...
+N:         CLICK! He’s all out of ammunition!
+C: 133                            MR. OZ                               133
+D:                   I’m out!
+0: 
+N:         Seeing that Oz is momentarily distracted, the Nightmare King
+N:         spins his staff around... WHACK! Oz falls to the floor,
+N:         knocked out! ON Cooper, noticing his sand is running low.
+C: 134                         COOPER                                  134
+D:                   We’re almost out of dream sand!
+C: 135                         NIGHTMARE KING                          135
+E:                       (menacing snarl)
+D:                   As if two children would be a match
+D:                   for me.
+0: 
+N:         The Nightmare King BLASTS Sir Z with a SHADOWBOLT that drives
+N:         him to his knees. Worried, Mateo races to Z’s side...
+N:         brandishes his Hourglass.
+C: 136                         MATEO                                   136
+D:                   Leave him alone!
+0: 
+N:         The Nightmare King CACKLES and SHOOTS out a swirl of PURPLE
+N:         AND BLACK DREAM ETHER that snakes around Cooper and Mateo,
+N:         immobilizing them! They grunt, trying to break free.
+0: N:       LEGO 09/28/21       "Assault on Castle Nocturnia"         20.
+0: 
+0: 
+N:         The Nightmare King BLASTS Sir Z again and again... leaving
+N:         plain ol’ regular sized Z Blob, woozy and shaky.
+C: 137                         MATEO (CONT'D)                       137
+D:                   Migo, please...
+0: 
+N:         The NK approaches Mateo, reaches out, menacingly...
+C: 138                         NIGHTMARE KING                       138
+D:                   Oh, I stopped being Migo a long
+D:                   time ago...
+E:                       (beat, then)
+D:                   The day I figured out how to make
+D:                   Luna remember me.
+C: 139                         MATEO                                139
+D:                   By corrupting the Dream World!
+0: 
+N:         The Nightmare King preens, evil yet undeniably charismatic.
+C: 140                         NIGHTMARE KING                       140
+D:                   Everyone says they want good
+D:                   dreams. Yet when they wake up,
+D:                   they’ve forgotten them. But give
+D:                   someone a nightmare...
+E:                       (eerie smile)
+C:                   And they’ll NEVER FORGET!
+C: 141                         COOPER                               141
+E:                       (aghast)
+D:                   You’re a monster!
+C: 142                         NIGHTMARE KING                       142
+D:                   What can I say? Darkness is more
+D:                   powerful than light... And I LOVE
+D:                   power.
+C: 143                         MATEO                                143
+D:                   Whatever it takes, we’re going to
+D:                   stop you and protect the Dream
+D:                   World!
+C: 144                         NIGHTMARE KING                       144
+E:                       (with a smug chuckle)
+D:                   Oh, Mateo. Who said anything about
+D:                   the Dream World?
+0: 
+N:         To Mateo’s horror, the Nightmare King scoops Z Blob up and
+N:         heads for the door!
+C: 145                         MATEO                                145
+D:                   Z! NOOOOOOOOOOO!
+0: N:       LEGO 09/28/21       "Assault on Castle Nocturnia"         21.
+0: 
+0: 
+N:         Z’s eyes widen as he’s whisked out of the Castle! Desperate,
+N:         Mateo fights free of the inky, black dream ether restraining
+N:         him and yanks Cooper free. They rush to Oz’s side...
+C: 146                         COOPER                               146
+D:                   I’ve got him! GO!!
+0: 
+N:         As Mateo races away, Coop helps a woozy Oz to his feet. He
+N:         throws Oz’s arm over his shoulder.
+C: 147                         COOPER (CONT'D)                      147
+D:                   Mr. Oz, you were there! Why don’t
+D:                   you know how Luna defeated the
+D:                   Nightmare King?
+C: 148                         MR. OZ                               148
+D:                   We don’t have time for this,
+D:                   Cooper! We need to get Luna’s
+D:                   Hourglass and get out of here!
+0: 
+N:         They turn towards the Hourglass but then... BOOM! A section
+N:         of wall SHATTERS, sending crystal shards raining down! Coop
+N:         yanks Oz out of harm’s way but the Hourglass is buried in the
+N:         rubble.
+C: 149                         COOPER                               149
+D:                   Leave it! We have to go!
+0: 
+N:         They stumble for the door as we CUT TO:
+0: 
+S: 14      EXT. CASTLE NOCTURNIA – GARDEN - CONTINUOUS                  14
+0: 
+N:         Mateo dodging falling shards of crystal as he zig-zags after
+N:         the Nightmare King... BOOM! BOOM! The NK keeps blasting
+N:         SHADOWBOLTS at Castle Nocturnia’s walls! Mateo locks eyes
+N:         with a frightened Z Blob...
+C: 150                         MATEO                                150
+D:                   Z! HOLD ON!
+0: 
+N:         Mateo closes the distance between him and the Nightmare King
+N:         until... an ungodly BOOOOOM!
+0: 
+N:         Dust and debris fill the air, as parts of the castle fly in
+N:         every direction! The force throws Mateo off his feet...
+0: 
+N:         As the dust settles, he scrambles up to see the Nightmare
+N:         King leap astride his Night Mare and take to the skies. Mateo
+N:         whips out his hourglass – he has the tiniest amount of sand
+N:         left – but then...
+C: 151                         LOGAN (O.S.)                         151
+D:                   Help!
+0: N:       LEGO 09/28/21       "Assault on Castle Nocturnia"            22.
+0: 
+0: 
+N:         Teo whips his head around... spots Logan dangling dangerously
+N:         from a part of the rampart! He won’t be able to hold on much
+N:         longer!
+0: 
+N:         Mateo whips his head from Z Blob to Logan and back -– faced
+N:         with an impossible choice.
+0: 
+S: 15      EXT. CASTLE NOCTURNIA – RAMPART – SAME                       15
+0: 
+N:         ON Logan scrabbling for purchase on the CRYSTAL SHARD...
+N:         fingers slipping... he SCREAMS as he loses his grip and
+N:         falls...
+0: 
+N:         THUD! To his surprise, he lands unharmed on something hard.
+0: 
+N:         ON Zoey, astride Zian. As she watches in awe, the crystal
+N:         shards COME TOGETHER and form a STAIRCASE leading down!
+0: 
+N:         ON Izzie as she rushes to lean over the rampart’s edge... her
+N:         mouth falls open... she’s stunned to see...
+C: 152                         IZZIE                                   152
+D:                   Holy guacamole! How is this
+D:                   possible?
+0: 
+N:         Zoey swoops by and points.
+C: 153                         ZOEY                                    153
+D:                   It’s your brother! Look!
+0: 
+N:         REVEAL Mateo, focusing his attention on wielding the last bit
+N:         of sand in his hourglass to dreamcraft a crystal staircase
+N:         and save Logan! OFF his unwavering focus, CUT TO:
+0: 
+S: 16      EXT. SHARKYFACE SHIP – SAME                                  16
+0: 
+N:         The Nightmare King lands the Night Mare aboard the ship and
+N:         hands Z Blob over to the Night Hunter.
+C: 154                         NIGHTMARE KING                          154
+D:                   Watch the blob with your life.
+C: 155                         NIGHT HUNTER                            155
+D:                   Yes, your Frightfulness.
+0: 
+N:         The Nightmare King gazes at Teo, appraisingly.
+C: 156                          NIGHTMARE KING                         156
+D:                   That one is stronger than I
+D:                   thought...
+0: 
+N:         As the Sharkyface ship zips away, DISSOLVE TO:
+0: N:       LEGO 09/28/21       "Assault on Castle Nocturnia"         23.
+0: 
+S: 17      EXT. CASTLE NOCTURNIA – GARDEN – SAME                       17
+0: 
+N:         Our team slumps sadly around the garden. Beaten and defeated.
+N:         The Dreamlings huddle around Phil, who sheds big tears. Mateo
+N:         sits apart, staring into space, despondent. Our team exchange
+N:         a worried look –- unsure how to approach him.
+0: 
+N:         Izzie slowly stands and walks over to her brother. Her heart
+N:         breaking at the grief etched on his face.
+C: 157                         IZZIE                                   157
+D:                   I’m so sorry, Mateo.
+C: 158                         MATEO                                   158
+D:                   I just want him back...
+0: 
+N:         Izzie wraps her arms around her distraught brother.
+C: 159                         IZZIE                                   159
+D:                   He knows you love him.
+C: 160                         MATEO                                   160
+C:                   I left him!
+C: 161                         IZZIE                                   161
+D:                   You didn’t have a choice. You saved
+D:                   Logan. Z Blob’s strong. He knows
+D:                   we’re coming for him.
+0: 
+N:         Hearing that, the rest of the team clusters around Mateo.
+C: 162                         LOGAN                                   162
+D:                   We’ll help you get Z Blob back.
+C: 163                         ZOEY                                    163
+D:                   And we won’t rest until we do.
+C: 164                         MATEO                                   164
+D:                   Yeah? How are we gonna do that? We
+D:                   have no idea how to defeat the
+D:                   Nightmare King.
+C: 165                         COOPER                                  165
+D:                   Not yet we don’t.
+0: 
+N:         Cooper plunks down a SHARD OF STAINED-GLASS WINDOW.
+C: 166                         MR. OZ                                  166
+E:                       (startled)
+D:                   Is that a piece of the stained-
+D:                   glass window?
+0: N:       LEGO 09/28/21        "Assault on Castle Nocturnia"          24.
+0: 
+C: 167                         COOPER                                 167
+D:                   Yep. I found it in the ruins of the
+D:                   Crystal Hall. Figure it could come
+D:                   in handy... if we can find the
+D:                   other pieces.
+C: 168                         IZZIE                                  168
+D:                   We can. We will.
+C: 169                         ALBERT                                 169
+D:                   That’d be one heck of a puzzle.
+C: 170                         MATEO                                  170
+D:                   Forget it! There’s too many pieces.
+D:                   We’ll never figure it out!
+0: 
+N:         Cooper cocks his head, remembering what Teo said to him
+N:         earlier.
+C: 171                         COOPER                                 171
+D:                   Yanno, as someone wise said to me
+D:                   not long ago... Nothing’s
+D:                   impossible. As long as we do it
+D:                   together.
+0: 
+N:         Mateo glances up sharply, recognizing his own words. He sees
+N:         his friends nodding, solemnly.
+0: 
+N:         Heartened by the resolve in their eyes, Mateo slowly rises to
+N:         his feet.
+C: 172                         MATEO                                  172
+D:                   Right then. I guess we got some
+D:                   work to do.
+0: 
+N:         Off our heroes’ determined faces, we...
+0: 
+T:         FADE TO BLACK...
+0: 
+N:         END OF EPISODE
+0: 

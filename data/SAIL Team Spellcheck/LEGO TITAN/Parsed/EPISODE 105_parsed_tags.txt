@@ -1,0 +1,2611 @@
+M:                                                TE
+M:                                                 U
+M:                                               IT
+M:                                       ST
+M:                      LEGO DREAM CHASERS
+0: 
+M:                    Ep. 111: "THE HOURGLASS"
+M:                    Ep. 105: "THE HOURGLASS"
+0: 
+0: 
+M:                               IN
+M:                          Written by
+0: 
+M:                         Peter Sattler
+M:                       IS
+M:                           1.14.21
+M:                         BLUE 1.28.21
+M:                    AV
+0: 
+0: 
+M:                    (22min) PINK : 4.21.21
+M:             D
+M:       A
+M:     N
+M: EE
+M: G
+0: 
+0: 
+0: 
+0: 
+M: LEGO SYSTEMS A/S
+0: S:     EXT. SCHOOL TRACK - WAKING WORLD - DAY                            *
+0: 
+N:     Open on a long row of hurdles.                                    *
+0: 
+N:     Coop sprints and leaps over each one, another, another,           *
+0: 
+N:     Finally crosses the finish line. He breathes heavily, checks      *
+0: 
+0: 
+0: 
+0: 
+C:                                                        TE
+D:     his wristwatch with a frustrated look.                            *
+0: 
+N:     Izzie yells from back AT THE STARTING LINE where Mateo and        *
+N:     Logan are waiting as well.                                        *
+0: 
+0: 
+0: 
+0: 
+C:                                                  U
+C: 1                         IZZIE                                   1   *
+D:                 How’d ya do?                                          *
+0: 
+0: 
+0: 
+0: 
+C:                                                IT
+C: 2                         COOP                                    2   *
+D:                 I’ve done better. Your turn!                          *
+0: 
+0: 
+0: 
+0: 
+C:                                          ST
+D:     TIME CUT:                                                         *
+0: 
+N:     Izzie crouches in the blocks, then OFF SHE GOES!                  *
+0: 
+0: 
+C:                                   IN
+D:     She runs and jumps, run and jumps.
+0: 
+N:     She knocks over one hurdle that clatters to the ground,
+N:     but makes it across the finish line.
+0:                                                                       *
+0: 
+0:                                                                       *
+0:                                                                       *
+C:                          IS
+E: 3                         COOP (CONT'D)                           3   *
+E:                     (looking at his watch)                            *
+D:                 Not bad. Okay Logan.                                  *
+D:                  AV
+0: 
+0: 
+N:     Logan crouches at the starting line and then, ZOOM!               *
+N:     He shoots off the blocks and sprints down the track.              *
+N:            D
+0: 
+0: 
+0: 
+N:     He effortlessly flies over one hurdle, and another, and           *
+N:     another.                                                          *
+0: 
+N:     Coop eyes the stopwatch on his wristwatch. The numbers tick       *
+N:      A
+0: 
+0: 
+0: 
+0: 
+N:     by until Logan finally zips across the finish line.               *
+N:     N
+0: 
+0: 
+0: 
+0: 
+N:     Coop stops the timer.                                             *
+0: 
+C: 4                         IZZIE                                   4   *
+D: EE
+0: 
+0: 
+0: 
+0: 
+N:                 Wow! That was amazing!                                *
+0: 
+C: 5                         LOGAN                                   5   *
+D:                 Ha. I didn’t even stretch.                            *
+D: G
+0: 
+0: 
+0: 
+0: 
+C: 6                         COOP                                    6   *
+D:                 If you keep that up, and the rest                     *
+D:                 of us get a little faster, we must                    *
+D:                 actually have a chance at winning                     *
+D:                 Sheep Week. Okay Mateo! Your turn!                    *
+0: N:                          Pink Rev. (04/21/21)                    2.
+0: 
+0: 
+N:      BACK AT THE START, Mateo wobbles on the starting blocks,             *
+N:      unsteady. He gets ready.                                             *
+0: 
+C: 7                        MATEO                                        7   *
+E:                    (to himself.)                                          *
+D:                Ok Mateo. You got this.                                    *
+0: 
+0: 
+0: 
+0: 
+C:                                                         TE
+D:      He looks over and sees zBlob holding a little pennant rooting        *
+D:      him on.                                                              *
+0: 
+N:      Mateo squints his eyes at the course, lowers his head.               *
+N:      He raises up, and dashes off of the starting blocks. He’s            *
+0: 
+0: 
+0: 
+0: 
+C:                                                    U
+D:      racing towards the hurdle. A look of determination in his            *
+D:      face.                                                                *
+0: 
+0: 
+0: 
+0: 
+C:                                                  IT
+D:      He gets closer, closer, makes a leap and---                          *
+0: 
+0: 
+0: 
+0: 
+C:                                          ST
+D:      TRIPS INTO THE HURDLE, it sends him TUMBLING END OVER END            *
+D:      LIKE A TUMBLEWEED, he slams into the next hurdle and gets            *
+D:      tangled in that one too, tumbles into another, then another,         *
+D:      finally landing with an ungraceful PLOP in a big pile of             *
+D:      twisted metal.                                                       *
+0: 
+0: 
+0: 
+0: 8
+C:                                 IN
+D:      The gang walks up. Mateo's voice emerges from the pile.
+0: 
+N:                          MATEO (CONT'D)                               8
+0:                                                                           *
+0: 
+0:                                                                           *
+C:                         IS
+E:                    (weakly)                                               *
+D:                You can stop the timer.                                    *
+0: 
+N:      Coop reaches into the mess and helps Mateo out.                      *
+N:                 AV
+0: 
+0: 
+C: 9                        COOP                                         9   *
+D:                Well... at least you did better                            *
+D:                than last time.                                            *
+D:             D
+0: 
+0: 
+0: 
+C: 10                       LOGAN                                    10      *
+D:                THAT WAS BETTER? How could he have                         *
+D:                done any worse?                                            *
+D:       A
+0: 
+0: 
+0: 
+0: 
+C: 11                       IZZIE                                    11      *
+D:      N
+0: 
+0: 
+0: 
+0: 
+N:                Last time he got his shoelaces                             *
+N:                stuck in the starting blocks.                              *
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:      Logan grabs his backpack, heading out past the bleachers.            *
+0: 
+C: 12                       COOP                                     12      *
+D:                Where are you going? We still have                         *
+D:                to practice.                                               *
+D: G
+0: 
+0: 
+0: 
+0: 
+C: 13                       LOGAN                                    13      *
+D:                No, YOU have to practice. I don’t.                         *
+0: N:                          Pink Rev. (04/21/21)                    3.
+0: 
+0: 
+N:      He strolls off the track, leaving the three of them to look         *
+N:      at each other.                                                      *
+0: 
+T:                                                      DISSOLVE TO:        *
+0: 
+0: 
+S:      INT. MATEO'S BEDROOM - WAKING WORLD - NIGHT                         *
+0: 
+0: 
+0: 
+0: 
+C:                                                           TE
+D:      Mateo is getting into bed. zBlob is curled up beside him.           *
+D:      Izzie watches him from bed where she’s reading.                     *
+0: 
+N: 14                       IZZIE                                      14   *
+0: 
+0: 
+0: 
+0: 
+C:                                                   U
+D:                You’re grumpy, aren’t you?                                *
+0: 
+0: 
+0: 
+0: 
+C:                                                 IT
+C: 15                       MATEO                                      15   *
+D:                I’m not grumpy.                                           *
+0: 
+0: 
+0: 
+0: 
+C:                                       ST
+C: 16                       IZZIE                                      16   *
+D:                Sure you are. You’ve got your                             *
+D:                grumpy pillow. You always squeeze                         *
+D:                that thing half to death when                             *
+D:                you’re upset.                                             *
+0: 
+C:                                   IN
+D:      He looks down, notices that he is in fact squeezing the
+D:      pillow. He throws it across the room and rolls over.
+0:                                                                          *
+0:                                                                          *
+C:                         IS
+C: 17                       MATEO                                      17   *
+D:                Whatever. Why should I be mad? I’m                        *
+D:                the one who asked Logan to join the                       *
+D:                team in the first place. I’m                              *
+D:                 AV
+0: 
+0: 
+N:                totally happy that he’s better than                       *
+N:                me at every stinking event in that                        *
+N:                stupid contest.                                           *
+N:             D
+0: 
+0: 
+0: 
+C: 18                       IZZIE                                      18   *
+D:                You want my Bunzai Bunny? She                             *
+D:                always makes me feel better.                              *
+D:       A
+0: 
+0: 
+0: 
+0: 
+N:      She holds out her little stuffed animal of an anime bunny.          *
+N:      N
+0: 
+0: 
+0: 
+0: 
+C: 19                       MATEO                                      19   *
+D:                I said I’m fine!                                          *
+D: EE
+0: 
+0: 
+0: 
+0: 
+C: 20                       IZZIE                                      20   *
+D:                Sure you are.                                             *
+0: 
+N:      Izzie turns off the overhead light, setting down a manga she        *
+N:      was reading. We catch sight of a particularly COOL COSTUME ON       *
+N: G
+0: 
+0: 
+0: 
+0: 
+N:      THE COVER. She drifts off to sleep, her stuffed bunny held in       *
+N:      her arms.                                                           *
+0: N:                          Pink Rev. (04/21/21)                   4.
+0: 
+0: 
+N:      Mateo's still awake, fuming. He stares at his ceiling,              *
+N:      grumbling to himself. He instinctually grabs zBlob and starts       *
+N:      stress-squeezing him instead of the pillow.                         *
+0: 
+T:                                                      DISSOLVE TO:        *
+0: 
+0: 
+0: 
+0: 
+C:                                                           TE
+D:      EXT. DREAM LANDING - DREAM WORLD - DAY                              *
+0: 
+N:      Mateo opens his eyes to see IZZIE in a wild costume that’s          *
+N:      similar to the one she went to sleep looking at.                    *
+0: 
+0: 
+0: 
+0: 
+C:                                                   U
+C: 21                       MATEO                                      21   *
+D:                AHH!!!!                                                   *
+0: 
+0: 
+0: 
+0: 
+C:                                                 IT
+C: 22                       IZZIE                                      22   *
+D:                Relax! It’s me!                                           *
+0: 
+0: 
+0: 
+0: 
+C:                                       ST
+C: 23                       MATEO                                      23   *
+D:                Izzie? Where’d you get that outfit?                       *
+0: 
+N: 24                       IZZIE                                      24   *
+0: 
+C:                                  IN
+D:                Pretty fab, huh? I got bored in
+D:                here waiting for you to fall asleep
+D:                so... voila!
+0:                                                                          *
+0:                                                                          *
+0:                                                                          *
+C:                          IS
+D:      Mateo looks at his hourglass. Closes his eyes. Concentrates.        *
+D:      A glowing sand swirls from his hourglass and circles around         *
+D:      him. It transforms him until finally we see. MATEO'S DREAM          *
+C:      AVATAR.                                                             *
+D:                 AV
+0: 
+0: 
+N: 25                       IZZIE (CONT'D)                             25   *
+N:                Not bad. Kinda drab though. Want me                       *
+N:                to add some glitter?                                      *
+N:             D
+0: 
+0: 
+0: 
+N:      Coop and Logan walk up.                                             *
+0: 
+C: 26                       COOP                                       26   *
+D:       A
+0: 
+0: 
+0: 
+0: 
+N:                Whoah! Did you dreamcraft that? Let                       *
+N:                me try!                                                   *
+N:      N
+0: 
+0: 
+0: 
+0: 
+N:      Coop closes his eyes, concentrates. And just like Mateo did,        *
+N:      the sand glows and drifts out of his hourglass, swirling            *
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:      around him until he’s transformed into his DREAM AVATAR.            *
+0: 
+C: 27                        IZZIE                                     27   *
+D:                Cool! What about you Logan? What                          *
+D:                are you...                                                *
+D: G
+0: 
+0: 
+0: 
+0: 
+N:                    (realizing)                                           *
+N:                Oh... Sorry. I forgot.                                    *
+0: N:                          Pink Rev. (04/21/21)                    5.
+0: 
+0: 
+C: 28                       LOGAN                                    28   *
+E:                    (reaching for her                                   *
+E:                     hourglass)                                         *
+D:                C’mon, lemme just borrow yours.                         *
+0: 
+C: 29                       OZ                                       29   *
+D:                I wouldn’t do that. Using someone                       *
+0: 
+0: 
+0: 
+0: 
+C:                                                         TE
+D:                else’s hourglass can lead to some                       *
+D:                very unusual results. You’re just                       *
+D:                as likely to turn yourself into                         *
+D:                pretzel.                                                *
+0: 
+0: 
+0: 
+0: 
+C:                                                    U
+D:      Logan pouts.                                                      *
+0: 
+0: 
+0: 
+0: 
+C:                                                  IT
+C: 30                       LOGAN                                    30   *
+D:                Whatever. Who needs some dumb                           *
+D:                costume. Just makes you look silly                      *
+0: 
+0: 
+0: 
+0: 
+C:                                       ST
+D:                anyway.                                                 *
+0: 
+C: 31                       OZ                                       31   *
+D:                I’m sorry. You’ll get your                              *
+D:                hourglass soon. Just be patient.                        *
+0: 
+C: 32                       IZZIE  IN
+D:                Ooh, you know what this outfit
+D:                needs? A real live unicorn!
+D:                                                                   32   *
+0:                                                                        *
+0:                                                                        *
+C:                         IS
+D:      She starts twirling her hourglass. Oz stops her.                  *
+0: 
+C: 33                       OZ                                       33   *
+D:                 AV
+0: 
+0: 
+N:                Oh no you don’t! You only get so                        *
+N:                much sand each night. You can’t                         *
+N:                waste it fooling around. Especially                     *
+N:                not tonight. We have a very                             *
+N:             D
+0: 
+0: 
+0: 
+N:                important mission.                                      *
+0: 
+T:                                                         CUT TO:        *
+N:       A
+0: 
+0: 
+0: 
+0: 
+C:      ESTABLISH: PILLOW PEAK                                            *
+D:      N
+0: 
+0: 
+0: 
+0: 
+N:      Music swells over an aerial shot circling a fantasyland           *
+N:      mountain. Towering, covered in pillowy whimsical piles of         *
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:      snow on the top.                                                  *
+0: 
+N:      Oz’s spaceship cruises by the vista. The kids faces are           *
+N:      pressed against the port holes, looking out the windows. We       *
+N:      move past them one by one, taking in their reactions, finally     *
+N: G
+0: 
+0: 
+0: 
+0: 
+N:      stopping on the last porthole where we see zBlob’s face           *
+N:      FLATTENED ENTIRELY AGAINST THE GLASS.                             *
+0: 
+N: 34                       OZ (PRE-LAP)                             34   *
+N:                Welcome, Dreamchasers to PILLOW                         *
+C:                PEAK!                                                   *
+E:                          (MORE)
+0: N:                          Pink Rev. (04/21/21)                 6.
+0: 
+C:                          OZ (PRE-LAP) (CONT'D)
+D:                First dreamed by a young Swiss                          *
+D:                child in eighteen seventy-one,                          *
+D:                Pillow Peak has since become a                          *
+D:                popular destination for unconscious                     *
+D:                dreamers and home to many native                        *
+D:                dream creatures.                                        *
+0: 
+0: 
+0: 
+0: 
+C:                                                         TE
+D:      EXT. BASE OF PILLOW PEAK - FANTASY REALM - DAY
+0: 
+N:      The ship finally touches down at the foot of the mountain.        *
+N:      They all emerge from the hatch.                                   *
+0: 
+0: 
+0: 
+0: 
+C:                                                   U
+D: 35                       OZ                                       35   *
+0: 
+0: 
+0: 
+0: 
+C:                                                 IT
+D:                But most importantly, this mountain                     *
+D:                is the last known location of the                       *
+D:                legendary Sandman. If we want any                       *
+0: 
+0: 
+0: 
+0: 
+C:                                          ST
+D:                chance of stopping the Nightmare                        *
+D:                King, we have to get Luna’s                             *
+D:                hourglass fixed. And he’s the only                      *
+D:                one who can do it.                                      *
+0: 
+0: 
+0: 
+C: 36                       LOGAN
+C:                                 IN
+D:      Oz holds up the hourglass. Studies the cracks.
+0: 
+0: 
+N:                You sure we need to fix this at
+0:                                                                   36
+0:                                                                        *
+C:                         IS
+D:                all? Doesn’t look that bad to me.                       *
+D:                Maybe it still works.                                   *
+0: 
+C: 37                       OZ                                       37
+D:                 AV
+0: 
+0: 
+N:                Oh no. I wouldn’t dream of using it
+N:                in its current state. It’s far too
+N:                dangerous. That’s why I’m tucking
+N:                it away for safe keeping here in my
+N:             D
+0: 
+0: 
+0: 
+N:                rucksack.
+0: 
+N:      Oz walks over to A COMICLY OVERSIZED BACKPACK FILLED WITH ALL
+C:      SORTS OF HIKING GEAR.
+D:       A
+0: 
+0: 
+0: 
+0: 
+C: 38                       OZ (CONT'D)                              38
+D:      N
+0: 
+0: 
+0: 
+0: 
+N:                Let me just... find a place...
+0: 
+N:      Oz can’t find anywhere to put it.
+N: EE
+0: 
+0: 
+0: 
+0: 
+N: 39                       OZ (CONT'D)                              39   *
+N:                Hm... maybe in this zipper... no                        *
+N:                that’s full...                                          *
+N: G
+0: 
+0: 
+0: 
+0: 
+C: 40                       ALBERT                                   40
+D:                I say, old sport, don’t you think
+D:                you overdid it a bit on the
+D:                packing?
+0: N:                          Pink Rev. (04/21/21)                    7.
+0: 
+0: 
+C: 41                       OZ                                        41
+D:                Hmm... Mateo? Can I trust you to                         *
+D:                hold on to this for me?                                  *
+0: 
+C: 42                       MATEO                                     42   *
+D:                Sure thing.                                              *
+0: 
+0: 
+0: 
+0: 
+C:                                                           TE
+D:      Mateo tucks it in his backpack. Oz slips his arms into the         *
+D:      straps on his.
+0: 
+C: 43                       OZ                                        43
+D:                Alrighty then! We’re OFF!
+0: 
+0: 
+0: 
+0: 
+C:                                                    U
+D:      He GRUNTS AS HE tries to step forward but his backpack won’t
+0: 
+0: 
+0: 
+0: 
+C:                                                  IT
+D:      budge.
+0: 
+N: 44                        OZ (CONT'D)                              44
+0: 
+0: 
+0: 
+0: 
+C:                                       ST
+C:                HRMMMMPHHHHH!
+E:                    (beat)
+D:                Uh... Albert? Little help here?
+0: 
+N:      The chimp rolls his eyes.
+0: 
+T:                                  IN                 DISSOLVE TO:
+C:                         IS
+D:      EXT. THE SIDE OF PILLOW PEAK - FANTASY REALM - DAY
+0: 
+N:      The group is trudging up the mountain. Oz lags behind the
+N:      kids, struggling with his massive backpack.
+N:                 AV
+0: 
+0: 
+C: 45                       MATEO                                     45   *
+D:                Whew, can we take a rest?                                *
+D:             D
+0: 
+0: 
+0: 
+C: 46                       LOGAN                                     46
+D:                We just took a rest!
+0: 
+C: 47                       MATEO                                     47   *
+D:       A
+0: 
+0: 
+0: 
+0: 
+N:                Yea, well, you’re not carrying
+N:                anything!
+N:      N
+0: 
+0: 
+0: 
+0: 
+N:      Logan snatches the backpack off Mateo's shoulders.                 *
+N: EE
+0: 
+0: 
+0: 
+0: 
+C: 48                       LOGAN                                     48
+D:                Here. Gimme that thing. I’ll carry
+D:                it AND run up the mountain! C’mon,
+D:                last one to the top is a rotten
+D:                egg!
+D: G
+0: 
+0: 
+0: 
+0: 
+C: 49                       OZ                                        49
+E:                    (yelling from the back)                              *
+D:                What’s that? No, no, kids. This is
+D:                a serious mission! We have to...                         *
+D:                Whoahhh!                                                 *
+0: N:                             Pink Rev. (04/21/21)                8.
+0: 
+0: 
+N:      Oz loses his balance, falls over under the weight of his         *
+N:      enormous backpack.                                               *
+0: 
+C: 50                          IZZIE                                50
+D:                You’re on!
+0: 
+N:      Logan sprints ahead. Taking a clear lead. Izzie jumps up the     *
+0: 
+0: 
+0: 
+0: 
+C:                                                          TE
+D:      side of the cliff after him                                      *
+0: 
+N:      She makes one last jump, but loses her footing on the rock,      *
+N:      tumbling to the ground.                                          *
+0: 
+0: 
+0: 
+0: 
+C:                                                      U
+E: 51                       IZZIE (CONT'D)                          51   *
+D:                Grrrr, this would be a lot easier                      *
+0: 
+0: 
+0: 
+0: 
+C:                                                    IT
+D:                if I could just jump higher... hey                     *
+D:                wait a minute!                                         *
+0: 
+0: 
+0: 
+0: 
+C:                                         ST
+D:      She pulls her stuffed toy, Bunzai bunny, out. Focuses her        *
+D:      hourglass on the small plushie and in a whirl of dreamsand,      *
+D:      BUNZAI BUNNY COMES TO LIFE. An enormous, twelve foot anime       *
+D:      character made real!                                             *
+0: 
+0: 52
+C:                                     IN
+C:                          IZZIE (CONT'D)
+D:                Aww yea! Now we’re talking.
+0: 
+N:      Oz is still toppled over, strapped into his enormous
+N:                                                                  52   *
+0:                                                                       *
+0: 
+0:                                                                       *
+C:                         IS
+D:      backpack, unable to see what’s happening,                        *
+0: 
+C: 53                       OZ                                      53   *
+D:                Is someone up there wasting dream                      *
+D:                 AV
+0: 
+0: 
+N:                sand? It sounds like someone’s                         *
+N:                wasting dream sand! Oooh. Albert!                      *
+N:                Would you get over here and help                       *
+N:                me!                                                    *
+N:             D
+0: 
+0: 
+0: 
+N:      AHEAD WITH LOGAN                                                 *
+0: 
+N:      He’s grinning to himself, thinking he’s got this in the bag
+N:       A
+0: 
+0: 
+0: 
+0: 
+N:      when BUNZAI BUNNY HOPS UP ALONGSIDE HIM, with Izzie riding on    *
+N:      her back.
+N:      N
+0: 
+0: 
+0: 
+0: 
+C: 54                       LOGAN                                   54
+D:                Hey! That’s cheating!                                  *
+D: EE
+0: 
+0: 
+0: 
+0: 
+C: 55                       IZZIE                                   55   *
+D:                Ha! Ha! You may be fast in the                         *
+D:                waking world, Logan, but in MY                         *
+D:                dreams, nobody beats Bunzai Bunny!                     *
+D: G
+0: 
+0: 
+0: 
+0: 
+N:                C’mon Bun bun! Show him what you                       *
+N:                got!                                                   *
+0: 
+N:      Bunzai abruptly veers off in the wrong direction.                *
+0: N:                          Pink Rev. (04/21/21)                   9.
+0: 
+0: 
+C: 56                       IZZIE (CONT'D)                          56
+D:                WHAAAAH! No, Bunzai! Bad Bunzai! Go                    *
+D:                this way! This way!!!
+0: 
+N:      Bunzai leads Izzie off on a wild zig zag path up the
+N:      mountain.
+0: 
+0: 
+0: 
+0: 
+C:                                                         TE
+D:      Logan keeps running on foot, a second later, A PRIMITIVE
+D:      TRUCK RACES UP ALONGSIDE HIM, with Coop at the wheel.            *
+0: 
+C: 57                       LOGAN                                   57
+D:                Aw man! Not you, too! No fair! No                      *
+0: 
+0: 
+0: 
+0: 
+C:                                                   U
+D:                dreamcrafting!                                         *
+0: 
+0: 
+0: 
+0: 
+C:                                                 IT
+D:      As Teo’s truck races head, Logan looks up to see
+0: 
+N:      ZBLOB HAS TURNED INTO A BALLOON and is carrying Mateo through    *
+0: 
+0: 
+0: 
+0: 
+C:                                        ST
+D:      the air, up the mountain.
+0: 
+C: 58                       LOGAN (CONT'D)                          58
+D:                Oh, no way am I losing to YOU TWO!                     *
+0: 
+0: 
+C:                                  IN
+D:      Logan tries to run even faster. He TRIPS on a rock and falls
+D:      face first. Mateo's backpack, which he has been carrying,
+D:      falls open and LUNA’S HOURGLASS ROLLS ON THE GROUND.
+0:                                                                       *
+0:                                                                       *
+C:                         IS
+D:      Logan looks at the hourglass on the ground before him.           *
+0: 
+N:      He looks ahead at his three friends heading up the mountain.     *
+N:                 AV
+0: 
+0: 
+N: 59                       LOGAN (CONT'D)                          59   *
+N:                    (devilish grin)                                    *
+N:                Let’s see who wins once I even the                     *
+N:                score with an hourglass of my own.                     *
+N:             D
+0: 
+0: 
+0: 
+N:      He GRABS THE HOURGLASS. Closes his eyes and attempts to
+N:      dreamcraft with it.
+N:       A
+0: 
+0: 
+0: 
+0: 
+N:      THE HOURGLASS GLOWS and TREMBLES in his hands. The cracks in
+N:      the glass sizzle with electricity and suddenly A SHOCKWAVE OF
+N:      N
+0: 
+0: 
+0: 
+0: 
+N:      DREAM ENERGY SHOOTS OUT FROM IT, SENDING LOGAN TUMBLING.
+0: 
+N:      FARTHER UP THE MOUNTAIN, the shockwave hits Coop, Izzie, and     *
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:      Mateo and sends them all flying.                                 *
+0: 
+N:      Teo’s truck crashes into a tree, turns back into his toy car.
+0: 
+N:      Izzie falls off Bunzai, who morphs back into a stuffed
+N: G
+0: 
+0: 
+0: 
+0: 
+N:      animal.
+0: 
+N:      And Mateo and zBlob crash land.                                  *
+0: 
+C: 60                       IZZIE                                   60
+D:                What was that?
+0: N:                             Pink Rev. (04/21/21)             10.
+0: 
+0: 
+N:      Logan comes running past.
+0: 
+C: 61                       MATEO                                   61   *
+D:                Logan. Did you see that?
+0: 
+C: 62                       LOGAN                                   62
+D:                Huh? See what?                                         *
+0: 
+0: 
+0: 
+0: 
+C:                                                         TE
+C: 63                       IZZIE                                   63   *
+D:                Uh, the giant shockwave of                             *
+D:                supernatural dream energy?!                            *
+0: 
+0: 
+0: 
+0: 
+C:                                                      U
+C: 64                       LOGAN                                   64   *
+D:                I don’t know what you’re talking                       *
+0: 
+0: 
+0: 
+0: 
+C:                                                    IT
+D:                about. The only thing I see is me                      *
+D:                beating you to the top of this
+D:                mountain! Ha ha!
+0: 
+0: 
+0: 
+0: 
+C:                                         ST
+D:      He cackles in pride as he bounds up the mountain ahead of        *
+D:      them.                                                            *
+0: 
+0: 
+0: 
+C:                                   IN
+D:      INT. SHADOWKEEP - GRIM REALM - DAY
+0: 
+N:      Snivel, Sneak, and Susan are carrying a large glass jar that
+N:      swirls with dark dream energy. Snivel and Susan struggle to
+C:                         IS
+D:      lift the jar up to Sneak who is flying above them, guiding it    *
+D:      onto a shelf holding other jars of energy.
+0: 
+N:      Suddenly, THAT SAME SHOCKWAVE HITS THEM.
+N:                 AV
+0: 
+0: 
+N:      It sends the darklings tumbling comically. Sneak’s wings
+N:      struggle to hold the jar in the air by himself, but it slips
+N:      from his grasp. It plummets for the ground, about to break
+N:             D
+0: 
+0: 
+0: 
+N:      when THE NIGHTMARE KING GRABS IT. He slowly puts it back on
+N:      the shelf. The darklings cower under his cold withering
+N:      stare.
+N:       A
+0: 
+0: 
+0: 
+0: 
+N:      The Dark Archer runs in.
+N:      N
+0: 
+0: 
+0: 
+0: 
+C: 65                       DARK ARCHER                             65
+D:                Did you feel that?
+D: EE
+0: 
+0: 
+0: 
+0: 
+C: 66                          NIGHTMARE KING                       66
+D:                It’s Luna.
+0: 
+C: 67                       DARK ARCHER                             67
+D:                Luna? That’s impossible. Luna’s
+D: G
+0: 
+0: 
+0: 
+0: 
+N:                gone. You know that better than
+N:                anyone.
+0: N:                          Pink Rev. (04/21/21)                   11.
+0: 
+0: 
+C: 68                       NIGHTMARE KING                           68
+D:                No, not her. Her hourglass. The                         *
+D:                last time I felt it was when she                        *
+D:                used it to imprison me in this grim                     *
+D:                realm. Did you see where it came                        *
+D:                from?                                                   *
+0: 
+0: 
+0: 
+0: 
+C:                                                         TE
+D: 69                       DARK ARCHER                              69   *
+D:                Looked like somewhere in the                            *
+D:                Fantasy Realm. Maybe near Pillow                        *
+D:                Peak.                                                   *
+0: 
+0: 
+0: 
+0: 
+C:                                                   U
+D: 70                       NIGHTMARE KING                           70   *
+D:                The sandman... I see... they’re                         *
+0: 
+0: 
+0: 
+0: 
+C:                                                 IT
+D:                trying to fix her hourglass and                         *
+D:                seal me in here once more.                              *
+E:                    (to the Dark Archer)                                *
+0: 
+0: 
+0: 
+0: 
+C:                                       ST
+D:                You better see to it that doesn’t                       *
+D:                happen. Because I promise, if I get                     *
+D:                stuck back in here again, I’m                           *
+D:                dragging you in with me.                                *
+0: 
+0: 
+C:                                  IN
+D:      The weight of that threat hangs in the air until it’s
+D:      interrupted by Snivel absentmindedly scratching his back on
+D:      the shelf, and causing that same jar of dream energy to fall
+D:      off and shatter on the ground.
+0:                                                                        *
+C:                         IS
+D:      The dream energy squirms on the ground like it’s alive, like
+D:      a snake that’s snuck out of its cage, before it disappears
+D:      into a crack.
+D:                 AV
+0: 
+0: 
+N:      The darklings look at their boss sheepishly. The Nightmare
+N:      king rolls his eyes.
+N:             D
+0: 
+0: 
+0: 
+N: 71                       NIGHTMARE KING (CONT'D)                  71   *
+N:                Ugh.... and take these darklings                        *
+N:                with you before they break anything                     *
+N:                else.                                                   *
+C:       A
+D:      N
+0: 
+0: 
+0: 
+0: 
+S:      EXT. TOP OF PILLOW PEAK - FANTASY REALM - DAY
+0: 
+N:      Coop, Mateo, Izzie, and zBlob climb over the last cliff,          *
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:      emerging on the top of the mountain.
+0: 
+C: 72                       IZZIE                                    72
+D:                Wow.
+D: G
+0: 
+0: 
+0: 
+0: 
+N:      ESTABLISH the majestic top of Pillow Peak.
+0: 
+C: 73                       MATEO                                    73   *
+D:                Where’s Logan? He should have been
+D:                up here way before us.
+0: N:                             Pink Rev. (04/21/21)             12.
+0: 
+0: 
+C: 74                       COOP                                    74   *
+D:                Oh there he is.
+0: 
+N:      They see Logan running towards them.
+0: 
+C: 75                       MATEO                                   75   *
+D:                You can stop running, you won the
+0: 
+0: 
+0: 
+0: 
+C:                                                         TE
+D:                stupid race!
+0: 
+C: 76                       LOGAN                                   76
+D:                I’M NOT RACING!!!
+0: 
+0: 
+0: 
+0: 
+C:                                                      U
+D:      And that’s when they see it, he’s not running, HE’S BEING
+D:      CHASED BY A GIANT FURRY YETI.
+0: 
+0: 
+0: 
+0: 
+C:                                                    IT
+C: 77                          EVERYONE                             77
+D:                AHHHH!!!!!
+0: 
+0: 
+0: 
+0: 
+C:                                         ST
+D:      Mateo, Coop, Logan, and zBlob all run for their lives across     *
+D:      the mountaintop.
+0: 
+N:      The Yeti stomps after them, his massive feet pounding through    *
+N:      the snow and rock.
+C:                                    IN
+D:      INT. CAVE, PILLOW PEAK - FANTASY REALM - DAY
+0:                                                                       *
+C:                         IS
+D:      Mateo, Coop, Logan, and zBlob duck inside a cave, hiding.        *
+0: 
+C: 78                       COOP                                    78   *
+D:                 AV
+0: 
+0: 
+N:                Did you see the size of that thing?
+0: 
+C: 79                       LOGAN                                   79
+D:                Of course I saw it! It was chasing
+D:             D
+0: 
+0: 
+0: 
+N:                me!
+0: 
+N:      ZBlob is tugging on Mateo's arm.                                 *
+N:       A
+0: 
+0: 
+0: 
+0: 
+C: 80                       MATEO                                   80   *
+D:                Not now zBlob! I’m watching for the
+D:      N
+0: 
+0: 
+0: 
+0: 
+N:                monster!
+0: 
+N:      ZBlob keeps tugging at his arm.
+N: EE
+0: 
+0: 
+0: 
+0: 
+N: 81                        MATEO (CONT'D)                         81   *
+N:                Ugh... Izzie will you take zBlob
+N:                before he gives us away?
+N:                    (beat)
+N: G
+0: 
+0: 
+0: 
+0: 
+N:                Izzie?
+0: 
+N:      They realize Izzie’s not here.
+0: N:                             Pink Rev. (04/21/21)               13.
+0: 
+0: 
+C: 82                          COOP                                  82   *
+D:                   Oh no. She must still be out there
+D:                   with that... thing.
+0: 
+N:      Mateo thinks, then nods and starts heading for the cave           *
+N:      entrance.
+0: 
+0: 
+0: 
+0: 
+C:                                                           TE
+C: 83                          LOGAN                                 83
+D:                   What are you doing?
+0: 
+C: 84                          MATEO                                 84   *
+D:                   I’m going to save my sister.
+0: 
+0: 
+0: 
+0: 
+C:                                                      U
+D: 85                          LOGAN                                 85
+0: 
+0: 
+0: 
+0: 
+C:                                                    IT
+D:                   Are you crazy? It’s too dangerous.
+0: 
+N: 86                          COOP                                  86   *
+0: 
+0: 
+0: 
+0: 
+C:                                            ST
+D:                   Only if he goes alone.
+0: 
+N:      Coop steps up beside him. He’s gonna join.                        *
+0: 
+N: 87                          COOP (CONT'D)                         87   *
+0: 
+0: 
+0: 88
+N:                   Logan? You in?
+0: 
+C:                             LOGAN
+C:                                    IN
+D:                   Alright. You guys will get
+D:                                                                   88
+C:                            IS
+D:                   flattened without me anyway.
+0: 
+N:      The three boys and a blob perch by the cave.
+N:                    AV
+0: 
+0: 
+C: 89                          MATEO                                 89   *
+D:                   Get ready. We don’t know what kind
+D:                   of unspeakable horrors we’re gonna
+D:                   find when we step outside this
+D:             D
+0: 
+0: 
+0: 
+N:                   cave.
+0: 
+N:      They all nod.
+N:       A
+0: 
+0: 
+0: 
+0: 
+N: 90                          MATEO (CONT'D)                        90   *
+C:                   One, two, THREE!
+D:      N
+0: 
+0: 
+0: 
+0: 
+N:      They all UNLEASH A BATTLE CRY AS THEY RUN FORWARD.
+N: EE
+0: 
+0: 
+0: 
+0: 
+T:      SMASH CUT:
+0: 
+0: 
+S:      EXT. TOP OF PILLOW PEAK - FANTASY REALM - DAY
+N: G
+0: 
+0: 
+0: 
+0: 
+N:      The Yeti has been given a total GLAM MAKE-OVER. Curlers in        *
+N:      his hair, long eyelashes, glitter.
+0: 
+C: 91                          IZZIE                                 91
+D:                   Pretty fierce, huh?
+0: N:                           Pink Rev. (04/21/21)                14.
+0: 
+0: 
+N:       The boys plus zBlob just stare at this strange scene,
+N:       confused.
+0: 
+C: 92                        YETI                                  92
+D:                 What. A guy can’t like glitter?
+0: 
+N: 93                        MATEO                                 93   *
+0: 
+0: 
+0: 
+0: 
+C:                                                            TE
+D:                 Uhh... okay...
+0: 
+C: 94                        LOGAN                                 94
+D:                 C’mon Izzie, we gotta go. We didn’t
+D:                 come here to do monster makeovers,
+0: 
+0: 
+0: 
+0: 
+C:                                                     U
+D:                 we’re here to find the sandman!
+0: 
+0: 
+0: 
+0: 
+C:                                                   IT
+C: 95                        YETI                                  95
+D:                 Psht. Good luck finding that guy.
+D:                 And seriously, monster? Why you
+0: 
+0: 
+0: 
+0: 
+C:                                        ST
+D:                 gotta put a label like that on me?
+D:                 I’ll have you know I am purebred
+D:                 yeti and proud of it!
+0: 
+N: 96                        LOGAN                                 96   *
+0: 
+C:                                   IN
+D:                 Yea, well what do you expect me to
+D:                 call a giant beast that’s chasing
+D:                 me?
+0:                                                                      *
+0:                                                                      *
+0:                                                                      *
+C:                          IS
+C: 97                        YETI                                  97   *
+D:                 I wasn’t chasing anybody. I was                      *
+D:                 doing my laps. You think I look                      *
+D:                 this good by sitting around playing                  *
+D:                  AV
+0: 
+0: 
+N:                 cards all day?                                       *
+0: 
+C: 98                        COOP                                  98   *
+D:                 Hold up, did you say you know the                    *
+D:              D
+0: 
+0: 
+0: 
+N:                 sandman?                                             *
+0: 
+C: 99                        YETI                                  99   *
+D:                 Ole’ Sandy? Psht, we’re like best                    *
+D:        A
+0: 
+0: 
+0: 
+0: 
+N:                 friends!                                             *
+N:       N
+0: 
+0: 
+0: 
+0: 
+C: 100                       COOP                                 100   *
+D:                 Where is he?
+D: EE
+0: 
+0: 
+0: 
+0: 
+C: 101                       YETI                                 101
+D:                 Like I’d tell you.
+0: 
+C: 102                       IZZIE                                102
+D:                 Please Mister Yeti? I’ll give you
+D: G
+0: 
+0: 
+0: 
+0: 
+N:                 another makeover.
+0: 
+N:       The yeti looks at his makeup in a handheld mirror.
+0: N:                           Pink Rev. (04/21/21)                15.
+0: 
+0: 
+C: 103                       YETI                                 103
+D:                 Eh, I’m not crazy about your
+D:                 brushwork. Besides, I can’t just
+D:                 tell any wandering dreamer where
+D:                 the sandman is! For all I know you                    *
+D:                 could be working for
+D:                     (his demeanor changes,
+0: 
+0: 
+0: 
+0: 
+C:                                                             TE
+D:                      noticing something on the
+D:                      horizon)
+D:                 ... the Dark Archer...
+0: 
+N: 104                       LOGAN                                104
+0: 
+0: 
+0: 
+0: 
+C:                                                     U
+D:                 That’s crazy, we’re not working
+D:                 for...
+0: 
+0: 
+0: 
+0: 
+C:                                                   IT
+C: 105                       YETI                                 105
+D:                 NO YOU DUM DUMS! THE DARK ARCHER!
+0: 
+0: 
+0: 
+0: 
+C:                                        ST
+D:       He points down the hill. And sure enough.
+0: 
+N:       THE DARK ARCHER IS RIDING ATOP the SHARKFACE VEHICLE as it
+N:       barrels up the mountainside. The Darklings are dangling off
+0: 
+0: 
+0: 
+0: 106
+N:       heroes.
+0: 
+C:                           MATEO
+C:                                  IN
+D:       the back like a Rat Fink drawing as they race towards our
+0: 
+0: 
+0:                                                                106
+0:                                                                       *
+0: 
+0: 
+0:                                                                       *
+C:                          IS
+D:                 Oh no. What do we --
+0: 
+N:       He turns to finish his question only to find the big furry
+N:       yeti is already running away.
+N:                  AV
+0: 
+0: 
+N: 107                       MATEO (CONT'D)                       107    *
+N:                 Oh right. Run.
+N:              D
+0: 
+0: 
+0: 
+N:       The kids all run across the mountaintop and dash back inside
+N:       that same cave.
+N:        A
+0: 
+0: 
+0: 
+0: 
+S:       INT. CAVE, PILLOW PEAK - FANTASY REALM - CONTINUOUS
+N:       N
+0: 
+0: 
+0: 
+0: 
+N:       They run inside and come crashing into the Yeti who is hiding   *
+N:       in here as well.
+N: EE
+0: 
+0: 
+0: 
+0: 
+C: 108                       YETI                                 108
+D:                 Hey! Find your own cave!
+0: 
+C: 109                       COOP                                 109    *
+D:                 Don’t worry guys, I’ll just
+D: G
+0: 
+0: 
+0: 
+0: 
+N:                 dreamcraft a...
+0: 
+N:       He looks at his hourglass. It’s empty.
+0: N:                     Pink Rev. (04/21/21)        16.
+0: 
+0: 
+N: 110                 COOP (CONT'D)                110   *
+N:           Oh shoot! I used up all my dream
+N:           sand in the race up the mountain.
+0: 
+C: 111                 IZZIE                        111
+D:           Ack! Me too!
+0: 
+0: 
+0: 
+0: 
+C:                                                 TE
+C: 112                 MATEO                        112   *
+D:           Thanks a lot Logan, you just HAD to
+D:           turn it into a race, didn’t you!
+0: 
+N: 113                 LOGAN                        113
+0: 
+0: 
+0: 
+0: 
+C:                                               U
+D:           Don’t blame me. When I used Luna’s
+D:           hourglass, I thought-- oh, nuts...
+0: 
+0: 
+0: 
+0: 
+C:                                             IT
+C: 114                 MATEO                        114   *
+D:           Wait... you used Luna’s hourglass?
+0: 
+0: 
+0: 
+0: 
+C:                                     ST
+D:           Is that what that shockwave was?
+0: 
+C: 115                 LOGAN                        115
+D:           Uhh...
+0: 
+C: 116                 COOP
+C:                             IN
+D:           No wonder the Dark Archer was able
+D:           to find us!
+D:                                                  116   *
+C:                    IS
+C: 117                 LOGAN                        117
+D:           It’s not my fault! You were the
+D:           ones cheating at the race!
+D:            AV
+0: 
+0: 
+C: 118                  IZZIE                       118
+D:           LOGAN! YOU TURKEY! HOW COULD YOU BE
+C:           SO STUPID!
+D:       D
+0: 
+0: 
+0: 
+C: 119                 MATEO                        119   *
+D:           Hey. We can’t do anything about it
+D:           now. Besides, I know how bad it
+D:           feels to be last place in a
+D:       A
+0: 
+0: 
+0: 
+0: 
+N:           footrace.
+N:       N
+0: 
+0: 
+0: 
+0: 
+C: 120                 COOP                         120   *
+D:           So what are we gonna do?
+D: EE
+0: 
+0: 
+0: 
+0: 
+C: 121                 MATEO                        121   *
+D:           I think I have an idea.
+0: 
+C: 122                 YETI                         122
+D:           Then what are you waiting for! Go
+D: G
+0: 
+0: 
+0: 
+0: 
+N:           ahead! There’s only room for one
+N:           monster on this mountain!
+0: 
+C: 123                 MATEO                        123   *
+D:           First, you have to tell us where             *
+D:           the sandman is.                              *
+0: N:                              Pink Rev. (04/21/21)             17.
+0: 
+0: 
+C: 124                          YETI                              124   *
+E:                     (sigh)                                           *
+D:                 I can’t.                                             *
+0: 
+C: 125                          GROUP                             125   *
+D:                 WHAT?                                                *
+0: 
+0: 
+0: 
+0: 
+C:                                                          TE
+C: 126                       YETI                                 126   *
+D:                 I can’t tell you where he is, but I                  *
+D:                 can tell you where he WAS, cause                     *
+D:                 you’re standing in it.                               *
+0: 
+0: 
+0: 
+0: 
+C:                                                       U
+D:       The gang takes a better look around at the cave. It’s filled   *
+D:       with BEAUTIFUL ORNATE CARVINGS ON THE WALLS.                   *
+0: 
+0: 
+0: 
+0: 
+C:                                                     IT
+C: 127                       YETI (CONT'D)                        127
+D:                 This was his cave. Or it used to                     *
+0: 
+0: 
+0: 
+0: 
+C:                                          ST
+D:                 be. He said it was some kind of                      *
+D:                 dream temple or something. People                    *
+D:                 would come from all over the                         *
+D:                 dreamworld to see him, until the                     *
+D:                 Nightmare King came back that is.                    *
+0: 
+C:                                      IN
+D:                 Sandy got spooked after that and
+D:                 took off. He never told me where he
+D:                 was going, which quite frankly hurt
+D:                 my feelings, cause I thought we had
+0:                                                                      *
+0:                                                                      *
+0:                                                                      *
+0:                                                                      *
+C:                          IS
+D:                 a real bond, you know? I mean we                     *
+D:                 were neighbors! That may not mean                    *
+D:                 much to some people, but to me --                    *
+D:                  AV
+0: 
+0: 
+C: 128                       IZZIE                                128   *
+E:                     (get on with it)                                 *
+D:                 Mister Yeti?                                         *
+D:              D
+0: 
+0: 
+0: 
+C: 129                       YETI                                 129   *
+D:                 Right. Well, anyway, before he                       *
+D:                 left, he DID tell me if I ever                       *
+D:                 needed to find him, to use this.                     *
+D:        A
+0: 
+0: 
+0: 
+0: 
+N:       Yeti hands Mateo a STRANGE NAUTILUS SHELL. It’s covered in     *
+N:       N
+0: 
+0: 
+0: 
+0: 
+N:       glowing dots and marks.
+0: 
+N: 130                        YETI (CONT'D)                       130   *
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:                 Course the weirdo disappeared                        *
+N:                 before he could tell me exactly HOW                  *
+N:                 to use it.                                           *
+0: 
+N:       Coop inspects the strange shell.                               *
+N: G
+0: 
+0: 
+0: 
+0: 
+C: 131                       COOP                                 131   *
+D:                 So this is it. This is how we find                   *
+D:                 the sandman.                                         *
+0: N:                             Pink Rev. (04/21/21)                 18.
+0: 
+0: 
+C: 132                       YETI                                    132   *
+D:                 You happy? You wanna hear the rest                      *
+D:                 of my life story now or can we skip                     *
+D:                 to the part where you tell me how                       *
+D:                 you’re gonna get us out of this                         *
+D:                 mess?!                                                  *
+0: 
+0: 
+0: 
+0: 
+C:                                                          TE
+C: 133                        MATEO                                  133   *
+D:                 One more question.                                      *
+E:                     (beat)                                              *
+D:                 How’d your singing voice?
+0: 
+0: 
+0: 
+0: 
+C:                                                      U
+D:       The yeti looks at him like he’s crazy.
+0: 
+0: 
+0: 
+0: 
+C:                                                    IT
+D:       INT. CAVE, PILLOW PEAK - FANTASY REALM
+0: 
+0: 
+0: 
+0: 
+C:                                           ST
+D:       The Dark Archer peeks inside the cave where he sees the faint
+D:       shadows of our heroes in the back. He creeps inside,
+D:       motioning to the darklings who tiptoe past their boss,
+D:       heading for the kids. They inch closer and closer and finally
+D:       THEY LEAP. But the darklings just get AN ARMFUL OF SNOW!
+0: 
+C:                                     IN
+D:       THE KIDS MADE ‘SNOWMEN’ COPIES OF THEMSELVES to lure them in.
+D:       Snivel, Susan, and Sneak look at each other confused.
+C:                             IS
+C: 134                         DARK ARCHER                           134
+D:                 No!
+0: 
+N:       He looks back at the entrance of the cave to see Mateo            *
+N:                  AV
+0: 
+0: 
+N:       looking in.
+0: 
+C: 135                         MATEO                                 135   *
+C:                 NOW!
+D:              D
+0: 
+0: 
+0: 
+S:       EXT. CAVE, PILLOW PEAK - FANTASY REALM
+N:        A
+0: 
+0: 
+0: 
+0: 
+N:       Nearby, the YETI unleashes a WILD YODEL. It shakes the whole
+N:       mountain and brings down an avalanche of snow.
+N:       N
+0: 
+0: 
+0: 
+0: 
+N:       The Dark Archer runs for the mouth of the cave, but before he     *
+N:       can get there, the snow buries the entrance, trapping them
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:       inside.
+0: 
+N:       The kids all cheer.
+0: 
+N:       But as they are, A GIANT SNOWBALL ROLLS INCHES AWAY FROM
+N: G
+0: 
+0: 
+0: 
+0: 
+N:       COOP.                                                             *
+0: 
+C: 136                       COOP                                    136   *
+D:                 Whoa! Uh... Yeti? I think you
+D:                 overdid it!
+0: N:                           Pink Rev. (04/21/21)                   19.
+0: 
+0: 
+C: 137                       YETI                                    137   *
+D:                 Don’t get mad at me just because I                      *
+D:                 have an incredible range!                               *
+0: 
+N:       MORE GIANT SNOWBALLS ROLL DOWN FROM THE MOUNTAIN, WHIPPING        *
+N:       PAST THEM RIGHT AND LEFT. This avalanche is still going on!       *
+0: 
+0: 
+0: 
+0: 
+C:                                                             TE
+C: 138                       IZZIE                                   138   *
+D:                 Run!                                                    *
+0: 
+0: 
+S:       EXT. THE SIDE OF PILLOW PEAK - FANTASY REALM - CONTINUOUS         *
+0: 
+0: 
+0: 
+0: 
+C:                                                    U
+D:       THE KIDS RUN DOWN THE MOUNTAIN. SNOWBOULDERS ARE BOUNCING ALL     *
+0: 
+0: 
+0: 
+0: 
+C:                                                  IT
+D:       AROUND THEM.                                                      *
+0: 
+0:                                                                         *
+0: 
+0: 
+0: 
+0: 
+C:                                        ST
+D:       EXT. CAVE, PILLOW PEAK - FANTASY REALM - CONTINUOUS               *
+0: 
+N:       BACK AT THE CAVE ENTRANCE, THE SNOW IS BLASTED AWAY IN A          *
+C:       SWIRL OF DARK ENERGY.
+C:                                   IN
+D:       The Dark Archer flies out of the cave, DREAMCRAFTS A
+D:       SNOWBOARD MID AIR, and lands on it, deftly carving his way
+0:                                                                         *
+0:                                                                         *
+C:                          IS
+D:       down the mountain after the kids.
+0: 
+0: 
+S:       EXT. THE SIDE OF PILLOW PEAK - FANTASY REALM - CONTINUOUS         *
+N:                  AV
+0: 
+0: 
+N:       EVERYONE IS RUNNING DOWN THE SIDE OF THE MOUNTAIN. A giant        *
+N:       snowboulder smashes against a tree near Logan. He has to make     *
+N:       a giant LEAP to avoid getting knocked over.                       *
+N:              D
+0: 
+0: 
+0: 
+N:       And the Dark Archer is right on their heels, carving on his       *
+N:       snowboard back and forth, dodging rocks and snowboulders          *
+N:       alike.                                                            *
+N:        A
+0: 
+0: 
+0: 
+0: 
+N:       Mateo is racing down as fast as he can. He looks ahead and        *
+N:       N
+0: 
+0: 
+0: 
+0: 
+N:       sees a tree branch right in his path. It looks just like... A     *
+N:       TRACK HURDLE. Oh no.                                              *
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:       QUICK FLASHBACK: Mateo approaching a waking world track           *
+N:       hurdle.                                                           *
+0: 
+C: 139                       MATEO                                   139   *
+D:                 Oh no, oh no...                                         *
+D: G
+0: 
+0: 
+0: 
+0: 
+N:       He leaps, stretches up over the bent tree but then... TRIPS.      *
+N:       He tumbles to the ground and THE NAUTILUS SHELL FLIES OUT OF      *
+N:       HIS HAND!                                                         *
+0: N:                              Pink Rev. (04/21/21)                20.
+0: 
+0: 
+N:       It soars through the air in slow motion before finally            *
+N:       landing in the hand of... THE DARK ARCHER!                        *
+0: 
+N:       He holds up his prize triumphantly.                               *
+0: 
+N:       The kids all skid to a stop, looking back at him. They’re         *
+N:       sunk without that shell!                                          *
+0: 
+0: 
+0: 
+0: 
+C:                                                          TE
+D: 140                       DARK ARCHER                             140   *
+D:                 Ah... at last. I should really be                       *
+D:                 thanking you. Without you I never                       *
+D:                 would have found this. But now that                     *
+0: 
+0: 
+0: 
+0: 
+C:                                                       U
+D:                 I have, our victory is almost                           *
+D:                 complete!                                               *
+0: 
+0: 
+0: 
+0: 
+C:                                                     IT
+E:                     (crescendo)                                         *
+D:                 And soon the entire dream world                         *
+D:                 will be under the full power and                        *
+0: 
+0: 
+0: 
+0: 
+C:                                          ST
+D:                 control of --                                           *
+0:                                                                         *
+0: 
+N:       PLOP! His evil monologue gets ungracefully interrupted when A     *
+N:       GIANT SNOWBALL LANDS ON TOP OF HIM, ROLLING HIM UP AND            *
+0: 
+C:                                     IN
+D:       SENDING HIM SMASHING INTO A TREE.
+0: 
+N:       The nautilus once again goes flying in the air.
+0:                                                                         *
+0: 
+0:                                                                         *
+C:                            IS
+C: 141                       LOGAN                                   141   *
+D:                 I got it! I got it!                                     *
+0: 
+N:       Logan runs one direction.                                         *
+N:                  AV
+0: 
+0: 
+C: 142                          COOP                                 142   *
+D:                 I’m on it!                                              *
+D:              D
+0: 
+0: 
+0: 
+N:       Coop runs another.                                                *
+0: 
+N:       With their eyes on the ‘pop fly,’ they both accidentally          *
+N:       crash into one another. THUNK!                                    *
+N:        A
+0: 
+0: 
+0: 
+0: 
+N:       And when the shell finally comes arcing down to earth, it         *
+N:       N
+0: 
+0: 
+0: 
+0: 
+N:       lands right in the unexpecting hands of IZZIE.                    *
+0: 
+C: 143                        IZZIE                                  143   *
+D: EE
+0: 
+0: 
+0: 
+0: 
+N:                     (surprised)                                         *
+N:                 Oh snacks!                                              *
+0: 
+C: 144                       MATEO                                   144   *
+D:                 Don’t just sit there! RUN!                              *
+D: G
+0: 
+0: 
+0: 
+0: 
+N:       They all hightail it down the mountain again. But they’re not     *
+N:       out of the woods yet.                                             *
+0: 
+N:       THE DARKLINGS ON SHARKFACE ROAR OFF A CLIFF AND BARREL DOWN       *
+N:       THE MOUNTAIN AFTER THEM!                                          *
+0: N:                           Pink Rev. (04/21/21)                21.
+0: 
+0: 
+N:       They zero in on Izzie, closing the distance.                      *
+0: 
+N:       Susan runs off the hood and makes a massive ‘Mad Max style’
+N:       leap through the air, landing on Izzi’s back, sending them        *
+N:       tumbling to the ground.
+0: 
+N: 145                       MATEO (CONT'D)                          145   *
+0: 
+0: 
+0: 
+0: 
+C:                                                          TE
+D:                 Izzie!!! No!                                            *
+0: 
+N:       Susan looms over Izzie, snarling viciously. Just when we          *
+N:       think Izzie’s totally done for, THE DARKLING IS YANKED OFF of     *
+N:       her by the YETI!                                                  *
+0: 
+0: 
+0: 
+0: 
+C:                                                    U
+D: 146                       IZZIE                                   146   *
+0: 
+0: 
+0: 
+0: 
+C:                                                  IT
+D:                 Mister Yeti!                                            *
+0: 
+N: 147                       YETI                                    147
+0: 
+0: 
+0: 
+0: 
+C:                                        ST
+D:                 Nobody messes with my beautician.                       *
+0: 
+N:       But the reunion is short lived. A DARK ARROW PIERCES THE          *
+N:       YETI’S FUR. He howls in pain as a dark shadow spreads from
+N:       the wound across his body.
+0: 
+C:                                   IN
+D:       FARTHER UP THE MOUNTAIN, we see the Dark Archer lower his
+D:       crossbow with satisfaction.
+C:                          IS
+D:       BACK WITH IZZIE, she watches in horror as the Yeti is             *
+D:       surrounded by swirling nightmare magic, turning him into an
+D:       unwilling foot soldier for the Nightmare King.
+D:                  AV
+0: 
+0: 
+C: 148                       IZZIE                                   148   *
+D:                 No. What’s happening to him?                            *
+0: 
+C: 149                       COOP                                    149   *
+D:              D
+0: 
+0: 
+0: 
+N:                 Izzie! Get out of there!                                *
+0: 
+C: 150                       MATEO                                   150   *
+D:                 ZBlob! Quick!                                           *
+D:        A
+0: 
+0: 
+0: 
+0: 
+N:       Mateo takes zBlob and hooks him onto a small mountain tree.       *
+N:       N
+0: 
+0: 
+0: 
+0: 
+N:       He pulls his friend back, STRETCHING HIM LIKE A RUBBER BAND.      *
+N:       He aims for his sister and lets go!                               *
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:       ZBLOB FLIES THROUGH THE AIR like a pile of jello being shot       *
+N:       from a cannon.                                                    *
+0: 
+C: 151                       IZZIE                                   151   *
+D:                 Speak to me! C’mon Mister Yeti! You                     *
+D: G
+0: 
+0: 
+0: 
+0: 
+N:                 gotta fight it!                                         *
+0: 
+N:       The Yeti’s transformation keeps consuming him until at last       *
+N:       his once soft eyes TURN AN OMINOUS GLOWING PURPLE.                *
+0: N:                              Pink Rev. (04/21/21)             22.
+0: 
+0: 
+N:       ZBlob SPLATS onto a rock gets up to Izzie, quickly reforms      *
+N:       and throws her over his shoulder, bounding down the hill to     *
+N:       safety.
+0: 
+N: 152                       IZZIE (CONT'D)                       152    *
+N:                 No! Let go! I have to save him! We                    *
+N:                 have to save him!                                     *
+0: 
+0: 
+0: 
+0: 
+C:                                                          TE
+D:       EXT. THE SIDE OF PILLOW PEAK - FANTASY REALM
+0: 
+N:       Farther down the hill, we see Mr. Oz still struggling with
+0: 
+0: 
+0: 
+0: 
+C:                                                       U
+D:       his massive backpack. Sweat pouring down his face. Albert is
+D:       relaxing, riding on the backpack, not helping at all.
+0: 
+0: 
+0: 
+0: 
+C:                                                     IT
+C: 153                       OZ                                   153
+D:                 Really Albert, I thought you’d be
+0: 
+0: 
+0: 
+0: 
+C:                                          ST
+D:                 more of a help.
+0: 
+C: 154                       ALBERT                               154
+D:                 I’m a chimpanzee, old chum. I climb
+D:                 trees, not mountains.
+0: 
+0: 
+0: 
+0: 155
+N:       Just then, Mateo runs past.
+0: 
+C:                           OZ
+D:                                      IN                        155
+0:                                                                       *
+C:                          IS
+D:                 Was that --?
+0: 
+N:       Then Logan and Coop race past.                                  *
+N:                  AV
+0: 
+0: 
+C: 156                          LOGAN                             156
+D:                 Hi Mr. Oz!
+0: 
+C: 157                       COOP                                 157    *
+D:              D
+0: 
+0: 
+0: 
+N:                 Bye Mr. Oz!
+0: 
+N:       Oz scratches his chin, looks uphill to find Izzie and Zblob     *
+N:       racing right at them, A GIANT SNOWBALL RIGHT BEHIND THEM.
+N:        A
+0: 
+0: 
+0: 
+0: 
+C: 158                          OZ                                158
+D:       N
+0: 
+0: 
+0: 
+0: 
+N:                 WHAAAA!!!!
+0: 
+N:       zBlob collides with Oz and they’re both swallowed up by the     *
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:       snowboulder.
+0: 
+N:       It barrels down the mountain swallowing up Coop, Logan, and     *
+N:       Izzie on the way.
+N: G
+0: 
+0: 
+0: 
+0: 
+S:       EXT. BASE OF PILLOW PEAK - FANTASY REALM - DAY
+0: 
+N:       The giant snowball crashes into the ground where they started
+N:       their journey. The gang’s arms and feet are sticking out in
+N:       all directions.
+0: N:                           Pink Rev. (04/21/21)                  23.
+0: 
+0: 
+N:       A beat then... RIPPPP, Oz’s bulging backpack bursts open and      *
+N:       all of his stuff spills out on the ground in a clumsy pile.       *
+0: 
+T:                                                       DISSOLVE TO:
+0: 
+0: 
+S:       INT. OZ’S SPACESHIP - DREAM WORLD - DAY                           *
+0: 
+0: 
+0: 
+0: 
+C:                                                            TE
+D:       CLOSE ON THE NAUTILOUS SHELL’S STRANGE PATTERN.
+0: 
+N:       Oz is at a high-tech workstation on his spaceship. HE SNAPS A     *
+N:       FEW PHOTOS with a strange camera, analyzing the strange           *
+0: 
+0: 
+0: 
+0: 
+C:                                                    U
+D:       relic.                                                            *
+0: 
+0: 
+0: 
+0: 
+C:                                                  IT
+D:       The kids are all watching.
+0: 
+N: 159                       IZZIE                                   159   *
+0: 
+0: 
+0: 
+0: 
+C:                                        ST
+D:                 Mr. Oz. They’re not gonna hurt that
+D:                 yeti are they?
+0: 
+N:       Oz looks up from his work, thoughtful.                            *
+0: 
+C: 160                        OZ
+C:                                    IN
+D:                 I’m not sure, Izzie. The
+D:                 dreamworld, as you’re learning, can
+D:                 be a fun and magical place. But
+D:                                                                   160
+0:                                                                         *
+C:                          IS
+D:                 every dream can become a nightmare
+D:                 if you’re not careful. I know I’m
+D:                 asking a lot of you kids, but you                       *
+D:                 have to realize what you’re up
+D:                  AV
+0: 
+0: 
+N:                 against in here. It’s not all fun
+N:                 and games.
+0: 
+N:       Logan looks around at his friends. Musters his courage to         *
+N:              D
+0: 
+0: 
+0: 
+N:       make a confession.                                                *
+0: 
+C: 161                       LOGAN                                   161
+D:                 Uh, Mr. Oz... Luna’s hourglass...
+D:        A
+0: 
+0: 
+0: 
+0: 
+N:                 well... on the mountain, I
+N:                 accidentally ---                                        *
+N:       N
+0: 
+0: 
+0: 
+0: 
+C: 162                       MATEO                                   162   *
+D:                 We accidentally used it.
+D: EE
+0: 
+0: 
+0: 
+0: 
+N:       Logan looks to his friend, grateful to have the support of        *
+N:       his team.                                                         *
+0: 
+C: 163                        OZ                                     163
+D: G
+0: 
+0: 
+0: 
+0: 
+N:                 Hmm... no wonder those darklings
+N:                 showed up. The nightmare king knows
+N:                 that if this hourglass trapped him
+N:                 once, it could do it again.
+N:                     (beat)
+N:                            (MORE)
+0: N:                             Pink Rev. (04/21/21)                 24.
+0: 
+C:                             OZ (CONT'D)
+D:                   I just hope we can figure out how
+D:                   before it’s too late.
+0: 
+N:       Push in on that strange colorful pattern of dots and lines on
+N:       the back of the nautilus shell.
+0: 
+T:                                                        DISSOLVE TO:     *
+0: 
+0: 
+0: 
+0: 
+C:                                                             TE
+D:       EXT. SCHOOL TRACK - WAKING WORLD - DAY                            *
+0: 
+N:       It’s late after school.                                           *
+0: 
+0: 
+0: 
+0: 
+C:                                                      U
+D:       We open on a long row of hurdles. We hear Mateo huffing and       *
+0: 
+0: 
+0: 
+0: 
+C:                                                    IT
+D:       puffing, he enters frame, leaps, and --                           *
+0: 
+N:       CRASHES into the hurdle.                                          *
+0: 
+0: 
+0: 
+0: 
+C:                                          ST
+D:       TIME CUT:                                                         *
+0: 
+N:       Mateo gets back into the starting blocks. He’s practicing by      *
+N:       himself.                                                          *
+0: 
+C:       BY THE BLEACHERS,             IN
+D:       Izzie is sitting outside the school track, looking at a
+0:                                                                         *
+0: 
+0:                                                                         *
+C:                            IS
+D:       library book about the abominable snowman.                        *
+0: 
+N:       Logan walks by, notices her there, and Mateo crouching at the     *
+N:       starting line.                                                    *
+N:                    AV
+0: 
+0: 
+C: 164                         LOGAN                                 164   *
+D:                   Did we have practice I didn’t know                    *
+D:                   about?                                                *
+D:              D
+0: 
+0: 
+0: 
+C: 165                         IZZIE                                 165   *
+D:                   Nope. Just him.                                       *
+D:        A
+0: 
+0: 
+0: 
+0: 
+N:       Logan looks over at Mateo, a newfound glimmer of respect          *
+N:       blossoming in his eyes.                                           *
+N:       N
+0: 
+0: 
+0: 
+0: 
+C:       BACK WITH MATEO                                                   *
+D: EE
+0: 
+0: 
+0: 
+0: 
+N:       He raises off the blocks, bolts off the line again, races for     *
+N:       the hurdle and --                                                 *
+0: 
+N:       ONCE AGAIN HE TUMBLES INTO THE HURDLE. Crashing.                  *
+N: G
+0: 
+0: 
+0: 
+0: 
+N:       He pushes the tangle of equipment off of his head only to         *
+N:       find Logan reaching down to help him up.                          *
+0: 
+N:       Mateo takes it cautiously and gets to his feet.                   *
+0: N:                             Pink Rev. (04/21/21)              25.
+0: 
+0: 
+C: 166                       LOGAN                                166    *
+D:                 Your blocks are wrong.                                *
+0: 
+C: 167                         MATEO                              167    *
+D:                 What?                                                 *
+0: 
+N: 168                         LOGAN                              168    *
+0: 
+0: 
+0: 
+0: 
+C:                                                          TE
+D:                 C’mhere.                                              *
+0: 
+N:       He walks him back to the starting blocks.                       *
+0: 
+N: 169                       LOGAN (CONT'D)                       169    *
+0: 
+0: 
+0: 
+0: 
+C:                                                      U
+D:                 Alright, turn around.                                 *
+0: 
+0: 
+0: 
+0: 
+C:                                                    IT
+C: 170                         MATEO                              170    *
+D:                 What for?                                             *
+0: 
+0: 
+0: 
+0: 
+C:                                          ST
+C: 171                       LOGAN                                171    *
+D:                 Just do it.                                           *
+0: 
+N:       Mateo turns his back on Logan. Logan gives him a shove, Mateo   *
+N:       steps forward to catch himself for falling over.                *
+0: 
+C: 172                       MATEO     IN
+D:                 HEY! What’s the big idea!
+D:                                                                172    *
+0:                                                                       *
+C:                             IS
+C: 173                       LOGAN                                173    *
+D:                 What foot did you just stick out?                     *
+0: 
+C: 174                         MATEO                              174    *
+D:                  AV
+0: 
+0: 
+N:                 Huh?                                                  *
+0: 
+C: 175                       LOGAN                                175    *
+D:                 What foot did you catch yourself                      *
+D:              D
+0: 
+0: 
+0: 
+N:                 with?                                                 *
+0: 
+C: 176                       MATEO                                176    *
+D:                 Uh, my right?                                         *
+D:        A
+0: 
+0: 
+0: 
+0: 
+C: 177                       LOGAN                                177    *
+D:       N
+0: 
+0: 
+0: 
+0: 
+N:                 Okay, that’s your strongest foot                      *
+N:                 then. The one you’d naturally lead                    *
+N:                 with. Your blocks are set up for                      *
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:                 the other one. That’s why you                         *
+N:                 aren’t clearing the hurdles.                          *
+0: 
+N:       Logan kneels down and rearranges the starting blocks.           *
+N: G
+0: 
+0: 
+0: 
+0: 
+N: 178                       LOGAN (CONT'D)                       178    *
+N:                 Here, try that.                                       *
+0: 
+N:       Mateo gets into position.                                       *
+0: N:                           Pink Rev. (04/21/21)                26.
+0: 
+0: 
+N: 179                       LOGAN (CONT'D)                       179    *
+N:                 On your marks,                                        *
+N:                 get set,                                              *
+N:                 GO!                                                   *
+0: 
+N:       Mateo springs from the blocks, he’s heading for the hurdle,     *
+N:       he’s giving it his all. He leaps, AND                           *
+0: 
+0: 
+0: 
+0: 
+C:                                                          TE
+D:       HE FINALLY CLEARS THE HURDLE!                                   *
+0: 
+C: 180                       MATEO                                180    *
+D:                 I did it! I DID --                                    *
+0: 
+0: 
+0: 
+0: 
+C:                                                    U
+D:       He SMASHES INTO THE NEXT HURDLE AND TUMBLES INTO ANOTHER BALL   *
+0: 
+0: 
+0: 
+0: 
+C:                                                  IT
+D:       OF TANGLED EQUIPMENT.                                           *
+0: 
+N: 181                       LOGAN                                181    *
+0: 
+0: 
+0: 
+0: 
+C:                                        ST
+D:                 Nice work. Next time, don’t stop.                     *
+0: 
+N:       Logan grabs his bag and leaves. Izzie approaches, backpack on   *
+N:       her shoulder.                                                   *
+0: 
+0: 182
+0: 
+0: 
+0: 183
+C:                           IZZIE
+C:                                   IN
+D:                 Was he actually HELPING you?
+0: 
+C:                           MATEO
+D:                                                                182
+0: 
+0: 
+0:                                                                183
+0:                                                                       *
+0:                                                                       *
+0: 
+0:                                                                       *
+C:                          IS
+D:                 Yea. Crazy huh?                                       *
+0: 
+C: 184                       IZZIE                                184    *
+D:                 Huh. I guess you can’t always judge                   *
+D:                  AV
+0: 
+0: 
+N:                 a book by its over.                                   *
+0: 
+N:       She glances at the book in her hand, fondly remembering her     *
+N:       friend, the make-up loving monster, Mister Yeti.                *
+N:              D
+0: 
+0: 
+0: 
+C:                              END OF EPISODE
+C:        A
+C:       N
+C: EE
+D: G
+0: 

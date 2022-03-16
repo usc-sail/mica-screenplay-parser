@@ -1,0 +1,2497 @@
+M:                                                   TE
+M:                                                  U
+M:                                LEGO TITAN
+0: 
+0: 
+0: 
+0: 
+M:                                                IT
+M:                        Ep 111: "Dreamers' Block"
+0: 
+0: 
+0: 
+0: 
+M:                                              ST
+M:         The Dream Chasers are called to action when the students
+M:           of their school are plagued with nightmares. But with
+M:         their dream gate mysteriously blocked, they may never get
+M:            to the dream world in time. It’s up to the unlikely
+M:         pairing of Zoey, Albert, and zBlob to see what’s blocking
+0: 
+0: 
+M:                                     IN
+M:                                 the way.
+0: 
+0: 
+0: 
+M:                                Written by
+M:                             IS
+M:                              Peter Sattler
+M:                    AV
+0: 
+M:                                5.14.2021
+M:                                6.25.2021
+0: 
+M:                             Shepherd 6.26.21
+M:               D
+M:         A
+M:   N
+M: EE
+0: 
+0: 
+0: 
+0: 
+M:     LEGO SYSTEMS A/S
+M: G
+0: S:      EXT. NIMBUS INFINTE LEVEL - CYBER REALM - DAY                     *
+N:      Jadyn runs and jumps across a video game level. He dodges         *
+N:      ENEMY FIRE. Tiptoes across tiny hovering platforms --             *
+0: 
+0: 
+0: 
+0: 
+C:                                             TE
+D:      Does a flip, lands on a spring pad which LAUNCHES HIM INTO        *
+C:      THE AIR.
+D:      BOOSTER ROCKETS appear out of his back and he ZOOMS through       *
+D:      the air, soaring.                                                 *
+0: 
+0: 
+0: 
+0: 
+C:                                            U
+C:  1                       JADYN                                     1   *
+D:                AWESOME!!!!                                             *
+0: 
+0: 
+0: 
+0: 
+C:                                          IT
+D:      He shoots through a ring of stars and grabs a glowing ORB. He     *
+D:      slowly descends to the ground as VICTORY MUSIC SWELLS!            *
+0: 
+0: 
+0: 
+0: 
+C:                                        ST
+D:      Jadyn looks at his trophy with a satisfied look, but then he      *
+D:      notices a crude wooden sign, inartfully stuck in the ground.
+D:      It stands in weird contrast to the slick digital realm. Jadyn     *
+D:      looks at the HANDPAINTED YELLOW EYE SIGIL scrawled on it.
+E:  2                       JADYN (CONT’D)                            2   *
+0: 
+0: 
+C:                                  IN
+D:                What is this, a bonus level?
+D:      He looks over at an equally out of place door.
+C:                         IS
+D:      INT. BONUS ROOM - CYBER REALM - CONTINUOUS
+D:      Jadyn emerges through the door to find himself in a poorly        *
+D:      constructed ‘carnival game.’ Crude targets of Mateo, Izzie,       *
+D:                AV
+0: 
+N:      and the others are moving back and forth at the end of a
+N:      booth, like a target shooting game. Jadyn raises a skeptical      *
+N:      eyebrow.
+N:      He picks up one of the balls and tosses it at the targets. We
+N:           D
+0: 
+0: 
+0: 
+N:      follow the path of the ball behind the counter where it bonks
+N:      onto the head of A NIGHTLING. They’re the ones carrying the       *
+N:      signs back and forth, hidden from the player. The nightling       *
+N:      growls, rubs its head. Another nightling barks at it to keep      *
+N:      moving his target.
+N:      A
+0: 
+0: 
+0: 
+0: 
+C:  3                       JADYN                                     3   *
+D:   N
+0: 
+0: 
+0: 
+0: 
+N:                So lame. Call me when you get out                       *
+N:                of beta.
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:      He turns to leave, reaches for the doorknob when the entire
+N:      door he came through disappears into a smoky mist.
+N:  4                       JADYN (CONT’D)                            4   *
+N:                What the--?
+N: G
+0: 
+0: 
+0: 
+0: 
+N:      The shadows of the nightlings marching back and forth grow to     *
+N:      exaggerated, nightmarish size on the wall as the carnival
+N:      music takes a dissonant scary turn.
+0: N:                              Pink Rev. (6/25/21)                  2.
+0: 
+N:       Jadyn quivers in his boots. Runs for it but finds himself --         *
+0: 
+S:       INT. BONUS ROOM/HALL OF MIRRORS - CYBER REALM - CONTINUOUS
+0: 
+0: 
+0: 
+0: 
+C:                                                TE
+D:       A carnival-style hall of mirrors. He keeps bumping into a            *
+D:       reflection of himself. Trapped. But then, ONE OF THE MIRRORS         *
+D:       FILLS WITH THAT GLOWING YELLOW SIGIL OF THE NIGHTMARE KING.
+D:  5                        NIGHTMARE KING                               5
+0: 
+0: 
+0: 
+0: 
+C:                                               U
+D:                 Leaving so soon?
+D:       Jadyn shivers as the yellow eye gets larger and larger and           *
+0: 
+0: 
+0: 
+0: 
+C:                                             IT
+D:       finally, it blinks shut. A quiet beat. When it reopens, it’s
+D:       on EVERY MIRROR ALL AROUND HIM, LIKE A KALEIDESCOPE.
+E:  6                        NIGHTMARE KING (CONT’D)                      6
+0: 
+0: 
+0: 
+0: 
+C:                                           ST
+D:                 And here I thought we were just                            *
+D:                 starting to have some fun...                               *
+D:       JADYN SCREAMS!                                                       *
+0: 
+0: 
+0: 
+0:  7
+C:                 AHHHH!!!!!
+C:                              JADYN   IN
+D:       INT. SCHOOL/CLASSROOM - WAKING WORLD - DAY
+D:                                                                        7   *
+C:                          IS
+D:       Jadyn suddenly finds himself in his school desk, having just         *
+D:       woken from his dream. He pants heavily, looks over at the
+D:       class who is staring at him.                                         *
+D:                 AV
+0: 
+C:  8                        OZ                                           8
+D:                 Jadyn, I know root fungus IS a                             *
+D:                 serious threat to cork tree
+D:                 population worldwide, but you don’t                        *
+D:                 need to get that upset about it.
+D:            D
+0: 
+0: 
+0: 
+N:       PRELAP: THE BELL RINGS.                                              *
+N:       A
+0: 
+0: 
+0: 
+0: 
+S:       INT. SCHOOL/HALLWAYS - WAKING WORLD - LATER
+N:       Mateo, Logan, and Cooper are filing out when Jadyn pushes            *
+N:   N
+0: 
+0: 
+0: 
+0: 
+N:       past them, grumpy, frazzled, totally out of it.
+C:  9                        MATEO                                        9
+D: EE
+0: 
+0: 
+0: 
+0: 
+N:                 What’s gotten into him?
+C:  10                       LOGAN                                    10      *
+D:                 Didn’t know he was so into cork                            *
+D:                 trees.
+D: G
+0: 
+0: 
+0: 
+0: 
+C:  11                       COOPER                                   11      *
+D:                 Uh, I don’t think that’s it. Look.                         *
+0: N:                            Pink Rev. (6/25/21)                 3.
+0: 
+N:       He motions to his classmates as they file out of the room.
+N:       They all look exhausted, dazed and ill-tempered.
+C:  12                       COOPER (CONT’D)                          12
+D:                 Everyone looks like they had a
+0: 
+0: 
+0: 
+0: 
+C:                                              TE
+D:                 pretty rough night.
+C:  13                       NOVA                                     13
+D:                 Oh, it’s more than just one night.
+D:                 And it’s way more than your run of
+D:                 the mill insomnia.
+0: 
+0: 
+0: 
+0: 
+C:                                             U
+D:       Nova appears behind them, talking a mile a minute. Manic from
+D:       a lack of sleep and the buzz of a conspiracy theorist.
+0: 
+0: 
+0: 
+0: 
+C:                                           IT
+C:  14                       MATEO                                    14
+D:                 What do you mean?
+0: 
+0: 
+0: 
+0: 
+C:                                         ST
+C:  15                       NOVA                                     15
+D:                 I’ve been talking to everyone, and
+D:                 it turns out we’re all having the
+D:                 EXACT same nightmare! We’re all
+D:                 seeing this creepy yellow eye every
+0: 
+0: 
+0: 
+0:  16
+N:                 right??
+C:                           IZZIE
+C:                                     IN
+D:                 night. It’s like a real life horror
+D:                 movie! You guys are seeing it too,
+0: 
+0:                                                                    16
+0:                                                                         *
+0:                                                                         *
+0:                                                                         *
+0:                                                                         *
+C:                          IS
+D:                 Uh... yea, sure. Totally.
+C:  17                        NOVA                                    17
+C:                 I knew it!                                              *
+D:                 AV
+0: 
+N:                     (thrusts out a flyer)                               *
+N:                 Join the Nightmare Club!                                *
+C:  18                       COOPER                                   18
+D:                 Nightmare Club... I thought that                        *
+D:                 was a joke.                                             *
+D:            D
+0: 
+0: 
+0: 
+N:       The flyer has ‘mug shot’ style drawings of the Nightmare King     *
+N:       AND Z BLOB surrounded by question marks.                          *
+N:       A
+0: 
+0: 
+0: 
+0: 
+C:  19                       NOVA                                     19
+D:                 No joke. We’re dedicated to                             *
+D:                 exposing the TRUE conspiracy behind
+D:   N
+0: 
+0: 
+0: 
+0: 
+N:                 this mind muddling mystery. Our
+N:                 currently most popular theories
+N:                 are... number three: aliens, number
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:                 two: the spoiled meatloaf in the
+N:                 cafeteria last week. And number
+N:                 one: a shadowy group of dream                           *
+N:                 agents who may be operating under                       *
+N:                 our very noses!
+N: G
+0: 
+0: 
+0: 
+0: 
+C:  20                       MATEO                                    20   *
+D:                 Uh, I’d say aliens. Definitely
+D:                 aliens.
+0: N:                            Pink Rev. (6/25/21)                    4.
+0: 
+N:       Logan points at the drawing of Z Blob.                            *
+C:  21                       LOGAN                                    21   *
+D:                 Bro, this looks just like...                            *
+0: 
+0: 
+0: 
+0: 
+C:                                                TE
+D:       Mateo elbows him to shut up.                                      *
+C:  22                        NOVA                                    22
+D:                 This little guy has popped up in                        *
+D:                 the dreams of a few people I’ve                         *
+0: 
+0: 
+0: 
+0: 
+C:                                               U
+D:                 interviewed. I’m calling it X-Blob.
+D:                 Seems to support Mateo’s alien                          *
+D:                 theory, but hard to say. Either
+D:                 way, don’t worry. The Nightmare
+0: 
+0: 
+0: 
+0: 
+C:                                             IT
+D:                 Club won’t rest until we uncover                        *
+D:                 the truth!                                              *
+0: 
+0: 
+0: 
+0: 
+C:                                           ST
+D:       Nova dashes off down the hall, handing out flyers to anyone       *
+D:       who’ll listen.
+C:  23                       IZZIE                                    23   *
+D:                 I told you guys we needed to keep                       *
+D:                 an eye on them... Get it? Eye...                        *
+0: 
+C:  24                       MATEO   IN
+D:                 Anyway, I told you so.
+0: 
+N:                 If she discovers Z Blob, that could
+N:                 cause some serious problems...
+0:                                                                    24
+0:                                                                         *
+0: 
+0:                                                                         *
+0:                                                                         *
+C:                          IS
+D:       MR OZ ducks out of his classroom.                                 *
+C:  25                       OZ                                       25
+D:                 AV
+0: 
+N:                 Hey gang, from the looks on these                       *
+N:                 faces, I’m afraid we need to delay                      *
+N:                 our Sandman expedition.                                 *
+N:                     (scratches his beard)                               *
+N:                 Something’s not right... Meet me at                     *
+N:                 the Landing tonight.                                    *
+N:            D
+0: 
+0: 
+0: 
+N:       Oz rushes off, mumbling to himself as the gang shares             *
+N:       concerned looks and we DISSOLVE TO --                             *
+N:       A
+0: 
+0: 
+0: 
+0: 
+S:       EXT. DREAM LANDING - DREAM WORLD - DAY
+N:   N
+0: 
+0: 
+0: 
+0: 
+N:       Mateo and Izzie pop out of their beds, fully equipped and         *
+N:       ready for action. Mateo looks around.                             *
+N: EE
+0: 
+0: 
+0: 
+0: 
+C:  26                       MATEO                                    26
+D:                 Where’s Mr. Oz?                                         *
+C:  27                       IZZIE                                    27   *
+D:                 Uh more importantly, what is that?!                     *
+D: G
+0: 
+0: 
+0: 
+0: 
+N:       The view around the Landing is obscured by an opaque dome. A      *
+N:       forcefield.                                                       *
+0: N:                            Pink Rev. (6/25/21)                    5.
+0: 
+N:       Izzie runs to the portal door and THUNK ricochets from the        *
+N:       gate and falls on her tuchus. She nurses her face from the        *
+N:       impact.                                                           *
+N:  28                       LOGAN                                    28
+0: 
+0: 
+0: 
+0: 
+C:                                              TE
+D:                 Yeah, so... We can’t get through.                       *
+D:       Logan sits by the tree, nursing his face. Behind him, Cooper      *
+D:       has dreamcrafted a drone and tries to fly out only to hit the     *
+D:       forcefield repeatedly.                                            *
+0: 
+0: 
+0: 
+0: 
+C:                                             U
+C:  29                       IZZIE                                    29   *
+D:                 So we can’t enter the Dream World?                      *
+0: 
+0: 
+0: 
+0: 
+C:                                           IT
+C:  30                       MATEO                                    30
+D:                 That means we’re trapped in here?!                      *
+0: 
+0: 
+0: 
+0: 
+C:                                         ST
+C:  31                       COOPER                                   31   *
+D:                 Relax, guys. At least nothing bad                       *
+D:                 can happen to us in here.                               *
+0: 
+S:       EXT. CYBER REALM - DAY                                            *
+0: 
+0: 
+C:                                    IN
+D:       Jadyn wakes up inside a GRIMHOLD CAGE. As he looks around
+D:       confused, he sees nightlings prodding other DREAMERS into
+D:       cages and marching them out in a procession.
+0:                                                                         *
+0:                                                                         *
+0:                                                                         *
+C:                           IS
+C:  32                       JADYN                                    32   *
+D:                 This is just a bad dream. Just a
+D:                 bad dream. I just need to wake
+D:                 up... I just need to wake up...
+D:                 AV
+0: 
+0: 
+N:       The Nightmare King himself emerges from the shadows, his
+N:       wicked face looking over the scared child.
+C:  33                       NIGHTMARE KING                           33
+D:            D
+0: 
+0: 
+0: 
+N:                 Oh no... this is one nightmare you
+N:                 won’t be waking up from.
+0: 
+S:       INT. MS. PUTNAM’S CLASSROOM - WAKING WORLD - DAY                  *
+N:       A
+0: 
+0: 
+0: 
+0: 
+N:       We slowly push in on an empty desk in the classroom as Ms.        *
+N:   N
+0: 
+0: 
+0: 
+0: 
+N:       Putnam takes attendance.                                          *
+N:  34                       MS. PUTNAM                               34   *
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:                 Dallas?                                                 *
+C:  35                       DALLAS                                   35   *
+D:                 Here.
+D:  36                       MS. PUTNAM                               36   *
+D: G
+0: 
+0: 
+0: 
+0: 
+N:                 Zoey?                                                   *
+C:  37                       ZOEY                                     37   *
+D:                 Here.
+0: N:                              Pink Rev. (6/25/21)                  6.
+0: 
+N:  38                          MS. PUTNAM                            38   *
+N:                 Jadyn?                                                  *
+N:                     (beat)
+N:                 Jadyn?                                                  *
+0: 
+0: 
+0: 
+0: 
+C:                                                TE
+D:       We keep pushing in on that empty desk before clocking the
+D:       reaction of the Dream Chasers. Mateo and Cooper give each         *
+D:       other nervous looks.                                              *
+0: 
+0: 
+0: 
+0: 
+C:                                               U
+D:       INT. CITY MIDDLE - HALLWAY - WAKING WORLD - LATER                 *
+D:       Mateo, Cooper, and Logan step out of the classroom, watch         *
+D:       their fellow students leave. Izzie approaches. They can’t         *
+0: 
+0: 
+0: 
+0: 
+C:                                             IT
+D:       help but notice the other students look horrible - hair           *
+D:       frazzled, bags under eyes, etc...                                 *
+0: 
+0: 
+0: 
+0: 
+C:                                           ST
+C:  39                       COOPER                                   39
+D:                 That’s the second day in a row                          *
+D:                 Jadyn hasn’t shown up... Remind                         *
+D:                 anyone else of what happened to me?                     *
+D:  40                       LOGAN                                    40
+0: 
+0: 
+0: 
+0:  41
+N:       Nova brushes past.
+C:                           NOVA
+C:                                    IN
+D:                 Maybe he’s actually just sick?
+0: 
+0: 
+0:                                                                    41
+0:                                                                         *
+C:                            IS
+D:                 I heard he’s been asleep for almost                     *
+D:                 TWO WHOLE DAYS. Just won’t wake up.                     *
+D:                 I can’t wait to tell the Nightmare
+D:                 Club about this!
+D:                 AV
+0: 
+0: 
+N:       She hurries on. Izzie sighs as she watches her friend go.         *
+N:       Oz steps through the doorway, looking at the students as          *
+N:       well.                                                             *
+N:            D
+0: 
+0: 
+0: 
+C:  42                       MATEO                                    42   *
+D:                 Mr. Oz! We went to the Landing, but                     *
+D:                 we couldn’t get out! It was like a-                     *
+D:       A
+0: 
+0: 
+0: 
+0: 
+C:  43                       OZ                                       43   *
+D:                 Forcefield, yes. I know. Mine, too.                     *
+D:                 Looks like someone doesn’t want us                      *
+D:   N
+0: 
+0: 
+0: 
+0: 
+N:                 poking around the Nightmare King’s                      *
+N:                 plans...                                                *
+N: EE
+0: 
+0: 
+0: 
+0: 
+C:  44                       COOPER                                   44   *
+D:                 Maybe this is payback for rescuing                      *
+D:                 Logan?                                                  *
+C:  45                       LOGAN                                    45   *
+D: G
+0: 
+0: 
+0: 
+0: 
+N:                 Bro, I seem to remember rescuing                        *
+N:                 you.                                                    *
+0: N:                            Pink Rev. (6/25/21)                    7.
+0: 
+C:  46                       OZ                                       46   *
+D:                 You guys hang tight. I’ll try and                       *
+D:                 figure something out...                                 *
+D:       Oz leaves in a hurry, breezing by Zoey.                           *
+0: 
+0: 
+0: 
+0: 
+C:                                              TE
+C:  47                       ZOEY                                     47   *
+D:                 Whoa. What’s up with Mr. Oz?                            *
+D:  48                       IZZIE                                    48   *
+0: 
+0: 
+0: 
+0: 
+C:                                             U
+D:                 He’s just cranky because we can’t                       *
+D:                 leave our Landings.                                     *
+D:  49                       ZOEY                                     49
+0: 
+0: 
+0: 
+0: 
+C:                                           IT
+D:                 Yeah, the nightling patrols are                         *
+D:                 getting intense, right?                                 *
+0: 
+0: 
+0: 
+0: 
+C:                                         ST
+C:  50                       COOPER                                   50   *
+D:                 Wait, the what?                                         *
+C:  51                       ZOEY                                     51   *
+D:                 Nightlings swarming every realm                         *
+D:                 right now? How did you not notice?                      *
+D:  52
+0: 
+0:  53
+C:                           MATEO
+C:                                    IN
+D:                 Wait. You’re still dreaming?
+C:                           ZOEY
+D:                                                                    52
+0: 
+0:                                                                    53
+0:                                                                         *
+C:                           IS
+D:                 ...Yes?                                                 *
+C:  54                       IZZIE                                    54   *
+D:                 OHMIGAW! Zoey, that’s it! You can                       *
+D:                 AV
+0: 
+N:                 go to the other side of our dream
+N:                 bridge tonight and see what’s                           *
+N:                 blocking it!
+C:  55                       ZOEY                                     55
+D:                 Ooh... sorry, but I don’t have time                     *
+D:            D
+0: 
+0: 
+0: 
+N:                 to play plumber with you guys.                          *
+N:                 Maybe Mr. Oz will figure it out.                        *
+C:  56                       MATEO                                    56   *
+D:       A
+0: 
+0: 
+0: 
+0: 
+N:                 But --
+N:       She takes off.
+N:   N
+0: 
+0: 
+0: 
+0: 
+C:  57                       COOPER                                   57   *
+D:                 Well, at least she’s consistent.
+D: EE
+0: 
+0: 
+0: 
+0: 
+C:  58                       IZZIE                                    58   *
+D:                 C’mon, we can’t let her off the
+D:                 hook. She’s our only chance!
+D: G
+0: 
+0: 
+0: 
+0: 
+N:       But they’re interrupted by a crackle from the school P.A.
+0: N:                            Pink Rev. (6/25/21)                    8.
+0: 
+C:  59                       COACH JEFFREYS                           59
+D:                 Attention all students, please meet
+D:                 in the auditorium for an emergency
+D:                 assembly.
+0: 
+0: 
+0: 
+0: 
+C:                                              TE
+C:  60                       IZZIE                                    60   *
+D:                 Oh, what now?
+0: 
+S:       INT. CITY MIDDLE CAFETERIA - WAKING WORLD - DAY                   *
+0: 
+0: 
+0: 
+0: 
+C:                                             U
+D:       Coach Jeffreys is on stage, addressing the student body.          *
+0: 
+0: 
+0: 
+0: 
+C:                                           IT
+C:  61                       COACH JEFFREYS                           61
+D:                 It’s uh, come to our attention that                     *
+D:                 many of you are, uh suffering from                      *
+D:                 disturbing dreams. I blame social                       *
+0: 
+0: 
+0: 
+0: 
+C:                                         ST
+D:                 media, but since your parents won’t                     *
+D:                 let me ban screen time for all of                       *
+D:                 you, Principal Elrod has ordered                        *
+D:                 mandatory dream counseling sessions
+D:                 during health class instead.                            *
+0: 
+0: 
+0: 
+C:  62                       COOPER
+C:                                   IN
+D:       He drones on with the details as Mateo and his friends
+D:       whisper to one another.
+0: 
+N:                 We have to tell him our dreams?
+0:                                                                    62
+C:                          IS
+C:  63                       LOGAN                                    63
+D:                 Yeah, so what?                                          *
+D:                 AV
+0: 
+C:  64                       COOPER                                   64
+D:                 So what? What are we supposed to
+D:                 do? Tell them we’re secret agents                       *
+D:                 who work for the Night Bureau to                        *
+D:                 keep order between the Waking World                     *
+D:                 and the Dream World?                                    *
+D:            D
+0: 
+0: 
+0: 
+C:  65                       LOGAN                                    65
+D:                 Bro, relax! Am the only one here                        *
+D:                 who knows how to lie? Just make
+D:       A
+0: 
+0: 
+0: 
+0: 
+N:                 something up. It’ll be fine.
+N:   N
+0: 
+0: 
+0: 
+0: 
+S:       INT. SCHOOL/CLASSROOM - WAKING WORLD - DAY
+C:       MONTAGE
+D: EE
+0: 
+0: 
+0: 
+0: 
+N:       A montage of students. Each one sitting alone in front of
+N:       Coach Jeffreys at his desk, who is scribbling notes and
+N:       consulting a stack of books next to him.
+N: G
+0: 
+0: 
+0: 
+0: 
+C:  66                       IZZIE                                    66   *
+D:                 Well, there was a giant bunny, and
+D:                 I could ride him. That good?
+E:                           (MORE)
+0: N:                              Pink Rev. (6/25/21)               9.
+0: 
+C:                              IZZIE (CONT'D)
+D:                   Can I go now? I really need to go
+D:                   find Zoey.
+C:  67                         COACH JEFFREYS                      67
+E:                       (flipping through a book)
+0: 
+0: 
+0: 
+0: 
+C:                                               TE
+D:                   Hmm... says here that dream could
+D:                   mean you’re afraid of growing up...
+D:                   hm... what else?
+D:       Izzie rolls her eyes with impatience.                          *
+0: 
+0: 
+0: 
+0: 
+C:                                              U
+D:       JUMP CUT:
+D:  68                         MATEO                               68
+0: 
+0: 
+0: 
+0: 
+C:                                            IT
+D:                   Robots. No... uh, pirates? Yeah                    *
+D:                   pirates. There’s a pirate that’s...
+D:                   uh, running on a treadmill.
+0: 
+0: 
+0: 
+0: 
+C:                                          ST
+D:       JUMP CUT:
+C:  69                         LOGAN                               69
+D:                   And then, I step up to bat and the
+D:                   pitcher, he sends a zinger down,
+0: 
+0: 
+C:                                      IN
+D:                   low and inside, but what he doesn’t
+D:                   know is that’s my sweet spot. So I
+D:                   clock it right over the left field
+D:                   wall.
+C:                           IS
+D:       JUMP CUT:
+C:  70                         COOPER                              70
+D:                   And then I was in, uh... a
+D:                   AV
+0: 
+N:                   classroom. Like this one.
+C:  71                         COACH JEFFREYS                      71
+D:                   And what happened?
+C:  72                         COOPER                              72
+D:            D
+0: 
+0: 
+0: 
+N:                   Uh, I was... sitting. And there was
+N:                   a... teacher... talking to me. At                  *
+N:                   his desk.
+N:       A
+0: 
+0: 
+0: 
+0: 
+C:  73                         COACH JEFFREYS                      73
+D:                   You mean, like I am right now?
+D:   N
+0: 
+0: 
+0: 
+0: 
+C:  74                         COOPER                              74
+D:                   Yes.                                               *
+D: EE
+0: 
+0: 
+0: 
+0: 
+N:       He looks around the room, sees a health poster about eating
+N:       fruits and vegetables.
+C:  75                         COOPER (CONT’D)                     75
+D:                   But... you were a carrot?
+D: G
+0: 
+0: 
+0: 
+0: 
+T:       JUMP CUT:
+0: N:                              Pink Rev. (6/25/21)                10.
+0: 
+C:  76                         COACH JEFFREYS                         76
+D:                   And when you say you were on fire,
+D:                   what part of your body was burning?
+D:  77                         MATEO                                  77
+0: 
+0: 
+0: 
+0: 
+C:                                                TE
+D:                   What part? Uh... all of it?
+C:  78                         COACH JEFFREYS                         78
+D:                   Well that’s not good.                                 *
+0: 
+0: 
+0: 
+0: 
+C:                                               U
+D:       He flips through his reference books, starts scribbling
+D:       furiously.
+D:  79                         MATEO                                  79
+0: 
+0: 
+0: 
+0: 
+C:                                             IT
+D:                   I mean... no, just my... hair?
+D:  80                         COACH JEFFREYS                         80
+0: 
+0: 
+0: 
+0: 
+C:                                           ST
+D:                   Dang, that’s even worse...                            *
+D:       JUMP CUT:
+C:  81                         NOVA                                   81
+D:                   You know what I keep asking myself?
+0: 
+0: 
+C:                                    IN
+D:                   Who stands to benefit from all of
+D:                   this? Who among us would just love
+D:                   to have an especially compliant
+D:                   student body?
+0:                                                                         *
+C:                              IS
+D:       She leans in gives him a suspicious look.
+C:  82                          COACH JEFFREYS                        82
+D:                   Who? Me?
+D:                   AV
+0: 
+0: 
+C:  83                         NOVA                                   83
+D:                   No? Then what are you doing with
+D:                   all those books about dreams, huh?
+C:                   Coincidence? I THINK NOT!
+D:            D
+0: 
+0: 
+0: 
+T:       JUMP CUT:
+C:  84                          LOGAN                                 84
+D:                   And after that they handed me the
+D:       A
+0: 
+0: 
+0: 
+0: 
+N:                   world cup trophy, a Nobel prize, an                   *
+N:                   Oscar, and a check for a billion                      *
+N:                   dollars.
+N:   N
+0: 
+0: 
+0: 
+0: 
+N:                       (beat)
+N:                   And then I woke up.
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:       Coach Jeffreys just stares at him with a dazed and shocked
+N:       look on his face.
+0: 
+S:       EXT. CITY MIDDLE - DAY                                            *
+N: G
+0: 
+0: 
+0: 
+0: 
+N:       The kids catch up as they’re leaving.
+0: N:                            Pink Rev. (6/25/21)                   11.
+0: 
+C:  85                       MATEO                                    85   *
+D:                 Who knew making up normal dreams                        *
+D:                 would be so hard?                                       *
+D:  86                       COOPER                                   86
+0: 
+0: 
+0: 
+0: 
+C:                                              TE
+D:                 This is why I never lie.                                *
+C:  87                       IZZIE                                    87   *
+D:                 C’mon, we need to find Zoey and
+D:                 convince her to help us!
+0: 
+0: 
+0: 
+0: 
+C:                                             U
+C:  88                       LOGAN                                    88
+D:                 I think we missed the boat on that.                     *
+0: 
+0: 
+0: 
+0: 
+C:                                           IT
+D:       Across the school yard, we see Zoey hopping on her bike.          *
+D:  89                       IZZIE                                    89   *
+0: 
+0: 
+0: 
+0: 
+C:                                         ST
+D:                 Maybe not. I think I know how to                        *
+D:                 bring her around...
+0: 
+S:       INT. OBSERVATORY - WAKING WORLD - DAY
+0: 
+0: 
+0: 
+C:  90                       ZOEY
+C:                                  IN
+D:       DING DONG. The door opens and we see Zoey standing there with
+D:       a food delivery.
+0: 
+N:                 Okay, got your order. Two steak
+0:                                                                    90
+C:                          IS
+D:                 burritos, four atomic tacos, two                        *
+D:                 horchatas, and a bean--                                 *
+D:       She looks up from her ticket to see Mateo, Izzie, Cooper,         *
+D:                 AV
+0: 
+N:       Logan, Z Blob and Mr. Oz all staring at her with suspicious       *
+N:       smiles.
+N:  91                        ZOEY (CONT’D)                           91   *
+N:                     (sigh)
+N:            D
+0: 
+0: 
+0: 
+N:                 Tip first, then we talk.
+0: 
+S:       INT. OBSERVATORY - MAIN ROOM - WAKING WORLD                       *
+N:       A
+0: 
+0: 
+0: 
+0: 
+N:       Z Blob chows down in the background while Oz lays out the         *
+N:       plan on his big screens like they’re in the Dirty Dozen.          *
+N:   N
+0: 
+0: 
+0: 
+0: 
+N:  92                       MR. OZ                                   92   *
+N:                 I don’t know why, but the Bridge is                     *
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:                 stuck on the Fantasy Ream. Unless                       *
+N:                 we can get someone to the other
+N:                 side to see what’s keeping us                           *
+N:                 blocked, all those kids will be                         *
+N:                 captured by the Nightmare King.                         *
+N: G
+0: 
+0: 
+0: 
+0: 
+C:  93                       ZOEY                                     93
+D:                 So what you’re saying is you have
+D:                 no idea what you’re sending me
+D:                 into.
+0: N:                             Pink Rev. (6/25/21)                12.
+0: 
+N:  94                        MR. OZ                                94   *
+N:                  Ehhh, basically. BUT! You won’t be                   *
+N:                  flying blind...                                      *
+N:        He pulls out another dream gadget. A pair of strange looking   *
+0: 
+0: 
+0: 
+0: 
+C:                                                TE
+D:        walkie talkies. A mix of tin can toys and high tech wires.     *
+C:  95                        ZOEY                                  95
+D:                  Walkie talkies?
+0: 
+0: 
+0: 
+0: 
+C:                                               U
+D:  96                        MR. OZ                                96   *
+D:                  Dreamy Screamies. We can                             *
+D:                  communicate from anywhere in the                     *
+D:                  Dream World.                                         *
+0: 
+0: 
+0: 
+0: 
+C:                                             IT
+C:  97                        ZOEY                                  97
+D:                  Lemme guess. You named them
+0: 
+0: 
+0: 
+0: 
+C:                                           ST
+D:                  yourself?
+D:  98                        MR. OZ                                98   *
+D:                  How did you know?
+D:  99                        IZZIE                                 99   *
+0: 
+0: 
+C:                                      IN
+D:                  Well we can’t just send her in
+D:                  alone like that. Why doesn’t she
+D:                  take Z Blob with her?
+D:        Z Blob BURPS, and looks over at them.
+0:                                                                       *
+0:                                                                       *
+0:                                                                       *
+0:                                                                       *
+C:                           IS
+C:  100                       MATEO                                100
+D:                  What?! No. No one said anything
+D:                  about taking Z Blob!                                 *
+D:                  AV
+0: 
+0: 
+C:  101                       OZ                                   101
+D:                  Excellent idea! He can enter the                     *
+D:                  Dream World with Zoey!                               *
+D:  102                       MR. ZOEY                             102   *
+D:             D
+0: 
+0: 
+0: 
+N:                  Yeah, no. I’m not babysitting. Plus                  *
+N:                  I’m faster on my own, he’ll just                     *
+N:                  slow me down.                                        *
+N:        A
+0: 
+0: 
+0: 
+0: 
+C:  103                       MATEO                                103
+D:                  Uh huh, what she said!                               *
+D:   N
+0: 
+0: 
+0: 
+0: 
+C:  104                       IZZIE                                104   *
+D:                  Guys! Were you not listening? All                    *
+D:                  of those kids are counting on us!                    *
+D: EE
+0: 
+0: 
+0: 
+0: 
+C:  105                       ZOEY                                 105
+E:                      (sighs)                                          *
+D:                  Fine. But I keep the walkie-talkies                  *
+D:                  when we’re done.                                     *
+D: G
+0: N:                              Pink Rev. (6/25/21)               13.
+0: 
+C:  106                       OZ                                   106
+D:                  Dreamy Screamies. And that’s                          *
+D:                  technically Night Bureau property,
+D:                  so I--
+0: 
+0: 
+0: 
+0: 
+C:                                               TE
+C:  107                         IZZIE                              107    *
+D:                  Deal!
+C:  108                       ZOEY                                 108
+D:                  Alright. C’mon little dude. Guess
+D:                  you’re coming with me.
+0: 
+0: 
+0: 
+0: 
+C:                                              U
+D:        Z Blob looks to Mateo.                                          *
+0: 
+0: 
+0: 
+0: 
+C:                                            IT
+C:  109                       MATEO                                109
+D:                  It’s okay Z. You... you go on with
+D:                  Zoey, okay? She’ll take good care
+0: 
+0: 
+0: 
+0: 
+C:                                          ST
+D:                  of you.
+D:        They turn to leave.
+C:  110                       MATEO (CONT’D)                       110
+E:                      (stopping her)
+0: 
+0: 
+C:                                      IN
+D:                  He likes a story before bedtime.
+E:                      (she tries to leave again)
+D:                  Oh and if he stains your furniture,
+D:                  just use a little dish soap.
+E:                      (she turns again)
+0:                                                                        *
+C:                              IS
+D:                  Oh and I forgot to tell you --
+C:  111                       ZOEY                                 111
+E:                      (cutting him off)
+D:                  AV
+0: 
+N:                  Don’t let anything happen to the
+N:                  snot ball. I GOT IT.
+N:        As they leave, Mateo looks worried.                             *
+C:  112                       IZZIE                                112    *
+D:             D
+0: 
+0: 
+0: 
+N:                  They grow up so fast.                                 *
+0: 
+S:        INT. ZOEY'S APARTMENT - WAKING WORLD - NIGHT
+N:        A
+0: 
+0: 
+0: 
+0: 
+N:        LIMITED POV OUT THE FLAP OF ZOEY’S BACKPACK
+N:   N
+0: 
+0: 
+0: 
+0: 
+N:        We enter her apartment through the eyes of Z Blob in her bag.   *
+N:        He’s carried through the door, across the living room. His
+N:        eyes dart all over the place at all the new stimuli.
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:  113                       AUNT JENNY (O.S.)                    113    *
+N:                  Zoey? Is that you?                                    *
+N:  114                       ZOEY (O.S.)                          114    *
+N: G
+0: 
+0: 
+0: 
+0: 
+N:                  Yes, Aunt Jenny.                                      *
+N:  115                       AUNT JENNY                           115    *
+N:                  Come here for a second, will you?                     *
+0: N:                             Pink Rev. (6/25/21)                14.
+0: 
+N:        Z Blob’s set down. He hears a strange motor sound. He lifts       *
+N:        the flap some more to investigate and gets a LOUD RAWRRRR
+N:        from Zoey’s cat who swipes at him.
+N:  116                       ZOEY (O.S.)                             116
+0: 
+0: 
+0: 
+0: 
+C:                                                 TE
+D:                  Shoo! Get out of there.
+D:        She picks up the bag and carries it to --                         *
+0: 
+0: 
+0: 
+0: 
+C:                                                U
+D:        INT. ZOEY'S APARTMENT/ZOEY’S BEDROOM -- CONTINUOUS                *
+D:        Where she dumps him out on the floor finally.
+0: 
+0: 
+0: 
+0: 
+C:                                              IT
+C:  117                       ZOEY                                    117
+D:                  Alright. You should be safe in
+D:                  here.
+0: 
+0: 
+0: 
+0: 
+C:                                            ST
+D:        A kid’s room is a window to their soul. Z Blob takes in all       *
+D:        the decor while Zoey sets up a cardboard box on the floor.
+E:  118                       ZOEY (CONT’D)                           118
+0: 
+0: 
+C:                                   IN
+D:                  I’m not used to having a roommate,                      *
+D:                  so just keep your slimy little
+D:                  mitts off my stuff, and we’ll get
+D:                  along fine. Comprende?                                  *
+D:        She looks up to see him examining a GIRLY POPSTAR POSTER.
+C:                           IS
+D:        Very out-of-character for her.
+C:  119                       ZOEY (CONT’D)                           119
+D:                  Good thing you can’t talk. Okay,
+D:                  AV
+0: 
+N:                  into the box. It’s dream time.
+N:        Zoey gets into bed. Puts one of the dreamy screamies under        *
+N:        her pillow and closes her eyes. A moment later, she pops one
+N:        open and sees Z Blob curled up on top of her blankets.            *
+N:             D
+0: 
+0: 
+0: 
+N:        She picks him up by the scruff of his neck and plants him
+N:        back in the box.
+N:        She gets back in bed. Lies her head down again. Another beat
+N:        A
+0: 
+0: 
+0: 
+0: 
+N:        and PLOP, he’s right back on top of her, like a cat would be.
+N:   N
+0: 
+0: 
+0: 
+0: 
+C:  120                       ZOEY (CONT’D)                           120
+D:                  No, Z Blob, you sleep there, in the                     *
+D:                  box.
+D: EE
+0: 
+0: 
+0: 
+0: 
+N:        But Z Blob is already snoring. Zoey gives up and lets him         *
+N:        stay as she drifts off to sleep herself. A faint smile            *
+N:        crosses her face and we see her rest her arm across him,          *
+N:        allowing herself to enjoy this cozy little blob on her chest.     *
+N: G
+0: N:                             Pink Rev. (6/25/21)                15.
+0: 
+S:        INT. CAVE - FANTASY REALM - DAY
+N:        Zoey wakes in the Dream World to a horrible racket. The sound   *
+N:        of Zion snarling in anger. She looks up to see Zion has Z       *
+N:        Blob in his mouth.                                              *
+0: 
+0: 
+0: 
+0: 
+C:                                               TE
+C:  121                       ZOEY                                 121
+D:                  Zion! Would you knock it off!
+D:        Zion just growls.
+0: 
+0: 
+0: 
+0: 
+C:                                              U
+C:  122                       ZOEY (CONT’D)                        122
+D:                  I don’t care if he took your food!
+D:                  Spit him out!
+0: 
+0: 
+0: 
+0: 
+C:                                            IT
+D:        Zion gives Z Blob a skeptical look and spits him out against    *
+D:        the wall where he lands with a splat and slowly drips to the
+0: 
+0: 
+0: 
+0: 
+C:                                          ST
+D:        floor.
+D:        Zoey pulls out the dreamy screamy, queues it,                   *
+C:  123                       ZOEY (CONT’D)                        123
+D:                  Hello? Can you guys hear me? Is
+D:                  this working?
+E:                      (to Z Blob)
+C:                                   IN
+D:                  Guess it’s just us for now.
+0:                                                                        *
+0:                                                                        *
+C:                            IS
+D:        EXT. ZOEY’S CAVE - DREAM WORLD - DAY                            *
+D:        Zoey packs up and heads out of the cave where she runs into     *
+D:        Albert.
+D:                  AV
+0: 
+0: 
+C:  124                       ZOEY                                 124
+D:                  Albert? What are you doing here?
+C:  125                       ALBERT                               125
+D:             D
+0: 
+0: 
+0: 
+N:                  Your esteemed teacher may be                          *
+N:                  trapped in his landing, but I                         *
+N:                  suffer no such indignities.                           *
+N:                      (a beat)                                          *
+N:                  I’m here to help.                                     *
+N:        A
+0: 
+0: 
+0: 
+0: 
+C:  126                       ZOEY                                 126
+D:   N
+0: 
+0: 
+0: 
+0: 
+N:                  Great. What, am I a tour guide now?                   *
+N:                  With the skies full of nightlings,                    *
+N:                  it’s gonna take me all night to get                   *
+N:                  to that busted dream gate on foot.                    *
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:                  I can’t have you slowing me down!                     *
+C:  127                       ALBERT                               127    *
+D:                  Oh really? Guess we’ll see who gets                   *
+D:                  there first then won’t we?
+D: G
+0: 
+0: 
+0: 
+0: 
+C:  128                       ZOEY                                 128    *
+D:                  Oh we will.                                           *
+0: N:                             Pink Rev. (6/25/21)                16.
+0: 
+N:        They march off in opposite directions, leaving Z Blob looking   *
+N:        back and forth, not sure who to follow.
+N:        A Z Blob arm reaches out and grabs Zoey. Another one wraps      *
+N:        around Albert. He drags them back together in the middle.
+0: 
+0: 
+0: 
+0: 
+C:                                               TE
+C:  129                       ALBERT                               129
+D:                  Okay fine. But we’re taking MY                        *
+D:                  shortcut.                                             *
+0: 
+0: 
+0: 
+0: 
+C:                                              U
+D:        INT. MATEO'S APARTMENT - WAKING WORLD - NIGHT
+0: 
+0: 
+0: 
+0: 
+C:                                            IT
+D:        The Garcias are finishing their dinner at the table. Mateo      *
+D:        clears his plate. Fakes a big yawn.
+D:  130                       MATEO                                130
+0: 
+0: 
+0: 
+0: 
+C:                                          ST
+D:                  Well, I think I’ll just turn in.
+D:                  Wanna get to bed early tonight,
+D:                  right Izzie?                                          *
+C:  131                       IZZIE                                131    *
+D:                  Huh? Oh right! Yeah, we gotta go!                     *
+C:  132                       JAY
+C:                                   IN
+D:                  Oh no. Not tonight. Your school
+D:                  called me today. They told me all
+D:                  about the dreams you’ve been having
+D:                                                                 132    *
+0:                                                                        *
+C:                           IS
+D:                  and what they might mean.
+C:  133                       MATEO                                133
+D:                  What they might mean? Uh, I don’t                     *
+D:                  AV
+0: 
+C:                  think they MEAN anything.
+C:  134                       JAY                                  134    *
+D:                  Oh no. That’s where you’re wrong.
+D:                  Coach Jeffreys explained it. You                      *
+D:                  need MORE ATTENTION from me!                          *
+D:             D
+0: 
+0: 
+0: 
+C:  135                       MATEO                                135    *
+D:                  Uh, really dad, that’s NOT--                          *
+D:        A
+0: 
+0: 
+0: 
+0: 
+C:  136                       JAY                                  136    *
+D:                  Uh-uh-uh! No buts! Tonight, we’re                     *
+D:                  gonna stay up super late for a                        *
+D:   N
+0: 
+0: 
+0: 
+0: 
+N:                  FAMILY MOVIE NIGHT! Doesn’t that                      *
+N:                  sound fun? Go get a seat while I                      *
+N:                  pop the popcorn!
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:        He heads into the kitchen to get ready.
+C:  137                       IZZIE                                137    *
+D:                  Oh man, who ever heard of a parent
+D: G
+0: 
+0: 
+0: 
+0: 
+N:                  forcing their kids to NOT go to
+N:                  bed?
+N:        Mateo pulls out his phone and dials.
+0: N:                                Pink Rev. (6/25/21)               17.
+0: 
+C:  138                          MATEO                               138
+E:                         (to phone)
+D:                     Coop! It’s Teo! You gotta help. My
+D:                     dad won’t let us go to sleep
+D:                     because of those fake dreams!
+0: 
+0: 
+0: 
+0: 
+C:                                                   TE
+D:        CROSS CUT:
+0: 
+S:        INT. COOPER'S APARTMENT - WAKING WORLD - NIGHT
+0: 
+0: 
+0: 
+0: 
+C:                                                  U
+D:        Cooper is on the phone while behind him we see his mom moving
+D:        furniture around.
+0: 
+0: 
+0: 
+0: 
+C:                                                IT
+C:  139                          COOPER                              139
+D:                     I can’t! My mom won’t let me leave.
+D:                     She barricaded the doors cause
+0: 
+0: 
+0: 
+0: 
+C:                                              ST
+D:                     Jeffreys told her I wanted to run
+D:                     away. I TOLD you we shouldn’t have                  *
+D:                     lied!                                               *
+D:        JUMP CUT:
+0: 
+0: 
+0: 
+C:                                      IN
+D:        INT. LOGAN’S COUSIN’S APARTMENT - WAKING WORLD - NIGHT
+D:        Logan’s lying on a rickety old sofa in an unfamiliar
+D:        apartment, talking to Mateo on his phone.
+C:                             IS
+C:  140                          LOGAN                               140
+D:                     Dude! I’m in Queens! My mom thinks                  *
+D:                     I’m afraid of heights now, so we’re
+D:                     AV
+0: 
+N:                     staying at my cousin’s ground floor                 *
+N:                     apartment... I can’t fall asleep on                 *
+N:                     this busted couch!                                  *
+N:             D
+0: 
+0: 
+0: 
+S:        INT. COOPER'S APARTMENT - WAKING WORLD - NIGHT
+N:        Mateo hangs up. Shakes his head.                                 *
+N:        A
+0: 
+0: 
+0: 
+0: 
+C:  141                          IZZIE                               141   *
+D:                     What are we gonna do?
+D:   N
+0: 
+0: 
+0: 
+0: 
+C:  142                          MATEO                               142
+D:                     I’ve got another idea.                              *
+D: EE
+0: 
+0: 
+0: 
+0: 
+S:        EXT. ENCHANTED FOREST - CORRUPTED FANTASY REALM - NIGHT          *
+N:        An army of nightlings marches past a DILAPIDATED GINGERBREAD     *
+N:        HOUSE perched on the top of a hill. One of them stops and
+N:        sniffs the air, looking around. The rest of his squad
+N: G
+0: 
+0: 
+0: 
+0: 
+N:        whistles for him, and he leaves to catch up.
+N:        We hold a second on that weird gingerbread house when a head
+N:        pops up out of the chimney. It’s Albert.
+0: N:                             Pink Rev. (6/25/21)                   18.
+0: 
+N:        Another head rises, lifting him up, it’s Z Blob. Then             *
+N:        another, Zoey. And finally, Zion’s head. They’re like a funny
+N:        totem pole.
+N:  143                       ZOEY                                    143
+0: 
+0: 
+0: 
+0: 
+C:                                               TE
+D:                  Would you two get off me already!
+D:        They duck down on the roof of the crumbling gingerbread house
+D:        and watch as the nightling army keeps marching away. They         *
+D:        look out at the horizon, on what USED to be an enchanted          *
+D:        paradise. But now, it’s all been corrupted.                       *
+0: 
+0: 
+0: 
+0: 
+C:                                              U
+C:  144                        ZOEY (CONT’D)                          144
+D:                  Looks like the Nightmare King’s
+0: 
+0: 
+0: 
+0: 
+C:                                            IT
+D:                  moving in.
+D:  145                       ALBERT                                  145
+0: 
+0: 
+0: 
+0: 
+C:                                          ST
+D:                  It’s getting to be like this all
+D:                  over the Dream World these days.                        *
+D:                  We’ll have to find a way around.
+C:  146                       ZOEY                                    146
+D:                  That’ll take hours. C’mon aren’t                        *
+0: 
+0: 
+C:  147                       ALBERT IN
+D:                  you Oz’s dream creature? Where’s
+D:                  your sense of adventure?
+0: 
+N:                  Oh no - I embody precisely HALF of
+0:                                                                    147
+0:                                                                          *
+0:                                                                          *
+0:                                                                          *
+0:                                                                          *
+C:                           IS
+D:                  Mr. Oswald’s personality in the                         *
+D:                  Dream World. The REASONABLE half!                       *
+D:                  And I say we go around.                                 *
+D:                  AV
+0: 
+C:  148                       ZOEY                                    148   *
+D:                  You’re no chimp, you’re a chicken.                      *
+D:        Zoey slides down the roof and starts marching towards their
+D:        goal. Albert spots her about to step on a SHADOWY VINE.           *
+D:             D
+0: 
+0: 
+0: 
+C:  149                       ALBERT                                  149
+D:                  No wait! Look out for that --
+D:        But it’s too late. As she steps on the strange black vine, it     *
+D:        A
+0: 
+0: 
+0: 
+0: 
+N:        WHIRLS TO LIFE, whips around in the air, KNOCKS THE
+C:        GINGERBREAD HOUSE TO PIECES.
+D:   N
+0: 
+0: 
+0: 
+0: 
+N:        As the walls fall, we reveal TWO UNAWARE DREAMERS inside,         *
+N:        stuffing a WITCH into a potbellied stove. They pause, look        *
+N:        around, confused at the disappearance of the cottage around       *
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:        them.                                                             *
+N:        The witch pulls her head out and also looks around, equally       *
+N:        confused.                                                         *
+N: G
+0: 
+0: 
+0: 
+0: 
+N:        OUR HEROES FALL DOWN THE HILL: They slide and tumble,             *
+N:        screaming, as they zip under branches and past rocks and
+N:        finally land in a PLOP in a giant dirty puddle.                   *
+0: N:                                 Pink Rev. (6/25/21)            19.
+0: 
+C:  150                          ZOEY                              150
+D:                     Okay... maybe the logical half of                  *
+D:                     Mr. Oz’s brain should lead for a                   *
+D:                     while.                                             *
+0: 
+0: 
+0: 
+0: 
+C:                                                  TE
+D:        INT. MATEO'S APARTMENT - WAKING WORLD - NIGHT
+D:        Mateo and Izzie watch a KUNG FU flick with their dad. Izzie     *
+D:        nods off on the couch when her dad nudges her.                  *
+0: 
+0: 
+0: 
+0: 
+C:                                                 U
+C:  151                          JAY                               151    *
+D:                     Don’t fall asleep now! This is the
+D:                     best part! Plus we gotta finish the
+0: 
+0: 
+0: 
+0: 
+C:                                               IT
+D:                     series! Three sequels, a prequel,                  *
+D:                     and a reboot to go! Plenty of                      *
+D:                     quality family time...                             *
+0: 
+0: 
+0: 
+0: 
+C:                                             ST
+D:        DING DONG.
+0: 
+S:        INT. MATEO'S APARTMENT - WAKING WORLD - NIGHT
+0: 
+0: 
+0: 
+0:  152
+N:        outfit.
+0: 
+N:                     Delivery.
+C:                                 MR. OZ
+C:                                          IN
+D:        Jay opens the door, and finds Mr. Oz in a silly food delivery
+0: 
+0:                                                                 152
+0:                                                                        *
+0: 
+0:                                                                        *
+C:                             IS
+C:  153                          JAY                               153    *
+D:                     That’s weird. I didn’t order
+D:                     anything. What is it?
+D:                     AV
+0: 
+0: 
+N:  154                          MR. OZ                            154    *
+N:                         (reading the order)
+N:                     Extra large helping of thanksgiving
+N:                     turkey, warm glass of milk, and
+N:             D
+0: 
+0: 
+0: 
+N:                     chamomile tea. And it’s all paid
+N:                     for, so... you should just take it.
+N:        He looks past him to see Mateo and Izzie giving him a thumbs    *
+N:        up from the couch.
+N:        A
+0: 
+0: 
+0: 
+0: 
+C:  155                          JAY                               155    *
+D:   N
+0: 
+0: 
+0: 
+0: 
+N:                     Hey, wait... aren’t you a teacher                  *
+N:                     at City Middle?                                    *
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:  156                          MR. OZ                            156    *
+C:                     Uh... well I...
+D:        Oz sweats bullets, afraid this ruse is up.                      *
+C:  157                          JAY                               157    *
+D: G
+0: 
+0: 
+0: 
+0: 
+N:                     You know... they really don’t pay
+N:                     you guys enough.
+0: N:                             Pink Rev. (6/25/21)                  20.
+0: 
+N:        He hands Oz a tip and takes the food. Mateo and Izzie breathe    *
+N:        a sigh of relief.
+T:                                                        DISSOLVE TO:
+0: 
+0: 
+0: 
+0: 
+C:                                                TE
+D:        INT. MATEO'S APARTMENT - WAKING WORLD - LATER
+D:        Takeout boxes lie empty at Jay’s feet. He’s sitting in his       *
+D:        chair, rubbing his tummy.
+0: 
+0: 
+0: 
+0: 
+C:                                               U
+C:  158                        JAY                                   158   *
+D:                  Oh, all that food made me --
+0: 
+0: 
+0: 
+0: 
+C:                                             IT
+E:                      (yawn)
+D:                  So... sleep... sleepy.....
+D:        His eyes slowly... slowly drop until he’s fast asleep.
+0: 
+0: 
+0: 
+0: 
+C:                                           ST
+D:        Mateo and Izzie high five. The SLAP noise rustles Jay. The       *
+D:        kids wince, but thankfully Jay goes back to sleep.               *
+D:        Teo and Izzie tiptoe up to their bedroom.                        *
+0: 
+0: 
+C:                                   IN
+D:        INT. SHADOWKEEP - GRIM REALM - NIGHT
+D:        The Night Hunter rushes into the throne room of the Nightmare
+D:        King.
+0:                                                                         *
+0:                                                                         *
+C:                           IS
+D:  159                       NIGHT HUNTER                           159   *
+D:                  Your shadiness, nightlings have                        *
+D:                  spotted the blob and Oz’s pet.                         *
+D:                  AV
+0: 
+0: 
+C:  160                       NIGHTMARE KING                         160
+D:                  I know. I have my eye on
+D:                  everything.
+D:             D
+0: 
+0: 
+0: 
+N:  161                       NIGHT HUNTER                           161   *
+N:                  I’m leading a battalion there now.
+N:                  I’ll inform you when we have the
+N:                  little dream creature.                                 *
+N:        A
+0: 
+0: 
+0: 
+0: 
+N:        The Night Hunter turns to leave.                                 *
+N:   N
+0: 
+0: 
+0: 
+0: 
+C:  162                       NIGHTMARE KING                         162
+D:                  Take my steed. There’s no time to                      *
+D:                  lose. And capture the girl. She is                     *
+D: EE
+0: 
+0: 
+0: 
+0: 
+N:                  with them, isn’t she? The dream                        *
+N:                  bandit?                                                *
+N:  163                       NIGHT HUNTER                           163   *
+N:                  Yes. She is. Forgive me, your                          *
+N:                  Garishness. I thought you only                         *
+N: G
+0: 
+0: 
+0: 
+0: 
+N:                  wanted the blob.                                       *
+0: N:                               Pink Rev. (6/25/21)                 21.
+0: 
+C:  164                         NIGHTMARE KING                        164
+D:                    I don’t want ANYTHING getting in                      *
+D:                    our way now. Understood?                              *
+D:        Night Hunter bows and makes his exit.                             *
+0: 
+0: 
+0: 
+0: 
+C:                                                  TE
+D:        EXT. DREAM LANDING - DREAM WORLD - DAY
+D:        A giant wrecking ball wheels back and swings through the air,
+0: 
+0: 
+0: 
+0: 
+C:                                                 U
+D:        it hits the dream bridge door with a thud and instantly turns
+D:        into dream ether. Cooper tumbles out of the driver’s seat as      *
+D:        it dissipates.
+0: 
+0: 
+0: 
+0: 
+C:                                               IT
+D:        Izzie and Mateo rush out of their beds.                           *
+D:  165                         COOPER                                165   *
+0: 
+0: 
+0: 
+0: 
+C:                                             ST
+D:                    Finally! Where have you guys been?                    *
+D:        Izzie produces the the dreamy screamy.                            *
+D:  166                         IZZIE                                 166   *
+0: 
+0: 
+C:                                      IN
+E:                        (into the walkie)                                 *
+D:                    Zoey. Can you read me? Are you
+D:                    there? Over.                                          *
+D:        Mateo shouts over her shoulder.
+C:                            IS
+C:  167                         MATEO                                 167
+E:                        (to the walkie)
+D:                    IS Z BLOB THERE? IS HE OK? OVER!                      *
+D:                    CAN YOU HEAR ME? OVER!                                *
+D:                    AV
+0: 
+0: 
+C:  168                         IZZIE                                 168   *
+D:                    Dude. Chill...                                        *
+D:             D
+0: 
+0: 
+0: 
+S:        EXT. DREAM BRIDGE GATE - CORRUPTED FANTASY REALM - NIGHT          *
+N:        Zoey and her troupe finally make their way to the other side
+N:        of the dream gate.
+N:        A
+0: 
+0: 
+0: 
+0: 
+C:  169                         ZOEY                                  169
+E:                        (into her walkie)
+D:   N
+0: 
+0: 
+0: 
+0: 
+N:                    What took you so long?                                *
+T:        CROSS CUT
+N: EE
+0: 
+0: 
+0: 
+0: 
+S:        EXT. DREAM LANDING - DREAM WORLD - DAY
+N:        Cooper peers into the dream gate which only reveals vague
+N:        shadows through its swirling portal.
+N: G
+0: N:                             Pink Rev. (6/25/21)                   22.
+0: 
+C:  170                       IZZIE                                   170   *
+E:                      (to the walkie)
+D:                  Well, it’s actually a funny
+D:                  story...
+0: 
+0: 
+0: 
+0: 
+C:                                               TE
+D:        Cooper jumps in --                                                *
+C:  171                       COOPER                                  171
+E:                      (to the walkie)
+D:                  Zoey? Are you at the gate? Can you
+D:                  hear me? Do you see what’s blocking
+0: 
+0: 
+0: 
+0: 
+C:                                              U
+D:                  it?
+0: 
+0: 
+0: 
+0: 
+C:                                            IT
+D:        EXT. DREAM BRIDGE GATE - CORRUPTED FANTASY REALM - NIGHT          *
+D:        Zoey looks closer, sure enough, there’s a STRANGE DEVICE
+0: 
+0: 
+0: 
+0: 
+C:                                          ST
+D:        attached to the side of the gateway. It’s projecting some
+D:        kind of forcefield.
+C:  172                       ZOEY                                    172
+E:                      (to the walkie)
+D:                  Yeah, we just got here. And I think                     *
+0: 
+0: 
+C:                                   IN
+D:                  we found the problem. Hang on.
+D:        She gets to work trying to pry it off when an arrow THWOKS
+D:        into the ground beside her. She spins to see:                     *
+C:                             IS
+D:        THEY’RE UNDER ATTACK! At the top of a hill the Night Hunter       *
+D:        rears back on the Night Mare. Behind him, an army of              *
+D:        nightlings pour over the crest and swarm the dream gate!          *
+D:                  AV
+0: 
+N:        Another arrow flies at them, and lands with a THUD beside Z       *
+N:        Blob. He stares at it unfazed.                                    *
+C:  173                       ALBERT                                  173
+D:                  Keep working on that device. Z                          *
+D:                  Blob, you’re with me! We’ll try and
+D:             D
+0: 
+0: 
+0: 
+N:                  hold them off.
+0: 
+N:        ALBERT AND Z BLOB ON THE FRONT LINES                              *
+N:        A
+0: 
+0: 
+0: 
+0: 
+N:        Albert takes to the enchanted trees like any good chimpanzee.     *
+N:   N
+0: 
+0: 
+0: 
+0: 
+N:        Z Blob joins him. He stretches his blobby shape out to form a     *
+N:        Z BLOB VINE that Albert can swing from.                           *
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:        A nightling is waiting for him on one of the trees. Albert        *
+N:        grabs a branch, swings around it like a gymnast kicking the
+N:        nightling off.                                                    *
+N:        Z Blob lands next to him. He shoots his long rubbery arms         *
+N:        across two nearby trees. Albert pulls him back like a giant
+N: G
+0: 
+0: 
+0: 
+0: 
+N:        slingshot and then lets him go.
+N:        Z Blob flies through the air and BARRELS INTO A GROUP OF          *
+N:        NIGHTLINGS like a bowling ball taking down pins.                  *
+0: N:                                Pink Rev. (6/25/21)               23.
+0: 
+N:        ZOEY AT THE DREAM BRIDGE GATE / XCUT WITH DREAM LANDING
+N:        We follow an arrow as it leaves a nightling’s bow on the         *
+N:        front lines, soars across the forest, it’s about to hit Zoey
+N:        when, THWACK. Zion swats it out of the air, protecting Zoey
+0: 
+0: 
+0: 
+0: 
+C:                                                 TE
+D:        while she’s huddled over the device, Cooper barking orders at
+D:        her through the dreamy screamy.                                  *
+D:        CROSS CUT:
+0: 
+0: 
+0: 
+0: 
+C:                                                U
+C:  174                          COOPER                              174
+D:                     You said there was a glowing white
+D:                     bulb, right? That should be the
+D:                     power source. Follow the wire back,
+0: 
+0: 
+0: 
+0: 
+C:                                              IT
+D:                     there should be some kind of
+D:                     antenna.
+0: 
+0: 
+0: 
+0: 
+C:                                            ST
+C:  175                          ZOEY                                175
+D:                     What wire? There’s dozens of them
+D:                     going all over the place!
+C:  176                          COOPER                              176
+D:                     It should be thicker than the rest.
+0: 
+0: 
+0: 
+C:  177                          MATEO
+C:                                      IN
+D:                     Look for the thickest one!
+D:        Mateo butts in to yell over the walkie as well.
+D:                                                                   177
+C:                             IS
+D:                     Is Z Blob okay? Tell us what’s                      *
+D:                     going on! We can’t see a thing!
+C:        WITH ZOEY
+D:                     AV
+0: 
+0: 
+N:        Another arrow comes flying at Zoey, but this time, it hits
+N:        ZION in the wing. Zion HOWLS IN PAIN.                            *
+C:        NEARBY                                                           *
+D:             D
+0: 
+0: 
+0: 
+N:        A flying nightling with a crude bow and arrow snickers at the    *
+N:        win. Pulls back to fire another one at them.                     *
+C:        WITH ZOEY                                                        *
+D:        A
+0: 
+0: 
+0: 
+0: 
+C:  178                          ZOEY                                178
+D:   N
+0: 
+0: 
+0: 
+0: 
+N:                     Zion! Oh no. Go on, fly back to the
+N:                     cave.
+N:                         (he doesn’t)                                    *
+N:                     I can’t lose you Zion! I’ll be                      *
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:                     fine! GO! GO BEFORE YOU GET REALLY                  *
+C:                     HURT!
+D:        Zion takes to the sky, leaving Zoey unprotected.
+D: G
+0: 
+0: 
+0: 
+0: 
+N:        ALBERT AND Z BLOB ON THE FRONT LINES                             *
+N:        Albert and Z Blob fight off a squad headed right for them.       *
+0: N:                               Pink Rev. (6/25/21)              24.
+0: 
+N:        Albert looks to the gate - the Night Hunter has slipped past      *
+N:        them and is closing in on an unprotected Zoey...                  *
+C:  179                       ALBERT                                  179
+D:                  Go help Zoey! I’ll hold them off by
+0: 
+0: 
+0: 
+0: 
+C:                                                TE
+D:                  myself.
+D:        Z Blob races back to the dream bridge, just as the nightlings     *
+D:        surround Albert.
+0: 
+0: 
+0: 
+0: 
+C:                                               U
+C:  180                       ALBERT (CONT’D)                         180
+D:                  We are in a pickle.                                     *
+D:        We think he’s done for until he looks down and notices
+0: 
+0: 
+0: 
+0: 
+C:                                             IT
+D:        another SHADOWY VINE running under all their feet. He grins,      *
+D:        then STOMPS ON IT.
+0: 
+0: 
+0: 
+0: 
+C:                                           ST
+D:        The VINE WHIPS TO LIFE, KNOCKING OUT THE NIGHTLING SQUAD.         *
+0: 
+N:        ZOEY AT THE DREAM BRIDGE GATE
+0: 
+0: 
+0: 
+C:                                       IN
+D:        Frustrated... can’t get the last wire cut... pulling at it as     *
+D:        hard as she can.
+C:  181                       COOPER                                  181
+D:                  Hurry up! What’s taking so long?
+C:                           IS
+C:  182                        ZOEY                                   182
+D:                  I can’t get the wire to break! It’s
+D:                  too thick!
+D:                  AV
+0: 
+N:        A shadow crosses over her. She turns to see the Night Hunter      *
+N:        on horseback, looming. He hesitates...                            *
+N:        Then pulls back his crossbow... Zoey grabs her clock... he        *
+N:        lets his bolt fly... TIME SLOWS... Zoey contorting... arrow       *
+N:             D
+0: 
+0: 
+0: 
+C:        WHOOSHING BY... and                                               *
+D:        THUNK! Time resumes. Zoey blinks... He missed. Instead, his       *
+D:        arrow HIT THE WIRE SHE COULDN’T CUT, finally powering down        *
+D:        the device.                                                       *
+D:        A
+0: 
+0: 
+0: 
+0: 
+N:        She rips the device off the door and THE CLOUDY GATE BECOMES
+N:   N
+0: 
+0: 
+0: 
+0: 
+N:        CLEAR. We can finally see Mateo on the other side.
+C:  183                          MATEO                                183
+D: EE
+0: 
+0: 
+0: 
+0: 
+C:                  Z BLOB!!!!                                              *
+D:        Zoey turns to see Z Blob sprinting towards her, the               *
+D:        nightlings hot on his heels. He scoops her up in one tackle,      *
+D:        and they FLY THROUGH THE DREAM BRIDGE GATE, which closes
+D:        behind her.
+D: G
+0: 
+0: 
+0: 
+0: 
+N:        The Dark Archer leaps off his horse, tries to open it, but it     *
+N:        won’t budge. He looks back to see his nightlings capturing        *
+N:        Albert in the distance. A small victory, but one he’ll take.
+0: N:                             Pink Rev. (6/25/21)                   25.
+0: 
+S:        EXT. DREAM LANDING - DREAM WORLD - DAY
+N:        Z Blob wraps up Mateo in a huge hug. Logan congratulates          *
+N:        Zoey.
+0: 
+0: 
+0: 
+0: 
+C:                                                  TE
+C:  184                       MATEO                                   184
+D:                  You made it!                                            *
+C:  185                        LOGAN                                  185
+D:                  Zoey you were SO amazing! There                         *
+0: 
+0: 
+0: 
+0: 
+C:                                                 U
+D:                  were like a hundred nightlings                          *
+D:                  behind you. Girl, How’d you keep                        *
+D:                  your cool?
+0: 
+0: 
+0: 
+0: 
+C:                                               IT
+C:  186                       ZOEY                                    186
+E:                      (blushing)
+D:                  Umm...                                                  *
+0: 
+0: 
+0: 
+0: 
+C:                                             ST
+E:                      (looking around)
+D:                  Albert? Where’s Albert?
+D:        She races back to the door, but Izzie stops her.                  *
+D:  187                       IZZIE                                   187   *
+0: 
+0:  188
+N:                  What are you doing?
+C:                            ZOEY     IN
+D:                  I have to get Albert! I left him
+D:                  behind!
+D:                                                                    188
+0:                                                                          *
+0:                                                                          *
+C:                           IS
+C:  189                       IZZIE                                   189   *
+D:                  It’s too dangerous! If you go                           *
+D:                  through there now you’ll get
+D:                  AV
+0: 
+N:                  captured too!                                           *
+N:        Zoey looks at the door frustrated.
+N:        Meanwhile, Cooper is looking at the device she brought
+N:        through. The dream bridge ‘lock.’
+N:             D
+0: 
+0: 
+0: 
+C:  190                       COOPER                                  190
+D:                  I thought you said you couldn’t get
+D:                  this wire cut?
+D:        A
+0: 
+0: 
+0: 
+0: 
+C:  191                       ZOEY                                    191
+D:                  I didn’t. The Night Hunter missed                       *
+D:   N
+0: 
+0: 
+0: 
+0: 
+N:                  me and the arrow split it.
+C:  192                       COOPER                                  192
+D: EE
+0: 
+0: 
+0: 
+0: 
+N:                  On accident?                                            *
+C:  193                       ZOEY                                    193
+D:                  What, you think he did it on
+D:                  purpose? That’s crazy.                                  *
+D: G
+0: N:                             Pink Rev. (6/25/21)                  26.
+0: 
+C:  194                       LOGAN                                  194
+D:                  Bro, seriously. Why would that dude                     *
+D:                  bust a lock his boss put on the                         *
+D:                  gate?
+0: 
+0: 
+0: 
+0: 
+C:                                               TE
+C:  195                       COOPER                                 195
+D:                  That’s just it. This lock didn’t
+D:                  come from the Nightmare King. This
+D:                  device is from the NIGHT BUREAU.
+D:        We reveal the steampunk looking gadget with the Night Bureau      *
+0: 
+0: 
+0: 
+0: 
+C:                                              U
+D:        emblem on the back.                                               *
+0: 
+0: 
+0: 
+0: 
+C:                                            IT
+D:        INT. SCHOOL - WAKING WORLD
+D:        A pair of feet march down a hallway.   A knock at Coach
+0: 
+0: 
+0: 
+0: 
+C:                                          ST
+D:        Jeffreys’s door. He opens it, and we   reveal... CHIEF INPECTOR   *
+D:        STRICK smiling at him, but she’s not   in her usual Night
+D:        Bureau outfit. She’s dressed up as a   kind, unimposing
+D:        academic.
+D:  196                       CHIEF INSPECTOR STRICK                 196
+0: 
+0: 
+C:                                     IN
+D:                  Coach Jeffreys? I’d like to
+D:                  introduce myself. I’m DOCTOR Celia
+D:                  Strick. A clinical psychologist who
+D:                  works with the school district.
+0:                                                                          *
+0:                                                                          *
+C:                           IS
+C:  197                       COACH JEFFREYS                         197
+E:                      (scratching his head)
+D:                  Huh. I didn’t hear anything about
+D:                  any specialists, but boy am I glad                      *
+D:                  AV
+0: 
+N:                  they sent you. This whole thing                         *
+N:                  with these kids and the nightmares                      *
+N:                  is getting totally outta control!                       *
+N:  198                       CHIEF INSPECTOR STRICK                 198
+N:                  Yes. That’s precisely why I’m here.
+N:             D
+0: 
+0: 
+0: 
+N:                  Perhaps we can start with this.                         *
+N:        She hands him one of Nova’s Nightmare Club flyers. The one        *
+N:        with that drawing of Z Blob!                                      *
+N:        A
+0: 
+0: 
+0: 
+0: 
+N:  199                       CHIEF INSPECTOR STRICK (CONT’D)        199    *
+N:                  Please, tell me absolutely                              *
+N:   N
+0: 
+0: 
+0: 
+0: 
+N:                  everything your students have been                      *
+N:                  saying about this.                                      *
+N: EE
+0: 
+0: 
+0: 
+0: 
+N:        Her manicured figure pokes hard into the paper as she points      *
+C:        to Z Blob.                                                        *
+C:        END OF EPISODE                                                    *
+D: G
+0: 
