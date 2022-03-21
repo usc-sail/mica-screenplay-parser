@@ -8,6 +8,8 @@ from movieparser.read_args import read_args
 from movieparser.evaluation import evaluate_parser
 from movieparser.evaluation_gdi import evaluate_gdi
 from movieparser.evaluation_robust import RobustEvaluation
+from movieparser.create_data import create_data
+from movieparser.create_seq_data import create_seq_data
 
 if __name__=="__main__":
     args = read_args()
@@ -30,3 +32,9 @@ if __name__=="__main__":
     elif args["mode"] == "evaluate-gdi":
         gdi_folder = os.path.join(args["data"], "SAIL Team Spellcheck")
         evaluate_gdi(gdi_folder, args["gdi_folders"])
+    
+    elif args["mode"] == "create_data":
+        create_data(annotator_1, annotator_2, annotator_3, line_indices, names_file=args["names_file"], results_folder=args["results"], screenplays_folder=screenplays_folder)
+    
+    elif args["mode"] == "create_seq_data":
+        create_seq_data(args["results"], args["seqlen"])
