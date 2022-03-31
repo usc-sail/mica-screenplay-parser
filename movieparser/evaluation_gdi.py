@@ -10,7 +10,7 @@ from docx import Document
 import numpy as np
 import pandas as pd
 
-def evaluate_gdi(gdi_folder, gdi_folder_names):
+def evaluate_gdi(gdi_folder, gdi_folder_names, ignore_scripts=[]):
 
     #####################################################################
     #### get GDI annotated character line counts
@@ -23,8 +23,8 @@ def evaluate_gdi(gdi_folder, gdi_folder_names):
 
         for movie in movies:
             analysis_docx = os.path.join(os.path.join(gdi_folder, "{}/Analysis/{}.docx".format(folder, movie)))
-            
-            if os.path.exists(analysis_docx):
+
+            if "{}/{}".format(folder, movie) not in ignore_scripts and os.path.exists(analysis_docx):
                 
                 with open(analysis_docx, "rb") as f:
                     doc = Document(f)
@@ -48,6 +48,8 @@ def evaluate_gdi(gdi_folder, gdi_folder_names):
 
     for _, row in line_count_df[["folder", "movie"]].drop_duplicates().iterrows():
         items.append((row["folder"], row["movie"]))
+    
+    print("{} items".format(len(items)))
 
     #####################################################################
     #### get SAIL script parser character line counts
@@ -149,7 +151,7 @@ def evaluate_gdi(gdi_folder, gdi_folder_names):
             _rmse = np.sqrt(np.mean(np.square(_errors)))
             _median = np.median(np.absolute(_errors))
 
-            print("\tcharacter: p = {:4.1f}, r = {:4.1f}, f1 = {:4.1f} ; line count error: mae = {:5.1f}, rmse = {:5.1f}, median = {:4.1f} ; {}/{}".format(_p, _r, _f1, _mae, _rmse, _median, folder, movie))
+            # print("\tcharacter: p = {:5.2f}, r = {:5.2f}, f1 = {:5.2f} ; line count error: mae = {:5.1f}, rmse = {:5.1f}, median = {:4.1f} ; {}/{}".format(_p, _r, _f1, _mae, _rmse, _median, folder, movie))
 
             tp += _tp
             fp += _fp
@@ -165,5 +167,5 @@ def evaluate_gdi(gdi_folder, gdi_folder_names):
         rmse = np.sqrt(np.mean(np.square(errors)))
         median = np.median(np.absolute(errors))
 
-        print("character: p = {:4.1f}, r = {:4.1f}, f1 = {:4.1f} ; line count error: mae = {:5.1f}, rmse = {:5.1f}, median = {:4.1f} ; ALL".format(p, r, f1, mae, rmse, median))
+        print("character: p = {:5.2f}, r = {:5.2f}, f1 = {:5.2f} ; line count error: mae = {:5.1f}, rmse = {:5.1f}, median = {:4.1f} ; ALL".format(p, r, f1, mae, rmse, median))
         print("\n")

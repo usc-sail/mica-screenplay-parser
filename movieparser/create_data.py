@@ -69,6 +69,8 @@ def insert_watermark_lines(script, label, prob=0.2):
 
         if random.random() < prob:
             watermark = "".join([random.choice(characters) for _ in range(random.choice([1,2,3]))])
+            if watermark == "NA":
+                watermark = "GDI"
             watermarked_script.append(watermark)
             watermarked_label.append("M")
 
