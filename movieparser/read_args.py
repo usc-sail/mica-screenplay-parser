@@ -28,14 +28,16 @@ Options:
         --seqlen=<int>                              number of sentences in a sample [default: 10]
         --train_batch_size=<int>                    training batch size [default: 256]
         --eval_batch_size=<int>                     evaluation batch size [default: 512]
-        --eval_movie=<str>                          movie left out in leave-one-movie-out testing [default: ]
+        --eval_movie=<str>                          movie left out in leave-one-movie-out testing [default: all]
         --lomo                                      leave one movie out
     -l, --learning_rate=<float>                     learning rate [default: 1e-3]
         --enc_learning_rate=<float>                 learning rate of the sentence encoder [default: 1e-5]
         --max_norm=<float>                          maximum weight norm for clipping [default: 1.0]
         --patience=<int>                            maximum number of epochs to wait for dev performance to improve
                                                     [default: 5]
-        --max_epochs=<int>                          maximum number of epochs [default: 20]
+        --max_epochs=<int>                          maximum number of epochs [default: 5]
+        --parallel                                  start training on multiple folds in lomo
+        --n_folds_per_gpu                           number of simultaneous folds to train in a single gpu [default: 3]
 """
 
 # standard library
@@ -61,8 +63,8 @@ def read_args():
     args["max_norm"] = float(cmd_args["--max_norm"])
     args["patience"] = int(cmd_args["--patience"])
     args["max_epochs"] = int(cmd_args["--max_epochs"])
-
-    print(cmd_args)
+    args["parallel"] = cmd_args["--parallel"]
+    args["n_folds_per_gpu"] = cmd_args["--n_folds_per_gpu"]
 
     if cmd_args["evaluate"]:
         if cmd_args["gdi"]:

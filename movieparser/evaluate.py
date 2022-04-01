@@ -4,6 +4,7 @@
 from typing import Tuple, List
 
 # third party imports
+import numpy as np
 import pandas as pd
 import torch
 from tqdm import tqdm
@@ -25,18 +26,22 @@ def get_classification_report(label, pred) -> pd.DataFrame:
     df["f1"] = f1
     return df
 
-def evaluate(parser: ScriptParser, loader: ScriptLoader) -> pd.DataFrame:
+def evaluate(parser: ScriptParser, loader: ScriptLoader) -> Tuple[pd.DataFrame, float]:
     parser.eval()
-    label, pred = [], []
+    label, pred, losses = [], [], []
+    
     with torch.no_grad():
         for eval_scripts, eval_features, eval_labels in tqdm(loader):
-            _pred = parser(eval_scripts, eval_features)
+            loss, _pred = parser(eval_scripts, eval_features, eval_labels)
             label.append(eval_labels)
             pred.append(_pred)
+            losses.append(loss.cpu().detach().item())
+    
     label = torch.cat(label).cpu().numpy().astype(int).flatten()
     pred = torch.cat(pred).cpu().numpy().astype(int).flatten()
+    avg_loss = np.mean(losses)
 
-    return get_classification_report(label, pred)
+    return get_classification_report(label, pred), avg_loss
 
 def evaluate_movie(parser: ScriptParser, loader: List[Tuple[List[str], List[List[float]], List[int]]]) -> pd.DataFrame:
     parser.eval()
