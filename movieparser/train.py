@@ -2,7 +2,7 @@
 
 # standard library imports
 import math
-from multiprocessing import Pool, current_process
+from multiprocessing import current_process
 import os
 import sys
 
@@ -11,6 +11,7 @@ import numpy as np
 import pandas as pd
 import torch
 from torch.optim import Adam
+from torch.multiprocessing import Pool, set_start_method
 
 # user imports
 from movieparser.scriptloader import get_dataloaders, label2id
@@ -94,14 +95,23 @@ def train(data_folder: str, results_folder: str, seqlen: int, train_batch_size: 
     else:
         movies = ["-"]
 
-    n_gpus = torch.cuda.device_count()
-    n_processes = n_gpus * n_folds_per_gpu
+    print(torch.cuda.device_count())
+    if parallel:
+        n_gpus = torch.cuda.device_count()
+        n_processes = n_gpus * n_folds_per_gpu
+    else:
+        n_processes = 1
     n_iterations = math.ceil(len(movies)/n_processes)
     arguments = [results_folder, seqlen, train_batch_size, eval_batch_size, leave_one_movie_out, \
         encoder_learning_rate, learning_rate, max_epochs, max_norm]
     test_perfs = []
 
     print("starting multiprocess training:\n\n")
+
+    # try:
+    set_start_method('spawn', force=True)
+    # except RuntimeError:
+        # pass
 
     for i in range(n_iterations):
         process_movies = movies[i * n_processes: (i + 1) * n_processes]

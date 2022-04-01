@@ -45,6 +45,9 @@ if __name__=="__main__":
         create_features(args["results"])
     
     elif args["mode"] == "train":
-        train(args["data"], args["results"], args["seqlen"], args["train_batch_size"], args["eval_batch_size"], \
-            args["eval_movie"], args["lomo"], args["learning_rate"], args["enc_learning_rate"], args["max_epochs"], \
-                args["patience"], args["max_norm"])
+        train(data_folder=args["data"], results_folder=args["results"], seqlen=args["seqlen"], \
+            train_batch_size=args["train_batch_size"], eval_batch_size=args["eval_batch_size"], \
+            eval_movie=args["eval_movie"], leave_one_movie_out=args["lomo"], \
+            learning_rate=args["learning_rate"], encoder_learning_rate=args["enc_learning_rate"], \
+            max_epochs=args["max_epochs"], patience=args["patience"], max_norm=args["max_norm"], \
+            parallel=args["parallel"], n_folds_per_gpu=args["n_folds_per_gpu"])
