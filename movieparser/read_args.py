@@ -7,13 +7,13 @@ Usage:
     movieparser evaluate        [--data=<DATA>]
     movieparser evaluate robust [--data=<DATA>] [--results=<RESULTS>] [--names_file=<path>]
     movieparser evaluate gdi    [--data=<DATA>] [--gdi_folders=<FOLDERS>] [--ignore_scripts=<SCRIPTS>]
-    movieparser create_data     [--data=<DATA>] [--results=<RESULTS>] [--names_file=<path>]
-    movieparser create_seq_data [--results=<RESULTS>] [--seqlen=<int>]
-    movieparser create_feats    [--results=<RESULTS>]
+    movieparser create data     [--data=<DATA>] [--results=<RESULTS>] [--names_file=<path>]
+    movieparser create seq      [--results=<RESULTS>] [--seqlen=<int>]
+    movieparser create feats    [--results=<RESULTS>]
     movieparser train           [--results=<RESULTS>] [--seqlen=<int>] [--train_batch_size=<int>] 
                                 [--eval_batch_size=<int>] [--eval_movie=<str>] [--lomo] [--learning_rate=<float>] 
                                 [--enc_learning_rate=<float>] [--max_norm=<float>] [--patience=<int>] 
-                                [--max_epochs=<int>] [--parallel] [--n_folds_per_gpu=<int>]
+                                [--max_epochs=<int>] [--parallel] [--n_folds_per_gpu=<int>] [--verbose]
 
 Options:
     -h, --help                                      Show this help screen and exit
@@ -38,6 +38,7 @@ Options:
         --max_epochs=<int>                          maximum number of epochs [default: 5]
         --parallel                                  start training on multiple folds in lomo
         --n_folds_per_gpu=<int>                     number of simultaneous folds to train in a single gpu [default: 3]
+    -v, --verbose                                   verbose logging during training
 """
 
 # standard library
@@ -65,6 +66,7 @@ def read_args():
     args["max_epochs"] = int(cmd_args["--max_epochs"])
     args["parallel"] = cmd_args["--parallel"]
     args["n_folds_per_gpu"] = int(cmd_args["--n_folds_per_gpu"])
+    args["verbose"] = cmd_args["--verbose"]
 
     if cmd_args["evaluate"]:
         if cmd_args["gdi"]:
@@ -74,14 +76,15 @@ def read_args():
         else:
             args["mode"] = "evaluate-parser"
     
-    elif cmd_args["create_data"]:
-        args["mode"] = "create_data"
+    elif cmd_args["create"]:
+        if cmd_args["data"]:
+            args["mode"] = "create-data"
 
-    elif cmd_args["create_seq_data"]:
-        args["mode"] = "create_seq_data"
+        elif cmd_args["seq"]:
+            args["mode"] = "create-seq"
 
-    elif cmd_args["create_feats"]:
-        args["mode"] = "create_feats"
+        elif cmd_args["feats"]:
+            args["mode"] = "create-feats"
     
     elif cmd_args["train"]:
         args["mode"] = "train"
