@@ -35,13 +35,13 @@ if __name__=="__main__":
         gdi_folder = os.path.join(args["data"], "SAIL Team Spellcheck")
         evaluate_gdi(gdi_folder, args["gdi_folders"], args["ignore_scripts"])
     
-    elif args["mode"] == "create_data":
+    elif args["mode"] == "create-data":
         create_data(annotator_1, annotator_2, annotator_3, line_indices, names_file=args["names_file"], results_folder=args["results"], screenplays_folder=screenplays_folder)
     
-    elif args["mode"] == "create_seq_data":
+    elif args["mode"] == "create-seq":
         create_seq_data(args["results"], args["seqlen"])
 
-    elif args["mode"] == "create_feats":
+    elif args["mode"] == "create-feats":
         create_features(args["results"])
     
     elif args["mode"] == "train":
@@ -50,4 +50,4 @@ if __name__=="__main__":
             eval_movie=args["eval_movie"], leave_one_movie_out=args["lomo"], \
             learning_rate=args["learning_rate"], encoder_learning_rate=args["enc_learning_rate"], \
             max_epochs=args["max_epochs"], patience=args["patience"], max_norm=args["max_norm"], \
-            parallel=args["parallel"], n_folds_per_gpu=args["n_folds_per_gpu"])
+            parallel=args["parallel"], n_folds_per_gpu=args["n_folds_per_gpu"], verbose=args["verbose"])
