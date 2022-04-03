@@ -50,7 +50,7 @@ class ScriptLoader:
             raise StopIteration
     
 def get_dataloaders(results_folder: str, seqlen: int, train_batch_size: int, eval_batch_size: int, \
-    eval_movie: str = None, device: torch.device = "cpu") -> Tuple[ScriptLoader, ScriptLoader, ScriptLoader]:
+    eval_movie: str, device: torch.device = "cpu") -> Tuple[ScriptLoader, ScriptLoader, ScriptLoader]:
 
     df = pd.read_csv(os.path.join(results_folder, "seq_{}.csv".format(seqlen)), index_col=None)
     df["label"] = df["label"].str.replace("M", "O")
@@ -75,7 +75,7 @@ def get_dataloaders(results_folder: str, seqlen: int, train_batch_size: int, eva
     features = features.to(device)
     labels = torch.LongTensor(labels).to(device)
 
-    if eval_movie is None:
+    if eval_movie == "-":
         train_index = (df["split"] == "train").values
         test_index = (df["split"] == "test").values
         dev_index = (df["split"] == "dev").values
