@@ -1,0 +1,27 @@
+name: parser
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - docopt
+  - pandas
+  - statsmodels
+  - xlrd
+  - openpyxl
+  - python-docx
+  - ipykernel
+  - tqdm
+  - matplotlib
+  - pipreqs
+  - torchaudio
+  - torchvision
+  - pytorch
+  - cudatoolkit=11.3
+  - transformers
+  - ipywidgets
+  - gpustat
+  - sentence-transformers
+  - scikit-learn-intelex
+  - pip
+  - pip:
+    - krippendorff

@@ -1,0 +1,13 @@
+matplotlib==3.5.1
+tqdm==4.63.0
+docopt==0.6.2
+pandas==1.2.3
+sentence_transformers==2.2.0
+spacy==3.2.2
+torch==1.11.0
+python_docx==0.8.11
+statsmodels==0.12.2
+numpy==1.21.2
+docx==0.2.4
+krippendorff==0.5.1
+scikit_learn==1.0.2

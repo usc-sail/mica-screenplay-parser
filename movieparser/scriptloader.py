@@ -13,8 +13,8 @@ import torch
 from tqdm import tqdm
 
 label2id = defaultdict(int)
-for i, label in enumerate("SNCDTEM"):
-    label2id[label] = i + 1
+for i, label in enumerate("OSNCDTE"):
+    label2id[label] = i
 
 class ScriptLoader:
 
@@ -50,10 +50,10 @@ class ScriptLoader:
             raise StopIteration
     
 def get_dataloaders(results_folder: str, seqlen: int, train_batch_size: int, eval_batch_size: int, \
-    eval_movie: str = None, leave_one_movie_out: bool = False, device: torch.device = "cpu") -> \
-        Tuple[ScriptLoader, ScriptLoader, ScriptLoader]:
+    eval_movie: str = None, device: torch.device = "cpu") -> Tuple[ScriptLoader, ScriptLoader, ScriptLoader]:
 
     df = pd.read_csv(os.path.join(results_folder, "seq_{}.csv".format(seqlen)), index_col=None)
+    df["label"] = df["label"].str.replace("M", "O")
     feats_df = pd.read_csv(os.path.join(results_folder, "feats.csv"), index_col=0)
     features_file = os.path.join(results_folder, "seq_{}_feats.pt".format(seqlen))
     scripts, features, labels = [], [], []
@@ -82,17 +82,6 @@ def get_dataloaders(results_folder: str, seqlen: int, train_batch_size: int, eva
     else:
         train_index = (df["movie"] != eval_movie).values
         test_index = dev_index = (df["movie"] == eval_movie).values
-        # if leave_one_movie_out:
-        #     eval_scripts, eval_features, eval_labels = [], [], []
-        #     for _, edf in data_df[data_df["movie"] == eval_movie].groupby("error"):
-        #         eval_scripts.append(edf["text"].tolist())
-        #         eval_features.append([feats_df.loc[text].tolist() for text in edf["text"]])
-        #         eval_labels.append(edf["label"].apply(lambda label: label2id[label]).tolist())
-        #     test_loader = dev_loader = list(zip(eval_scripts, eval_features, eval_labels))
-        # else:
-        #     test_index = dev_index = (df["movie"] == eval_movie).values
-        #     test_loader = dev_loader = ScriptLoader(scripts[test_index], features[test_index], \
-        #         labels[test_index], eval_batch_size)
     
     train_loader = ScriptLoader(scripts[train_index], features[train_index], labels[train_index], train_batch_size, \
         shuffle=True)

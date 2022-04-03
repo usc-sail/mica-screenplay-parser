@@ -31,7 +31,7 @@ def evaluate(parser: ScriptParser, loader: ScriptLoader) -> Tuple[pd.DataFrame, 
     label, pred, losses = [], [], []
     
     with torch.no_grad():
-        for eval_scripts, eval_features, eval_labels in tqdm(loader):
+        for eval_scripts, eval_features, eval_labels in loader:
             loss, _pred = parser(eval_scripts, eval_features, eval_labels)
             label.append(eval_labels)
             pred.append(_pred)

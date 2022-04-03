@@ -34,7 +34,9 @@ class ScriptParser(nn.Module):
         if labels is None:
             return pred
         else:
-            class_distribution = np.bincount(labels.flatten().tolist())
+            flabels = labels.flatten().tolist()
+            flabels.extend(list(range(self.n_labels)))
+            class_distribution = np.bincount(flabels)
             class_weights = 1/class_distribution
             normalized_class_weights = class_weights/class_weights.sum()
             normalized_class_weights_tensor = torch.FloatTensor(normalized_class_weights).to(device)
