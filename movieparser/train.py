@@ -68,6 +68,9 @@ def train_movie(movie: str, device:torch.device, results_folder: str, seqlen: in
         minutes, seconds = delta//60, delta%60
         print("{:25s}: epoch {:2d} avg. train loss = {:.3f}, dev loss = {:.3f}, time taken = {:2d} min {:2d} sec"\
             .format(name, epoch + 1, np.mean(train_losses), dev_loss, minutes, seconds))
+        print("{:25s}: F1 S={:.3f}, N={:.3f}, C={:.3f}, D={:.3f}, T={:.3f}, E={:.3f}, M={:.3f}".format(name, \
+        dev_perf.loc["S", "f1"], dev_perf.loc["N", "f1"], dev_perf.loc["C", "f1"], dev_perf.loc["D", "f1"], \
+        dev_perf.loc["T", "f1"], dev_perf.loc["E", "f1"], dev_perf.loc["M", "f1"]))
 
     test_perf, _ = evaluate(scriptparser, test_loader)
     if verbose:
