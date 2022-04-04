@@ -11,19 +11,20 @@ pip install -r requirements.txt
 
 ## Usage
 
+```
 Robust Movie Screenplay Parser
 
 Usage:
     movieparser evaluate        [--data=<DATA>]
     movieparser evaluate robust [--data=<DATA>] [--results=<RESULTS>] [--names_file=<path>]
     movieparser evaluate gdi    [--data=<DATA>] [--gdi_folders=<FOLDERS>] [--ignore_scripts=<SCRIPTS>]
-    movieparser create_data     [--data=<DATA>] [--results=<RESULTS>] [--names_file=<path>]
-    movieparser create_seq_data [--results=<RESULTS>] [--seqlen=<int>]
-    movieparser create_feats    [--results=<RESULTS>]
+    movieparser create data     [--data=<DATA>] [--results=<RESULTS>] [--names_file=<path>]
+    movieparser create seq      [--results=<RESULTS>] [--seqlen=<int>]
+    movieparser create feats    [--results=<RESULTS>]
     movieparser train           [--results=<RESULTS>] [--seqlen=<int>] [--train_batch_size=<int>] 
                                 [--eval_batch_size=<int>] [--eval_movie=<str>] [--lomo] [--learning_rate=<float>] 
                                 [--enc_learning_rate=<float>] [--max_norm=<float>] [--patience=<int>] 
-                                [--max_epochs=<int>] [--parallel] [--n_folds_per_gpu=<int>]
+                                [--max_epochs=<int>] [--parallel] [--n_folds_per_gpu=<int>] [--bi] [--verbose]
 
 Options:
     -h, --help                                      Show this help screen and exit
@@ -47,4 +48,7 @@ Options:
                                                     [default: 5]
         --max_epochs=<int>                          maximum number of epochs [default: 5]
         --parallel                                  start training on multiple folds in lomo
-        --n_folds_per_gpu=<int>                     number of simultaneous folds to train in a single gpu [default: 3]
+        --n_folds_per_gpu=<int>                     number of simultaneous folds to train in a single gpu [default: 1]
+        --bi                                        bidirectional
+    -v, --verbose                                   verbose logging during training
+```

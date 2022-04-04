@@ -12,14 +12,15 @@ from sentence_transformers import SentenceTransformer
 
 class ScriptParser(nn.Module):
 
-    def __init__(self, n_features: int, n_labels: int) -> None:
+    def __init__(self, n_features: int, n_labels: int, bidirectional: bool) -> None:
         super().__init__()
         self.encoder = SentenceTransformer("all-mpnet-base-v2")
         self.feature_size = self.encoder.get_sentence_embedding_dimension() + n_features
         self.hidden_size = 256
         self.n_labels = n_labels
-        self.lstm = nn.LSTM(self.feature_size, self.hidden_size, batch_first=True)
-        self.classifier = nn.Linear(self.hidden_size, self.n_labels)
+        self.bidirectional = bidirectional
+        self.lstm = nn.LSTM(self.feature_size, self.hidden_size, batch_first=True, bidirectional=bidirectional)
+        self.classifier = nn.Linear((1 + int(self.bidirectional)) * self.hidden_size, self.n_labels)
     
     def forward(self, scripts: np.ndarray, features: torch.FloatTensor, labels: torch.LongTensor = None) -> Union[torch.LongTensor, Tuple[torch.Tensor, torch.LongTensor]]:
         batch_size, seqlen = scripts.shape
@@ -47,7 +48,7 @@ class ScriptParser(nn.Module):
         n_segments = math.ceil(len(script)/segment_length)
         device = next(self.parameters()).device
         pred = []
-        hidden, cell = torch.zeros((1, self.hidden_size), device=device), torch.zeros((1, self.hidden_size), device=device)
+        hidden, cell = torch.zeros((1 + int(self.bidirectional), self.hidden_size), device=device), torch.zeros((1 + int(self.bidirectional), self.hidden_size), device=device)
 
         for i in range(n_segments):
             segment = script[i * segment_length: (i + 1) * segment_length]

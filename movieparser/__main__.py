@@ -47,6 +47,7 @@ if __name__=="__main__":
         train(data_folder=args["data"], 
         results_folder=args["results"], 
         seqlen=args["seqlen"], 
+        bidirectional=args["bidirectional"],
         train_batch_size=args["train_batch_size"], 
         eval_batch_size=args["eval_batch_size"], 
         eval_movie=args["eval_movie"], 

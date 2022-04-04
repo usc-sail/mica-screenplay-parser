@@ -8,7 +8,7 @@ import numpy as np
 import pandas as pd
 import torch
 from tqdm import tqdm
-from sklearn.metrics import precision_recall_fscore_support, confusion_matrix
+from sklearn.metrics import precision_recall_fscore_support, confusion_matrix, f1_score
 
 # user library imports
 from movieparser.scriptparser import ScriptParser
@@ -17,6 +17,9 @@ from movieparser.scriptloader import ScriptLoader, label2id
 def get_classification_report(label, pred) -> pd.DataFrame:
     C = confusion_matrix(label, pred, labels=list(range(len(label2id))))
     precision, recall, f1, support = precision_recall_fscore_support(label, pred, zero_division=0, labels=list(range(len(label2id))))
+    macro_f1 = f1_score(label, pred, zero_division=0, average="macro", labels=list(range(1, len(label2id))))
+    micro_f1 = f1_score(label, pred, zero_division=0, average="micro", labels=list(range(1, len(label2id))))
+    wtavg_f1 = f1_score(label, pred, zero_division=0, average="weighted", labels=list(range(1, len(label2id))))
     id2label = dict((i, label) for label, i in label2id.items())
     labels = [id2label[i] for i in range(C.shape[0])]
     df = pd.DataFrame(C, columns=labels, index=labels)
@@ -24,6 +27,9 @@ def get_classification_report(label, pred) -> pd.DataFrame:
     df["precision"] = precision
     df["recall"] = recall
     df["f1"] = f1
+    df["macro-f1"] = macro_f1
+    df["micro-f1"] = micro_f1
+    df["weighted-f1"] = wtavg_f1
     return df
 
 def evaluate(parser: ScriptParser, loader: ScriptLoader) -> Tuple[pd.DataFrame, float]:

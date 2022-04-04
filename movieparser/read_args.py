@@ -13,7 +13,7 @@ Usage:
     movieparser train           [--results=<RESULTS>] [--seqlen=<int>] [--train_batch_size=<int>] 
                                 [--eval_batch_size=<int>] [--eval_movie=<str>] [--lomo] [--learning_rate=<float>] 
                                 [--enc_learning_rate=<float>] [--max_norm=<float>] [--patience=<int>] 
-                                [--max_epochs=<int>] [--parallel] [--n_folds_per_gpu=<int>] [--verbose]
+                                [--max_epochs=<int>] [--parallel] [--n_folds_per_gpu=<int>] [--bi] [--verbose]
 
 Options:
     -h, --help                                      Show this help screen and exit
@@ -37,7 +37,8 @@ Options:
                                                     [default: 5]
         --max_epochs=<int>                          maximum number of epochs [default: 5]
         --parallel                                  start training on multiple folds in lomo
-        --n_folds_per_gpu=<int>                     number of simultaneous folds to train in a single gpu [default: 3]
+        --n_folds_per_gpu=<int>                     number of simultaneous folds to train in a single gpu [default: 1]
+        --bi                                        bidirectional
     -v, --verbose                                   verbose logging during training
 """
 
@@ -65,6 +66,7 @@ def read_args():
     args["max_epochs"] = int(cmd_args["--max_epochs"])
     args["parallel"] = cmd_args["--parallel"]
     args["n_folds_per_gpu"] = int(cmd_args["--n_folds_per_gpu"])
+    args["bidirectional"] = cmd_args["--bi"]
     args["verbose"] = cmd_args["--verbose"]
 
     if cmd_args["evaluate"]:
