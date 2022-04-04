@@ -21,12 +21,10 @@ class ScriptParser(nn.Module):
         self.lstm = nn.LSTM(self.feature_size, self.hidden_size, batch_first=True)
         self.classifier = nn.Linear(self.hidden_size, self.n_labels)
     
-    def forward(self, scripts: np.ndarray, features: torch.FloatTensor, labels: torch.LongTensor = None) -> \
-        Union[torch.LongTensor, Tuple[torch.Tensor, torch.LongTensor]]:
+    def forward(self, scripts: np.ndarray, features: torch.FloatTensor, labels: torch.LongTensor = None) -> Union[torch.LongTensor, Tuple[torch.Tensor, torch.LongTensor]]:
         batch_size, seqlen = scripts.shape
         device = next(self.parameters()).device
-        script_embeddings = self.encoder.encode(scripts.flatten(), convert_to_tensor=True, device=device)\
-            .reshape(batch_size, seqlen, -1)
+        script_embeddings = self.encoder.encode(scripts.flatten(), convert_to_tensor=True, device=device).reshape(batch_size, seqlen, -1)
         input = torch.cat([script_embeddings, features], dim=2)
         output, _ = self.lstm(input)
         logits = self.classifier(output)
@@ -49,8 +47,7 @@ class ScriptParser(nn.Module):
         n_segments = math.ceil(len(script)/segment_length)
         device = next(self.parameters()).device
         pred = []
-        hidden, cell = torch.zeros((1, self.hidden_size), device=device), \
-            torch.zeros((1, self.hidden_size), device=device)
+        hidden, cell = torch.zeros((1, self.hidden_size), device=device), torch.zeros((1, self.hidden_size), device=device)
 
         for i in range(n_segments):
             segment = script[i * segment_length: (i + 1) * segment_length]

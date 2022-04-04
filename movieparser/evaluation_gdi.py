@@ -168,4 +168,3 @@ def evaluate_gdi(gdi_folder, gdi_folder_names, ignore_scripts=[]):
         median = np.median(np.absolute(errors))
 
         print("character: p = {:5.2f}, r = {:5.2f}, f1 = {:5.2f} ; line count error: mae = {:5.1f}, rmse = {:5.1f}, median = {:4.1f} ; ALL".format(p, r, f1, mae, rmse, median))
-        print("\n")

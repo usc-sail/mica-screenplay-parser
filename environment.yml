@@ -16,7 +16,7 @@ dependencies:
   - torchaudio
   - torchvision
   - pytorch
-  - cudatoolkit=11.3
+  - cudatoolkit=10.1
   - transformers
   - ipywidgets
   - gpustat

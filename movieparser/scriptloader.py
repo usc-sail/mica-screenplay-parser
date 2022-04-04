@@ -18,8 +18,7 @@ for i, label in enumerate("OSNCDTE"):
 
 class ScriptLoader:
 
-    def __init__(self, scripts: np.ndarray, features: torch.FloatTensor, labels: torch.LongTensor, \
-        batch_size: int, shuffle: bool=False) -> None:
+    def __init__(self, scripts: np.ndarray, features: torch.FloatTensor, labels: torch.LongTensor, batch_size: int, shuffle: bool=False) -> None:
         self.scripts = scripts
         self.features = features
         self.labels = labels
@@ -49,8 +48,7 @@ class ScriptLoader:
         else:
             raise StopIteration
     
-def get_dataloaders(results_folder: str, seqlen: int, train_batch_size: int, eval_batch_size: int, \
-    eval_movie: str, device: torch.device = "cpu") -> Tuple[ScriptLoader, ScriptLoader, ScriptLoader]:
+def get_dataloaders(results_folder: str, seqlen: int, train_batch_size: int, eval_batch_size: int, eval_movie: str, device: torch.device = "cpu") -> Tuple[ScriptLoader, ScriptLoader, ScriptLoader]:
 
     df = pd.read_csv(os.path.join(results_folder, "seq_{}.csv".format(seqlen)), index_col=None)
     df["label"] = df["label"].str.replace("M", "O")
@@ -83,8 +81,7 @@ def get_dataloaders(results_folder: str, seqlen: int, train_batch_size: int, eva
         train_index = (df["movie"] != eval_movie).values
         test_index = dev_index = (df["movie"] == eval_movie).values
     
-    train_loader = ScriptLoader(scripts[train_index], features[train_index], labels[train_index], train_batch_size, \
-        shuffle=True)
+    train_loader = ScriptLoader(scripts[train_index], features[train_index], labels[train_index], train_batch_size, shuffle=True)
     test_loader = ScriptLoader(scripts[test_index], features[test_index], labels[test_index], eval_batch_size)
     dev_loader = ScriptLoader(scripts[dev_index], features[dev_index], labels[dev_index], eval_batch_size)
 

@@ -15,8 +15,8 @@ from movieparser.scriptparser import ScriptParser
 from movieparser.scriptloader import ScriptLoader, label2id
 
 def get_classification_report(label, pred) -> pd.DataFrame:
-    C = confusion_matrix(label, pred)
-    precision, recall, f1, support = precision_recall_fscore_support(label, pred, zero_division=0)
+    C = confusion_matrix(label, pred, labels=list(range(len(label2id))))
+    precision, recall, f1, support = precision_recall_fscore_support(label, pred, zero_division=0, labels=list(range(len(label2id))))
     id2label = dict((i, label) for label, i in label2id.items())
     labels = [id2label[i] for i in range(C.shape[0])]
     df = pd.DataFrame(C, columns=labels, index=labels)

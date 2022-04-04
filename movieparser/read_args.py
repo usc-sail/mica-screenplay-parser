@@ -51,8 +51,7 @@ def read_args():
     args["data"] = cmd_args["--data"]
     args["results"] = cmd_args["--results"]
     args["gdi_folders"] = cmd_args["--gdi_folders"].split(",")
-    args["ignore_scripts"] = cmd_args["--ignore_scripts"].split(",") if \
-        cmd_args["--ignore_scripts"].strip() != "" else []
+    args["ignore_scripts"] = cmd_args["--ignore_scripts"].split(",") if cmd_args["--ignore_scripts"].strip() != "" else []
     args["names_file"] = cmd_args["--names_file"]
     args["seqlen"] = int(cmd_args["--seqlen"])
     args["train_batch_size"] = int(cmd_args["--train_batch_size"])

@@ -17,8 +17,7 @@ from movieparser.parse_scripts_noindent import parse_lines
 
 class RobustEvaluation:
 
-    def err_remove_blank_lines_and_indents(self, script: List[str], start: int, end: int, tags: List[str]) \
-        -> Tuple[List[str], int, int, List[str]]:
+    def err_remove_blank_lines_and_indents(self, script: List[str], start: int, end: int, tags: List[str]) -> Tuple[List[str], int, int, List[str]]:
         
         new_script, new_tags = [], []
         new_start, new_end = 0, 0
@@ -40,8 +39,7 @@ class RobustEvaluation:
         
         return new_script, new_start, new_end, new_tags
 
-    def err_replace_name_with_name_containing_scene_keyword(self, script: List[str], start: int, end: int, \
-        tags: List[str], prob: float, names_file: str, **kwargs) -> Tuple[List[str], int, int, List[str]]:
+    def err_replace_name_with_name_containing_scene_keyword(self, script: List[str], start: int, end: int, tags: List[str], prob: float, names_file: str, **kwargs) -> Tuple[List[str], int, int, List[str]]:
 
         names = open(names_file).read().splitlines()
         keywords = ["int", "ext"]
@@ -55,8 +53,7 @@ class RobustEvaluation:
         
         return new_script, start, end, tags
 
-    def err_replace_name_with_name_containing_transition_keyword(self, script: List[str], start: int, end: int, \
-        tags: List[str], prob: float, names_file: str, **kwargs) -> Tuple[List[str], int, int, List[str]]:
+    def err_replace_name_with_name_containing_transition_keyword(self, script: List[str], start: int, end: int, tags: List[str], prob: float, names_file: str, **kwargs) -> Tuple[List[str], int, int, List[str]]:
 
         names = open(names_file).read().splitlines()
         keywords = ["cut", "fade"]
@@ -70,8 +67,7 @@ class RobustEvaluation:
         
         return new_script, start, end, tags
 
-    def err_remove_scene_keyword(self, script: List[str], start: int, end: int, tags: List[str], prob: float, \
-        **kwargs) -> Tuple[List[str], int, int, List[str]]:
+    def err_remove_scene_keyword(self, script: List[str], start: int, end: int, tags: List[str], prob: float, **kwargs) -> Tuple[List[str], int, int, List[str]]:
 
         new_script = script[:]
 
@@ -81,8 +77,7 @@ class RobustEvaluation:
 
         return new_script, start, end, tags
 
-    def err_lowercase_scene_line(self, script: List[str], start: int, end: int, tags: List[str], prob: float, \
-        **kwargs) -> Tuple[List[str], int, int, List[str]]:
+    def err_lowercase_scene_line(self, script: List[str], start: int, end: int, tags: List[str], prob: float, **kwargs) -> Tuple[List[str], int, int, List[str]]:
 
         new_script = script[:]
 
@@ -92,8 +87,7 @@ class RobustEvaluation:
 
         return new_script, start, end, tags
     
-    def err_lowercase_character_line(self, script: List[str], start: int, end: int, tags: List[str], prob: float, \
-        **kwargs) -> Tuple[List[str], int, int, List[str]]:
+    def err_lowercase_character_line(self, script: List[str], start: int, end: int, tags: List[str], prob: float, **kwargs) -> Tuple[List[str], int, int, List[str]]:
 
         new_script = script[:]
 
@@ -103,8 +97,7 @@ class RobustEvaluation:
 
         return new_script, start, end, tags
 
-    def err_create_watermark_lines(self, script: List[str], start: int, end: int, tags: List[str], prob: float, \
-        **kwargs) -> Tuple[List[str], int, int, List[str]]:
+    def err_create_watermark_lines(self, script: List[str], start: int, end: int, tags: List[str], prob: float, **kwargs) -> Tuple[List[str], int, int, List[str]]:
 
         new_script, new_tags = [], []
         new_start, new_end = 0, 0
@@ -131,8 +124,7 @@ class RobustEvaluation:
 
         return new_script, new_start, new_end, new_tags
 
-    def err_insert_asterisks_or_numbers(self, script: List[str], start: int, end: int, tags: List[str], prob: float, \
-         **kwargs) -> Tuple[List[str], int, int, List[str]]:
+    def err_insert_asterisks_or_numbers(self, script: List[str], start: int, end: int, tags: List[str], prob: float, **kwargs) -> Tuple[List[str], int, int, List[str]]:
 
         new_script = script[:]
 
@@ -144,11 +136,9 @@ class RobustEvaluation:
 
         return new_script, start, end, tags
 
-    def err_insert_dialogue_expressions(self, script: List[str], start: int, end: int, tags: List[str], prob: float, \
-        **kwargs) -> Tuple[List[str], int, int, List[str]]:
+    def err_insert_dialogue_expressions(self, script: List[str], start: int, end: int, tags: List[str], prob: float, **kwargs) -> Tuple[List[str], int, int, List[str]]:
 
-        expressions = ["beat", "pause", "smiling", "continuing", "contd.", "quietly", "shouting", "yelling", \
-            "grinning", "screaming", "anxious", "interrupting"]
+        expressions = ["beat", "pause", "smiling", "continuing", "contd.", "quietly", "shouting", "yelling", "grinning", "screaming", "anxious", "interrupting"]
 
         new_script, new_tags = [], []
         new_start, new_end = 0, 0
@@ -183,16 +173,13 @@ class RobustEvaluation:
         #####################################################################
 
         print("reading annotator 1 file...")
-        annotator_1_df_dict = pd.read_excel(annotator_1_file, sheet_name=None, header=1, \
-                                            usecols=["line","S","N","C","D","E","T","M"])
+        annotator_1_df_dict = pd.read_excel(annotator_1_file, sheet_name=None, header=1, usecols=["line","S","N","C","D","E","T","M"])
 
         print("reading annotator 2 file...")
-        annotator_2_df_dict = pd.read_excel(annotator_2_file, sheet_name=None, header=1, \
-                                            usecols=["line","S","N","C","D","E","T","M"])
+        annotator_2_df_dict = pd.read_excel(annotator_2_file, sheet_name=None, header=1, usecols=["line","S","N","C","D","E","T","M"])
 
         print("reading annotator 3 file...")
-        annotator_3_df_dict = pd.read_excel(annotator_3_file, sheet_name=None, header=1, \
-                                            usecols=["line","S","N","C","D","E","T","M"])
+        annotator_3_df_dict = pd.read_excel(annotator_3_file, sheet_name=None, header=1, usecols=["line","S","N","C","D","E","T","M"])
 
         line_numbers = open(screenplays_line_numbers_file).read().splitlines()
 
@@ -309,10 +296,8 @@ class RobustEvaluation:
         #####################################################################
         
         for movie in self.ann:
-            script, start, end, tags = self.ann[movie]["script"], self.ann[movie]["start"], \
-                                        self.ann[movie]["end"], self.ann[movie]["gold"]
-            contiguous_script, contiguous_start, contiguous_end, contiguous_tags = \
-                self.err_remove_blank_lines_and_indents(script, start, end, tags)
+            script, start, end, tags = self.ann[movie]["script"], self.ann[movie]["start"], self.ann[movie]["end"], self.ann[movie]["gold"]
+            contiguous_script, contiguous_start, contiguous_end, contiguous_tags = self.err_remove_blank_lines_and_indents(script, start, end, tags)
             self.ann[movie]["cgold"] = contiguous_tags
             self.ann[movie]["csys"] = parse_lines(contiguous_script)[contiguous_start: contiguous_end]
             self.ann[movie]["cscript"] = contiguous_script
