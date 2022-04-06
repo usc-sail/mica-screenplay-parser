@@ -22,16 +22,18 @@ def create_seq_data(results_folder, seqlen=10):
     for (movie, error), mdf in df.groupby(["movie", "error"]):
         lines = mdf["text"].values
         label = mdf["label"].values
-        for i in range(len(lines) - seqlen + 1):
-            sample_lines = lines[i: i + seqlen].tolist()
-            sample_label = label[i: i + seqlen].tolist()
-            data.append([movie, i + 1, i + seqlen] + sample_lines + ["".join(sample_label), error])
+        n_seqs = math.ceil(len(lines)/seqlen)
+        for i in range(n_seqs):
+            sample_lines = lines[i * seqlen: (i + 1) * seqlen].tolist()
+            sample_label = label[i * seqlen: (i + 1) * seqlen].tolist()
+            if len(sample_lines) < seqlen:
+                sample_lines.extend(["" for _ in range(seqlen - len(sample_lines))])
+                sample_label.extend(["O" for _ in range(seqlen - len(sample_label))])
+            data.append([movie, i * seqlen, min((i + 1) * seqlen, len(lines))] + sample_lines + ["".join(sample_label), error])
     
     df = pd.DataFrame(data, columns=header)
-    df["priority"] = df["error"] != "NONE"
-    df = df.sort_values(by=["movie", "priority", "error", "start_line_no"])
+    df = df.sort_values(by=["movie", "error", "start_line_no"])
     df = df.drop_duplicates(subset=["movie"] + ["line_{}".format(i + 1) for i in range(seqlen)], keep="first")
-    df = df.drop(columns=["priority"])
 
     df["split"] = "train"
     for _, mdf in df.groupby(["movie", "error"]):
