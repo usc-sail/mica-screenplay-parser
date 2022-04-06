@@ -13,6 +13,34 @@ import pandas as pd
 # user library
 from movieparser.parse_scripts_noindent import parse_lines
 
+def merge_empty_lines_and_strip_non_empty_lines(script, label=None):
+    if label is None:
+        label = ["XX" for _ in range(len(script))]
+    i = 0
+    new_script, new_label = [], []
+    while i < len(script):
+        if script[i].strip() == "":
+            j = i + 1
+            while j < len(script) and script[j].strip() == "":
+                j += 1
+            if j < len(script) and i != 0:
+                new_script.append("")
+                new_label.append("O")
+            i = j
+        else:
+            new_script.append(script[i].strip())
+            new_label.append(label[i])
+            i += 1
+    return new_script, new_label
+
+def remove_empty_lines_and_strip_lines(script, label):
+    new_script, new_label = [], []
+    for line, tag in zip(script, label):
+        if line.strip() != "":
+            new_script.append(line.strip())
+            new_label.append(tag)
+    return new_script, new_label
+
 def replace_name_with_name_containing_keyword(script, label, keywords, names_file):
     script = script[:]
     names = open(names_file).read().splitlines()
@@ -139,12 +167,9 @@ def create_data(annotator_1_file, annotator_2_file, annotator_3_file, line_indic
         script_file = os.path.join(screenplays_folder, movie + ".txt")
         script = open(script_file).read().splitlines()
 
-        pre_script = [line.strip() for line in script[:start] if len(line.strip()) > 0]
-        in_script = [line.strip() for line in script[start:end] if len(line.strip()) > 0]
-        post_script = [line.strip() for line in script[end:] if len(line.strip()) > 0]
-
-        start = len(pre_script)
-        end = start + len(in_script)
+        pre_script = script[:start]
+        in_script = script[start:end]
+        post_script = script[end:]
 
         all_anns = []
 
@@ -164,6 +189,8 @@ def create_data(annotator_1_file, annotator_2_file, annotator_3_file, line_indic
                         anns.append(atag)
                     else:
                         anns.append("O")
+                else:
+                    anns.append("O")
             
             all_anns.append(anns)
         
@@ -177,6 +204,12 @@ def create_data(annotator_1_file, annotator_2_file, annotator_3_file, line_indic
             else:
                 maj.append("O")
         
+        assert len(maj) == len(in_script)
+
+        pre_script, _ = merge_empty_lines_and_strip_non_empty_lines(pre_script)
+        post_script, _ = merge_empty_lines_and_strip_non_empty_lines(post_script)
+        in_script, maj = merge_empty_lines_and_strip_non_empty_lines(in_script, maj)
+
         parse = parse_lines(in_script)
 
         data[movie] = {
@@ -198,40 +231,44 @@ def create_data(annotator_1_file, annotator_2_file, annotator_3_file, line_indic
 
     for movie, mdata in data.items():
 
-        for i, (line, tag) in enumerate(zip(mdata["script"], mdata["label"])):
-            records.append([movie, i + 1, line, tag, "NONE"])
-        
-        script, label = replace_name_with_name_containing_scene_keyword(mdata["script"], mdata["label"], names_file)
-        for i, (line, tag) in enumerate(zip(script, label)):
-            records.append([movie, i + 1, line, tag, "REPLACE_NAME_SCENE"])
-        
-        script, label = replace_name_with_name_containing_transition_keyword(mdata["script"], mdata["label"], names_file)
-        for i, (line, tag) in enumerate(zip(script, label)):
-            records.append([movie, i + 1, line, tag, "REPLACE_NAME_TRANSITION"])
-        
-        script, label = remove_scene_keyword_from_scene_headers(mdata["script"], mdata["label"])
-        for i, (line, tag) in enumerate(zip(script, label)):
-            records.append([movie, i + 1, line, tag, "REMOVE_SCENE_KEYWORD"])
-        
-        script, label = lowercase_scene_headers(mdata["script"], mdata["label"])
-        for i, (line, tag) in enumerate(zip(script, label)):
-            records.append([movie, i + 1, line, tag, "LOWERCASE_SCENE_HEADER"])
+        script1, label1 = mdata["script"], mdata["label"]
+        script2, label2 = remove_empty_lines_and_strip_lines(script1, label1)
 
-        script, label = lowercase_character_names(mdata["script"], mdata["label"])
-        for i, (line, tag) in enumerate(zip(script, label)):
-            records.append([movie, i + 1, line, tag, "LOWERCASE_CHARACTER_NAME"])
-        
-        script, label = insert_watermark_lines(mdata["script"], mdata["label"])
-        for i, (line, tag) in enumerate(zip(script, label)):
-            records.append([movie, i + 1, line, tag, "WATERMARK"])
-        
-        script, label = insert_asterisks_or_numbers(mdata["script"], mdata["label"])
-        for i, (line, tag) in enumerate(zip(script, label)):
-            records.append([movie, i + 1, line, tag, "ASTERISKS_NUMBERS"])
+        for script, label, prefix in [(script1, label1, "Original"), (script2, label2, "NoEmptyLines")]:
+            for i, (line, tag) in enumerate(zip(script, label)):
+                records.append([movie, i + 1, line, tag, prefix])
+            
+            script, label = replace_name_with_name_containing_scene_keyword(script, label, names_file)
+            for i, (line, tag) in enumerate(zip(script, label)):
+                records.append([movie, i + 1, line, tag, prefix + "+NameContainsSceneKeyword"])
+            
+            script, label = replace_name_with_name_containing_transition_keyword(script, label, names_file)
+            for i, (line, tag) in enumerate(zip(script, label)):
+                records.append([movie, i + 1, line, tag, prefix + "+NameContainsTransitionKeyword"])
+            
+            script, label = remove_scene_keyword_from_scene_headers(script, label)
+            for i, (line, tag) in enumerate(zip(script, label)):
+                records.append([movie, i + 1, line, tag, prefix + "+SceneHeaderKeywordRemoved"])
+            
+            script, label = lowercase_scene_headers(script, label)
+            for i, (line, tag) in enumerate(zip(script, label)):
+                records.append([movie, i + 1, line, tag, prefix + "+SceneHeaderLowercased"])
 
-        script, label = insert_dialogue_expressions(mdata["script"], mdata["label"])
-        for i, (line, tag) in enumerate(zip(script, label)):
-            records.append([movie, i + 1, line, tag, "DIALOGUE_EXPRESSIONS"])
+            script, label = lowercase_character_names(script, label)
+            for i, (line, tag) in enumerate(zip(script, label)):
+                records.append([movie, i + 1, line, tag, prefix + "+CharacterNameLowercased"])
+            
+            script, label = insert_watermark_lines(script, label)
+            for i, (line, tag) in enumerate(zip(script, label)):
+                records.append([movie, i + 1, line, tag, prefix + "+Watermark"])
+            
+            script, label = insert_asterisks_or_numbers(script, label)
+            for i, (line, tag) in enumerate(zip(script, label)):
+                records.append([movie, i + 1, line, tag, prefix + "+AsterisksNumbers"])
+
+            script, label = insert_dialogue_expressions(script, label)
+            for i, (line, tag) in enumerate(zip(script, label)):
+                records.append([movie, i + 1, line, tag, prefix + "+DialogueExpressions"])
     
     df = pd.DataFrame(records, columns=header)
     df_file = os.path.join(results_folder, "data.csv")
