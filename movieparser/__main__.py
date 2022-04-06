@@ -12,6 +12,7 @@ from movieparser.create_data import create_data
 from movieparser.create_seq_data import create_seq_data
 from movieparser.create_feats import create_features
 from movieparser.train import train
+from movieparser.deploy import deploy
 
 if __name__=="__main__":
     args = read_args()
@@ -51,12 +52,13 @@ if __name__=="__main__":
         train_batch_size=args["train_batch_size"], 
         eval_batch_size=args["eval_batch_size"], 
         eval_movie=args["eval_movie"], 
-        leave_one_movie_out=args["lomo"], 
         learning_rate=args["learning_rate"], 
         encoder_learning_rate=args["enc_learning_rate"], 
         max_epochs=args["max_epochs"], 
-        patience=args["patience"], 
         max_norm=args["max_norm"], 
         parallel=args["parallel"], 
         n_folds_per_gpu=args["n_folds_per_gpu"], 
         verbose=args["verbose"])
+    
+    elif args["mode"] == "deploy":
+        deploy(results_folder=args["results"], seqlen=args["seqlen"], bidirectional=args["bidirectional"], train_batch_size=args["train_batch_size"], learning_rate=args["learning_rate"], encoder_learning_rate=args["enc_learning_rate"], max_norm=args["max_norm"], max_epochs=args["max_epochs"])
