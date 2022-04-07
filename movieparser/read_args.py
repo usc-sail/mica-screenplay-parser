@@ -11,7 +11,7 @@ Usage:
     movieparser create seq          [--results=<RESULTS>] [--seqlen=<int>]
     movieparser create feats        [--results=<RESULTS>]
     movieparser train               [--results=<RESULTS>] [--seqlen=<int>] [--train_batch_size=<int>] 
-                                    [--eval_batch_size=<int>] [--eval_movie=<str>] [--learning_rate=<float>] 
+                                    [--eval_movie=<str>] [--eval_segment_lengths=<int_array>] [--learning_rate=<float>] 
                                     [--enc_learning_rate=<float>] [--max_norm=<float>]
                                     [--max_epochs=<int>] [--parallel] [--n_folds_per_gpu=<int>] [--bi] [--verbose]
     movieparser deploy              [--results=<RESULTS>] [--seqlen=<int>] [--train_batch_size=<int>] [--learning_rate=<float>]
@@ -31,8 +31,11 @@ Options:
         --names_file=<path>                         file containing English names [default: data/names.txt]
         --seqlen=<int>                              number of sentences in a sample [default: 10]
         --train_batch_size=<int>                    training batch size [default: 256]
-        --eval_batch_size=<int>                     evaluation batch size [default: 512]
         --eval_movie=<str>                          movie left out in leave-one-movie-out testing [default: all]
+        --eval_segment_lengths=<int_array>          comma-separated list of integer segment lengths, 
+                                                    the very large number at the end signifies that the entire script 
+                                                    will be parsed at once instead of in segments
+                                                    [default: 10,50,100,1000000]
     -l, --learning_rate=<float>                     learning rate [default: 1e-3]
         --enc_learning_rate=<float>                 learning rate of the sentence encoder [default: 1e-5]
         --max_norm=<float>                          maximum weight norm for clipping [default: 1.0]
@@ -57,8 +60,8 @@ def read_args():
     args["names_file"] = cmd_args["--names_file"]
     args["seqlen"] = int(cmd_args["--seqlen"])
     args["train_batch_size"] = int(cmd_args["--train_batch_size"])
-    args["eval_batch_size"] = int(cmd_args["--eval_batch_size"])
     args["eval_movie"] = None if cmd_args["--eval_movie"] == "" else cmd_args["--eval_movie"]
+    args["eval_segment_lengths"] = [int(l) for l in cmd_args["--eval_segment_lengths"].split(",")]
     args["learning_rate"] = float(cmd_args["--learning_rate"])
     args["enc_learning_rate"] = float(cmd_args["--enc_learning_rate"])
     args["max_norm"] = float(cmd_args["--max_norm"])
