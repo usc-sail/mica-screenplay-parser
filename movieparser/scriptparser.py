@@ -18,7 +18,7 @@ from movieparser.scriptloader import label2id
 
 class ScriptParser(nn.Module):
 
-    def __init__(self, n_features: int, n_labels: int, bidirectional: bool, features_file="results/feats.csv") -> None:
+    def __init__(self, n_features: int, n_labels: int, bidirectional: bool, features_file="results/feats.csv", device_index: int = 0) -> None:
         super().__init__()
         self.encoder = SentenceTransformer("all-mpnet-base-v2")
         self.feature_size = self.encoder.get_sentence_embedding_dimension() + n_features
@@ -31,7 +31,7 @@ class ScriptParser(nn.Module):
             df = pd.read_csv(features_file, index_col=0)
             for text, feature in df.iterrows():
                 self.features_cache[text] = feature.values
-        self.feature_extractor = FeatureExtractor()
+        self.feature_extractor = FeatureExtractor(device_index)
 
         self.id2label = dict((i, label) for label, i in label2id.items())
         
@@ -59,7 +59,7 @@ class ScriptParser(nn.Module):
             loss = ce_loss(logits.reshape(-1, self.n_labels), labels.flatten())
             return loss, pred
     
-    def parse(self, script: List[str], segment_length: Union[None, int] = None) -> List[str]:
+    def parse(self, script: List[str], segment_length: int = 1000000) -> List[str]:
         
         if segment_length is None:
             segment_length = len(script)
