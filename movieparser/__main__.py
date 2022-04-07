@@ -50,7 +50,6 @@ if __name__=="__main__":
         seqlen=args["seqlen"], 
         bidirectional=args["bidirectional"],
         train_batch_size=args["train_batch_size"], 
-        eval_batch_size=args["eval_batch_size"], 
         eval_movie=args["eval_movie"], 
         learning_rate=args["learning_rate"], 
         encoder_learning_rate=args["enc_learning_rate"], 
@@ -58,6 +57,7 @@ if __name__=="__main__":
         max_norm=args["max_norm"], 
         parallel=args["parallel"], 
         n_folds_per_gpu=args["n_folds_per_gpu"], 
+        segment_lengths=args["eval_segment_lengths"],
         verbose=args["verbose"])
     
     elif args["mode"] == "deploy":
