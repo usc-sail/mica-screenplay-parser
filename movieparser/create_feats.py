@@ -92,8 +92,8 @@ def create_features(results_folder:str):
 
 class FeatureExtractor:
 
-    def __init__(self) -> None:
-        spacy.require_gpu()
+    def __init__(self, gpu_id=0) -> None:
+        spacy.require_gpu(gpu_id)
         self.nlp = spacy.load("en_core_web_lg", disable=["parser"])
     
     def __call__(self, sentences: List[str]) -> List[List[float]]:
