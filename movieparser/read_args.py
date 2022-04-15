@@ -4,9 +4,9 @@
 Robust Movie Screenplay Parser
 
 Usage:
-    movieparser evaluate            [--data=<DATA>]
+    movieparser evaluate            [--data=<DATA>] [--robust]
     movieparser evaluate robust     [--data=<DATA>] [--results=<RESULTS>] [--names_file=<path>] [--all]
-    movieparser evaluate gdi        [--data=<DATA>] [--gdi_folders=<FOLDERS>] [--ignore_scripts=<SCRIPTS>]
+    movieparser evaluate gdi        [--data=<DATA>] [--gdi_folders=<FOLDERS>] [--ignore_scripts=<SCRIPTS>] [--ignore_existing_parse] [--robust]
     movieparser create data         [--data=<DATA>] [--results=<RESULTS>] [--names_file=<path>]
     movieparser create seq          [--results=<RESULTS>] [--seqlen=<int>]
     movieparser create feats        [--results=<RESULTS>]
@@ -17,6 +17,7 @@ Usage:
     movieparser deploy              [--results=<RESULTS>] [--seqlen=<int>] [--train_batch_size=<int>] [--learning_rate=<float>]
                                     [--enc_learning_rate=<float>] [--max_norm=<float>] 
                                     [--max_epochs=<int>] [--bi]
+    movieparser print
 
 Options:
     -h, --help                                      Show this help screen and exit
@@ -28,6 +29,8 @@ Options:
         --ignore_scripts=<SCRIPTS>                  comma-separated scripts to ignore because of annotation error
                                                     script name is GDI_folder_name/script_name e.g. LEGO TITAN/EPISODE 102
                                                     [default: ]
+        --ignore_existing_parse                     ignore existing parsed files and overwrite them by parsing again
+        --robust                                    use robust script parser
         --names_file=<path>                         file containing English names [default: data/names.txt]
         --seqlen=<int>                              number of sentences in a sample [default: 10]
         --train_batch_size=<int>                    training batch size [default: 256]
@@ -57,6 +60,8 @@ def read_args():
     args["results"] = cmd_args["--results"]
     args["gdi_folders"] = cmd_args["--gdi_folders"].split(",")
     args["ignore_scripts"] = cmd_args["--ignore_scripts"].split(",") if cmd_args["--ignore_scripts"].strip() != "" else []
+    args["ignore_existing_parse"] = cmd_args["--ignore_existing_parse"]
+    args["robust"] = cmd_args["--robust"]
     args["names_file"] = cmd_args["--names_file"]
     args["seqlen"] = int(cmd_args["--seqlen"])
     args["train_batch_size"] = int(cmd_args["--train_batch_size"])
@@ -94,5 +99,8 @@ def read_args():
     
     elif cmd_args["deploy"]:
         args["mode"] = "deploy"
+    
+    elif cmd_args["print"]:
+        args["mode"] = "print"
 
     return args

@@ -98,8 +98,7 @@ def get_dataloaders(results_folder: str, seqlen: int, train_batch_size: int, eva
     labels = torch.LongTensor(labels).to(device)
 
     if eval_movie not in df["movie"].tolist():
-        print("eval movie = {} not in seq_{}.csv".format(eval_movie, seqlen))
-        sys.exit(1)
+        print("eval movie = {} not in seq_{}.csv, training on all movies".format(eval_movie, seqlen))
     
     train_index = (df["movie"] != eval_movie).values
     train_loader = ScriptLoader(scripts[train_index], features[train_index], labels[train_index], train_batch_size, shuffle=True)

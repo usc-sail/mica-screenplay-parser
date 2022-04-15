@@ -9,7 +9,13 @@ import numpy as np
 import krippendorff
 from statsmodels.stats.inter_rater import fleiss_kappa
 
-def evaluate_parser(annotator_1_file, annotator_2_file, annotator_3_file, parsed_screenplays_folder, screenplays_line_numbers_file):
+def evaluate_parser(annotator_1_file, annotator_2_file, annotator_3_file, parsed_screenplays_folder, screenplays_line_numbers_file, use_robust=False):
+
+    if use_robust:
+        parsed_screenplays_folder = os.path.join(parsed_screenplays_folder, "parsed-robust-screenplays")
+    else:
+        parsed_screenplays_folder = os.path.join(parsed_screenplays_folder, "parsed-screenplays")
+
 
     #####################################################################
     #### read annotator excel files

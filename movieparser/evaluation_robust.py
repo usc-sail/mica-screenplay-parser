@@ -14,6 +14,7 @@ from tqdm import trange, tqdm
 
 # user library
 from movieparser.parse_scripts_noindent import parse_lines
+from movieparser.robust_parser import MovieParser
 
 class RobustEvaluation:
 
@@ -165,7 +166,8 @@ class RobustEvaluation:
                 screenplays_folder, 
                 screenplays_line_numbers_file,
                 names_file="data/names.txt",
-                results_folder="results/"
+                results_folder="results/",
+                use_robust_parser=False
                 ):
 
         #####################################################################

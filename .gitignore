@@ -127,6 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-results/*.csv
-results/*.pt
-results/saved_models
+
+data/
+results/

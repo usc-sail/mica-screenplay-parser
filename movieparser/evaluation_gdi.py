@@ -9,36 +9,46 @@ import re
 from docx import Document
 import numpy as np
 import pandas as pd
+from tqdm import tqdm
 
-def evaluate_gdi(gdi_folder, gdi_folder_names, ignore_scripts=[]):
+# user library imports
+from movieparser.parse_scripts_noindent import parse_lines
+from movieparser.robust_parser import MovieParser
+
+def evaluate_gdi(gdi_folder, gdi_folder_names, ignore_scripts=[], use_robust_parser=False, ignore_existing_parse=False):
 
     #####################################################################
     #### get GDI annotated character line counts
     #####################################################################
 
-    data = []
+    gdi_count_filepath = os.path.join(gdi_folder, "gdi_line_counts.tsv")
 
-    for folder in gdi_folder_names:
-        movies = sorted([re.sub("\.txt$", "", f) for f in os.listdir(os.path.join(gdi_folder, "{}/Scripts_Txt/".format(folder))) if f.endswith(".txt")])
+    if os.path.exists(gdi_count_filepath):
+        line_count_df = pd.read_csv(gdi_count_filepath, index_col=None, sep="\t")
+    else:
+        data = []
 
-        for movie in movies:
-            analysis_docx = os.path.join(os.path.join(gdi_folder, "{}/Analysis/{}.docx".format(folder, movie)))
+        for folder in gdi_folder_names:
+            movies = sorted([re.sub("\.txt$", "", f) for f in os.listdir(os.path.join(gdi_folder, "{}/Scripts_Txt/".format(folder))) if f.endswith(".txt")])
 
-            if "{}/{}".format(folder, movie) not in ignore_scripts and os.path.exists(analysis_docx):
-                
-                with open(analysis_docx, "rb") as f:
-                    doc = Document(f)
-                    table = doc.tables[0]
+            for movie in movies:
+                analysis_docx = os.path.join(os.path.join(gdi_folder, "{}/Analysis/{}.docx".format(folder, movie)))
 
-                    i = 2
-                    cells = [cell.text for row in table.rows for cell in row.cells]
+                if "{}/{}".format(folder, movie) not in ignore_scripts and os.path.exists(analysis_docx):
+                    
+                    with open(analysis_docx, "rb") as f:
+                        doc = Document(f)
+                        table = doc.tables[0]
 
-                    while i + 1 < len(cells):
-                        data.append([folder, movie, cells[i].strip().lower(), cells[i + 1]])
-                        i += 2
+                        i = 2
+                        cells = [cell.text for row in table.rows for cell in row.cells]
 
-    line_count_df = pd.DataFrame(data, columns=["folder", "movie", "character", "line-count"])
-    line_count_df.to_csv(os.path.join(gdi_folder, "gdi_line_counts.tsv"), sep="\t", index=False)
+                        while i + 1 < len(cells):
+                            data.append([folder, movie, cells[i].strip().lower(), cells[i + 1]])
+                            i += 2
+
+        line_count_df = pd.DataFrame(data, columns=["folder", "movie", "character", "line-count"])
+        line_count_df.to_csv(os.path.join(gdi_folder, "gdi_line_counts.tsv"), sep="\t", index=False)
 
     #####################################################################
     #### get the unique gdi_folder_name/movie items
@@ -59,36 +69,61 @@ def evaluate_gdi(gdi_folder, gdi_folder_names, ignore_scripts=[]):
     #### character name should be followed by O, D, or E
     #####################################################################
     
-    data = []
+    if use_robust_parser:
+        line_count_filepath = os.path.join(gdi_folder, "robust_parser_line_counts.tsv")
+    else:
+        line_count_filepath = os.path.join(gdi_folder, "parser_line_counts.tsv")
 
-    for folder, movie in items:
-        slines = open(os.path.join(gdi_folder, "{}/Scripts_Txt/{}.txt".format(folder, movie))).read().splitlines()
-        tags = open(os.path.join(gdi_folder, "{}/Parsed/{}_tags.txt".format(folder, movie))).read().splitlines()
-        tags = [t if t in ["S","N","C","D","E","T"] else "O" for t in tags]
+    if os.path.exists(line_count_filepath) and not ignore_existing_parse:
+        sys_line_count_df = pd.read_csv(line_count_filepath, index_col=None, sep="\t")
 
-        characters = []
-        n = len(slines)
-        i = 0
+    else:
+        data = []
 
-        while i < n:
-            if tags[i] == "C":
-                character = re.sub("(^[\s\d\*]*)|((\(.+\)\s*)*[\s\d\*]*$)", "", slines[i]).strip().lower()
+        if use_robust_parser:
+            parser = MovieParser()
 
-                if len(character) > 2:
-                    i += 1
-                    while i < n and tags[i] in ["0","D","E"]:
-                        if tags[i] == "D":
-                            characters.append(character)
+        for folder, movie in tqdm(items):
+            slines = open(os.path.join(gdi_folder, "{}/Scripts_Txt/{}.txt".format(folder, movie))).read().splitlines()
+            
+            if use_robust_parser:
+                parsed_filepath = os.path.join(gdi_folder, "{}/ParsedRobust/{}_tags.txt".format(folder, movie))
+            else:
+                parsed_filepath = os.path.join(gdi_folder, "{}/Parsed/{}_tags.txt".format(folder, movie))
+
+            if os.path.exists(parsed_filepath) and not ignore_existing_parse:
+                tags = open(parsed_filepath).read().splitlines()
+            else:
+                if use_robust_parser:
+                    tags = parser.parse(slines)
+                else:
+                    tags = parse_lines(slines)
+                open(parsed_filepath, "w").write("\n".join(tags))
+            tags = [t if t in ["S","N","C","D","E","T","M"] else "O" for t in tags]
+
+            characters = []
+            n = len(slines)
+            i = 0
+
+            while i < n:
+                if tags[i] == "C":
+                    character = re.sub("(^[\s\d\*]*)|((\(.+\)\s*)*[\s\d\*]*$)", "", slines[i]).strip().lower()
+
+                    if len(character) > 2:
                         i += 1
-                    i -= 1
-            i += 1
+                        while i < n and tags[i] in ["0","D","E"]:
+                            if tags[i] == "D":
+                                characters.append(character)
+                            i += 1
+                        i -= 1
+                i += 1
 
-        citems = sorted(Counter(characters).items(), key = lambda x: x[1], reverse=True)
-        for ch, cn in citems:
-            data.append([folder, movie, ch, cn])
+            citems = sorted(Counter(characters).items(), key = lambda x: x[1], reverse=True)
+            for ch, cn in citems:
+                data.append([folder, movie, ch, cn])
 
-    sys_line_count_df = pd.DataFrame(data, columns=["folder", "movie", "character", "line-count"])
-    sys_line_count_df.to_csv(os.path.join(gdi_folder, "parser_line_counts.tsv"), sep="\t", index=False)
+        sys_line_count_df = pd.DataFrame(data, columns=["folder", "movie", "character", "line-count"])
+        sys_line_count_df.to_csv(line_count_filepath, sep="\t", index=False)
 
     #####################################################################
     #### evaluate character identification and line count errors
@@ -147,11 +182,11 @@ def evaluate_gdi(gdi_folder, gdi_folder_names, ignore_scripts=[]):
             _p = _tp/(_tp + _fp)
             _r = _tp/(_tp + _fn)
             _f1 = 2 * _p * _r / (_p + _r + 1e-23)
-            _mae = np.mean(np.absolute(_errors))
-            _rmse = np.sqrt(np.mean(np.square(_errors)))
-            _median = np.median(np.absolute(_errors))
+            _mean = np.mean(_errors)
+            _std = np.std(_errors)
+            _median = np.median(_errors)
 
-            # print("\tcharacter: p = {:5.2f}, r = {:5.2f}, f1 = {:5.2f} ; line count error: mae = {:5.1f}, rmse = {:5.1f}, median = {:4.1f} ; {}/{}".format(_p, _r, _f1, _mae, _rmse, _median, folder, movie))
+            print("\tcharacter: p = {:5.2f}, r = {:5.2f}, f1 = {:5.2f} ; line count error: mean = {:5.1f}, std = {:5.1f}, median = {:4.1f} ; {}/{}".format(_p, _r, _f1, _mean, _std, _median, folder, movie))
 
             tp += _tp
             fp += _fp
@@ -163,8 +198,8 @@ def evaluate_gdi(gdi_folder, gdi_folder_names, ignore_scripts=[]):
         p = tp/(tp + fp)
         r = tp/(tp + fn)
         f1 = 2 * p * r / (p + r)
-        mae = np.mean(np.absolute(errors))
-        rmse = np.sqrt(np.mean(np.square(errors)))
-        median = np.median(np.absolute(errors))
+        mean = np.mean(errors)
+        std = np.std(errors)
+        median = np.median(errors)
 
-        print("character: p = {:5.2f}, r = {:5.2f}, f1 = {:5.2f} ; line count error: mae = {:5.1f}, rmse = {:5.1f}, median = {:4.1f} ; ALL".format(p, r, f1, mae, rmse, median))
+        print("character: p = {:5.2f}, r = {:5.2f}, f1 = {:5.2f} ; line count error: mean = {:5.1f}, std = {:5.1f}, median = {:4.1f} ; ALL".format(p, r, f1, mean, std, median))
