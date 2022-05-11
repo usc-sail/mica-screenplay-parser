@@ -121,26 +121,27 @@ def get_char_dial(script_noind, tag_vec, tag_set, char_max_words):
 														and len(script_noind[i + 1].split()) > 0\
 														and len(x.split()) < char_max_words\
 														and any([separate_dial_meta(x)[y] for y in [0, 2]])]
-	if char_ind[-1] < (len(script_noind) - 1):
-		char_ind += [len(script_noind) - 1]
-	else:
-		char_ind += [len(script_noind)]
-	
-	for x in range(len(char_ind) - 1):
-		tag_vec[char_ind[x]] = 'C'
-		dial_flag = 1
-		while dial_flag > 0:
-			line_ind = char_ind[x] + dial_flag
-			if len(script_noind[line_ind].split()) > 0 and line_ind < char_ind[x + 1]:
-				dial_str, dial_meta_str, rem_str = separate_dial_meta(script_noind[line_ind])
-				if dial_str != '' or rem_str != '':
-					tag_vec[line_ind] = 'D'
+	if len(char_ind) > 0:
+		if char_ind[-1] < (len(script_noind) - 1):
+			char_ind += [len(script_noind) - 1]
+		else:
+			char_ind += [len(script_noind)]
+		
+		for x in range(len(char_ind) - 1):
+			tag_vec[char_ind[x]] = 'C'
+			dial_flag = 1
+			while dial_flag > 0:
+				line_ind = char_ind[x] + dial_flag
+				if len(script_noind[line_ind].split()) > 0 and line_ind < char_ind[x + 1]:
+					dial_str, dial_meta_str, rem_str = separate_dial_meta(script_noind[line_ind])
+					if dial_str != '' or rem_str != '':
+						tag_vec[line_ind] = 'D'
+					else:
+						tag_vec[line_ind] = 'E'
+					
+					dial_flag += 1
 				else:
-					tag_vec[line_ind] = 'E'
-                
-				dial_flag += 1
-			else:
-				dial_flag = 0
+					dial_flag = 0
     
 	return tag_vec
 

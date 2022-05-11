@@ -6,7 +6,7 @@ Robust Movie Screenplay Parser
 Usage:
     movieparser evaluate            [--data=<DATA>] [--robust]
     movieparser evaluate robust     [--data=<DATA>] [--results=<RESULTS>] [--names_file=<path>] [--all]
-    movieparser evaluate gdi        [--data=<DATA>] [--gdi_folders=<FOLDERS>] [--ignore_scripts=<SCRIPTS>] [--ignore_existing_parse] [--robust]
+    movieparser evaluate gdi        [--data=<DATA>] [--gdi_folders=<FOLDERS>] [--ignore_scripts=<SCRIPTS>] [--ignore_existing_parse] [--robust] [--recalculate_line_counts]
     movieparser create data         [--data=<DATA>] [--results=<RESULTS>] [--names_file=<path>]
     movieparser create seq          [--results=<RESULTS>] [--seqlen=<int>]
     movieparser create feats        [--results=<RESULTS>]
@@ -31,6 +31,7 @@ Options:
                                                     [default: ]
         --ignore_existing_parse                     ignore existing parsed files and overwrite them by parsing again
         --robust                                    use robust script parser
+        --recalculate_line_counts                   calculate line counts even if line count dataframe exists
         --names_file=<path>                         file containing English names [default: data/names.txt]
         --seqlen=<int>                              number of sentences in a sample [default: 10]
         --train_batch_size=<int>                    training batch size [default: 256]
@@ -62,6 +63,7 @@ def read_args():
     args["ignore_scripts"] = cmd_args["--ignore_scripts"].split(",") if cmd_args["--ignore_scripts"].strip() != "" else []
     args["ignore_existing_parse"] = cmd_args["--ignore_existing_parse"]
     args["robust"] = cmd_args["--robust"]
+    args["recalculate_line_counts"] = cmd_args["--recalculate_line_counts"]
     args["names_file"] = cmd_args["--names_file"]
     args["seqlen"] = int(cmd_args["--seqlen"])
     args["train_batch_size"] = int(cmd_args["--train_batch_size"])

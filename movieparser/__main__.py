@@ -34,7 +34,7 @@ if __name__=="__main__":
 
     elif args["mode"] == "evaluate-gdi":
         gdi_folder = os.path.join(args["data"], "SAIL Team Spellcheck")
-        evaluate_gdi(gdi_folder, args["gdi_folders"], ignore_scripts = args["ignore_scripts"], use_robust_parser = args["robust"], ignore_existing_parse = args["ignore_existing_parse"])
+        evaluate_gdi(gdi_folder, args["gdi_folders"], ignore_scripts = args["ignore_scripts"], use_robust_parser = args["robust"], ignore_existing_parse = args["ignore_existing_parse"], recalculate_line_counts=args["recalculate_line_counts"])
     
     elif args["mode"] == "create-data":
         create_data(annotator_1, annotator_2, annotator_3, line_indices, names_file=args["names_file"], results_folder=args["results"], screenplays_folder=screenplays_folder)

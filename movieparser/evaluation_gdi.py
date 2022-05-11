@@ -15,7 +15,7 @@ from tqdm import tqdm
 from movieparser.parse_scripts_noindent import parse_lines
 from movieparser.robust_parser import MovieParser
 
-def evaluate_gdi(gdi_folder, gdi_folder_names, ignore_scripts=[], use_robust_parser=False, ignore_existing_parse=False):
+def evaluate_gdi(gdi_folder, gdi_folder_names, ignore_scripts=[], use_robust_parser=False, ignore_existing_parse=False, recalculate_line_counts=False):
 
     #####################################################################
     #### get GDI annotated character line counts
@@ -23,7 +23,7 @@ def evaluate_gdi(gdi_folder, gdi_folder_names, ignore_scripts=[], use_robust_par
 
     gdi_count_filepath = os.path.join(gdi_folder, "gdi_line_counts.tsv")
 
-    if os.path.exists(gdi_count_filepath):
+    if os.path.exists(gdi_count_filepath) and not recalculate_line_counts:
         line_count_df = pd.read_csv(gdi_count_filepath, index_col=None, sep="\t")
     else:
         data = []
@@ -44,7 +44,7 @@ def evaluate_gdi(gdi_folder, gdi_folder_names, ignore_scripts=[], use_robust_par
                         cells = [cell.text for row in table.rows for cell in row.cells]
 
                         while i + 1 < len(cells):
-                            data.append([folder, movie, cells[i].strip().lower(), cells[i + 1]])
+                            data.append([folder, movie, cells[i].strip().upper(), cells[i + 1]])
                             i += 2
 
         line_count_df = pd.DataFrame(data, columns=["folder", "movie", "character", "line-count"])
@@ -74,14 +74,13 @@ def evaluate_gdi(gdi_folder, gdi_folder_names, ignore_scripts=[], use_robust_par
     else:
         line_count_filepath = os.path.join(gdi_folder, "parser_line_counts.tsv")
 
-    if os.path.exists(line_count_filepath) and not ignore_existing_parse:
+    if os.path.exists(line_count_filepath) and not ignore_existing_parse and not recalculate_line_counts:
         sys_line_count_df = pd.read_csv(line_count_filepath, index_col=None, sep="\t")
 
     else:
         data = []
 
-        if use_robust_parser:
-            parser = MovieParser()
+        parser = None
 
         for folder, movie in tqdm(items):
             slines = open(os.path.join(gdi_folder, "{}/Scripts_Txt/{}.txt".format(folder, movie))).read().splitlines()
@@ -93,8 +92,11 @@ def evaluate_gdi(gdi_folder, gdi_folder_names, ignore_scripts=[], use_robust_par
 
             if os.path.exists(parsed_filepath) and not ignore_existing_parse:
                 tags = open(parsed_filepath).read().splitlines()
+                print(f"{folder:20s}/{movie:20s}: {len(slines)} {len(tags)}")
             else:
                 if use_robust_parser:
+                    if parser is None:
+                        parser = MovieParser()
                     tags = parser.parse(slines)
                 else:
                     tags = parse_lines(slines)
@@ -107,13 +109,14 @@ def evaluate_gdi(gdi_folder, gdi_folder_names, ignore_scripts=[], use_robust_par
 
             while i < n:
                 if tags[i] == "C":
-                    character = re.sub("(^[\s\d\*]*)|((\(.+\)\s*)*[\s\d\*]*$)", "", slines[i]).strip().lower()
+                    character = re.sub("(^[\s\d\*]*)|((\(.+\)\s*)*[\s\d\*]*$)", "", slines[i]).strip().upper()
 
                     if len(character) > 2:
+                        tcharacters = re.split("\s{2,}|/", character)
                         i += 1
-                        while i < n and tags[i] in ["0","D","E"]:
+                        while i < n and tags[i] not in ["C", "S"]:
                             if tags[i] == "D":
-                                characters.append(character)
+                                characters.extend(tcharacters)
                             i += 1
                         i -= 1
                 i += 1
