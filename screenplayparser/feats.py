@@ -1,15 +1,12 @@
 # author : Sabyasachee
 
 # standard library imports
-import os
 import re
 from typing import List, Tuple
 
 # third party imports
-import pandas as pd
 import spacy
 from spacy.tokens.doc import Doc
-from tqdm import tqdm
 
 def get_pos_features(doc: Doc) -> Tuple[List[float], List[str]]:
     feature = []
@@ -61,7 +58,7 @@ def get_keyphrase_features(doc: Doc) -> Tuple[List[float], List[str]]:
     feature = []
     header = []
     for keyphrase in uncased_keyphrases:
-        feature.append(int(re.search("(\A|\W)" + re.escape(keyphrase) + "(\W|\Z)", doc.text.lower()) is not None))
+        feature.append(int(re.search(r"(\A|\W)" + re.escape(keyphrase) + r"(\W|\Z)", doc.text.lower()) is not None))
         header.append("contains_" + keyphrase.replace(" ", "_"))
     return feature, header
 

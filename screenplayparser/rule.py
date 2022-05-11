@@ -119,26 +119,27 @@ def get_char_dial(script_noind, tag_vec, tag_set, char_max_words):
 														and len(script_noind[i + 1].split()) > 0\
 														and len(x.split()) < char_max_words\
 														and any([separate_dial_meta(x)[y] for y in [0, 2]])]
-	if char_ind[-1] < (len(script_noind) - 1):
-		char_ind += [len(script_noind) - 1]
-	else:
-		char_ind += [len(script_noind)]
-	
-	for x in range(len(char_ind) - 1):
-		tag_vec[char_ind[x]] = 'C'
-		dial_flag = 1
-		while dial_flag > 0:
-			line_ind = char_ind[x] + dial_flag
-			if len(script_noind[line_ind].split()) > 0 and line_ind < char_ind[x + 1]:
-				dial_str, dial_meta_str, rem_str = separate_dial_meta(script_noind[line_ind])
-				if dial_str != '' or rem_str != '':
-					tag_vec[line_ind] = 'D'
+	if len(char_ind) > 0:
+		if char_ind[-1] < (len(script_noind) - 1):
+			char_ind += [len(script_noind) - 1]
+		else:
+			char_ind += [len(script_noind)]
+		
+		for x in range(len(char_ind) - 1):
+			tag_vec[char_ind[x]] = 'C'
+			dial_flag = 1
+			while dial_flag > 0:
+				line_ind = char_ind[x] + dial_flag
+				if len(script_noind[line_ind].split()) > 0 and line_ind < char_ind[x + 1]:
+					dial_str, dial_meta_str, rem_str = separate_dial_meta(script_noind[line_ind])
+					if dial_str != '' or rem_str != '':
+						tag_vec[line_ind] = 'D'
+					else:
+						tag_vec[line_ind] = 'E'
+					
+					dial_flag += 1
 				else:
-					tag_vec[line_ind] = 'E'
-                
-				dial_flag += 1
-			else:
-				dial_flag = 0
+					dial_flag = 0
     
 	return tag_vec
 
@@ -366,6 +367,9 @@ def rearrange_tag_lines(tag_merged, script_merged):
 	return tag_rear, script_rear
 
 def parse_lines(lines):
+	if len(lines) == 0:
+		return []
+
 	# DEFINE
 	tag_set = ['S', 'N', 'C', 'D', 'E', 'T', 'M']
 	meta_set = ['BLACK', 'darkness']
@@ -377,7 +381,7 @@ def parse_lines(lines):
 	trans_thresh = 6
 	
 	# REMOVE INDENTS
-	alnum_filter = re.compile('[\W_]+', re.UNICODE)
+	alnum_filter = re.compile(r'[\W_]+', re.UNICODE)
 	script_noind = []
 	for script_line in lines:
 		if len(script_line.split()) > 0 and alnum_filter.sub('', script_line) != '':
@@ -434,7 +438,7 @@ def parse(file_orig, save_dir, abr_flag, tag_flag, char_flag, save_name=None, ab
 	trans_thresh = 6
 	
 	# REMOVE INDENTS
-	alnum_filter = re.compile('[\W_]+', re.UNICODE)
+	alnum_filter = re.compile(r'[\W_]+', re.UNICODE)
 	script_noind = []
 	for script_line in script_orig:
 		if len(script_line.split()) > 0 and alnum_filter.sub('', script_line) != '':
