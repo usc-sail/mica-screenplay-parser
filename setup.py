@@ -23,12 +23,12 @@ setup(
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.7",
     ],
-    packages=["reader"],
+    packages=["screenplayparser"],
     include_package_data=True,
-    install_requires=["feedparser", "html2text"],
+    install_requires=["spacy", "torch", "sentence-transformers", "numpy", "pandas", "docopt", "pdftotext", "tqdm"],
     entry_points={
         "console_scripts": [
-            "realpython=reader.__main__:main",
+            "screenplayparser=screenplayparser.__main__",
         ]
     },
 )
