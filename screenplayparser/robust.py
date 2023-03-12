@@ -14,7 +14,7 @@ from torch import nn
 import torch
 
 # user library imports
-from screenplayparser.feats import FeatureExtractor
+from mica_text_parser.screenplayparser.feats import FeatureExtractor
 
 class RobustScreenplayParser(nn.Module):
 

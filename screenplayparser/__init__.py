@@ -1,4 +1,4 @@
 from warnings import filterwarnings
 filterwarnings(action='ignore', category=DeprecationWarning, message='`np.bool` is a deprecated alias')
 
-from screenplayparser.parser import ScreenplayParser
+from mica_text_parser.screenplayparser.parser import ScreenplayParser

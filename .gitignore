@@ -128,6 +128,14 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-data/
-results/
+# vscode workspace files
+**/*.code-workspace
+
+# pytorch model files
 *.pt
+
+# notebooks
+**/notebooks/
+
+# research experiment
+**/experiments/

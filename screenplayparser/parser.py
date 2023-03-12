@@ -7,8 +7,8 @@ from typing import List
 import torch
 
 # user library
-from screenplayparser.robust import RobustScreenplayParser
-from screenplayparser.rule import parse_lines
+from mica_text_parser.screenplayparser.robust import RobustScreenplayParser
+from mica_text_parser.screenplayparser.rule import parse_lines
 
 class ScreenplayParser:
     '''
@@ -77,7 +77,7 @@ class ScreenplayParser:
                 device_id = -1
                 device = torch.device("cpu")
             self.parser = RobustScreenplayParser(38, 8, True, device_index=device_id)
-            self.parser.load_state_dict(torch.load("screenplayparser/model.pt"))
+            self.parser.load_state_dict(torch.load("screenplayparser/model.pt", map_location=device))
             self.parser.to(device)
             self.parser.eval()
 

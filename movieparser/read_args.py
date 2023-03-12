@@ -5,7 +5,7 @@ Robust Movie Screenplay Parser
 
 Usage:
     movieparser evaluate            [--data=<DATA>] [--robust]
-    movieparser evaluate robust     [--data=<DATA>] [--results=<RESULTS>] [--names_file=<path>] [--all]
+    movieparser evaluate robust     [--data=<DATA>] [--results=<RESULTS>] [--names_file=<path>] [--robust]
     movieparser evaluate gdi        [--data=<DATA>] [--gdi_folders=<FOLDERS>] [--ignore_scripts=<SCRIPTS>] [--ignore_existing_parse] [--robust] [--recalculate_line_counts]
     movieparser create data         [--data=<DATA>] [--results=<RESULTS>] [--names_file=<path>]
     movieparser create seq          [--results=<RESULTS>] [--seqlen=<int>]
@@ -23,7 +23,6 @@ Options:
     -h, --help                                      Show this help screen and exit
         --data=<DATA>                               path to data folder [default: data]
         --results=<RESULTS>                         path to results folder [default: results]
-        --all                                       set to evaluate on different error probabilities
         --gdi_folders=<FOLDERS>                     comma-separated list of GDI folders 
                                                     [default: LEGO TITAN,Lionsgate,NBC Universal]
         --ignore_scripts=<SCRIPTS>                  comma-separated scripts to ignore because of annotation error

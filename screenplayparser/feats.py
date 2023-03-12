@@ -2,7 +2,7 @@
 
 # standard library imports
 import re
-from typing import List, Tuple
+from typing import List, Tuple, Dict
 
 # third party imports
 import spacy
@@ -64,10 +64,11 @@ def get_keyphrase_features(doc: Doc) -> Tuple[List[float], List[str]]:
 
 class FeatureExtractor:
 
-    def __init__(self, gpu_id=-1) -> None:
+    def __init__(self, gpu_id=-1, cache: Dict[str, List[float]]=None) -> None:
         if gpu_id != -1:
             spacy.require_gpu(gpu_id)
         self.nlp = spacy.load("en_core_web_lg", disable=["parser"])
+        self.cache = cache
     
     def __call__(self, sentences: List[str]) -> List[List[float]]:
         feature_functions = [get_pos_features, get_entity_features, get_length_features, get_capitalization_features, get_parentheses_features, get_keyphrase_features]
