@@ -1,0 +1,2461 @@
+M: <b><!--
+M: </b>
+M: <b>/*
+M: </b>Break-out-of-frames script
+M: By Website Abstraction (http://wsabstract.com)
+M: Over 400+ free scripts here!
+M: Above notice MUST stay entact for use
+M: <b>*/
+M: </b>
+M: if (window!= top)
+M: top.location.href=location.href
+M: <b>// -->
+M: </b>Star Trek - The Motion Picture
+M: Star Trek: The Motion Picture
+M: Screenplay by:
+M: GENE RODDENBERRY & HAROLD LIVINGSTONE
+M: Story by:
+M: ALAN DEAN FOSTER & GENE RODDENBERRY
+M: SHOOTING SCRIPT
+M: July 19, 1978
+T: FADE IN :
+S: 1 EXT SPACE (S) 1
+N: An ever expanding infinity of light and color as CAMERA TRAVELS THROUGH deep space, MOVING DIRECTLY for one pinpoint of light: a STAR GROWING RAPIDLY as we SWEEP TOWARD IT, a normal white star SUDDENLY CHANGING, brightening, flaring unbelievable intensity: supernova. The CAMERA HOLDS just a moment, then MOVES on, SEARCH- ING through space, the jeweled beauty of other star systems, sparkling nebulae, swirling hydrogen clouds. STILL MOVING, then CAMERA FINDS:
+S: 2 EXT. AREA OF LUMINESCENCE (S) 2
+N: In the far distance, slowly growing in size as CAMERA APPROACHES: it resembles, vaguely at this distance, an Aurora Borealis: flaring colors from the fringes, beautiful yet ominous. It is so large, this Cloud, it can envelope an entire solar system. CAMERA CONTINUES APPROACHING the Cloud, and then suddenly, crossing our POV, a: 3 KLINGON HEAVY CRUISER (S) 3 In a graceful, turning arc toward the mysterious LUMINESCENCE. CAMERA FOLLOWS this Klingon, then FINDS a second Klingon cruiser, also turning toward the Cloud, which continues to grow in size as the Klingons approach at warp speed, CAMERA CLOSING on the lead ship, until the vessel's detail can be clearly MADE OUT: lights, weaponry, power systems, identification emblazoned on the nacelles and saucer in Klingon language (and symbols).
+S: 4 INT. KLINGON CRUISER BRIDGE (O) 4
+N: Clearly alien, an ODD-SOUNDING KLAXON signaling "battle stations." Orders issued in KLINGON LANGUAGE, the KLINGON CAPTAIN and EXEC peering at an unusual bridge viewer at the huge area of LUMINESCENT HAZE directly ahead. In KLINGON DIALOGUE:
+C: KLINGON CAPTAIN
+E: Give me tactical.
+N: 5 CLOSE - MAIN VIEWER (O) 5 goes suddenly to a TACTICAL GRID SYSTEM, showing the LUMINESCENT HAZE to be an ENORMOUS BLIP OF LIGHT ON THE SCREEN, with two TINY PINPRICKS OF LIGHT complete- ing their turn on a direct course toward it.
+S: 6 EXT. SPACE - THE KLINGON PATROL AND THE HAZE (S) 6
+N: The Patrol is clearly SEEN now on the right of the bottom of the FRAME... THREE tiny ships closing on the steadily growing LUMINESCENT HAZE.
+S: 7 INT. THE KLINGON BRIDGE - CAPTAIN AND EXEC (O) 7
+N: All eyes on the viewer that shows the ships sweeping on the Mysterious cloud.
+C: KLINGON CAPTAIN
+D: Visual.
+E: In Klingonese
+N: The TECHNICIAN makes the switch. 8 CLOSE - VIEW SCREEN - LUMINESCENT HAZE (O) 8 growing ever larger, its flaring colors menacing, mysterious, strangely beckoning.
+S: 9 INT. BRIDGE - KLINGON COMMAND CRUISER 9
+N: The crew stands by for battle.
+C: KLINGON CAPTAIN
+D: Tactical again. Stand by on torpedoes.
+E: In Klingonese
+N: 10 EAT SPACE - LEAD KLINGON VESSEL (TORPEDO HATCH) (S) 10 sliding open, the glowing "Hell Fire" of the Photon Launch tubes, slowly revealed. 11 VERY WIDE ANGLE - THE THREE SHIPS (S) 11 They are tiny, insect-like shapes moving still CLOSER to the Luminescent Cloud, so large now that it begins to dominate all space behind.
+S: 12 INT. KLINGON BRIDGE - TACTICAL GRID - CAPTAIN AND 12
+N: EXEC (O) The growing nearness and enormous size of the Cloud also reflected on the Tactical Grid, somehow more awesome by this schematic view. The Captain gestures the order to "FIRE."
+S: 13 EXT. SPACE - ANGLE ON KLINGON VESSEL - TORPEDO HATCH (S) 13
+N: The BRILLIANT PHOTON BLOBS of the torpedoes spurt from the tubes. 14 ANGLE ON KLINGON VESSEL (S) 14 A deadly PHOTON TORPEDO pattern racing away from the Klingon and toward the Luminescent glow in the distance.
+S: 15 INT. KLINGON BRIDGE - TACTICAL GRID (O) 15
+N: Three torpedoes are heading directly toward the Cloud. Suddenly they glow briefly and disappear long before they reach their intended target.
+S: 16 INT. KLINGON BRIDGE - CAPTAIN AND EXEC 16
+N: incredulous that their torpedoes have disappeared without a trace.
+S: 17 EXT SPACE - THE CLOUD - THREE KLINGON SHIPS (S) 17
+N: as the second and third ships launch torpedoes toward the color-flaring surface of the cloud. This time we have an outside, real VIEW of the torpedoes glowing brightly and then disappearing with no effect.
+S: 18 INT. KLINGON BRIDGE (O) 18
+N: The Klingon crew grim, desperate, watching a BRIGHT STACCATO BLIP OF POWER from within the LUMINESCENCE.
+C: KLINGON CAPTAIN
+D: Full force fields; evasive maneuvers.
+E: quickly; Klingonese
+N: 19 EAT SPACE - THE CLOUD - THE KLINGON PATROLS (S) 19 Out of the LUMINESCENCE hurtles a FRIGHTENING WHIPLASH OF ENERGY. It bears down on the Klingon Patrol, now in an evasive maneuver. Then the WHIPLASH BOLT hits the third cruiser in a writhing flare of energy which totally engulfs the vessel. The other two ships veer off, warping around again into attack position. The THIRD SHIP has begun to implode in on itself, the matter-energy of its existence drained by the WHIPLASH BOLT that HOLDS IT. 20 ANGLE ON REMAINING KLINGON CRUISERS (S) 20 desperately defending themselves, FORCE FIELDS FULL UP, RAPIDLY FIRING PHOTON TORPEDOES. But now a SECOND WHIPLASH ENERGY BOLT has emerged from the cloud and hits the second vessel, DESTROYING it. The THIRD WHIPLASH BOLT glances off the surviving Cruiser as the ship retreats in a wide, evasive turn, FIRING from stern tubes.
+S: 21 INT. KLINGON BRIDGE 21
+N: The bridge shattered; Klingon bodies. The mortally- wounded Captain is transmitting urgently:
+C: KLINGON CAPTAIN
+D: ... severely damaged. Returning fire...
+E: In Klingonese
+S: 22 EXT. SPACE - STARFLEET MONITOR STATION EPSILON 9 (S) 22
+N: Serenity here. A barren, rocky small plantoid softly lit by the myriad stars. This is a small Starfleet outpost, antennae sprouting everywhere. Tiny figures (WORKERS) servicing one antenna illustrate the size of the installation.
+S: 23 INT. EPSILON 9 - MONITOR ROOM - A VIEWER (O) 23
+N: SHOWING the battle scene, and the VOICE OF THE KLINGON CAPTAIN in his last stand against the Object; his VOICE is weary, almost mechanical. On the adjacent viewer, an English printout of the Klingon's words chatters along the bottom of the picture:
+C: KLINGON CAPTAIN
+D: Imperial Klingon Cruiser Amar... severely damaged by unfamiliar weaponry... intruder unidentified..
+E: In Klingonese
+N: 24 WIDER ANGLE - EPSILON 9 STARFLEET PERSONNEL AND VIEWER (O) 24 At the viewers are a FEMALE LIEUTENANT and FOUR TECH- NICIANS. COMMANDER BRANCH, a young, alert, enters hur- riedly, scans he console.
+C: LIEUTENANT
+D: Our sensor drone is intercepting this on Quad L-14.
+C: KLINGON CAPTAIN
+D: ... believe luminescent cloud to be enormous power field surrounding alien vessel... size and description unknown.. our sensor scans unable to penetrate. Imperial Klingon Cruiser Amar... continuing to attack.
+E: V.O.
+C: BRANCH
+D: That's within Klingon boundaries. Who are they fighting?
+C: LIEUTENANT
+D: Unknown, sir.
+N: A violent EXPLOSION inside the Klingon bridge -- Klingon Captain's body is thrown violently against the bulkhead.
+C: TECHNICIAN
+D: I have an exterior visual!
+N: 25 CLOSE ON VIEWER (O) 25 showing EXTERIOR of the Klingon vessel: a final, frightening WHIPLASH ENERGY BOLT strikes it -- then the same awesome IMPLOSION INTO FIREBALL. 26 WIDER ANGLE - PERSONNEL AND VIEWER (O) 26 The Starfleet station onlookers react to the utter annihilation of the huge cruiser. And now, past where the cruiser just disappeared -- the mysterious LUMINES- CENCE approaching in distance. Technician hits a switch, magnifying the strange CLOUD.
+C: LIEUTENANT
+D: We've plotted a course on that cloud, Commander: it will pass into Federation Space fairly close to us.
+C: BRANCH
+D: Heading?
+N: 27 CLOSE ON THE MAIN MONITOR STATION (O) 27 as its focal point shifts to the huge elliptically- shaped LUMINESCENCE racing across the sky. MUSIC (V'GER THEME) COMMENCES in a low, unresolved CHORD that remains in the background through the remainder of this scene, and the beginning of the next one.
+C: LIEUTENANT'S VOICE
+D: Sir, it's on a precise heading for Earth.
+N: Ominously now the LUMINESCENCE increases in size, and begins to fill the viewer. HOLD A MOMENT, and then:
+S: 28 EXT. SURFACE OF PLANET VULCAN - DAY (M) 28
+N: with the CAMERA MOVING THROUGH masses of thick, steamy vaporous clouds, swirling about, rising boilingly up from some unseen, underground source. The CAMERA CONTINUES MOVING through clouds. And then... the Vulcan landscape. Harsh, strange angular peaks and rock formations -- the barren, legend- ary mountain home of Vulcan Masters.
+S: 29 EXT. VULCAN LEDGE - SPOCK ( M & F.P.) 29
+N: Spock's lean features instantly recognizable despite unkempt, longer hair and the fatigue born of a long, harsh discipline he has undergone. His robes, tattered and dust covered, are that of a Vulcan Aspirant in study with the Masters. Under the V'ger THEME MUSIC we HEAR a VOICE in ritual tones:
+C: FEMALE MASTER'S VOICE
+D: Spock, son of Sarek of Vulcan... and of Amanda of Earth... diligently you have labored for purification of mind...
+N: 30 REVERSE ANGLE - SPOCK, VULCAN MASTERS AND RUINS 30 In b.g., gigantic ancient Vulcan statues and ruins. In f.g., the stone platform on which Spock stands facing a semi-circle of three similar platforms. On them in regal robes are three VULCAN MASTERS. The Master in the center is a female, the other two Masters are male. The elderly female is holding a cord and ancient pendant as if ready to place it around Spock's neck at an appropriate moment. Spock is staring up
+T: as V'ger THEME MUSIC fades.
+C: MALE MASTER
+D: Spock . . . !
+E: chidingly
+N: Spock turns, giving a small contrite nod -- the ritual continues.
+C: FEMALE MASTER
+D: Here are these sands, our fore- bearers cast out their animal passions. Here our race was saved by the first attainment of Kolinahr.
+C: MALE MASTER
+D: Kolinahr: the final shedding of all emotion.
+C: FEMALE MASTER
+D: You have labored long, Spock. Now receive from us this symbol of total logic.
+N: Spock starts to kneel... the Female Master moves in, intending to put the ancient pendant around his neck. But Spock now hesitates -- he's troubled as though uncertain he deserves this symbol and waves the pendant away. Then, a faint reprise of the V'ger THEME MUSIC now causes the Female Master to look skyward. She turns from this back to Spock as she exchanges a look with the Male Masters.
+C: FEMALE MASTER
+D: Come, give me your thoughts.
+E: gestures Spock forward
+N: She kneels with Spock -- lays her hands on his temples in Vulcan mind-meld position.
+C: FEMALE MASTER
+D: Our minds, Spock... One and together....
+E: continuing
+N: Their eyes close -- their minds meld -- then her head jerks slightly, her features change as her mind feels Spock's reactions to the V'ger consciousness. A long moment, then she opens her eyes, gets to her feet and looks down on the still kneeling Spock. Then, she casts aside the pendant she carries -- it falls into the dust.
+C: FEMALE MASTER
+D: This consciousness which calls -- it stirs your human half, Spock? You have not achieved Kolinahr -- Your human emotions are not fully extinguished. He will not achieve his goal with us. His answer lies elsewhere.
+E: continuing; sadly turns to the other Masters
+N: The three Masters leave -- Spock watches them go, his disappointment evident even in his stoic features. 31 MED. ANGLE ON SPOCK (M. & F.P.) 31 CAMERA CLOSES IN on his face as we again HEAR a frag- ment of V'ger THEME MUSIC -- Spock again raises his head and peers up into the heavens. HOLD on his face a moment, then...
+T: SHOCK CUT TO :
+S: 32 EXT. EARTH - AN AIR TRAM - DAY (S) 32
+N: gleaming silver in the sun as it streaks TOWARD THE CAMERA POSITION and hurtles PAST.
+S: 33 EXT. SAN FRANCISCO - HILLTOP AIR TRAM STATION - 33
+N: DAY (M) From this vantage, we can SEE all of twenty-third century San Francisco stretched out before us. In the b.g., the familiar forms of the carefully preserved Golden Gate Bridge and Transamerica Pyramid Building serve as our only reminders that this is, indeed, San Francisco. The AIR TRAM (an anti-gravitational train flying several feet above the ground) DECELERATES sharply, settles to the ground with a whisper.
+S: 34 EXT. TRAM STATION - CLOSE ON TRAM DOORS - DAY 34
+N: The doors opening, and various TRAVELERS (civilians and Starfleet personnel) leaving the tram, striding onto the platform, continuing on their respective ways. Among the departing throng: 35 KIRK 35 in Admiral's uniform, grim, determined, moving through the throng. Now and then Starfleet officers nod re- spectfully; KIRK responds with detached formality; his mind is clearly set on something he is resolved to ac- complish here in headquarters -- whatever the cost. CAMERA WITH HIM, to:
+S: 36 INT. AIR TRAM STATION - DAY ` 36
+N: as Kirk strides into the graceful Starfleet HQ building. Many PEOPLE are about, civilians and uniformed person- nel; most of them with some air of urgency. (NOTE: ALIENS interspersed among them, Vulcans, blue-skinned Andorians, high-domed Vegans, ect.) Kirk continues on when suddenly he reacts, annoyed as he sees: 37 SONAK 37 a Vulcan, Lt Commander; short, white-haired, grizzled, hurrying along. Kirk calls to him:
+C: KIRK
+D: Commander Sonak... !
+N: SONAK turns with Vulcan imperturbability to face Kirk who steps toward him
+C: KIRK
+D: You've received your appointment as Enterprise Science Officer?
+E: continuing
+C: SONAK
+D: Based, I am told, on your recommendation, Admiral. Thank you.
+E: nods
+C: KIRK
+D: Why aren't you on board?
+C: SONAK
+D: Captain Decker requested I complete final Science briefing here before...
+C: KIRK
+D: Here at Starfleet...? The Enterprise is in final preparation to leave dock...
+E: interrupting
+C: SONAK
+D: Which will require twenty more hours at minimum, Admiral...
+C: KIRK
+D: Twelve! I'm on my way to a meeting with Admiral Nogura which will not last more than three minutes. Report to me on the Enterprise in one hour.
+C: SONAK
+D: To you, sir?
+C: KIRK
+D: I intend to be there following that meeting. Report to me. One hour!
+N: And Kirk turns, strides purposefully away. Sonak gazes after him, one eyebrow raised quizzically.
+S: 38 EXT. EARTH ORBIT (S) 38
+N: In f.g., Orbital drydock offices, rotating slowly but perceptibly against blue-black of space. Small figures in spacesuits working on construction, with work belts. Beyond and below... Earth. In the far distance we can barely make out an orbital drydock. 39 CLOSER ANGLE - ORBITAL OFFICE CLUSTER (S) 39 The cluster is a fully-equipped dockyard engineering center and computer drafting office. CAMERA MOVES IN AND CENTERS ON an outer "Travel Pod."
+S: 40 INT. INNER OFFICE (O) 40
+N: an installation which also includes a double position transporter, in which we SEE the TRANSPORTER EFFECT BEGIN. With the TRANSPORTER CREW IS SCOTT. He's with a Technician, busy with a piece of complex circuitry. Then he turns, sees that it is Kirk BEAMING in here. As Kirk materializes, steps off the transporter plat- form, Scott moves quickly to him. 40A KIRK AND SCOTT 40A The starship Engineering Officer clearly surprised to see Kirk here. Kirk has the same look of grim de- termination we just saw in the headquarters building.
+C: SCOTT
+D: Admiral, I've been hoping to see you. Maybe you can get through to those thick heads in Starfleet that...
+C: KIRK
+D: Why aren't the Enterprise transporters in operation, Mister Scott?
+C: SCOTT
+D: We're hoping it's only a temporary problem, Admiral...
+C: KIRK
+D: See that it is. Take me over, please.
+E: moving toward pod
+N: Scott is now eying Kirk just a little warily as he fol- lows him into the pod. Kirk's determined expression suggests that some chips are going to fly and Scott does not want to become one of them.
+C: SCOTT
+D: Admiral, the Enterprise has just finished eighteen months redesign- ing and refitting. She needs testing, a shakedown...
+E: carefully
+C: KIRK
+D: Mr. Scott, there's an alien object with unbelievable destructive power less than three days away from this planet...
+N: Kirk hits a button on the travel pod panel -- the air- lock doors SLAM closed behind them. Then, stepping im- mediately to the front observation window:
+C: KIRK
+D: ... the only Starship in interception range is the Enterprise! Ready, or not, she launches in twelve hours!
+E: continuing
+N: Scott throws Kirk an appalled look but is now occupied in sealing the Outer Pod door and manipulating drive controls. CAMERA CONTINUES TO PULL BACK TO REVEAL front of the Pod and arms of the office complex as Pod disconnects and starts to move.
+S: 40C EXT. POD 40C
+N: CAMERA CONTINUES TO PULL BACK TO REVEAL front of the pod and arms of the office complex as Pod disconnects and starts moving.
+S: 41 EXT. EARTH ORBIT - ANGLES ON TRAVEL POD (S) 41
+N: 43 43 as it moves way from the office complex. We can SEE the jet flames of its tiny thrusters as it cir- cles around, heads off (toward the distant Orbital dry dock).
+S: 44 INT. TRAVEL POD - KIRK AND SCOTT 44
+N: Scott nervously eying Kirk, and finally deciding to make one more effort:
+C: SCOTT
+D: The crew hasn't had near enough transition time with all the new equipment. And the engines, Admiral: they've yet to be even tested at warp power. Add to that, an untried Captain...
+C: KIRK
+D: Two and a half years as Chief of Starfleet Operations may have made me a little stale, Mr. Scott -- but I wouldn't exactly consider myself 'untried.'
+E: hint of smile
+N: It takes Scott a moment to comprehend, and Kirk smiles now, nods:
+C: KIRK
+D: They gave her back to me, Scotty.
+E: continuing
+N: Scott peers at him, genuinely surprised -- and pleased. Then:
+C: SCOTT
+D: "Gave' her back, sir...? I doubt it was that easy... But any man who could manage such a feat, I wouldna dare disappoint. She'll launch on time, sir... And she'll be ready.
+E: returns smile with confidence
+N: And he clasps Kirk's elbow affectionately, then gestures Kirk to look out the pod window.
+S: 45 EXT. OUTSIDE THE POD WINDOW - KIRK'S POV (O) 45
+N: as he looks out: the blue-black of orbital space.
+S: 46 INT. TRAVEL POD 46
+N: Scott is well aware of what the Enterprise means to Kirk. As Scott maneuvers the pod to provide the best perspective, Kirk peers through the observation window, craning his head, hungry for his first glimpse of the starship. Scott is watching him, immensely pleased. 47 PAST THEM TO THE POD WINDOW (O) 47 as we SEE the drydock and more of its detail, and a hint of what is inside.
+S: 48 EXT. EARTH ORBIT - OTHER ANGLES FROM THE POD (O) 48
+N: 50 50 PAST Kirk and Scott the corner of the drydock becomes larger -- we begin SEEING more of it. And then the merest glimpse of what is inside the drydock: The Enterprise slips INTO VIEW.
+S: 51 INT. POD - VERY CLOSE ON KIRK AT WINDOW 51
+N: as he watches, his face reflecting all of it: the awe, the wonder, the romance, the obsession. The one comp- lete love of his life. And with that love regained, he is becoming more fully alive again. Kirk looks at Scott; for a moment both hold each other's eye. Scott knows precisely how Kirk feels. Both turn to the window again. 52 WHAT THEY SEE - THE ENTERPRISE (S) 52 Now DOMINATING the SCREEN -- the awesome, symmetrical bulk of the starship comes fully INTO VIEW. And it dominates Kirk's -- and our emotions.
+S: 53 EXT. THE ENTERPRISE - AND THE POD (TINY IN THIS SHOT) 53
+N: 56 AS IT CIRCLES - THE ANTI-LIKE FIGURES OF WORKERS (S) 56 The great ship dwarfs everything. The drydock becomes a fragile filigree framing the ship's great curved bulk. The tiny pod continues to move along it. Small automated welding devices move along the gird- ers, working with brief, bright orange-white flares. In other areas of metal lace structure, supplies and equipment are being loaded onto the ship. The pod continues moving (Scott is giving Kirk time to see all), watched carefully by the TINY FIGURES OF SUPERVISING TECHNICIANS on the drydock. Now the pod moves toward mating position. It closes in, secures itself to the outer airlock.
+S: 57 INT. POD - AT THE AIRLOCK 57
+N: Scott completing the mating procedure, Kirk turning from the observation window. Outside, the metallic.. CLICK of the pod locking onto the airlock. Now the "WHOOSH" of the latch doors securing, the CLANG of security bolts. It's all been a rare and delicious moment for Kirk, and his face shows it. OVER the POD INTERCOM we HEAR, "Pod secured. Pressure equalized." Scott moves the control to open the hatch.
+S: 58 INT. ENTERPRISE CARGO DECK (M) 58
+N: A confusion of organized work and VOICES. The cargo deck bustles with activity; supplies and equipment being stored and installed.
+S: 59 INT. CARGO DECK - BALCONY AND CATWALK 59
+N: Kirk and Scott are met by a nervous, perspiring ENSIGN.
+C: KIRK AND SCOTT
+D: Permission to come aboard, sir...?
+C: ENSIGN
+D: Granted, sir. Welcome aboard, Admiral... Commander Scott, you're needed in Engineering immediately.
+C: SCOTT
+D: Sir, you'll excuse me...?
+E: to Kirk
+N: Kirk gestures him to leave, and Scott hurries away. Kirk stands a moment, gazing down at the cargo deck. 60 ANGLE DOWN PAST KIRK TO FLOOR (M) 60 The crew maneuvering antigravity devices which move heavy containers -- scrambles of activity at storage holds and maintenance lockers. 61 CLOSE ON KIRK AND ENSIGN 61 Kirk is drinking it all in. He's home.
+C: ENSIGN
+D: Sir, if you'll follow me, I'll...
+E: nervous
+C: KIRK
+D: I think I can find my way, Ensign.
+N: And Kirk moves off, leaving the Ensign gazing at him, relieved.
+S: 62 EXT. ELEVATOR AND CATWALK 62
+N: Kirk ENTERS ANGLE and the doors snap open.
+S: 63 INT. ELEVATOR 63
+N: as Kirk enters. The doors close. Kirk waits a beat, savoring this moment too. Then, firmly to the control panel:
+C: KIRK
+D: Bridge!
+N: The turbo-elevator HUMS WITH POWER as it begins hur- tling up. On the wall back of Kirk we SEE an electronic diagram of the Enterprise tracking the elevator's speedy trip to the Bridge.
+S: 64 INT. BRIDGE 64
+N: A confusion of activity and VOICES. Pieces o equip- ment in a state of disarray: consoles open, fiber optic tubes unconnected, viewing screens dismantled. It's a frantic, desperate scene -- a ship and crew to- tally unprepared. In the midst of this: ALIEN ensign is assisting UHURA (Lt. Comdr. stripes)deftly working her communications station, AD LIBBING "... Hailing frequency four, check. Hailing frequency five, will someone please check me?" At the helm, sweat-soaked SULU (Lt. Comdr stripes) has a service plate open, is peering inside to make delicate adjust- ments, AD LIBBING "... Helm, now give me a reading on four point zero zero six of full." And at the Weapons Control, CHEKOV (Full Lt.)argues with TECHNICIANS who insist photon torpedoes read "ready" while Chekov argues the computer is not relaying that information. 65 ANGLE ON THE ELEVATOR DOORS 65 snapping open -- and there is Kirk. For the moment no one notices him, and he stands watching, remembering. And then he moves forward toward the command center. 66 ACROSS UHURA TO KIRK 66 as she is the first to see him. She reacts,pleased.
+C: UHURA
+D: Captain... Starfleet just signaled your transfer-of- command orders!
+N: 67 ANOTHER ANGLE - VARIOUS REACTION 67 as everyone else is suddenly aware of Kirk. All work stops, with various AD LIBBED greetings from the old crew: "Admiral Kirk..." "It's the Captain...!" etc., etc. But most sit or stand, simple gaping at Kirk, all quite awed. The old hands, Uhura, Sulu, and Chekov start converging on Kirk. But he gestures them back, speaking crisply.
+C: KIRK
+D: I appreciate the welcome; I wish the circumstances were less critical. Epsilon Nine is monitoring the intruder; keep a channel open to them. Where is Captain Decker?
+E: to Uhura glances around
+C: SULU
+D: He's in Engineering, sir... He doesn't know.
+E: uncomfortable, indicates Captain's chair
+N: Kirk reacts with some exasperation, starts away, addresses Chekov:
+C: KIRK
+D: Mr Chekov, assemble the crew on the Rec Deck at 0400 hours. I want to show them what we're facing.
+N: And Kirk moves to the elevator, enters, is gone. The moment the elevator doors snap closed:
+C: SULU
+D: I wouldn't have wanted to have been standing in his way. He wanted her back; he got her!
+C: ALIEN ENSIGN
+D: And Captain Decker? He's been with the ship every minute of her refitting...
+E: perturbed
+C: UHURA
+D: Ensign -- our chances of coming back from this mission in one piece may have just doubled...!
+E: brittle
+N: 68 OMITTED 68 69 69
+S: 70 INT. ENGINEERING SECTION 70
+N: The entire complex a beehive of pre-departure activity. ENGINEERING PERSONNEL (at least a third of them female) coming and going, the platform-elevators (small, one- man lifts to various levels) busy. A gentle but con- stant HUM and WHIRR flows from the engine core, to indi- cate a pre-idling mode. There will be continual AD LIBBED conversation among the Technicians. Now the Engine Room door opens and Kirk steps into the area. He stands a moment observing the activity. a grizzled ENGINEERING CHIEF pushes a huge condenser on an anti-grav device past irk with a respectful "watch it, sir" admonishment. Kirk moves on to: 71 THE INTERMIX CHAMBER 71 at the middle of the power shaft. Very NOISY here, and a continual CACOPHONY of COMPUTERIZED AND HUMAN VOICES calling off equipment checks. And grouped around a section of burnt-out circuitry are WILLARD DECKER, Captain's stripes, handsome, in his early 30's; Scott, and two Technicians. Decker and Scott are working feverishly uncoupling the device, probing its innards. Decker has discovered the problem, removed several transistor-type parts, taps them with a pencil-sized sonic analyzer.
+C: DECKER
+D: I thought so! See... the trans- porter sensor was not activated...
+E: quietly elated
+C: SCOTT
+D: Aye, you were dead right about that... Clearly, put a back-up sensor into the unit.
+E: impressed to Technician
+N: 72 ACROSS THEM TO KIRK 72 as the Technician prepares to install the device, Scott glances up to see Kirk. He looks from Decker to Kirk in acute embarrassment (so that we should realize Scott hasn't mentioned Kirk's taking over to Decker). Decker now notices Kirk, reacts pleased.
+C: DECKER
+D: Admiral Kirk... We're getting a top brass send off...? She'll launch on schedule if we have to tow her out with our bare hands. Right, Scotty?
+E: shakes Kirk's hand self assured grin
+C: SCOTTY
+D: Aye, sir, that we will...
+E: lamely
+C: KIRK
+D: Will, let's go over here and talk.
+E: to Decker
+N: He indicates corner. Decker glances bemusedly at Kirk, then turns to Scott:
+C: DECKER
+D: Let me now when the back-up is in place.
+N: 73 ACROSS SCOTT TO KIRK AND DECKER 73 as Scott AD LIBS a glum "Aye, sir," and watches them walk across the Chamber. 74 A CORNER OF THE INTERMIX CHAMBER 74 just a little quieter here, with Kirk and Decker arriv- ing, and Decker saying blithely:
+C: DECKER
+D: All due respect, sir, I hope this isn't a Starfleet pep talk; I'm just too busy.
+N: Kirk eyes Decker -- then decides the best way to say it is plainly, directly.
+C: KIRK
+D: I'm taking over the Center seat. I'm sorry, Will.
+C: DECKER
+D: You are what...?
+C: KIRK
+D: I'm replacing you as Captain of the Enterprise.
+N: Decker seems shocked into silence; he can only peer at Kirk who reaches tentatively as though to clasp a paternal hand on Decker's shoulder, then withdraws it and continues quickly.
+C: KIRK
+D: You'll stay aboard as Executive Officer... a temporary grade reduction to Commander.
+E: continuing
+C: DECKER
+D: -- You, personally, are assuming command?
+E: finding his voice
+C: KIRK
+D: Yes.
+C: DECKER
+D: May I ask Why?
+C: KIRK
+D: My experience -- five years out there dealing with unknowns like this -- my familiarity with the Enterprise, this crew...
+E: nods
+C: DECKER
+D: Admiral, this is an almost totally new enterprise. You don't know her a tenth as well as I do.
+N: 75 ANOTHER ANGLE - TO SHOW SCOTT IN B.G. (ACROSS THE 75 ROOM) Scott, working on the relay, but continually glancing at Kirk and Decker with worried concern, as Kirk replies:
+C: KIRK
+D: That's why you're staying aboard. I'm sorry, Will.
+C: DECKER
+D: No, Admiral. I don't think you are; not one damned bit. I remember when you recommended me for this command. You told me how envious you were, and if only you could find a way to get a starship command again. Well, sir, it looks like you found a way.
+N: Kirk is silent a moment, peering levelly at Decker, who returns the gaze with equal intensity. Then:
+C: KIRK
+D: Report to the bridge, Commander. Immediately.
+N: Decker EXITS. Kirk waits, collecting his composure as he watches him go. Then Kirk turns to glare at Scott. Interrupted by a flare as something shorts out at the mechanism where Scott and Decker had been working. Technician (Clearly) reacts, hits an inter- com button fast:
+C: TECHNICIAN
+D: Transporter room, come in! Urgent! Redline on the transporters, Mister Scott!
+E: CLEARY to Scott
+N: Scott whirls to a console fast, speaks urgently!
+C: SCOTT
+D: Transporter room, do not engage! Do not....
+C: TECHNICIAN
+D: Too late; they're beaming now!
+E: CLEARY reacting to the reading; interruption
+N: Kirk is exiting on a run, followed by Scott.
+S: 76 INT. TRANSPORTER ROOM - INCLUDING TRANSPORTER CHAMBER 76
+N: (O) An unusually defective looking TRANSPORTER EFFECT in progress, alternately flashing and glowing -- even the Transporter SOUND seems wrong, as if struggling to overcome some problem. At the console, CHIEF RAND and ASSISTANT are reacting in surprised, near-horror as they attempt vainly to save the situation.
+C: RAND
+D: Starfleet, override us! OVERRIDE...! Yank them back!
+E: into intercom
+N: Suddenly, from Rand's console,a VIOLENT GLARE -- a PROTESTING SOUND from the circuitry. And on the con- sole a red-warning light now begins flashing.
+C: STARFLEET VOICE
+D: Unable to retrieve their pattern, Enterprise....!
+N: Rand reacts in real horror now as human forms begin to FAINTLY MATERIALIZE, then FADE AWAY, then REAPPEAR IN FAINTLY MISSHAPEN FORM as she frantically works con- trols. Kirk ENTERS fast, steps to the console to assist Rand; Scott has also come in and moves to the console, brushes aside the Asst. Chief, and begins manipulating the additional controls himself.
+C: SCOTT
+D: We're losing the pattern...!
+C: KIRK
+D: Starfleet, boost your matter gain; we need more signal!
+E: into intercom
+C: RAND
+D: Oh, no! They're forming!
+N: 77 CLOSER ON THE TRANSPORTER CHAMBER (O) 77 with the human forms FLUTTERING INTO FULLER AND FULLER MATERIALIZATION, FRIGHTENINGLY, HORRIBLY MISSHAPEN. We RECOGNIZE one form as the Vulcan, Sonak -- the other a human WOMAN. They MATERIALIZE; we HEAR A MOAN form from the Vulcan -- the Woman's SCREAM OF PAIN. Then, all at once, the half-materialized bodies are gone; the transporter chamber is empty.
+C: KIRK
+D: Oh, my God...!
+N: 78 KIRK, SCOTT AND RAND 78 gazing, horrified, at the empty chamber.
+C: KIRK
+D: Starfleet, do you have them?
+E: into intercom
+N: A mutter of utter, vacant silence -- and Kirk and Scott look at each other again, their pained faces presaging the answer they already know:
+C: STARFLEET VOICE
+D: Enterprise... what we got back didn't live long. Fortunately.
+E: shaken
+N: Another moment of stunned silence, and then Kirk hits the transmission button -- fighting to control his voice as:
+C: KIRK
+D: Starfleet... Kirk. Please... express my condolences to their families. Commander Sonak's can be reached through the Vulcan Embassy. There was nothing you could have done, Rand. It wasn't your fault.
+E: see Rand's stricken expression
+N: And before Rand can answer, Kirk leaves the room.
+S: 79 INT. CORRIDOR - TRAVELING WITH KIRK 79
+N: as Kirk steps out, and the doors snap closed behind him. In the corridor the furor of the hurried depar- ture is, as everywhere, quite evident: CREW MEMBERS move back and forth. But Kirk does not see them; his mind is tormented by the transporter accident -- was there something he should have done, could have done, to prevent it? Should he launch on schedule with the starship this unready? Has he done right in yielding to this terrible needs for starship command again, forcing Starfleet to give her to him? Would Decker's knowledge of the new design have prevented the acci- dent? Kirk reaches a corridor intersection, looks around, realizes he's lost track of where he is. A passing YEOMAN stops in response to his puzzled expression.
+C: KIRK
+D: Turboshaft eight...?
+C: YEOMAN
+D: Back that way, sir.
+N: She's indicating back the direction from which Kirk came. He nods his thanks, turns and moves back down the corridor. 80 DECKER 80 hurrying down the corridor. The two face each other a silent moment, Decker studying Kirk curiously.
+C: KIRK
+D: We'll have to replace Commander Sonak. I'd still like a Vulcan there, if possible...
+C: DECKER
+D: None available, Captain. There's no one in fact, who's fully rated on this design.
+C: KIRK
+D: You are, Mister Decker. I'm afraid you'll have to double as Science Officer.
+N: And Kirk moves on, Decker stands gazing reflectively after him. 81 OMITTED 81 84 84 85 CLOSE - FULL SHOT OF THE KLINGON SHIP BEING DESTROYED 85 (AS SEEN ON VIEWER) (O) (in the last part of the scene which showed the Klingon Captain speaking in Klingonese and an English print- out interpretation appearing at the screen bottom. The Klingon ship nearly totaled; one engine nacelle gone, smoke and flame spewing from the other, etc. And then that final WHIPLASH ENERGY BOLT STRIKING AND SPECTACULARLY DESTROYING THE SHIP, etc.) But this time, O.S., we HEAR GASPS of incredulity from many throats (an audience), and various AD LIBBED com- ments: "My God...!" "I don't believe it...!" "What could it be...?" Etc., etc. And then, immediately following this, on the viewer: 86 THE LUMINESCENT CLOUD (AS SEEN ON A VIEWER) (O) 86 (as in earlier Epsilon 9 viewer -- but with no music, only more AD LIBBED exclamations from an audience.) The viewer goes blank.
+S: 87 INT. RECREATION DECK (M) 87
+N: We SEE that all this was being viewed by the CREW MEMBERS (Aliens included) assembled on the Rec Deck. The Recreation Deck is one of the largest areas on the ship, several deck levels high, a part of one wall consisting of picture windows, through which can be seen sections of the drydock structure outside. On another wall is a large viewer, on which was just shown the Klingon transmission. Leading off and away from this deck area are what are obviously other specific recreation areas -- gymnasiums, food centers, game rooms, lounges, etc. 88 ANOTHER ANGLE OF THE RED DECK - HIGHER LEVEL 88 as the Crew Members chat in low, grim tones -- Kirk (now with Captain's stripes) appears. As he comes into view, the two hundred or so crew below go silent. Kirk grimly indicates the now blank viewer:
+C: KIRK
+D: That's all we know about it; except that it's now 2.2 days from Earth. Enterprise is the only Federation starship that stands in its way.
+N: 89 ANOTHER ANGLE - CREW REACTIONS 89 as the CAMERA FINDS various faces: human, alien; most young, all intelligent, forthright -- anxious. Kirk has paused a moment, now continues.
+C: KIRK
+D: We assume there is a vessel of some type at the heart of the cloud. Our orders are to intercept, investigate; and take whatever action is necessary... and possible. ...We can only hope that the life form aboard that vessel reasons as we do.
+E: O.S. beat
+N: 90 ANGLE ON UHURA 90 standing near an intercom, which just then has emitted a bosun's WHISTLE intercom signal.
+C: BRIDGE VOICE
+D: Bridge to Captain. Priority signal from Epsilon Nine --
+E: from intercom
+N: Kirk leans over to the intercom, speaks into it:
+C: KIRK
+D: Put it on the viewer here...!
+N: 91 ON THE REC DECK VIEWER (O) 91 as all eyes turn to the viewer which fades into a view of Commander Branch, in the Epsilon 9 monitor room. Branch is tense, reflecting extreme urgency. Near Branch, working intently at the console are the Female Lieutenant and a Technician.
+C: BRANCH
+D: Enterprise... the Cloud is definitely a powerfield of some kind... Measures... My God! Over 82 A.U.'s in diameter... Must be something incredible inside there generating it. We're transmitting linguacode friendship messages on all frequencies. No response.
+E: from the viewer; checking console readings looks up from console
+C: TECHNICIAN
+D: I have a null reading at the center of the 'cloud,' sir.
+C: LIEUTENANT
+D: Definitely something inside.. there but all scans are being reflected back. Receiving an odd pattern now.. They seem to be reacting to our scans, sir.
+E: studies readings toward Branch
+C: BRANCH
+D: Some kind of energy surge... Enterprise... they could be mistaking our scans as a hostile act... Deflectors, emergency full!
+E: inspecting another console looking up reacts at readings
+N: Branch hits an alarm button; we HEAR ALARM KLAXON SOUNDING. The viewer IMAGE DISTORTS, clears again while Branch -- facing his viewer, continues urgently:
+C: BRANCH
+D: We are under attack...!
+E: continuing
+C: KIRK
+D: External view...!
+E: to Uhura
+S: 92 ON THE VIEWER - EXT. THE DESTRUCTION OF EPSILON 9 (O) 92
+N: as the image of Branch is immediately replaced by an external view of the plantoid, and the LUMINESCENT CLOUD (at about the same distance from which the Klingon cruisers were attacked). Then it STRIKES the plantoid WITH FULL, CATACLYSMIC FORCE. The viewer IMAGE BREAKS UP -- and immediately the entire Starfleet base becomes a maelstrom of FLAR- ING ENERGY, shattered structure, flying debris. And then, all at once, there is nothing -- empty space, Epsilon 9 is gone. We SEE only the stars; and the mysterious LUMINESCENT CLOUD moving across the distant sky. (NOTE: The above is entirely SILENT, and when it is finished, not a word is spoken.)
+C: KIRK
+D: Viewer off.
+E: O.S.
+N: 93 ANOTHER ANGLE - KIRK 93 as the viewer goes blank, all still facing the screen. Then Kirk turns to the room as if to comment. Then he stops -- nothing he can say will add at all to what they've just seen. Instead:
+C: KIRK
+D: Pre-launch countdown will commence in forty minutes.
+N: 94 ANOTHER ANGLE - CREW 94 The scene they have just witnessed still vivid in their minds as they gaze somberly up toward Kirk who is exit- ing. The bridge crew follows him out. Not a word is said as the remainder of the crew waits another moment, then begins to disperse toward their duty stations too.
+S: 95 EXT. THE ENTERPRISE IN DRYDOCK (S) 95
+N: Spectacular ORBIT VIEW of the giant starship in the process of release. BEYOND US, in half light, EARTH LOOMS HUGE. The dock welders are gone; the supply pods float away from the ship. Little tongues of blue flame spurt from the ship's maneuvering jets. 96 CLOSER - ON ENTERPRISE (S) 96 as the large dock umbilical is released, floats free of its starship attachment. Dock departure is imminent.
+S: 97 INT. BRIDGE 97
+N: Kirk in the center seat, intently studying the Naviga- tion console in front of him (at the Navigator's station, which is unoccupied.) Other bridge personnel are busy with their pre-launch duties.
+C: UHURA
+D: Transporters Room and Chief Engineer Scott report trans- porter system fully repaired and now functioning normally, sir.
+C: SULU
+D: Dock signals clear, Captain.
+C: KIRK
+D: Rely we are holding position awaiting final crew replacements.
+C: UHURA
+D: Captain, Transporter Personnel reports the Navigator... ... Lieutenant Junior Grade Ilia is already aboard, and en route to the bridge.
+E: consults console Eye-lee-ah
+N: 98 ANGLE ON DECKER - AT THE SCIENCE STATION 98 as Decker (now wearing Commander stripes) reacts, almost startled, and Uhura continues:
+C: UHURA
+D: She's a Deltan.
+N: Uhura's tone and expression convey "Deltan" in a certain, special manner.
+C: KIRK
+D: And there are no finer navigators in Starfleet, Commander.
+E: reprovingly
+N: The last is interrupted by: 98A ANGLE ON THE ELEVATOR DOORS 98A as they snap open, and there emerges a breathtakingly beautiful young woman (uniformed as a Navigator Lieu- tenant) who strides purposefully onto the bridge. A stunning figure, but hairless, entirely bald but or delicate eyebrows and eyelashes. Her bald head is not at all unattractive, in fact exudes an aura of sensual nudity. Indeed, her whole being exudes sensuality. (This is a racial characteristic, not a deliberate presence.) She approaches Kirk (NOTE: Throughout this sequence, Sulu eyes ILIA with unrestrained admiration.)
+C: ILIA
+D: Lieutenant Ilia reporting for duty, sir.
+C: KIRK
+D: Welcome aboard, Lieutenant.
+E: formally; rising
+N: 99 ACROSS ILIA TO DECKER 99 as Ilia starts to speak, suddenly stops: she has just then noticed Decker, who has stepped from his station to face her. For an electronic moment their eyes meet, hold in unquestioned recognition.
+C: DECKER
+D: Hello, Ilia.
+C: ILIA
+D: Decker....!
+E: surprised
+N: Kirk has observed this with surprise and some concern (it presages possible complications). Decker turns to Kirk, slightly uncomfortable at this.
+C: DECKER
+D: I was stationed on the Lieutenant's home planet some years ago...
+N: Ilia looks from Kirk back to Decker, puzzled at his sleeve stripes.
+C: ILIA
+D: 'Commander' Decker?
+E: eyes his rank stripes
+C: KIRK
+D: Our Exec and Science Officer...
+C: DECKER
+D: Captain Kirk has the utmost confidence in me.
+E: bitingly
+N: Kirk flashes a hard glance at Decker, then toward Ilia too.
+C: KIRK
+D: And in you, too, Lieutenant.
+E: pointedly
+C: ILIA
+D: My oath of celibacy is on record Captain. May I assume my duties?
+N: While respectful, her tone of voice has been just as firm as Kirk's.
+C: KIRK
+D: By all means.
+N: 100 ACROSS KIRK TO UHURA 100 receiving a message, now relaying it.
+C: UHURA
+D: Captain, Starfleet reports our last six crew members ready to beam up... ... but one of them is refusing to step into the transporter.
+E: puzzled
+N: Just as Kirk a moment before was tense, now suddenly he's relaxed again; he rises.
+C: KIRK
+D: Oh? I'll see that he beams up...!
+E: pleased
+N: And he hurries from the bridge, onto the elevator, is gone. A moment of puzzled silence, then:
+C: DECKER
+D: Mr. Sulu, take Lieutenant Ilia in hand.
+C: SULU
+D: Sir...? Yes, of course... Your pre-programming is already set in, Lieutenant.
+E: startled then understands to Ilia
+N: Sulu has almost tripped getting out of his chair. He starts offering Ilia his hand, then thinks better of it, withdraws it abruptly, immediately busies himself punching out equations on her console... AD LIBS, "It's all on the computer. You'll have no problem..." Sulu is nervous, fluttery around this lovely creature -- now hits a wrong switch. Produces a BEEPING SOUND which he fumbles to shut off. She smiles; speaks quietly, repeats:
+C: ILIA
+D: I'm sworn to celibacy, Mister Sulu. That makes me as safe as any human female.
+N: Sulu catches her eye but before he can reply, Decker has moved in beside Ilia.
+C: DECKER
+D: I now the Captain meant no person- al insult.
+C: ILIA
+D: I would never take advantage of a sexually immature species. You can assure him that's true, can't you?
+E: eyes on console looks at him
+N: Clearly, the remark carries special, personal significance.
+S: 101 INT. TRANSPORTER ROOM 101
+N: 102 102 Kirk entering as Rand and her assistant electronically list the last of the five arrivals who are leaving the Transporter Chamber. Kirk calls through intercom to the last arrival, a young female Yeoman.
+C: KIRK
+D: Yeoman, what was the problem down there?
+C: YEOMAN
+D: He insisted we go first, sir. Said something about first seeing how it scrambled our molecules.
+E: through intercom
+C: KIRK
+D: Thank you, Yeoman Starfleet , this is Captain Kirk. The officer is to be beamed up immediately!
+E: hits transmit control
+N: 103 ANGLE ON THE CHAMBER (O) 103 A moment, then again the GENERATING HUMMING, and then the familiar BEAMING EFFECT. And then you SEE McCOY! He fully MATERIALIZES. He looks himself over as if in pleased surprise he is still in one piece. CAMERA PANS McCoy from the Transporter Chamber to Kirk who is hav- ing a hard time containing his amusement and delight.
+C: KIRK
+D: Well, for a man who swore he'd never return to Starfleet...
+N: McCOY (flat, tight) What happened, Captain, sir, was that your revered Admiral Nogura invoked a little known -- and seldom used -- reserve activation clause... (snaps) ... in simpler language, Captain, sir, they drafted me!
+C: KIRK
+D: They didn't...!
+E: straight-faced
+N: Kirk has offered his hand, but McCoy is already flaring: McCOY This was your idea! It was your idea, wasn't it!
+C: KIRK
+D: Bones, there's a 'thing' out there --
+N: McCOY -- Why is any object we don't understand called a 'thing'?
+C: KIRK
+D: -- headed this way. I need you...
+E: continues
+N: McCOY Were you behind this?
+C: KIRK
+D: Bones, I need you badly.
+E: nods
+N: Kirk extends his hand again; McCoy delays some moments -- then finally responds. And once done, it is the long hand clasp of two old friends reunited despite their differences. Now McCoy turns to Rand. McCOY Permission to come aboard, sir?
+C: RAND
+D: Permission granted, sir!
+E: elated
+N: And McCoy moves toward the door, grumbling: McCOY I hear Chapel's an MD now; I need a top nurse, not a doctor who'll argue every diagnosis... And -- Even when he's in the corridor his grumbling trails after him. McCOY (continuing) ... they've probably redesigned sickbay, too. Engineers love to change things. 104 FULL ON KIRK 104 as he gazes fondly after the grumbling McCoy, and now turns to the intercom, flips it on:
+C: KIRK
+D: All decks, this is the Captain. Prepare or immediate departure.
+S: 105 INT. ENTERPRISE - MONTAGE DEPARTURE SCENES 105
+N: 108 108 Bulkheads closing, feed lines disengaging, main ENGINES HUM into life, crew personnel hurrying to launch stations. SHOTS of cargo deck, down to Engineering Section slamming shut. Drydock area clearing, work lights go out, warning lights go on.
+S: 109 INT. BRIDGE 109
+N: All flight positions manned, ready.
+C: UHURA
+D: Dock control reports ready, sir.
+C: SULU
+D: Helm ready, sir.
+C: ILIA
+D: Orbital departure on plot, sir.
+C: UHURA
+D: Yard command signaling clear, sir.
+C: KIRK
+D: Maneuvering thrusters, Mister Sulu.
+C: SULU
+D: Maneuvering thrusters, sir.
+C: KIRK
+D: Hold station.
+C: SULU
+D: Thrusters at station-keeping, sir.
+E: working controls
+S: 110 EXT. EARTH ORBIT - ENTERPRISE AND DRYDOCK (S) 110
+N: The starship within the drydock, but now the maneuver- ing -- thrusters spurt pinpoints of BLUE-LAME. The drydock is ready for the starship's departure -- not a single pod or shuttlecraft in sight. The starship looms majestically within the lacework girders. 111 OMITTED 111
+S: 112 INT. BRIDGE 112
+N: as Kirk hesitates just an instant, seems to hold his breath. Then:
+C: KIRK
+D: Thrusters ahead, Mister Sulu. Take us out.
+S: 113 EXT. EARTH ORBIT 113
+N: The maneuvering -- thrusters spurt more BLUE FLAME. The Enterprise begins moving, DOMINATING SCREEN as it moves majestically from the drydock. THEME MUSIC IN AND UP. 114 CLOSER ANGLES - ENTERPRISE (S) 114 117 117 emphasizing fine detail reality of both drydock and starship as saucer section emerges. Tiny space- suited human figures watch the departing ship. CAMERA HOLDS ON STARSHIP until completely clear of the orbital dock.
+S: 117A INT. ENGINEERING SECTION 117A
+N: Here in Engineering Section, the ENGINE THROBBING SLOWLY BUILDS to a THUNDERING SOUND. A glow from the central unit indicates anti-matter intermix underway. The Engineering Section shudders as the great engines draw more and more power.
+C: SCOTT
+D: Intermix set, Bridge, impulse power at your discretion.
+S: 118 INT. BRIDGE - FAVORING KIRK 118
+N: as he hesitates just an instant. This is the moment he's awaited, and to him it is equally as sensuous and gratifying as making love -- which, perhaps, he is -- to his mistress: The Enterprise.
+C: KIRK
+D: Impulse power, Mr Sulu. Ahead Warp point-five.
+E: after a moment
+S: 119 EXT. THE ENTERPRISE (S) 119
+N: The maneuvering jets turn off, the impulse drive glows. The Enterprise begins moving perceptibly faster -- behind her, the drydock diminishing rapidly in size.
+C: KIRK
+D: Departure angle on viewer.
+C: CHEKOV
+D: Departure angle.
+N: We SEE viewer IMAGE SWITCH to a departing view of lovely bluish, cloud-laced image of Earth as it grows smaller, smaller, dwindling quickly as the starship gathers speed.
+C: KIRK
+D: Viewer ahead.
+N: And viewer IMAGE SWITCHED to show the star patterned space ahead.
+S: 120 EXT. SPACE - SATURN 120
+N: with its colorful rings and multiple moons FILLING a major portion of the FRAME.
+C: KIRK
+D: Captain's Log, stardate 7412.6. 2.7 hours from launch...
+E: V.O.
+S: 121 INT. BRIDGE - FAVORING THE VIEWER 121
+N: All hands tense with the excitement of the journey, on the viewer Saturn -- and its rings -- are falling away (BEHIND US). OVER this:
+C: KIRK
+D: ... in order to intercept the Intruder at the earliest possible time, we must now risk engaging Warp drive while still within the solar system...
+E: V.O. concerned
+N: End of log. 122 ANGLE ON DECKER - SCIENCE STATION 122 punching in equations on his console, reaching a reading:
+C: DECKER
+D: Captain, assuming we have full Warp capability, accelerating to Warp Seven on leaving solar system will bring us to IP with the Intruder in twenty point one hours.
+N: 122A INCLUDE ILIA 122A Checking her console.
+C: ILIA
+D: Science Officer's computations confirmed, sir.
+N: And Decker and Ilia glance at each other -- and again, you know there is something more than casual in this. 123 ANGLE ON THE ELEVATOR DOORS 123 as they open, and McCoy appears, walks over to Kirk who swings his chair around to face him. McCoy is his usual dour self.
+C: KIRK
+D: Well, Bones, do the new medical facilities meet with your approval?
+N: McCOY They do not. It's like working in a damned computer center.
+C: KIRK
+D: Programming ready?
+E: turning to Decker
+C: DECKER
+D: Program set for standard Warp entry, Captain...
+N: Kirk starts to swing his chair to normal position -- Decker calls:
+C: DECKER
+D: ... but I still recommend further simulation study.
+E: continuing
+C: KIRK
+D: Mister Decker; every minute brings that object nearer Earth! Engineering! Stand by for Warp Drive.
+E: using intercom
+N: McCoy is watching Kirk, a bit surprised at his abrupt- ness to Decker.
+C: SCOTT'S INTERCOM VOICE
+D: Captain, we need further Warp simulation on the flow sensors...
+E: worried
+C: KIRK
+D: Engineer, we need Warp speed now!
+N: McCOY (very gently) You're pushing Jim. Your people know their jobs. Kirk flashes McCoy a glance of annoyance -- then back to using intercom:
+S: 124 INT. ENGINEERING 124
+N: The main intermix chambers GLOWING with power; the LOW RUMBLE of the main engines coming to life. The CAMERA FINDS Scott in the chamber:
+C: SCOTT
+D: Hold one minute, please, Captain --
+E: into intercom
+N: He steps to his console where an ASST. ENGINEER is working a computer, studying the readouts, punching buttons, etc. Scott stands over him, grimly observ- ing. Finally, the Asst. simply shrugs with frustration.
+C: ASST.
+D: That's it, sir; I can't do any better.
+C: SCOTT
+D: Aye, lad... It's borderline on the simulator, Captain: I canna guarantee that she'll...
+E: grim into intercom
+S: 125 INT. BRIDGE 125
+N: as Kirk, annoyed, interrupts Scott on the intercom.
+C: KIRK
+D: Warp Drive, Mr Scott.
+N: McCoy still watches curiously as Kirk turns to the helm:
+C: KIRK
+D: Ahead Warp One, Mr Sulu.
+E: continuing
+C: SULU
+D: Accelerating to Warp One, sir.
+N: Sulu moves his controls forward -- everyone waits tensely -- and then we HEAR THE INCREASING THROB OF THE ACCELERATING ENGINES.
+C: SULU
+D: Warp point seven... point eight ... nine...
+E: continuing
+S: 126 EXT. SPACE THE ENTERPRISE - AFT AND AHEAD (S) 126
+N: We SEE the WARP POWER EFFECT build up between the en- gine "nacelles" -- then the starship makes the QUANTUM LEAP into warp drive. The stars ahead shift, streak, colors pulsating and changing as the shift exceeds the wave lengths of the light spectrum -- and the stars congeal into a MASS ahead.
+S: 127 INT. BRIDGE - PAST KIRK TO THE VIEWER (O) 127
+N: as the viewer shows the same WARP DRIVE EFFECT. or another moment all remain tense, and then all at once relax, release their breaths. Smiles.
+C: SULU
+D: Warp One, sir.
+N: Kirk smiles, pleased, starts swinging his chair around, at the same time calling:
+C: KIRK
+D: Mr. Decker --
+N: Kirk never finishes the word. At that instant, on the viewer, a WORMHOLE DISTORTION: a sudden SPIRALING OF STARS AND FLUID LIGHT narrowing into a VORTEX into which the Enterprise hurtles. A space trap, a deadly pandemonium of ALARM KLAXONS, BELLS, VOICES:
+C: KIRK
+D: Wormhole!... Get us back on impulse power! Full reverse!
+E: continuing
+S: 128 EXT. SPACE - THE ENTERPRISE (S) 128
+N: Enterprise has been caught in a matter-time distortion, sucked into a cylindrical "hole in space" (the Worm- hole distortion), stars and planets become strange, elongated shapes, with the Enterprise drawn deeper and deeper into the vortex.
+S: 129 INT. BRIDGE 129
+N: The KLAXONS and BELLS CONTINUE, and the crew responding:
+C: SULU
+D: Negative helm control, Captain! Going reverse on impulse power...!
+C: UHURA
+D: Subspace frequencies are jammed by Wormhole effect!
+C: COMPUTER VOICE
+D: Collision alert...! Collision alert...!
+E: terse, flat
+N: (Note: Computer alert continues through entire scene.)
+C: DECKER
+D: Negative control from inertial lag will continue 22 point five seconds before forward velocity slows to sub-light speed.
+E: consulting his viewer
+C: ILIA
+D: Unidentified small object has been pulled into the wormhole with us, Captain! Directly ahead...!
+C: KIRK
+D: Forcefields up full! Put object on viewer...!
+N: 130 ANGLE ON THE MAIN VIEWER (O) 130 showing (a magnification view) of a tiny point of light directly ahead. Meanwhile, Kirk shouts an AD LIBBED order to Sulu: "Go to Manual override!" Sulu AD LIBS, "No manual response...!" (Through all this, McCoy stands frozen, waiting -- and expecting -- the worse.) Meanwhile, Ilia has reached over to Sulu's console, hits a button, AD LIBBING, "Navigational deflectors coming up...!" And then with alarmed dismay:
+C: ILIA
+D: Navigational deflectors inoperative...! Directional control also inoperative, Captain...!
+E: consulting her console, alarmed
+C: DECKER
+D: Wormhole distortion has over- loaded main power systems...!
+N: 131 CLOSE ON MAIN VIEWER (O) 131 The picture is switched through two further levels of magnification, enlarging the object: an elongated, distorted, pitted asteroid, tumbling toward the Enter- prise on a collision course.
+C: KIRK
+D: Time to impact...?
+E: toward Ilia
+C: ILIA
+D: Twelve seconds...!
+C: KIRK
+D: Mr. Chekov, stand by on the phasers...!
+C: DECKER
+D: Delay that phaser order! Arm photon torpedoes...!
+E: racing to Chekov's station
+N: 133 ANOTHER ANGLE - McCOY NOTICING KIRK 133 who has just glanced, surprised at Decker (for counter- manding the phaser order) -- and for a split instant, Kirk seems confused. McCoy reacts with enlightenment as, meanwhile: 134 ANOTHER ANGLE - THE VIEWER (O) 134 The object even larger.
+C: CHEKOV
+D: Photon torpedoes armed...!
+C: ILIA
+D: Object is an asteroid, reading mass point seven... Impact in eight seconds... seven... six... five...
+E: consulting instruments
+C: DECKER
+D: Fire torpedoes...!
+C: CHEKOV
+D: Torpedoes away...!
+E: punching button
+S: 135 EXT. SPACE - PAST THE ENTERPRISE AND THE ASTEROID (S) 135
+N: as the starship's photon torpedo tubes EJECT GLOWING BALLS OF LIGHT ENERGY, which seems to float toward the oncoming asteroid, almost too slowly. And in these brief seconds, the asteroid hurtles at the Enterprise, the huge pitted rock growing even larger than the ship itself. It FILLS THE SCREEN, as the photon torpedoes hit, disintegrating the asteroid into thousands of fragments. Instantly, these fragments pulverize them- selves on the ship's forward forcefield and deflector screens. The smaller pieces burn up on impact, clearly outlining the ship's forcefield barriers.
+S: 136 INT. BRIDGE - INCLUDING MAIN VIEWER (O) 136
+N: The asteroid fragments still smashing into the force field screen; the smaller bits like SPARKLERS as im- pact heat consumes them. The larger sections bouncing away, the bridge QUIVERING as they hit. Then one final gigantic fragment strikes, the bridge SHUDDERS. And then the viewer shows only the normal SUB-WARP EFFECT: The stars ahead, relatively station- ary; a feeling of motion, but smooth, visually normal.
+C: CHEKOV
+D: We're out of it...!
+E: relieved
+C: DECKER
+D: We are at warp point eight. Position report, Navigator..?
+C: SULU
+D: Helm control restored, sir.
+C: ILIA
+D: Computing new interception course.
+C: UHURA
+D: Communications are normal, Captain.
+C: CHEKOV
+D: Negative damage report, sir. No casualties reported, sir.
+E: to Kirk to McCoy
+N: McCOY (tight) Wrong, Mr. Chekov, there are casualties. My wits! (to Kirk, indignant) As in 'frightened-out-of'...!
+C: DECKER
+D: Engineer... report status there.
+E: into intercom
+S: 137 INT. ENGINEERING 137
+N: with Scott and his crew pouring over the instruments -- all seem very grim. Scott, quite preoccupied, now speaks into the intercom.
+C: SCOTT
+D: In just a second, Exec; we're picking up the pieces down here.
+S: 138 INT. BRIDGE 138
+N: Kirk seeming to collect his thoughts now -- he gives Decker a look, uses the intercom himself:
+C: KIRK
+D: Warp Drive as soon as possible, Mr. Scott.
+C: SCOTT'S INTERCOM VOICE
+D: Captain, it was our anti-matter imbalance that created the wormhole in the first place. It will happen again if we don't correct it.
+E: protesting
+C: KIRK
+D: That object out there is less than two days from Earth, Mister Scott. We've got to intercept while it still is out there!
+C: SCOTT'S INTERCOM VOICE
+D: Aye, we understand that sir! We're doing our best.
+E: near annoyed
+N: as Kirk flips off the intercom, rises determinedly, faces Decker:
+C: KIRK
+D: Mr. Decker, I'd like to see you in my quarters. You have the conn, Mr. Sulu.
+E: toward helm
+N: McCOY (to Kirk) Mind if I tag along? Kirk gives McCoy an annoyed look, then strides to the elevator. Decker, grim, follows -- McCoy brings up the rear as they EXIT. 139 ANGLE FAVORING ILIA 139 gazing worriedly at the just-closed elevator doors, as Sulu is punching figures into his console.
+C: SULU
+D: Maintaining warp point eight; I show our new heading as 287 point three Mark 105.
+N: Ilia's attention is directed toward Decker.
+C: SULU
+D: Lieutenant Ilia...?
+E: continuing; gently reminding
+C: ILIA
+D: Confirmed, Mr. Sulu. Confirmed.
+E: a beat; then quickly
+N: And she punches in some equations, then again peers up at the doors where she last saw Decker. She is very concerned.
+S: 140 INT. KIRK'S QUARTERS 140
+N: The doors opening, Kirk entering, McCoy moves to b.g. while Decker stands attentively, waiting as Kirk turns to him.
+C: KIRK
+D: Explanation, Mr. Decker: Why was my phaser order countermanded?
+C: DECKER
+D: Sir, the Enterprise redesign increases phaser power by channeling it through the main engines. When they went into anti-matter imbalance, the phasers were automatically cut off.
+E: cool, polite
+N: Kirk is surprised by this information, perhaps slight- ly chagrined. After a beat:
+C: KIRK
+D: Then you acted properly, of course.
+C: DECKER
+D: Thank you, sir. I'm sorry I embar- rassed you.
+C: KIRK
+D: You saved the ship.
+C: DECKER
+D: I'm aware of that, sir.
+E: coolly
+C: KIRK
+D: Stop competing with me, Decker!
+E: flaring
+C: DECKER
+D: Permission to speak freely, sir?
+C: KIRK
+D: Granted.
+E: tight
+C: DECKER
+D: Sir, you haven't logged a single star hour in two and a half years. That, plus your unfamiliarity with the ship's design -- in my opinion, sir, seriously jeopardizes our mission.
+N: Kirk reacts with anger. Struggles for and regains control.
+C: KIRK
+D: I trust you will... nursemaid me through these difficulties, Mister?
+C: DECKER
+D: Yes, sir, I'll do that.
+N: Kirk peers at Decker, who stands facing him determinedly.
+C: KIRK
+D: Then I won't keep you from your duties any longer, Commander. Yes, Doctor?
+E: whirling at McCoy
+N: Kirk's last line has drowned out Decker's "Aye, sir." McCoy says nothing, waits until Decker is gone and the door closes behind him. Then: McCOY He may not be wrong, Jim. 141 OMITTED 141 142 142
+S: 143 INT. CORRIDOR 143
+N: Decker moving toward an elevator -- the elevator doors open, and there is Ilia. She steps out, faces him.
+C: ILIA
+D: Was he difficult?
+C: DECKER
+D: No more than I expected Not as difficult as this. I'm sorry...
+E: hesitates
+C: ILIA
+D: That you left? or that you didn't say 'goodbye'?
+C: DECKER
+D: If I'd seen you again, would you have been able to say it?
+C: ILIA
+D: No.
+E: long hesitation; then shakes head
+N: Ilia whirls, moves toward her stateroom door, which snaps open, then closes behind her. Decker stands gazing at the door, remembering, regretful. 144 OMITTED 144 144A INT. KIRK'S CABIN - KIRK AND McCOY 144A
+C: KIRK
+D: Get out of here, Bones.
+N: McCOY (shakes head) As ship's doctor, I am now discussing the subject of command fitness. Kirk's expression hardens.
+C: KIRK
+D: Make your point, Doctor.
+N: McCOY The point, Captain, is that it's you who's competing... (a beat, as Kirk reacts) You pulled every string in the book short of blackmail to get the Enterprise -- maybe even that. And when this mission is over, you have no intention of giving her back.
+C: KIRK
+D: I intend to keep her, is that what you're saying, Doctor?
+E: tight
+N: McCOY It's an obsession -- that can blind you so far more immediate -- and critical responsibilities. Your reaction to Decker is an example. Kirk studies him a beat; has McCoy touched a nerve? Something Kirk himself might have been unaware of? Kirk starts speaking, but is interrupted by:
+C: UHURA'S INTERCOM VOICE
+D: Bridge to Captain.
+N: 144B ANGLE TO INCLUDE CABIN VIEWER 144B as Kirk turns to it.
+C: KIRK
+D: Viewer on.
+N: At his VOICE COMMAND, the viewer comes on with AN IMAGE of Uhura at her console.
+C: UHURA FROM VIEWER
+D: Signal from a Federation-registered long-range shuttle, sir. She wishes to come alongside, and lock on.
+C: KIRK
+D: For what purpose?
+N: On the viewer, Chekov's IMAGE replaces Uhura.
+C: CHEKOV
+D: It is a courier, Captain. Grade One priority. Non-belligerency confirmed.
+C: KIRK
+D: Very well, Mr. Chekov, see to it. Viewer off.
+N: Viewer IMAGE FADES. Kirk turns back to McCoy whose question of Kirk's fitness still hangs there between them. Eye to eye - then, finally:
+C: KIRK
+D: Your... opinion has been noted, Doctor. Is there anything further?
+E: continuing beat
+N: McCOY I hope not. Kirk nods, exits. McCoy watches him go, hoping his point has gotten through. 145 OMITTED 145
+S: 146 EXT. SPACE - THE SHUTTLE (S) 146
+N: traveling at a rapid speed; it carries warp-capacity nacelles which dwarf the smaller to 10 position shuttle fuselage. The CAMERA HOLD ON THE SHUTTLE as it overtakes the Enterprise, the ENTERPRISE COM- ING INTO VIEW, and the shuttle slowing and beginning to move between the starship's giant nacelles.
+S: 147 EXT. SPACE - THROUGH WINDOW IN OFFICERS' LOUNGE - 147
+N: THE ENTERPRISE AND THE SHUTTLE (S) About the size of a fighter airplane floating in over the vastness of an aircraft carrier. The shuttle slows further, hovering now. Then its fuselage pod detaches from the warp drive nacelles -- the pod moving slowly but precisely toward the starship's command airlock.
+S: 148 INT. POD HATCH ENTRY AREA 148
+N: as we HEAR the CLANK and WHOOSH of the AIRLOCK MECHAN- ISM. Chekov is standing by with a security man. A moment later the hatch slips open - TO REVEAL Spock. A proud Spock, impassively Vulcan, almost contemptuously aloof. His hair is now trimmed in neat Vulcan style; he wears Vulcan attire simple, civilian, utilitarian.)
+C: SPOCK
+D: Permission to come aboard, sir?
+C: CHEKOV
+D: Granted, sir! Granted!
+N: Spock is already moving out of the pod entry area, im- passive, no greeting on his lips; no friendship in his expression.
+S: 149 EXT. SPACE - THE SHUTTLE LEAVING 149
+N: pulling away from Enterprise.
+S: 150 INT. BRIDGE 150
+N: The elevator doors open, and there is Spock. It takes everyone a moment to believe their eyes. Then, the Bridge crew AD LIB their surprise and pleasure.
+C: KIRK
+D: Spock...! Spock, where...how...?
+N: Kirk, smiling, is moving toward Spock with hand out- stretched. But Spock has already turned and moved toward the science console where Decker sits.
+C: SPOCK
+D: Commander, if I may...?
+N: 150A AT SCIENCE CONSOLE 150A It takes Decker a moment to realize that Spock wants to take over the console. He begins getting to his feet, throwing Kirk a look. But Kirk's attention is totally on SPOCK. And Spock is already intent on com- putations he is beginning to punch into the science console computer.
+C: SPOCK
+D: I have been monitoring your Starfleet transmissions, Captain, your engine design difficulties.
+N: Spock continues to punch information into the science computer -- a monitor screen IMAGE begins to show com- plex equations which Spock inspects -- he makes a further computer punch out and inspects a second monitor IMAGE of other equations. Only then does Spock seem to become aware of Kirk and Decker standing there with questioning expressions.
+C: SPOCK
+D: I offer my services as Science Officer.
+E: continuing
+N: Kirk starts to grin -- then remembers to wipe it off his face as he turns to Decker.
+C: KIRK
+D: If our Executive Officer has no objections...?
+C: DECKER
+D: Of course not. I'm aware of Mister Spock's qualifications.
+E: interrupting
+C: KIRK
+D: Mister Chekov, log Mister Spock's Starfleet commission reactivated; list him as Science Officer; both effective immediately.
+E: grinning openly now; turns, calls
+N: 151 ANGLE TO INCLUDE ELEVATOR DOORS 151 as they SNAP open -- McCoy and Chapel appear. Chapel sees Spock at the science console -- she moves in quickly, overjoyed. Even McCoy seems pleased.
+C: CHAPEL
+D: Mr. Spock...!!!
+N: McCOY So help me, I'm actually pleased to see you. But as Chapel crosses to Spock, her pleased smile brightening her whole face, Spock turns, dismisses her presence with a cold disinterested glance -- Chapel stops, stands dumbfounded. Spock gives McCoy a similar glance - turns back to his console readings as:
+C: UHURA
+D: That's how we all feel, Mister...
+N: The same cold glance causes Uhura to stop in mid- sentence. Several grins directed toward Spock are now fading from bridge crew faces. Spock has turned back again for a last quick reading at the console and now stands -- totally ignoring everyone else as he speaks coolly, unemotionally to Kirk:
+C: SPOCK
+D: With your permission, I will now discuss these fuel equations with the Engineer.
+N: Kirk manages a nod, a bit dumbfounded himself at Spock's strange manner. Spock heads for the elevator -- puz- zled expressions from the entire bridge crew. Then Kirk calls after him, very sincerely:
+C: KIRK
+D: Mister Spock, welcome aboard!
+N: Spock continues onto the elevator without any acknow- ledgment, leaves. Kirk glances, perplexed, at McCoy. McCoy, equally perplexed, shrugs. McCOY Never look a gift Vulcan in the ears, Jim.
+S: 152 EXT. SPACE - THE ENTERPRISE (S) 152
+N: traveling past the stars, sub-warp. OVER this:
+C: KIRK
+D: Captain's Log. Stardate 7413.4. Thanks to Mr. Spock's timely arrival - and assistance...
+E: V.O. buoyant
+S: 153 INT. ENGINEERING - SPOCK AND SCOTT 153
+N: Scott making an intermix chamber reading with a hand- held timer-temperature device which emits SIGNALS while Spock now in regulation uniform and hair trim, makes adjustments in the circuitry of a panel complex. Dur- ing the following, they will react as if they've solved the engine problem.
+C: KIRK
+D: ... we have the engines rebalanced into full warp capacity. Repair time less than three hours...
+E: V.O. continues
+S: 154 INT. BRIDGE - ALL BRIDGE CREW EXCEPT SPOCK 154
+N: Sulu at the helm, accelerating; just a touch of tense- ness in crew as they move toward the speed which earlier threw them into the "wormhole" effect.
+C: KIRK
+D: ... which means we will now be able to intercept Intruder while still more than a day from Earth.
+E: V.O. continues
+N: 155 ANGLE INCLUDING MAIN VIEWER (O) 155 Stars accelerating as Sulu calls off:
+C: SULU
+D: Warp point eight... point nine...
+N: The viewer shows the QUANTUM LEAP into warp drive. The stars ahead shift, streak and congeal into WARP EFFECT MASS.
+C: SULU
+D: Warp one, sir.
+E: continuing
+N: The others wait, then show relief as:
+C: SULU
+D: Warp two, sir... warp three...
+E: continuing
+N: He continues to seven.
+C: SCOTT'S INTERCOM VOICE
+D: Engineering to Bridge... New intermix balance holding steady. She's not even straining!
+S: 156 INT. OFFICER'S LOUNGE (O) 156
+N: Where, first, CAMERA SHOOTS THROUGH THE WINDOW, the myriad of stars, space, the whole magnificent vista. In the lounge, empty but for them, are Kirk and McCoy -- obviously awaiting Spock, who ENTERS and presents himself cold and aloof as before:
+C: SPOCK
+D: Reporting as ordered, Captain.
+C: KIRK
+D: Sit down, please.
+N: Spock remains standing, addresses Kirk:
+C: SPOCK
+D: Sir, I would appreciate Dr. McCoy absenting himself from this interview.
+C: KIRK I want him here.
+D: Sit down!
+E: indicating
+N: For an instant, it looks like Spock will refuse. Then, he complies but sits formally, rigidly. He ignores McCoy totally.
+C: KIRK
+D: You've reported that you felt
+C: strong thought emotions. A
+D: group of minds from a space vessel? Could you make out any plan, anything to do with Earth?
+C: SPOCK
+D: Negative, Captain. I could sense only what seemed an almost omniscient pattern of perfect logic. I can explain nothing more; I understand nothing more.
+E: still formally
+N: Kirk is clearly disappointed -- and a bit uncomfortable about what he must ask next. He exchanges a glance with McCoy, then:
+C: KIRK
+D: Also -- there was nothing in your report about why you're here.
+C: SPOCK
+D: That inquiry invades my personal life, Captain.
+N: McCOY Spock, we've already guessed why you're here...
+C: KIRK
+D: I inquired about you -- learned you were studying with the Masters...
+N: Although Spock has been almost infuriatingly emotionless, his expression shifts slightly. McCoy indicates this: McCOY That flicker of emotion confirms our guess. You failed.
+C: SPOCK
+D: Your deductions do you credit, Doctor... if your puerile curiosity does not.
+E: facing McCoy for the first time
+N: McCOY (not in amusement) And now, anger, Spock? Spock looks straight ahead -- his face instantly com- posed to almost total blankness.
+C: SPOCK
+D: I still contain fragments of my human half.
+E: beat; nods
+C: KIRK
+D: And whatever you sensed out here....
+C: SPOCK
+D: ... is my only hope of accomplishing what the Masters could not.
+N: McCOY If you achieve perfect logic, Spock, you'll pay a price. It's given your planet ten thousand years of peace, but no poetry's been written since then, no music. Spock has come to his feet fast - but Kirk is on his feet too, confronting him. During which:
+C: KIRK
+D: Let it drop, Bones. You are my Science Officer -- I'll expect an immediate report on anything further you learn or sense from here on.
+E: to Spock
+C: SPOCK
+D: I have accepted service here as a Starfleet officer... sir.
+C: KIRK
+D: I know this has been painful, Spock. For me too. Thank you.
+E: nods
+N: Spock EXITS. Kirk and McCoy exchange a troubled look, then EXIT too as CAMERA CENTERS AGAIN ON OBSERVATION WINDOW, the view of space there. 157 OMITTED 157 159 159
+S: 159A INT. BRIDGE - CLOSE ON CHEKOV'S HAND 159A
+N: pushing red alert. The ALERT SOUNDS; the red lights begin FLASHING.
+C: CHEKOV'S VOICE
+D: Red alert! Red alert!
+N: 160 BRIDGE ANGLE - INCLUDING MAIN VIEWER 160 All regulars in position (different uniforms), extra CREW hurrying in from elevators to man the remainder of the console positions. Decker is making a bridge circuit.
+C: KIRK
+D: Full mag on viewer!
+N: Sulu hits a control -- viewer seems to ZOOM AHEAD and in the distance we SEE a point of light which grows into the LUMINESCENT CLOUD. The same as seen by the Klingons and Starfleet's Epsilon Nine station. Myster- ious, beautiful, and menacing.
+C: KIRK
+D: Linguacode?
+E: continuing
+C: UHURA
+D: Continuing friendship messages on all frequencies, sir.
+C: CHEKOV
+D: All decks and divisions confirm status red.
+C: SPOCK
+D: We are being scanned, Captain.
+E: flat, impassive
+N: 161 ANOTHER ANGLE - ACROSS KIRK (AND DECKER) TO SPOCK 161 as Kirk whirls toward Spock's station, calls out:
+C: KIRK
+D: Do not return scan, Mr. Spock! It may be misinterpreted as hostility!
+C: SPOCK
+D: Intruder scans emanate from the exact cloud center. Energy of a type entirely un- known to me.
+C: UHURA
+D: No response to friendship messages, Captain.
+E: after a moment
+C: CHEKOV
+D: Should I go to battle stations, sir.
+C: KIRK
+D: Negative, We'll take no prov- ocative action.
+N: Decker has reacted sharply, disapprovingly, to this:
+C: DECKER
+D: Recommend defensive posture, Captain: Screens and shields.
+C: KIRK
+D: No... ... that could also be misinter- preted as hostile, Mr. Decker. Cloud composition, Mr. Spock?
+E: pause to Spock
+C: SPOCK
+D: Twelve power energy field --
+C: SULU
+D: -- twelve power?!
+E: in disbelief
+C: DECKER
+D: Captain, we've seen what their weapons can do. Shouldn't we take every possible precaution -- ?
+E: urgently
+C: KIRK
+D: Mr Decker....
+C: SPOCK
+D: Captain, I suspect there's an object at the heart of that cloud.
+E: interrupting
+C: KIRK
+D: Mr. Decker, I will not provoke an attack, If that order isn't clear to you...
+E: cool
+C: DECKER
+D: Captain, as your Exec, it's my duty to point out alternatives.
+E: interrupting in mid sentence
+N: A moment of thought from Kirk.
+C: ILIA
+D: Five minutes to Cloud boundary!
+C: KIRK
+D: I stand corrected Mr. Decker. Navigator, lay in a conic section flight path into the cloud center; bring us parallel to whatever we find in there...
+E: a look toward Ilia
+N: 162 FAVORING THE VIEWER (O) 162 The Cloud has now grown so large it DOMINATES THE ENTIRE VIEWER. Sulu hits a button, reducing magnif- cation. Immediately, the CLOUD diminishes in size -- but almost instantly begins GROWING AGAIN. Decker's annoyance (with Kirk) suddenly seems to dissipate as his total attention is diverted to the cloud. 162A ANOTHER ANGLE - SPOCK, DECKER AND KIRK 162A Decker turning to Spock
+C: DECKER
+D: That measures twelve power? Ten thousands of starships couldn't generate that much...
+N: Decker trails his words, realizing that Spock isn't hearing a word. Spock's attention is on the O.S. main viewer, totally absorbed by something he's feeling. He is slowly rising from his seat, stepping forward -- Kirk becomes conscious of this, turns and sees Spock's strange expression. Before he can speak:
+C: SPOCK
+D: They have... they have been communicating with us. I sense ... puzzlement. Why have we not replied?
+C: KIRK
+D: Communicated with us how?
+N: Spock shakes his head... then reacts as if sensing or theorizing something further. He turns, moves quickly to his console, begins there as if searching for something. Interrupted by another ALARM KLAXON.
+C: DECKER
+D: Signal medical alert, Mister Chekov!
+C: COMPUTER VOICE
+D: Incoming fire. Ahead. Zero, ... mark, zero. Incoming fire. Ahead. Zero, mark, zero.
+N: 163 FULL ON THE MAIN VIEWER (O) 163 showing a WHIPLASH ENERGY BOLT streaking from the Cloud!
+C: KIRK
+D: Forcefields now...! Deflectors up full!
+E: O.S.
+C: SULU
+D: Commencing evasive maneuvers... !
+E: O.S.
+N: Bridge begins to tilt. 164 REVERSE ANGLE 164
+C: CHEKOV
+D: Forcefields and deflectors up full, Captain.
+S: 165 EXT. SPACE - ENTERPRISE (S) 165
+N: The WHIPLASH ENERGY BOLT speeds toward the Enterprise, which veers sharply away now -- but WHIPLASH FOLLOWS.
+S: 166 INT. BRIDGE AND VIEWER (O) 166
+N: With the WHIPLASH ENERGY BOLT on the main viewer, closer and closer -- heading straight-on for the Star- ship. From the Bridge a CACOPHONY OF VOICES AND SOUNDS, but all organized and disciplined with the BRIDGE LIGHTING DIMMING and then as though traveling the last short distance (actually several million miles) in the wink of an eye -- the WHIPLASH OF ENERGY STRIKES. The bridge lights go out. In the sudden darkness, the main viewer is all at once a frantic, furious, pattern of GREEN-WHITE FLARING ENERGY, accompanied by an EXPLOSIVE SHRILLING SOUND. It seems to cling to the forcefields, the incredible energy of the forcefield barriers. 167 FAVORING CHEKOV'S STATION (O) 167 as a sheet of GREEN WHIPLASH ENERGY bursts from Chekov's console -- a LASH of FLAME engulfs Chekov's arm. Automatic fire control nozzles SPURT FOAM over him as he falls twisting and groaning in pain. Ilia reacts first, crossing quickly to assist Chekov -- Decker joins her, taking over Chekov's console. 168 OMITTED 168
+S: 169 EXT. SPACE - THE ENTERPRISE UNDER ATTACK (S) 169
+N: The SHEET OF WRITHING-GREEN ENERGY enveloping the entire vessel, outlining it starkly. (And outlining, too, the forcefield screens and deflectors -- batter- ing at them, seeking some gap through which to penetrate.)
+S: 170 INT. BRIDGE - FAVORING THE VIEWER (O) 170
+N: The bridge still darkened, and on the viewer the WHIP- LASH ENERGY splattering the entire viewing screen with GREEN ENERGY BRILLIANCE, forcing all to shield their eyes against the impossible glare. 171 OMITTED 171
+S: 172 INT. ENGINEERING 172
+N: A smoking panel BURSTS INTO A SHOWER OF SPARKS AND FLAME, spewing over and past Scott and his crew.
+C: SCOTT
+D: Bypass...! Alternate Integrators!
+S: 173 INT. BRIDGE AND VIEWER (O) 173
+N: as, first on the viewer, the WHIPLASH ENERGY BOLT EFFECT clings another moment then begins FADING. And then it is gone. The bridge lights go on again. Elevator doors open. Doctor Chapel and Medical Corps- men arrive and cross immediately to where Ilia tends to the injured Chekov.
+C: SULU
+D: The new screens held...!
+C: SCOTT'S INTERCOM VOICE
+D: Engineering to bridge; we cannot hold full power on forcefields; deflector power is down seventy percent!
+N: 173A CHEKOV'S STATION 173A Over the following, we will HEAR Captain Kirk AD LIB order; "Divert auxiliary systems power to deflectors!" and SCOTT INTERCOM VOICE answer: "All auxiliary power to deflectors, sir." Meanwhile, Chapel and Corpsmen giving medical treatment to Chekov who is in agony. Chapel is about to give an injection.
+C: ILIA
+D: No, I can stop his pain.
+N: The Deltan woman takes Chekov's upper arm in both her hands, kneading her fingers deep into nerve centers -- Chekov's pain begins to quickly recede and he is almost startled by the sudden relief. Doctor Chapel, now spraying plasti-skin on the burned hand and wrist, gives Ilia a surprised, approving look and a flicker of female friendship passes between the Deltan and Earth woman. (setting up a later story point) 174 CLOSE ON VIEWER (O) 174 The energy brilliance gone now, we can SEE the CLOUD is very close -- the closest we have seen it yet, and the Aurora effect is spectacular; a vast, dense blan- ket of SPARKLING, FLARING COLOR. 175 EMPHASIZING SPOCK 175 whirling abruptly in his chair, addressing Kirk:
+C: SPOCK
+D: Captain, the Intruder has been attempting to communicate! Now placing their transmission on the speaker...
+N: Immediately, from the SPEAKER we HEAR a SHRILL, IN- CREDIBLY FAST BEEP.
+C: SPOCK
+D: ... frequency more than one million megahertz at such high speed their entire message lasts only a millisecond.
+E: continuing
+N: 175A ANOTHER ANGLE 175A Chapel and Corpsman are assisting Chekov from the bridge (we'll have SEEN that the remarkable plasti- skin sprayed on his hand has completley covered the ugly burn marks - he is even able to move his fingers a bit). Ilia returns to her station -- a relief CREW WOMAN takes over from Decker at Chekov's console. 176 CLOSER ON SPOCK'S STATION 176 so we can SEE in more detail Spock's monitor -- various oscillating waves, and HEAR more of the SHRILL BEEPS as Spock manipulates his equipment, and continues:
+C: SPOCK
+D: I suspect our messages were too slow for them to be noticed. Programming computer to send linguacode at their rate.
+E: touches a control
+N: Decker has hurried in to assist the science console. Spock indicates a console area -- Decker works there -- Spock works another section of console buttons.
+S: 177 EXT. SPACE - THE ENTERPRISE AND THE CLOUD (S) 177
+N: The Cloud ever closer to the ship now, which is a mere dot in space compared to the immensity of the energy- seething, continuous color-exploding Cloud. And then, suddenly, from the Cloud -- ANOTHER WHIPLASH ENERGY BOLT. Bearing down upon the Enterprise.
+S: 178 INT. BRIDGE - INCLUDING VIEWER 178
+N: where the oncoming WHIPLASH BOLT is SEEN emerging from the Cloud. In the b.g., ALARM KLAXONS are SOUNDING, alert lights flashing, etc
+C: SULU
+D: Here it comes...!
+C: COMPUTER VOICE
+D: Incoming fire. Ahead, zero, mark, zero, point two. Incoming fire. Ahead, zero, zero, mark, zero...
+C: KIRK
+D: Engineering... what's happening to our forcefields?!
+E: into intercom
+S: 179 INT. ENGINEERING 179
+N: Much frenetic activity here, previous damage being repaired, the main shaft GLOWING BLUE-WHITE, ENGINES THROBBING AT FULL POWER, and a harassed Scott at the intercom:
+C: SCOTT
+D: Systems are overloading, Captain! Our shields cannot handle another attack!
+N: 180 OMITTED 180
+S: 181 EXT. SPACE - THE ENTERPRISE AND THE CLOUD (O) 181
+N: The WHIPLASH BOLT streaking toward the ship.
+S: 182 INT. BRIDGE 182
+C: KIRK
+D: Mr. Spock?
+E: desperately
+C: ILIA
+D: Impact in fifteen seconds...
+N: Spock -- Decker assisting -- works frantically. Spock is clearly dissatisfied, shakes his head tightly.
+C: KIRK
+D: Transmit, Mr. Spock! Now!
+C: ILIA
+D: Ten seconds....
+N: 183 CLOSER ON SPOCK'S STATION 183 as Spock hits the "transmit" button, and we HEAR the SHRILL BEEP SOUND (lasting but a fraction of a second), and Decker calls to Kirk:
+C: DECKER
+D: Transmitting...!
+C: ILIA'S VOICE
+D: ... five seconds.
+N: 184 ANGLE ON MAIN VIEWER (O) 184 where the WHIPLASH BOLT is now BRILLIANT, almost upon us! Then the WHIPLASH ENERGY BOLT abruptly VANISHES. In the blink of an eye, the entire EFFECT IS GONE. 185 REACTIONS 185 relief, incredulity.
+C: SPOCK
+D: It appears that our message has been understood, Captain.
+C: KIRK
+D: Any reply from them?
+E: to Uhura
+C: UHURA
+D: Negative, no reply, sir.
+C: KIRK
+D: Spock, have you sensed anything else?
+E: returning to Spock
+N: Spock turns, gives the O.S. viewer a glance. Then he shakes head.
+C: SPOCK
+D: The 'puzzlement' I sensed was fleeting... minor... ... as if carrying a sense of our insignificance, Captain.
+E: ponders, then
+C: KIRK
+D: Our... 'insignificance'?
+N: All have reacted to this; Kirk exchanges a look with Spock who nods firmly. Then Kirk sees that both Decker and Sulu are throwing him a questioning look. In b.g. McCoy and Chapel have EXITED bridge with Chekov.
+C: SPOCK
+D: We are obviously confronted by a highly advanced mentality... yet they cannot understand who we are, or what we want.
+C: KIRK
+D: But they understood our messages; they broke off the attack.
+C: DECKER
+D: They may have attacked only as a warning to us, Captain. To keep away.
+C: SPOCK
+D: That would presuppose a feeling,
+C: Commander... compassion. I sensed
+D: no emotion, only... ... pure logic.
+E: reverentially
+N: Kirk peers at Spock hoping for some assistance on the decision; but Spock merely peers back at him ex- pressionlessly: the decision is Kirk's. Kirk faces Spock one last beat, then turns and starts back to- ward his chair, calling to Ilia.
+C: KIRK
+D: Tactical plot on viewer.
+N: 185XC ANGLE INCLUDING MAIN VIEWER (O) 185XC where the IMAGE of the "powerfield Cloud: changes to a tactical plot of Enterprise's conic flight path ap- proach. It shows a large schematic of the Cloud itself as well as a series of FAINTLY BLINKING schematics of various recent positions and directional attitudes of the Enterprise during its approach. These blinking Enterprise schematics show that the starship has gone from a head-on approach to the Cloud into a (tech. advice) skidding movement around the Cloud (the star- ship always heading directly toward Cloud center), with the last Enterprise positions now showing it ap- roaching the Cloud from a quartering rear approach. 185XD REVERSE ANGLE 85XD
+C: ILIA
+D: Thirty seconds to Cloud boundary...
+C: KIRK
+D: Opinion, Mister. Spock?
+C: SPOCK
+D: Recommend we proceede, Captain.
+C: KIRK
+D: Mr. Decker... ?
+C: DECKER
+D: I advise caution, Captain; we can't withstand another attack.
+C: KIRK
+D: That thing is twenty hours from Earth. We know nothing about it yet.
+N: Decker glances around, moves close to Kirk so only Spock is able to overhear:
+C: DECKER
+D: That's precisely the point, Captain. We don't know it will do. Moving into the cloud -- at this time, is an unwarranted gamble.
+C: KIRK
+D: How do you define unwarranted, mister?!
+C: DECKER
+D: You asked my opinion, sir.
+N: Kirk looks at him, then at Spock, who once more is peering in momentary concentration at the viewer, feels Kirk's gaze -- and turns to him, again expres- sionlessly; it's up to Kirk.
+C: ILIA
+D: Fifteen seconds to Cloud Boundary.
+C: KIRK
+D: Viewer, standard ahead.
+N: 185XE ANGLE TO INCLUDE VIEWER (O) 185XE Main viewer IMAGE reverts to the "powerful cloud." All peer in grim fascination at the cloud another moment. Then: 186 OMITTED 186 187 Kirk sits contemplating his next move. Once again, the 187 decision is his. He looks to the Viewer a moment, then:
+C: KIRK
+D: Mr. Sulu, steady as she goes.
+E: to Helm
+C: SULU
+D: Aye, sir.
+S: 188 EXT. SPACE - ENTERPRISE 188
+N: as the Enterprise slowly enters deeper toward the chamber ahead. We SEE the sheer size of the Cloud as opposed to that of the small ship now entering unknown territory. As the Enterprise enters the Cloud:
+S: 189 INT. BRIDGE - REACTIONS AT WHAT THEY ARE SEEING 189
+N: On Viwscreen we SEE a vast array of IMAGES, spiralling IMAGES, changing in size, shape, colour. Its walls spinning and turning, looping and twisting, as the Enterprise proceeds further Into the Cloud. Amazed bridge crew members can do nothing but awe at the sight before thier eye's. Even Spock has turned to view the sight now illuminating the View screen. Kirk sits pondering, amazed, thinking "What comes next?"
+S: 189A EXT. SPACE - ENTERPRISE AND V'GER 189A
+N: Moving slowly through the maze of VISUAL'S seen from the Main Viewer.
+S: 190 INT. BRIDGE - INCLUDING THE VIEWER (O) 190
+N: as the CLOUD OBSCURES all now. Everyone gazes at the viewer, almost mesmerized by the shifting violet power- field displays.
+C: KIRK
+D: No vessel could generate a powerfield of this magnitude...
+E: staring at viewer, frustrated, awed
+C: SPOCK
+D: Instruments fluctuating, Captain. Patterns unrecognizable.
+C: SULU'S VOICE
+D: Captain....!
+N: 191 ANGLE ON SULU 191 Sulu peering toward O.S. main viewer, his eyes wide with incredulity. 192 OTHER REACTIONS 192 Crew peering at O.S. main viewer with expressions of near disbelief. Similar reactions as Kirk and Decker turn too, reacting to: 193 WHAT THEY SEE ON MAIN VIEWER (O) 193 (V'GER THEME MUSIC UP) The Cloud "Aurora" EFFECT rapidly thinning -- in the "eye of the hurricane" center of the Cloud is the object which has stunned the entire bridge crew. Rapidly growing in size -- already frighteningly huge. Totally alien in look. Its enormous bulk is irrides- cent, faintly glowing, suggesting that it is made up of exotic combinations of matter, and energy far beyond the scientific knowledge or ability of Earth's 23rd Century technology. Menacing and yet strangely beautiful, both at the same time. 194 VARIOUS ANGLES ON THE BRIDGE CREW AND THE VIEWER 194 197 197 The Object continues to GROW RAPIDLY IN SIZE as the Enterprise continues moving toward it. Everyone is awed; even Spock, from whom we discern an involuntary, impressed reaction. Decker is with Spock at the science console.
+C: DECKER
+D: Incredible dimensions, Sir! ... I make it as seventy-eight kilometers in length...
+N: All digest the dimensions, as: 198 ANGLE ON THE BRIDGE ELEVATOR DOORS 198 opening to admit McCoy and Chekov, whose face and hands are taut with plastiskin applications. Seeing the object on the viewer (O.S. at this ANGLE), Chekov's eyes open with wide astonishment. He crosses quickly to his weapons--defense station, his eyes on the viewer. McCoy, eyes also fixed on the sight, moves to Kirk's side.
+C: UHURA
+D: It could hold a crew of tens of thousands...!
+N: McCOY Or just one thousand, ten miles tall.
+C: KIRK
+D: Evaluation, Mister Spock?
+N: 199 ACROSS KIRK TO SPOCK 199 (This will be the first time we've seen Spock dislay- ing a definite reaction, almost an emotion.) So engrossed is Spock in the main viewer IMAGE that he appears not to have heard Kirk, whose AD LIBS a sharp "Mr. Spock...!" Spock looks absently at Kirk an instant, then:
+C: SPOCK
+D: That vessel is generating a forcefield measurably greater than the radiation of the Earth's sun.
+E: awed; compelled
+C: KIRK
+D: Transmit image of the Alien to Starfleet; advise we are attempting further communication.
+E: turns to Uhura
+C: UHURA
+D: Unable to make contact with Starfleet. Our transmissions out of the Cloud are being reflected back.
+E: interrupting
+C: ILIA
+D: Distance to object now seventy- thousand kilometers...
+C: SULU
+D: We're closing in on it rapidly, Captain.
+E: turning; concerned
+N: Concern reflected on the faces of others too. Kirk considers his next move. 200 OMITTED 200 203 203
+S: 204 EXT. SPACE - ENTERPRISE AND ALIEN 204
+N: CAMERA TRAVELING WITH ENTERPRISE as it moves on a parallel--closing course -- Alien continues to GROW IN SIZE. Although it already seems an impossibly large vessel compared to the Enterprise, in reality they are still tens of thousands of kilometers apart; the incredible size of the Alien is nowhere near being realized yet.
+S: 204A INT. BRIDGE - INCLUDING VIEWER 204A
+N: Tension high as -- the Alien now appears so close that its IMAGE MORE THAN FILLS VIEWER. Considerable tension of bridge -- crew members, throwing nervous looks from viewer to Kirk. How much closer?!
+C: KIRK
+D: Reduce magnification. Factor 4, Mr. Sulu.
+C: SULU
+D: We're already two settings below that, sir.
+E: uneasy
+C: KIRK
+D: Adjust parallel course, Navigator. Bring us in to one hundred kilometers distance.
+E: reacts, then
+N: Very nervous looks now directed toward Kirk. Even Spock gives him a glance, a raised eyebrow.
+S: 205 EXT. SPACE - CAMERA TRAVELING WITH ENTERPRISE 205
+N: The Alien Object appears A DOZEN TIMES LARGER THAN ENTERRISE and still GROWING IN SIZE. We begin to SEE Alien exterior detailing which had not even been suspected at a longer distance. The Enterprise is now quartering in toward the Intruder, coming closer and closer. The Alien vessel is still GROWING IN SIZE -- more and more, its exterior appears to be made of substances never before seen by a human eye -- substances considered possible only in the wildest flights of scientific theory -- plasma-matter, energy fields diamond--hard in their power, solid sheets of subatomic particles, crystalline-lace patterns which seem capable of shifting their nature and rearranging themselves. 205A ANGLE ON INTRUDER 205A This time, the Enterprise travels on away from us, as its course takes it angling nearer and nearer the gigantic Alien Intruder -- the Starship dwindling in size, growing smaller, smaller, smaller... until it is a tiny dot compared to the enormity of the Alien vessel.
+S: 206 INT. BRIDGE - VIEWER (O) 206
+N: We are coming alongside the mid-section of the Alien vessel, now so huge that only a small section of it now completely fills main viewer frame.
+C: SULU
+D: One hundred kilometers...
+C: KIRK
+D: Hold relative position here...
+N: Kirk's voice is blotted out by a DEAFENING, SHRILL- ING SOUND, accompanied by a multi-hued point of LIGHT which EXPLODES into BLINDING INTENSITY, obscuring everything for an instant. Overlapping this action, we HEAR:
+C: COMPUTER'S VOICE
+D: Intruder alert...! Intruder alert!
+N: Continues. 207 OMITTED 207 208 THE PLASMA ENERGY PROBE (O) 208 The BLINDING LIGHT FADES and in its lace we SEE a strange "entity" shocking us with its frightening appearance and its ugly-sounding THROBBING HUM of power. It is about seven feet tall and resembles a "blob" of raw energy in shifting patterns and colors of deep, ugly hues of upper spectrum violet. Yet, it looks strangely alive. At the end of the "tendril" (of light) is an "eye" (a small multi-colored device) 209 CREW REACTIONS -- ELEVATORS IN B.G. (O) 209 The bridge crew reacting hard, shocked and shaken -- the THROBBING SOUND of the Alien thing intensifies as it begins to move across the bridge. Suddenly, in b.g., an elevator door snaps oen and two SECURITY MEN burst onto the bridge, phasers drawn. Chekov shouts warningly at the Men:
+C: CHEKOV
+D: No weapons...!
+N: But Chekov is too late: First Security Man FIRES -- the BLAST harmlessly absorbed by the Probe which emits a SCREECHING nerve-grating SOUND --- sends out a SMALL WHIPLASH ENERGY BOLT which instantly envelopes First Security Man in a PURPLE GLOW (of implosion). Second Security Man has almost lifted his phaser -- but now carefully, slowly is moving his hand away from his weapon. 210 CLOSER - THE SECURITY MEN (O) 210 PURPLE GLOW FADES, the First Security Man has simply vanished. 210A FULL SHOT - BRIDGE 210A Chekov, like the others, horrified, flips a switch and the COMPUTER-VOICE ("Intruder Alert") goes OFF. At the same time Chekov speaks into his intercom:
+C: CHEKOV
+D: Security... do not send further teams!
+N: The Probe is sending out snake-like tendrils to the various consoles on the bridge. These tendrils lash out in a cobra-strike movement, the tendril-head seeming to enter into the console affected -- at which time all monitors and instrument lights there come ON as if the Probe is "reading" each console function. The crew carefully stays clear of the tendrils. Spock has risen, moving to Kirk's side as he slowly brings his tricorder up, very carefully extracting its tiny sensor and aiming it at the probe.
+C: CHEKOV
+D: No intruder readings on other decks, Captain... Can that be one of their crew?
+E: shaken to Spock
+C: SPOCK
+D: A probe from their vessel... A plasma-energy combination...
+E: quiet to Kirk
+N: Meanwhile, the probe is now hovering near Chekov who sits frozen, fists clenched, jaw tight.
+C: DECKER
+D: Don't interfere with it...!
+C: CHEKOV
+D: Absolutely, I will not interfere!
+N: 210B ANGLE INCLUDING SPOCK'S CONSOLE (O) 210B as the "probe" withdraws an energy-tendril from one bridge station and "inserts" it into another console.
+C: KIRK
+D: No one interfere...! It doesn't seem interested in us -- only the ship...!
+N: Kirk's words are never completed as suddenly all the energy tendrils withdraw from all consoles and a larger, more powerful-looking tendril lashes out, snaking into the science console complex. 210C CLOSER ON SCIENCE CONSOLE 210C Where, also immediately, all the console and computer lights are suddenly flashing wildly, rapidly -- -- There is an incredibly fast EXCHANGE OF HIGH-PITCHED BEES -- the computer obviously in unauthorized commu- nication with the probe!
+C: KIRK
+D: Computer off!
+C: DECKER
+D: It's taken control of the computer...!
+C: KIRK
+D: It's running our records! Starfleet strength, Earth defenses...
+N: As Decker moves to the main power control, Spock now steps in, his Vulcan strength easily brushing Kirk and Decker aside. Spock clasps his fists above his head, brings it down in a SHATTERING BLOW on the console. It splits open! As the bridge lights dim even more, and as the science console shorts itself out -- and off, Decker confronts Spock:
+C: DECKER
+D: We could have cut it off at the main computer...
+C: SPOCK
+D: This served the purpose.
+N: Kirk has been giving Spock a puzzled look -- Spock now turns abruptly, and: 210D ANOTHER ANGLE (O) 210D as Spock, in stepping back, accidentally brushes the probe's energy tendril -- a FLASH OF LIGHT at the contact point sends Spock sinning under the rail and to the floor near Ilia. The probe's energy-tendril has withdrawn from the darkened science console, hov- ers high over the dazed Spock as if angrily seeking the reason for the break in its computer contact. Spock starts to rise.
+C: ILIA
+D: Mr. Spock, don't move...!
+N: Decker steps toward her, AD LIBBING a grim "Ilia...!" But he has no chance as: 211 OMITTED 211 219 219 220 CLOSER ON ILIA (O) 220 The Probe hovers over her, its whole mass seemingly about to envelope her with a single tendril extended toward her, somehow freezing her into immobility - and then the entire Probe DISSOLVES IN A BLINDING FLASH OF WHITE, obscuring Ilia. Almost instantly the WHITE FLASH FADES -- but Ilia has vanished -- her tricorder clattering to the deck. 221 OMITTED 221 222 ACROSS THE NAVIGATOR'S STATION TO KIRK AND DECKER 222 helpless, shocked, gazing at the place Ilia was -- but which is now empty.
+C: DECKER
+D: This is how I define unwarranted!
+E: to Kirk, quiet fury
+N: And almost at the same moment a new BRIDGE ALARM SIGNAL. 223 OMITTED 223 232 232 233 The ALARM still sounding as from the giant alien ves- 233 sel, we SEE STRANGE, OPAQUE ENERGY PATTERNS STREAKING TOWARD US. Kirk vaults to the command chair, lunges for controls, as Decker races to the weapons-defense console.
+C: DECKER
+D: The ship is under attack...! Man all defensive stations...!
+E: voice amplified
+C: KIRK
+D: Forcefields, full remaining strength...! Total reserve!
+N: Appropriate ALARM KLAXONS, and COMPUTER VOICES begin SOUNDING, and all this is lost in a SUDDEN SHRILLING SOUND (a constant, high-pitched tone). For a moment the energy patterns are prominent on the viewer -- and then the PATTERNS VANISHED and the SHRILL SOUND
+T: FADES -- and:
+N: 234 FAVOR THE VIEWER (O) 234 showing V'ger GROWING RAPIDLY IN SIZE. The Enterprise is being pulled along the length of the big ship, toward its "prow."
+C: SPOCK
+D: Captain, we have been seized by a tractor beam...!
+C: KIRK
+D: Get someone up here to take the Navigator's station...! Engineering... full emergency power!
+E: to Decker into intercom
+C: DECKER
+D: Chief Difalco to the bridge; on the double!
+E: into intercom
+N: 234A ENGINEERING 234A in a state of controlled chaos, all personnel at their stations, the Engine CORE GLOWING. Scott is working his controls, speaking into the intercom:
+C: SCOTT
+D: Going to full emergency... But Captain, if we don't break free in fifteen seconds, she'll burn up...
+E: studying readings
+S: 234B INT. BRIDGE - FAVORING SPOCK 234B
+N: as Spock studies his readings, and:
+C: SPOCK
+D: We cannot break free, Captain. We do not have a fraction of the power necessary.
+E: indicates monitors
+C: KIRK
+D: Delay that order, Scotty...! Disengage all main drive systems!
+E: into intercom
+N: Spock peers in deep concentration at the Main Viewer, trying to sense some clue. Kirk glances at him another moment, then turns to the Main Viewer himself, watches in frustrated helplessness.
+S: 235 EXT. THE ENTERPRISE BEING PULLED TOWARD V'GER (S) 235
+N: the starship being pulled toward the giant as though on a taut cable. As we MOVE CLOSER, we SEE still more intricate details of the incredible Alien design.
+S: 236 INT. BRIDGE - INCLUDING VIEWER (O) 236
+N: as Difalco arrives on the run, and Decker AD LIBS to her, "Assume Navigator's station, Chief...!" Difalco, bewildered, wants to ask what happened, but no time, and she quickly sits at the post, begins orienting herself. Meanwhile, Decker has begun an Executive Officer's bridge circuit, assisting with various con- soles. Kirk is glancing toward Spock who continues concentrating on the Viewer, striving to comprehend the myriad of thoughts he is sensing from he Aliens. McCoy also arrives on the bridge, takes in the chaotic scene, watches the Viewer grimly. 237 OMITTED 237 238 238
+S: 239 EXT. ENTERPRISE AND V'GER (S) 239
+N: At the forward end of the giant, an odd-shapped "iris" begins opening menacingly. And it is frighteningly obvious that the tractor beam is pulling the Enterprise to the opening.
+S: 240 INT. BRIDGE - INCLUDING VIEWER (O) 240
+N: showing the unusual "iris" now almost fully open as Enterprise is drawn closer, closer -- through the "iris" we now SEE (some of) V'ger's interior: a dark void relieved only by strange flickering glows of dis- tant ENERGY FIELD PATTERNS. The crew reacts with understandable awe, apprehension, curiosity, as:
+C: DECKER
+D: Captain, suggest a maximum phaser strike directly at the beam might weaken it just enough for us to break free --
+N: Spock replies for Kirk: quickly, as though to make his point convincingly:
+C: SPOCK
+D: Break free to where, Commander...? Any show of resistance would not only be futile, Catain...
+E: to Kirk
+N: 240XA ACROSS SPOCK TO KIRK (DECKER AND McCOY IN B.G.) 240XA as Kirk reacts somewhat curiously to Spock's remark, but it is Decker who articulates it:
+C: DECKER
+D: We don't know that, Mr. Spock. Why are you opposed to trying?
+E: troubled; suspicious
+N: Before Spock can reply:
+C: UHURA
+D: They're pulling us inside...!
+N: All face the Viewer again, react, with McCoy who has been observing all these reactions now galvanized into action: McCOY (to Chekov) Medical observers to all decks! And he hurries toward the elevators, CAMERA WITH HIM a moment, then SWINGING BACK TO: 240A PAST KIRK TO VIEWER (O) 240A Kirk staring at the viewer -- the "iris" now fully open so that the exterior of V'ger is no longer visible -- and all we can SEE is the monstrous void dead ahead, which is looming faster and larger before our eyes. And now we are inside. 241 OMITTED 241 243 243
+S: 244 EXT. ENTERPRISE AND V'GER - AT THE "IRIS" (S) 244
+N: Enterprise now being pulled past the opening -- into the ship proper. Now we can SEE that the dark void is actually a vast chamber, dimly and intermittently lit by POWERFIELDS appearing and vanishing along the vessel's inner walls, which are miles away in the distance. And here and there in the chamber gigantic ENERGY DISPLAYS erupt briefly with a certain symmetry that suggests they must be part of V'ger's ower or control systems.
+S: 245 INT. BRIDGE - INCLUDING VIEWER (O) 245
+N: Kirk peering awed at the Viewer, the incredible sight of the chamber -- suddenly glances up to see that Spock is standing beside him -- Decker nearby, turns to Spock:
+C: DECKER
+D: Why bring us inside? Not to destroy us; they could have done that outside.
+E: to Spock
+C: KIRK
+D: They could have many ways of destroying things, Mr. Decker.
+C: SPOCK
+D: Something about us puzzles them... perhaps even concerns them.
+E: peering at Viewer
+N: 245A ANGLE ON UHURA 245A Reacting to a console reading:
+C: UHURA
+D: Captain, photic-sonar readings indicate the aperture is closing; we're trapped, sir...!
+S: 246 EXT. THE ENTERPRISE ENTERING V'GER (S) 246
+N: The starship is pulled inside, the "iris" is closing behind it.
+S: 247 INT. BRIDGE - FAVORING THE VIEWER (O) 247
+N: The viewer image changing from the huge dark chamber, rear angle shot, showing the "iris" closing.
+C: SULU
+D: Reverse angle on the viewer, Captain.
+N: On the viewer the final glimmer from exterior space as the "iris" closes completely. 248 REACTIONS 248 All eyes on the viewer, CAMERA FINDING ONE FACE AFTER ANOTHER, the reality of the situation etched into each face. Then: 248A FAVORING KIRK 248A As Spock turns from a reading:
+C: SPOCK
+D: The tractor beam has released us, Captain.
+C: DIFALCO
+D: Confirmed: Vessel is floating free. No forward momentum.
+C: KIRK
+D: Viewer ahead.
+C: SULU
+D: Viewer ahead, sir.
+N: 248B INSERT - MAIN VIEWER 248B Ahead, the cavernous interior of V'ger. 248C BACK TO SHOT 248C Kirk eying the main viewer -- Decker watching Kirk.
+C: KIRK
+D: Maneuvering thrusters, Mr. Sulu; ahead one third. Full sensor scan, Mr. Spock; they can't expect us not to look them over now!
+E: to Spock
+C: SULU
+D: Thrusters ahead, one third.
+E: manipulating controls
+C: SPOCK
+D: Commencing sensor scans.
+E: manipulating controls
+N: Kirk rises, goes to Spock's station.
+S: 249 INT. V'GER ENTRANCE CHAMBER - ENTERPRISE (S) 249
+N: The Enterprise moving slowly forward in this vastness, its running lights merely specks of light, candles in the darkness. In the distance those occasional ERUPT- ING POWER DISPLAYS in distant locations, sizes, shapes and patterns.
+S: 250 INT. BRIDGE - INCLUDING MAIN VIEWER (O) 250
+N: showing another persective of the above, and further away GLOWING ENERGY FIELDS dimly illuminating the alien ship's walls -- miles away. Strange semi--solid LIGHT SHAPES (some are "sensor-bee" swarms) traverse the dark- ness in random directions. But in the distance ahead, there seems to be an opening to another chamber.
+C: SULU
+D: Something ahead, sir; looks like another area... It's closing up...!
+E: of Viewer reacts
+N: Sulu is indicating what appears to be a lace-bulwark of POWERFIELD PATTERNS closing off the "chamber" in the distance ahead. Kirk, from the Science Station calls out:
+C: KIRK
+D: Hold station...!
+C: SULU
+D: Thrusters at station keeping...
+E: manipulating controls
+N: 251 ANGLE EMPHASIZING SPOCK 251 at his Science consoles, working rapidly, shifting from one set of controls to another. Now he hits a master control -- his console monitors FLASH, then go dark.
+C: SPOCK
+D: Captain...
+N: Spock brings a monitor IMAGE ON again, indicates a (Povill) pattern showing a line hitting something, then reversing direction.
+C: SPOCK
+D: All scans are being reflected back, Captain. Our sensors are useless.
+E: continuing
+N: 251A ACROSS THEM TO THE MAIN VIEWER 251A Kirk reacts with disappointment, indicates the main viewer.
+C: KIRK
+D: Have you been able to analyze any of this...?
+C: SPOCK
+D: I believe the light flares to be energy fields -- undoubtedly part of the vessel's inner mechanism.
+E: voice increasingly reverential
+C: A technology so incredibly
+D: sophisticated that I cannot --
+C: COMPUTER VOICE
+D: Intruder Alert! Intruder Alert..!
+E: overlapping continues
+N: 252 OMITTED 252 253 253 254 ANGLE ON CHEKOV 254 Reacting to a console reading:
+C: CHEKOV
+D: Deck four, Captain; Officers' Quarters...!
+C: KIRK
+D: Have a security team meet me at Deck Four main elevator!
+E: to Chekov
+N: A moment's reaction from all at this, Kirk hurrying toward elevator, calling:
+C: KIRK
+D: Take the conn, Mr. Decker: Hold present position... Spock...
+E: continuing gesturing Spock to join him
+N: And Spock rises, joins Kirk and they hurriedly exit, the CAMERA SWINGING BACK to Decker, his perplexed con- cern (because of Ilia).
+S: 254A INT. ILIA'S CABIN - THE SONIC SHOWER 254A
+N: Where we SEE, behind the translucent stall door, what is unmistakably the form of the NUDE FEMALE.
+S: 255 INT. ILIA'S CABIN - KIRK 255
+N: entering, Spock slightly behind him - and one Security Guard. Kirk glances around the room, now glances at the shower area and reacts as he sees the NAKED FORM. The others react similarly, even Spock cannot help re- pressing an expression of surprise. A moment's uncer- tainty as Kirk peers at them, then he steps to the stall door, hesitates another instant -- then slides the door open. (NOTE: Arrange lighting for bizarre, mysterious effect.) Kirk's eyes cannot believe what he is seeing: 255A "ILIA" 255A standing in the sonic mist, naked but for a small multi-colored button embedded in her throat. As she looks at Kirk -- and the others -- the men peer back at her, speechless.
+C: "ILIA"
+D: I have been programmed by V'ger to observe and record normal functioning of the carbon-based units infesting USS ENTERPRISE.
+N: Kirk peers at her another nonplussed moment, then leans into the shower to touch a control, his eyes fixed on the lovely body behind the mist. He punches in a three digit code. Immediately a HUMMING SOUND emanates from the shower stall, Kirk closing the door, but 'Ilia" remaining inside. 256 ACROSS KIRK AND THE OTHERS TO THE SHOWER STALL 256 The HUMMING SOUND just now reaching a gentle crescendo -- through the translucent door you can see COLORS ENVELOPING "ILIA'S" FORM. And now the SOUND STOPS. "Ilia", attired in a leisure robe, steps from the stall, into the room. She stands facing Kirk, her face impas- sive, eyes unblinking. He looks her back a moment, then glances at Spock, who is gazing at "Ilia" in abso- lute fascination. Kirk addresses her:
+C: KIRK
+D: Who is...'V'ger'...?
+C: "ILIA"
+D: V'ger is that which programmed me.
+C: KIRK
+D: Is V'ger the Captain of the alien vessel?
+N: 256A ANGLE ON THE DOOR - McCOY 256A rushing in, concerned: McCOY Jim, what's -- At the sight of 'Ilia", McCoy's words die in his throat -- and his trained eyes have instantly told him some- thing is awry. He unslings his tricorder, aims the sensor unit at "Ilia". As he reads his instruments, his face reveals the results (incredulity, fascination). Meanwhile, from the start:
+C: "ILIA"
+D: V'ger is that which seeks the Creator. McCOY Jim, this is a mechanism...!
+E: of "Ilia"
+N: Kirk stares at McCoy, then at "Ilia" and realizes that "Ilia" is indeed non-human. And quickly:
+C: KIRK
+D: Where is Lt. Ilia?
+C: "ILIA"
+D: That unit no longer functions. I have been given its form to more readily communicate with the carbon-based units infesting Enterprise.
+C: SECURITY GUARD
+D: "Carbon-based units"...?
+N: McCOY (drily) Humans, Ensign Lang: us. (continues tricorder exam, increasingly impressed)
+C: KIRK
+D: Why does V'ger travel to the third planet of the solar system directly ahead?
+E: to "Ilia"
+C: "ILIA"
+D: V'ger travels to the third planet to find the Creator.
+N: Stunned, disbelieving reactions as all four attempt to digest this -- Spock gazing at "Ilia" with even more rapt fascination. Kirk, bewildered, addresses the others:
+C: KIRK
+D: Find the Creator? What Creator? Whose...!? What does V'ger want of the 'Creator'... ?
+E: to "Ilia"
+C: "ILIA"
+D: To join with him.
+N: 256B FAVORING SPOCK 256B suddenly alert, addressing "Ilia":
+C: SPOCK
+D: Join with the Creator... ? How?
+C: "ILIA"
+D: V'ger and the Creator will become One.
+C: SPOCK
+D: Who is the Creator?
+N: McCOY (worried) Mr. Spock, be careful.
+C: "ILIA"
+D: The Creator is that which created V'ger.
+C: KIRK
+D: Who is V'ger?
+C: "ILIA"
+D: V'ger is that which seeks the Creator.
+N: Another moment of total exasperation, frustration, during which "Ilia" seems to be waiting politely, patiently for any further questions. When none are forthcoming:
+C: "ILIA"
+D: I am ready to commence my observations.
+E: continuing; pleasant, bland
+C: SPOCK
+D: Doctor, a thorough examination of this probe might provide some insight into those who manufactured it, and how to deal with them.
+E: fast; to McCoy
+N: McCOY Let's get her to sickbay. And he grasps "Ilia's" arm to escort her. But is as though he has seized cast iron: immovable. McCoy is thrown off balance merely by 'Ilia's" remaining sta- tionary. She ignores McCoy, addresses Kirk:
+C: "ILIA"
+D: I am programmed to observe and record normal functioning procedures of the carbon-based units.
+N: 256B Kirk glances at McCoy, who is totally bemused, but then 256B Kirk quickly responds to "Ilia":
+C: KIRK
+D: The examination is a normal function.
+C: "ILIA"
+D: You may proceede.
+E: a beat
+N: McCOY (carefully) Thank you. 257 CLOSE SHOT OF EXAMINING ROOM VIEWER (O) 257 scanning a "body". PULL BACK TO SHOW McCoy, Chapel, Kirk, Spock and Chekov -- standing over "ILIA" who lies prone on the table, the physicians moving the scanner over her. McCOY (from the start; indicating) ... micro-miniature hydraulics, sensors, molecule-sized multi- processor chips... and look at this... In the b.g., Decker enters, grimly observes the proceed- ings.
+C: CHAPEL
+D: An osmotic micro-pump... here and here. Even the smallest body functions are exactly duplicated. And every exocrine system is here, too --
+E: impressed traces with finger on screen
+N: Chapel breaks off abruptly, noticing "Ilia" is peering intently -- almost with a glimmer of recognition -- at Decker. Slightly disconcerted, Chapel continues:
+C: CHAPEL
+D: -- even eye moisture.
+E: continuing
+C: "ILIA"
+D: Deck -- er.
+E: peering at Decker
+N: 257A FAVORING SPOCK 257A as everyone reacts to "Ilia's" utterance of Decker's name. It seems to make the deepest impression on Spock, confirming something he has suspected.
+C: SPOCK
+D: Interesting. Not 'Decker-unit'?
+E: to "Ilia"
+N: "Ilia" continues peering at Decker with just a hint of a puzzled frown, a glimmer of distant recognition. It's the first time we've seen her expression look anything but cool and bland. This results in the quizzical rising of one of Spock's eyebrows. 258 ANOTHER ANGLE 258 McCoy's examination now turns "Ilia" away from the others. Spock quickly catches Kirk's and Decker's attention, indicates an adjoining door -- they fol- low him out of the room. 259 INT. McCOY'S OFFICE 259 as Kirk, Spock and Decker enter, the door snapping shut -- and Spock touching the electronic lock to secure them. He faces the others:
+C: SPOCK
+D: Captain... this probe may be a key a key to the Aliens.
+C: DECKER
+D: It's a programmed mechanism, Mr. Spock...
+C: SPOCK
+D: We have just seen that its body duplicates our navigator in precise detail. Suppose that beneath its programming, the real Ilia's memory patterns are duplicated with equal precision.
+C: KIRK
+D: They had a pattern to follow...
+C: SPOCK
+D: ... they may have followed it too precisely.
+E: nods
+C: KIRK
+D: Ilia's memory, her feelings of loyalty, friendship, obedience... might all be there.
+E: comprehending
+N: 259A ANGLE ON DECKER 259A also comprehending, and not liking it one bit as Spock and Kirk are both turning their attention to him.
+C: SPOCK
+D: Exactly. And you did have a 'relationship' with Lieutenant Ilia, Commander.
+E: to Decker
+C: DECKER
+D: That probe in there -- in a different form now -- is the same thing that killed Ilia!
+C: KIRK
+D: Commander, we're locked in an alien vessel, six hours from Earth orbit, our only contact with our captors is the probe. If we can control it, persuade it, use it in some way...
+N: Interrupted by the SOUND of someone trying to open the locked door behind them. Then a METAL RIPPING SOUND as they whirl to see: 260 MEDICAL OFFICE DOOR 260 with the METAL BUCKLING, TEARING -- and a single hand slicing the steel door like paper. It is the "Ilia" probe, her face absolutely impassive, her whole manner incongruously benign. (Behind her, a startled McCoy, Chapel and Chekov.) "Ilia" speaks flatly, blandly.
+C: "ILIA"
+D: I have recorded enough here. You will now assist me further.
+E: motions to Kirk
+N: Kirk exchanges a quick glance with Spock. Then:
+C: KIRK
+D: The Decker-unit can assist you with much greater efficiency...
+E: indicating Decker
+N: "Ilia" has seemed about to object -- but now her eyes hold on Decker. Then she nods.
+C: KIRK
+D: Carry on with your assignment, Mr. Decker.
+E: continuing
+N: 260A ANOTHER ANGLE - ACROSS DECKER TO THE SMASHED DOOR 260A (AND "ILIA") as Decker looks at "Ilia" who stands at the torn door. You can read Decker's mind: I'm supposed to persuade that?! He turns back, finds Kirk's eyes on him. Decker nods.
+C: DECKER
+D: Aye, sir.
+N: "Ilia" and a reluctant Decker EXIT. 260B EMPHASIZING SPOCK 260B looking very troubled as they watch Decker and "Ilia" leave. Kirk notices.
+C: KIRK
+D: Spock? Concerned about his chances?
+C: SPOCK
+D: I am uneasy with that being our only hope of more information.
+N: Spock EXITS.
+S: 261 INT. V'GER - THE ENTERPRISE 261
+N: floating in the vast, eerie, alien chamber -- sporadic FLASHES OF ENERGY, erupting now and then. Various other EFFECTS. OVER this, Kirk's VOICE:
+C: KIRK
+D: Captain's Log. Stardate 7414.1. Our best estimates place us some four hours from Earth. No significant Ilia memory patterns within the alien probe. This remains our only means of contact with our captor.
+E: V.O.
+S: 262 INT. ENTERPRISE AIRLOCK AREA 262
+N: The area dimly lit -- unoccupied but for a lone AIRLOCK TECHNICIAN checking and adjusting instruments. The CAMERA MOVES PAST him to FIND: 263 SPOCK 263 His face fixed with grim determination, walking quietly with obvious intent not to attract the Tech's attention. Now he steals up behind the TECH -- and in an instant has applied a Vulcan nerve pinch. The Tech slumps over his console.
+S: 264 INT KIRK'S CABIN - VIEWER MONITOR 264
+N: Showing a CLOSE SHOT of ENTERPRISE PICTURES, then PULL BACK SLIGHTLY for an IMAGE of Decker and "Ilia" walk- ing through the Rec Deck. PULL BACK FURTHER TO SHOW Kirk watching this -- and with him is McCoy. They continue watching a troubled beat, as:
+C: DECKER
+D: All these vessels were called "Enterprise".
+E: of pictures
+N: "Ilia" is giving the pictures a very interested look as we HEAR in Kirk's cabin:
+C: UHURA'S INTERCOM VOICE
+D: Bridge to Captain...
+E: controlled excitement
+N: 265 OMITTED 265
+S: 266 INT. BRIDGE - UHURA'S STATION (SCIENCE STATION IN 266
+N: B.G.) Uhura at her console, struggling to hear the signal.
+C: KIRK'S INTERCOM VOICE
+D: Kirk here.
+N: In the b.g., Spock's station a MAINTENANCE TEAM is replacing the broken Science Station computer. (Spock is conspicuously absent.)
+C: UHURA
+D: A faint signal from Starfleet, sir. They have the intruder on their monitors... They show us... three hours... twenty-four minutes from Earth!
+E: struggling to hear
+C: KIRK'S VOICE
+D: Thank you.
+E: thru intercom
+S: 267 INT. RECREATION DECK 267
+N: Decker and "Ilia", the Rec Deck unoccupied but for a pair of wary SECURITY GUARDS at a very discreet dis- tance. They are near the pictures of the five Enter- prises, which should be FEATURED in this SHOT, as Decker waves his hand about the huge room.
+C: DECKER
+D: The carbon units use this area for recreation... What type of recreation does the crew aboard your vessel enjoy...?
+E: carefully
+N: 268 CLOSER TWO SHOT (PICTURES O.S.) 268 As "Ilia" moves on into the room, Decker follows:
+C: "ILIA"
+D: The words 'recreation' and 'enjoy' have no meaning to my programming.
+N: Decker peers at the lovely android with frustration -- and no little pain, for she is after all the exact replica of Ilia. She pays not the slightest attention to Decker's reaction, and begins walking about the Rec Deck taking in (and, clearly, transmitting all images to V'ger) the sights. They are near a game area (elec- tronic games), and now Decker points to one game, switches it on -- presses button to activate its LIGHTS and SOUNDS. "Ilia" watches interestedly as Decker operates the game.
+C: DECKER
+D: Ilia 'enjoyed' this game... she nearly always won --
+N: And he demonstrates again, as "Ilia" steps to the device, deftly hits some buttons -- and for just an instant she turns to Decker with a momentary glimmer of recognition.
+S: 269 INT. KIRK'S CABIN - GROUP WATCHING THE MONITOR 269
+N: McCoy watching with special interest: McCOY (approving) Good! He's using audial-visual association. But the words are not out of McCoy's mouth when "Ilia" says:
+C: "ILIA"
+D: This device serves no purpose.
+N: She steps away from the game; Decker's disappointment is evident. So is everyone elses.
+C: KIRK
+D: Damn...!
+N: McCOY (nods grimly) She needs something else: something much more personal to stimulate memory patterns. Something with a more emotional tie. Kirk reacts to this, reflective.
+S: 270 INT. REC DECK FULL ON DECKER AND "ILIA" 270
+N: Decker waving back toward the general area of the Enterprise pictures.
+C: DECKER
+D: The crews of the previous Enterprises were also carbon units. In what way is the life form in your vessel different?
+C: "ILIA"
+D: Carbon units are not true life forms... Do those images repre- sent how Enterprise has evolved into its present form?
+C: DECKER
+D: Yes.
+E: hoping he's struck a responsive chord
+C: "ILIA"
+D: Carbon units have clearly retarded Enterprise's proper evolvement.
+C: DECKER
+D: What is Enterprise's proper evolvement?
+E: controlling surprise
+C: "ILIA"
+D: Enterprise should not require the presence of carbon units.
+N: And with this she moves off, observing other Rec Deck objects. Decker moves with her; then:
+C: DECKER
+D: Enterprise would be unable to function without carbon units.
+E: carefully
+C: "ILIA"
+D: More data concerning this functioning is necessary before carbon units can be patterned for data storage.
+N: 271 ACROSS "ILIA" TO DECKER 271 as he reacts to this ominous note; he stops abruptly.
+C: DECKER
+D: What does that mean?
+C: "ILIA"
+D: When my examination is complete, the carbon units will be reduced to data patterns.
+E: stopping; almost pleasantly
+N: This has been delivered with chilling blandness, and she stands facing Decker, almost as though waiting for him to thank her. He thinks fast now.
+C: DECKER
+D: Within you are memory patterns of a carbon unit. If I can help you revive these patterns; you could understand our functions better.
+C: "ILIA"
+D: That is logical. You may procede.
+N: 272 ON DECKER 272 realizing the difficult task ahead; the pain he will suffer.
+S: 273 INT. V'GER - ANGLE UP TOWARD ENTERPRISE (M) 273
+N: The ship stationary in the chamber as now we SEE an exterior hatch sliding fully open. Up through the hatch a circular airlock door opens -- and a tiny figure in a thruster spacesuit emerges, steps into space, slowly floats down through the hatch and under the Enterprise saucer section. In this and subsequent VIEWS we will SEE that on the rear pack of his thruster spacesuit is a FLASHING STROBE LIGHT which regularly EMITS the identifying SIGNAL of this particular suit. (By which Kirk will be able to see Spock's position even from several miles away.) 274 CLOSER ON THE SPACESUITED FIGURE (M) 274 MOVING TOWARD the CAMERA until the features behind the face mask are clearly identifiable: Spock, his face set in the same grim, determined expression, as he touches his spacesuit transmitter control.
+C: SPOCK
+D: Computer, commence recording. Captain Kirk -- this message will detail my attempt to contact the aliens...
+S: 275 INT. BRIDGE 275
+N: Kirk ENTERING, crossing Uhura as she calls:
+C: UHURA
+D: Starfleet signals, sir, growing in strength... They -- have Intruder on their monitors -- it's decelerating -- powerfield cloud beginning to dissipate...
+E: listening intently
+C: SULU
+D: Confirm, Captain. Lunar beacons indicate Intruder on a course into Earth orbit...
+C: CHEKOV
+D: Sir! Airlock four has been opened; a thruster suit is reported missing!
+E: interrupting
+C: KIRK
+D: Spock...! Get a fix on his position!
+E: reacts knowingly to navigator
+S: 276 INT. V'GER - MED. ON SPOCK 276
+N: His features now set into an almost trance-like expres- sion as he concentrates on the thought emanations. Then we SEE his head turn, he peers off -- then he moves his thruster controls. We SEE the small blue jets of his thrusters -- his spacesuit figure begins to move off in the direction he was concentrating upon. 277 ANOTHER ANGLE - SPOCK 277 His thrusters moving him across V'ger's vast chamber then dropping down into a deep "trough"-like area which stretches into the distance ahead of him. A cloud of CRYSTAL FORMS (Kirk's entrapment) become visible to one side but Spock passes them at some dis- tance and does not attract them. We can SEE more clearly now the point on the inner wall of the trough toward which Spock is heading. It is an unusual combination of GLOWING FORCEFIELDS which seem to mark this point of the vessel as of some importance. (Here, also, we will become aware of "sensor-bee" swarms, intermittently darting toward this same wall from all points of the chamber.)
+S: 278 INT. AIRLOCK AREA 278
+N: SHOWING Kirk in a thruster spacesuit, helmet being readied by AIRLOCK TECHNICIANS. McCoy is also here, arguing with Kirk:
+C: KIRK
+D: ... I don't want him stopped, Bones; I want him to lead me to whatever's out there...!
+E: from the start
+N: McCOY And if that 'whatever' has taken over his mind....?
+C: KIRK
+D: Then he'll have still led me to it, won't he?
+N: And Kirk steps into the airlock door, hits a control -- it begins sliding closed behind him.
+S: 279 INT. V'GER - ANGLE UP TOWARD ENTERPRISE 279
+N: UP THROUGH the circular airlock door as it slides open -- and Kirk's tiny spacesuited figure floats down clear of the saucer. 280 CLOSER ON KIRK 280 SEEING his face through the spacesuit faceplate as he scans the darkness.
+C: SULU'S VOICE
+D: Bridge, Captain. We make Spock as 26 Mark 345 degrees off ship's axis.
+N: During which, Kirk spots something. 281 KIRK'S POV 281 Spock's STROBE blinker at a mile or so distance, nearing V'ger's inner walls. 282 ANGLE ON KIRK 282
+C: KIRK
+D: I have him in sight.
+N: During which, Kirk touches his thruster controls and blue thruster jet propels him off in the direction indicated. His thrusters come on for a longer period of time as he accelerates to the higher speed necessary to overtake Spock...
+S: 283 INT. ILIA'S QUARTERS 283
+N: The DOOR SNAPPING open, and "Ilia", McCoy and Decker entering. Then CAMERA REVEALS Chapel already inside, looking through some female adornments she's found there.
+C: CHAPEL
+D: I remember Lt. Ilia once mentioning that she wore this...
+C: DECKER
+D: ... when we met.
+E: reacting; tight
+N: Clearly this is very painful to Decker. Meanwhile, Chapel hands the Deltan headband to "Ilia".
+C: CHAPEL
+D: Put it on.
+E: gently
+N: "Ilia" hasn't the slightest idea what to do with the headband, holds it, runs her fingers over the jewels and feathers embedded into it. Chapel takes it from her, places it on 'Ilia's" head, now switches on the light illuminating the dressing table mirror -- stands behind her with Decker, both watching apprehensively. 284 ANGLE ON "ILIA" 284 studying her image in the mirror, her face totally blank a moment, but then breaking into a bemused frown -- as though trying to remember. And:
+C: CHAPEL
+D: Ilia...
+E: helpfully
+C: DECKER
+D: On Delta... remember...?
+E: quiet; urging
+N: And it seems that "Ilia" does remember. She peers at her image, then sets the headband into its exact proper position. Then she turns and looks at them with recognition.
+C: "ILIA"
+D: Dr. Chapel...
+E: haltingly
+N: 285 ACROSS CHAPEL TO DECKER 285 as Chapel smiles, pleased, and looks at Decker who stares at "Ilia" nonplussed. This is Ilia coming alive!
+C: "ILIA"
+D: "Will..."
+E: to Decker
+N: And she touches his hand, runs her own hand over it, and smiles. Decker is completely overwhelmed, struggles for words and looks to McCoy for some kind of help. McCoy realizes Decker is losing himself in fantasy. McCOY (gently reminding) Commander... this is a mechanism... Decker is startled, and for another slit-second he's lost -- but then he realizes the reality, and what he should do:
+C: DECKER
+D: Ilia, help us make direct contact with V'ger...
+E: gently; but urgingly
+C: "ILIA
+D: I... cannot.
+N: Decker looks at "Ilia's" hand still resting on his. Then:
+C: DECKER
+D: Then tell us who V'ger is; where he's from... W need your help.
+N: For another moment "Ilia" continues smiling at Decker, holding his hand. Then, abruptly, the smile vanishes -- the hand is released. Clearly, she's again the probe, as:
+C: "ILIA"
+D: Why have two carbon units entered V'ger...?
+N: Decker glances at McCoy, who shakes his head almost imperceptibly: he doesn't know. But Decker has an obvious reply:
+C: DECKER
+D: They want to make contact with V'ger... Ilia...
+E: trying to revive "Ilia's" memory again; touches her hand
+N: "Ilia" peers at him blankly, allows him to continue touching her hand, but obviously it means nothing to her.
+C: DECKER
+D: Does V'ger object to the presence of the two carbon units?
+E: continuing; distressed, to "Ilia"
+C: "ILIA"
+D: The carbon units are of no consequence; V'ger will determine their purpose.
+N: McCOY Their purpose is to survive.
+C: "ILIA"
+D: That is also V'ger's purpose.
+N: Decker's face reflects his bemusement:
+C: DECKER
+D: You said V'ger's purpose was to find and join with the Creator.
+C: "ILIA"
+D: That is how V'ger will survive.
+N: 286 ON DECKER 286 as now, the bemusement changes to just the slightest enlightenment.
+C: "ILIA"
+D: I wish to continue my observations.
+S: 287 INT. V'GER - KIRK MANEUVERING WITHIN THE CHAMBER 287
+N: Kirk but a small object, thruster jets occasionally spurting as he guides himself deeper into the trench as he continues forward progress in the direction he saw Spock taking. 288 CLOSER ON KIRK 288 So we can SEE his face (through the plate), as he looks ahead into the distance toward Spock. 289 KIRK'S POV (O) 289 Spock's STROBE signal closer and Spock's tiny space- suited figure now becoming dimly visible as he moves steadily toward the GLOWING FORCEFIELDS of the inner wall. 290 ON KIRK 290 His attention fixed on Spock, he never notices until an instant too late an O.S. object; quickly he hits a thruster control, and we SEE the MANEUVERING JET turn him to the side as: 291 WIDER ANGLE - KIRK AND THE BLOB FORMATION (O) 291 A swarm of strange-looking translucent crystal-like FORMS on a collision course with Kirk. (NOTE: They were traveling randomly, and are not deliberate ob- structions. However, Kirk's nearness now has attracted them and the swarm of them heads in his direction. Kirk tries to avoid them; he hits a second MANEUVERING JET -- but he overcompensates, and spins straight into the intercepting swarm of them. 292 MED. SHOT - KIRK (O) 292 as the nearest crystal forms WHIP INTO SHOT, adhering to Kirk's spacesuit. He hits full MANEUVERING JETS now, seems to make some escape, but still more forms WHIP IN, adhere.
+C: KIRK
+D: Bridge...!
+S: 293 INT. BRIDGE - EMPHASIZING HELM 293
+N: All eyes anxiously on the O.S. main viewer.
+C: KIRK'S VOICE
+D: ... stand by, I may be in trouble...
+N: Sulu hits the viewer magnification control. 294 ANGLE TO MAIN VIEWER (M) 294 As the distant STROBE FLASHES of Kirk's spacesuit are MAGNIFIED CLOSER, pulling Kirk into MEDIUM LONG SHOT. We can SEE the details of the swarm of forms adhering. But we can SEE that Kirk's spacesuit is now about half covered with them! 294A REVERSE ANGLE 294A Expressions of bridge crew to reflect the horror of what they're seeing as:
+C: SULU
+D: Your phaser, Captain...! Use your phaser...!
+C: KIRK'S VOICE
+D: Can't... reach... phas --
+E: transmitter, weak transmission breaks off in heavy STATIC
+C: CHEKOV
+D: Airlocks two and four -- prepare to launch rescue teams! Chief Lang! Get them out there! Fast!
+E: glancing at viewer
+C: SULU
+D: Mr. Spock, the Captain is in trouble, directly behind you -- three hundred meters! Mr. Spock!
+E: beat
+N: Looks of distress are exchanged.
+S: 295 INT. V'GER - SPOCK 295
+N: Spock's spacesuited figure MOVING TOWARD the CAMERA, as we HEAR:
+C: KIRK'S VOICE
+D: ... Spock...! ... need help...! ... trapped...!
+E: weak; STATIC
+N: No indication at first that Spock has heard; his face set with determination, his eyes fixed on his destin- ation: the inner wall.
+C: KIRK'S VOICE
+D: (continuing; weakening;
+C: STATIC)
+D: ... pressure on me...! ... can't move...! Spock...!
+N: 296 ON SPOCK - CLOSE 296 as Kirk's VOICE STOPS -- and all that is heard now is the HEAVY STATIC crackling ominously. Spock's expression flickers, then he hits reverse thruster JETS, stops -- he turns to glance at the inner wall, then his thrusters turn him so he can look back the way he came from. But he cannot resist Kirk's call; he suddenly hits his thruster controls, then JETS FLARE, and: 297 WIDER ANGLE - SPOCK 297 as thruster JETS accelerate him back toward Kirk.
+S: 298 INT. BRIDGE - VIEWER (M) 298
+N: showing Kirk's spacesuit completely covered, encased in the blob. Kirk is no longer moving. But in the distance, facing toward him is Spock!
+S: 299 INT. V'GER - KIRK AND SPOCK 299
+N: with Spock in the near distance, heading TOWARD the CAMERA. As he approaches Kirk, Spock brings out his phaser. Now he hits the controls for the REVERSE JETS -- he slows RAPIDLY as he approaches Kirk's now complete- ly encased spacesuit. Spock makes a quick phaser adjustment. 300 ANGLE ON SPOCK AND KIRK'S ENCASED SPACESUIT (O) (S) 300 Spock levels the phaser carefully. FIRES. The PHASER BEAM strikes the blob form -- it SHATTERS, the pieces DISINTEGRATING.
+S: 301 INT. V'GER - SPOCK AND KIRK 301
+N: facing each other while hovering in space.
+C: KIRK
+D: Bridge, cancel rescue teams. Spock, what in the hell are you doing out here!
+E: hard
+C: SPOCK
+D: I am seeking answers, Captain.
+C: KIRK
+D: Answers to what, Spock? Our dilemma -- or your personal one?
+E: with insight
+N: Spock does not immediately reply, peers at Kirk through the faceplate a long beat, then abruptly looks away, points off into the distance: 302 ANOTHER ANGLE - INCLUDING INNER WALL (O) 302 We can SEE what appear to be SPARKLING GLOBULES OF LIGHT darting toward the inner wall in the distance, then disappearing there. (We'll SEE other swarms occasionally too, coming from different directions -- they will later be identified as "sensor swarms" on closer examination.)
+C: SPOCK
+D: Captain, I believe there we will find an indication of whoever -- or whatever -- is aboard this vessel...
+E: pointing
+N: Kirk weighs alternatives, then pushes his thruster controls and begins moving in the direction Spock indicated. Their thruster jets flash, propel them toward the point on the inner wall.
+S: 303 INT. V'GER - AT INNER WALL 303
+N: The most prominent area of the vast inner wall -- the patterns on the wall here seem to GLOW with life. The spacesuited figures of Kirk and Spock ENTER SCENE, gliding slowly toward what seems to be the central part of theses patterns. 304 CLOSER ON KIRK AND SPOCK 304 as they approach and then we SEE the brief REVERSE THRUSTERS and then forward momentum stops; motionless. Then Spock sees something, indicates. 305 LONG ANGLE TO INCLUDE SENSOR SWARM (O) 305 Now, we SEE that they are tiny, multi-colored points of FLASHING LIGHT -- almost like swarms of bees. They approach the inner wall at this central point and seem to "disappear" through the orifice. 306 KIRK AND SPOCK - ANOTHER "SWARM" APPROACHING (O) 306 This "sensor swarm" has been coming from a direction that will take them close past Kirk and Spock. Then, as it passes, Spock reaches out quickly, grabs. He turns to Kirk, his hand closed on something. 307 CLOSE ON KIRK AND SPOCK (AGAINST "TUBE" WALL) 307 Spock opens his hand, retaining a hold on something with his fingers. He brings it up to Kirk's face mask -- it's a tiny SENSOR, its multi-colors flashing as it tries to escape from Spock's fingers. And in this CLOSE VIEW, we SEE that this is a SENSOR very much like the one we've seen earlier embedded in the Ilia-probe's throat hollow. Then Spock releases it and it darts to join the sensor swarm near the opening of the inner wall. 308 KIRK AND SPOCK'S POV (O) 308 From this closer distance, we SEE that an opening ap- pears in the wall, admits the sensor swarm, then closes immediately. 309 BACK TO SHOT 309 Kirk and Spock exchange a look. Their thruster JETS ignite briefly, moving them in that direction.
+S: 310 INT. V'GER - KIRK AND SPOCK (O) 310
+N: closely approaching the inner wall now, timing their movements to coincide with the arrival of another "swarm" -- the wall begins OPENING. The "swarm" through, the wall begins CLOSING -- but Spock and Kirk slip in before it closes.
+S: 311 INT. "MEMORY CAVE" - SPOCK AND KIRK 311
+N: The wall closing behind them, they are safely inside. But as they stop their forward momentum, their eyes widen with awe and surprise at what they are seeing: 311A WHAT THEY SEE (M) 311A The long "cave" chamber with its row of huge MEDIATOR BALLS extending into the distance. To one side, the gleaming CRYSTAL MEMORY WALL. 311B KIRK AND SPOCK 311B as Spock makes a quick analysis and estimate of what they are seeing. Then, he takes out his tricorder again, propels himself toward the memory crystals. Kirk follows. 311C AT MEMORY CRYSTAL 311C as Spock adjusts his tricorder through several readings.
+C: SPOCK
+D: It would appear that the atomic arrays of these crystals store
+C: information. A remarkably
+D: efficient system.
+C: KIRK
+D: And these 'sensor-swarms' collect that data, carry it here.
+E: indicates
+C: SPOCK
+D: New crystals: they must contain the most recent data obtained --
+E: nods; indicates
+N: And Spock touches one of these new crystals (it will be shinier, more pulsating than the others): ANOTHER
+C: RAPID
+D: PROFUSION OF FAINT IMAGES, but this time including a pattern-like image of Klingons, Klingon vessels , and obvious Starfleet personnel -- and the Epsilon 9 station. Also, a
+E: the ones destroyed by the Cloud
+N: pattern of the Security Guard killed by the probe. And Ilia.
+C: KIRK
+D: Klingons... our Epsilon 9 station ... and Ilia!! They seem to be more than just images...
+C: SPOCK
+D: Exact patterns. The energy bolt that hit them wasn't simply a weapon -- it dematerialized them, stored them. But why?
+E: agreeing
+N: And he turns and begins moving on, studying the wall, consulting his tricorder. 312 ACROSS THEM TO ANOTHER SECTION OF THE WALL 312 Spock inspecting this area at which the "newer" crystals are PULSATING and GLOWING, and which appears to be a termination of the Crystal area, continuing on and dis- appearing through the wall.
+C: KIRK
+D: If this is their ship's data banks, where is the crew? Or is their entire ship automated?
+C: SPOCK
+D: Captain, I do not believe there is a crew -- or that this is a vessel as such.
+N: A beat, as Kirk reacts incredulously.
+C: SPOCK
+D: I am almost certain now that all of this is V'ger -- I believe that we are inside a life form, a living machine.
+E: continuing
+N: Spock turns his spacesuit, turns his tricorder out to- ward the Mediator Balls, takes a reading in that di- rection. Then a glance to Kirk.
+C: SPOCK
+D: I must attempt mindmeld with it, Captain.
+N: Spock touches his spacesuit controls; the THRUSTER JETS move him out toward the Mediator Balls.
+C: KIRK
+D: Spock...
+E: warningly
+N: 313 ANGLE AT MEDIATOR BALL 313 Spock reaching the Ball, halts his momentum and removes one gauntlet, baring his hand. Stretching the bare hand toward a part of it which looks strangely "alive." The very power generated from this area is clearly affecting Spock's hand. Meanwhile, Kirk has used his THRUSTERS to join him.
+C: KIRK
+D: Spock, if you're right, its mind may be enormous...
+N: But Spock pays him no attention, his entire being now focused on the PULSATING GLOW of the "alive" area -- the CAMERA MOVING IN CLOSER TO Spock, as he forces his hand toward that surface, closer, closer. 314 KIRK 314 watching, almost mesmerized. Torn between wanting to pull Spock away from the wall -- and knowing that Spock must go through with it. For everyone's sake. 315 CLOSER ON SPOCK 315 preparing for the ordeal, moving his hand to the "liv- ing area," the invisible force even stronger -- but Spock's strength unwavering, and now he touches the surface -- and it FLARES WITH STRANGE ENERGY at the touch. And at the same moment Spock' body convulses as if tens of thousands of volts of electricity are charging through him. 316 CLOSE ON SPOCK'S FACE 316 as he begins to shudder with the shock, the CAMERA CONTINUES INTO EXTREME CLOSE-UP as we SEE Spock's mouth open -- he SCREAMS. CAMERA INTO EXTREME CLOSE SHOT OF SPOCK'S EYES. 317 CAMERA ZOOM - THROUGH SPOCK'S EYES 317 MUSIC IN AND UP as we travel through ABSTRACT IMAGES (per Con Pederson discussion). Symbolizing V'ger's incredible and complex store of mechanistic knowledge, these IMAGES suggest patterns of atoms, molecules, galaxies, dimensions of the universe beyond human knowledge or comprehension. It takes only fifteen or twenty seconds, but seems to span aeons, taking us through micro-infinity and macro-infinity.
+T: DISSOLVE TO :
+S: 318 INT. DISPENSARY - SPOCK'S EYES 318
+N: CAMERA BRIDGING BACK OUT THROUGH SPOCK'S EYES AND INTO ANGLE ON SPOCK'S FACE as he lies in a sickbay bed. His eyes are open; he is staring straight ahead as if in a catatonic state, completly unaware of his surroundings. Then Doctor Chapel leans INTO SCENE, moving a medical scanner over the brain area.
+C: CHAPEL
+D: Now scanning pons area at spinal nerve fiber connection...
+N: 319 ANGLE ON McCOY AND KIRK 319 McCoy at a console, watching readings he is getting from Chapel's scanner. Kirk watches McCoy anxiously. McCOY Indications of some neurological trauma--the power pouring through that mind-meld must have been staggering... Before Kirk can reply, they HEAR a LAUGH! An abrupt, harsh, bitter laugh. 320 ACROSS THEM TO SICKBAY 320 as all whirl to the patient area where it is obviously Spock who has just laughed -- but there is no indication of laughter from him now. A startled Chapel has stepped back away from the bed. Spock seems to be attempting to focus, orient himself as Kirk and McCoy hurry to the bedside.
+C: SPOCK
+D: Jim...
+E: quiet
+N: And Spock reaches out a hand weakly., takes a surprised Kirk's hand in his. McCoy exchanges a surprised glance with Kirk, as Spock -- clutching Kirk's hand in friend- ship and need -- struggles to summon strength to speak.
+C: SPOCK
+D: This simple feeling... ... is so far beyond V'ger's comprehension.
+E: continuing looks at Kirk
+N: 321 ANOTHER ANGLE 321 with Kirk and McCoy exchanging another surprised glance (at Spock's emotion), with McCoy gesturing Kirk not to question it.
+C: KIRK
+D: Were you right? Spock? V'ger is a living machine...?
+E: gently
+C: SPOCK
+D: A life form of its own; a conscious, living entity.
+E: nodding
+C: CHAPEL
+D: A living machine...?!
+E: reacting
+N: McCOY (to Chapel) We're living machines, too: protein mechanisms. Kirk nods at McCoy.
+C: KIRK
+D: And it considers the Enterprise a living machine: that's why the probe refers to our ship as an entity.
+C: CHAPEL
+D: If it thinks our ship is alive what does it think we are?
+N: McCOY (dryly) An 'infestation' -- bacteria... microbes. 322 ANOTHER ANGLE 322 as Spock turns to Kirk.
+C: SPOCK
+D: I saw V'ger's planet: a planet populated by living machines. Unbelievable technology. V'ger has knowledge that spans this universe. And... in all this order... all this magnificence, V'ger feels no awe...no delight... no beauty... I should have known...
+E: pained a beat; exhausted
+N: Kirk waits for Spock to continue, but Spock seems too weak.
+C: KIRK
+D: Know what, Spock? What?
+N: But Spock falls back, exhausted -- and McCoy gently tugs at Kirk, AD-LIBBING, "Let him rest, Jim..." Kirk shrugs McCoy away, addresses Spock:
+C: KIRK
+D: What should you have known?
+E: continuing
+C: SPOCK
+D: No meaning... No hope... And, Jim, no answers...! Jim, it's looking for answers itself!
+E: weak summoning strength
+C: KIRK
+D: What answers?
+C: SPOCK
+D: 'Is this all I am? Is there not more?'
+N: Just then an INTERCOM SIGNAL:
+C: UHURA'S VOICE
+D: A faint signal from Starfleet, sir! Intruder Cloud has been located on their outer monitors for past twenty-seven minutes... dissipating rapidly as it approaches.
+N: Immediately, Sulu's voice:
+C: SULU'S VOICE
+D: Starfleet reports forward velocity has slowed to sub-warp speed! We are three minutes from Earth's orbit!-
+C: KIRK
+D: I'll be right there... I need Spock on the bridge.
+E: into intercom to Chapel; crisp
+N: 323 ANOTHER ANGLE 323 as Chapel urns to a MED TECH, AD LIBS an order, "Dalaphaline, twenty cc's..." As the Tech quickly sets the hypo-injector, and hands it to Chapel - and she injects Spock, the hypo emitting a fast, QUIET HISS -- Kirk gazes at Spock just an instant as Spock breathes deeply, the drug clearly strengthening him. Chapel and the Tech help Spock from the bed, as Kirk addresses McCoy:
+C: KIRK
+D: A machine planet...? Sending a machine to Earth looking for its Creator...?
+N: McCOY God. Kirk looks at him, then at Spock -- on his feet now -- then at McCoy again:
+C: KIRK
+D: 'To find the Creator,' the probe said. Find God...?
+N: McCOY Isn't that what we're all trying to do...? (dryly) All us machines...? Kirk stands facing him another moment, then whirls and steps to the monitor, flips some buttons, and peaks into his communicator.
+C: KIRK
+D: Mr. Chekov, Commander Decker's present location?
+C: CHEKOV'S VOICE
+D: He... they... are in Engineering, sir.
+C: KIRK
+D: I want to make a ship's announcement. But it's to be heard only in Engineering.
+E: into intercom
+C: UHURA'S VOICE
+D: Ready, Captain.
+C: KIRK
+D: This is the Captain speaking. It appears that the alien ship... V'ger... is NOT a manned vessel...
+E: voice amplified
+N: 324 ENGINEERING 324 SHOWING Scott (at his console) listening to Kirk's words -- and facing Decker and "Ilia" who are just about to leave Engineering. (In b.g. the Engine core GLOWS the appropriate color, and there is a SOFT HUM of IDLE POWER.) Kirk's VOICE continues:
+C: KIRK'S VOICE
+D: It is a living entity...! A machine life form. We are attempting to ascertain its intentions. All personnel will maintain yellow alert status!
+E: amplified
+N: 325 CLOSER ON DECKER AND "ILIA" 325 The probe bland as usual, but Kirk's words seem to have strangely elated Decker; he says to her:
+C: DECKER
+D: A machine...! Then it had to be programmed. By whom...?
+C: "ILIA"
+D: By the Creator.
+C: DECKER
+D: To join, and become One with the Creator?
+E: probing
+C: "ILIA"
+D: To learn all that is learnable; to deliver all collected data to the Creator on the third planet. That is the programming.
+N: 326 INCLUDE SCOTT 326 just now confronting them, regarding "Ilia" with open disapproval.
+C: SCOTT
+D: Well, sir, now what about all that? A living entity, the Captain says... entity... A living thing...!
+N: Decker really hasn't heard Scott; he's gazing at "Ilia," attempting to digest what she's just said. But quickly:
+C: DECKER
+D: Thank you, Scotty...
+N: He moves to leave.
+C: SCOTT
+D: Your welcome, sir.
+E: dourly
+N: Now Decker and "Ilia" move toward the exit, Scott gaz- ing after them glaringly, watching "Ilia's" every move. Suddenly, almost into the corridor, "Ilia" turns and looks back at the engine room. She addresses Decker, but load enough for Scott to overhear:
+C: "ILIA"
+D: There is no logical reason for carbon units to control Enterprise's power systems.
+C: SCOTT
+D: Lassie, if I were functioning 'logically,' right now I'd be showing you the inside of our scrap metal compactor!
+E: to "Ilia"
+S: 327 INT. BRIDGE 327
+N: Kirk with McCoy and Spock, who although somewhat shaky, is clearly more alert. They are just assuming their stations.
+C: UHURA
+D: We're now locked into Starfleet's transceivers; Admiral Nogura has received your reports, sir.
+N: 328 ANGLE INCLUDING VIEWER (O) 328 Kirk pausing halfway to his chair to study the viewer on which is appearing an IMAGE of V'ger looming omi- nously in orbit over Earth.
+C: UHURA
+D: The visual is a lunar monitor relay, sir.
+N: As they begin to study it, the IMAGE suddenly distorts and is replaced by signal interference -- SIGNAL STATIC LINES RUNNING ACROSS THE VIEWER SCREEN. (Somewhat resembling the kind of high voltage interference some-times seen on the television screen.)
+C: UHURA
+D: Heavy interference, sir -- it's coming from here, inside the intruder itself...
+E: continuing
+N: Uhura hits buttons and immediately from the speakers we HEAR A SERIES OF CARRIER WAVE BEEPS. Spock looks up from his console, listens to it.
+C: SPOCK
+D: Puzzling! The interference appears to be a rather simple carrier wave code signal...
+C: UHURA
+D: On an old style radio frequency, sir...
+N: 329 PAST KIRK TO THE ELEVATOR 329 as the doors snap open and Decker and "Ilia" appear. All eyes go to them as:
+C: "ILIA"
+D: As I stated, V'ger calls to the Creator.
+E: to Decker; interrupting
+C: DECKER
+D: V'ger is announcing that it has arrived, sir -- that it's ready to deliver the information it was programmed to collect...
+E: nods; turns to Kirk
+C: "ILIA"
+D: 'To learn all that is learnable.'
+C: DECKER
+D: It expects a return signal now, ordering it to transmit that information to the Creator.
+E: to Kirk
+C: UHURA
+D: Sir! V'ger's signals have stopped...
+E: whirling
+C: "ILIA"
+D: Decker... The Creator has not responded.
+E: as if frightened
+N: Kirk hears this, turning inquiringly toward her, but Uhura interrupts:
+C: UHURA
+D: Picking up Starfleet again; a lunar monitor relay...
+N: 330 ANGLE INCLUDING VIEWER (O) 330 as, indeed, the interference is fading and a new Main Viewer IMAGE is appearing -- it shows V'GER IN EARTH ORBIT with a strange looking OBJECT moving away from V'ger. It is an ominous looking, HUGE SWIRLING GREEN MASS -- it resembles the same green plasma-energy bolts that destroyed the Klingons and Epsilon 9 -- and very nearly the Enterprise. It is not a bolt now -- the mass is much larger and appears much more deadly. A second object has now formed and moves off, a third one begins to appear. (Meanwhile, the first and second PLASMA- ENERGY OBJECTS are moving off into the distance in different direction.) McCOY My God! They're the same kind of things that destroyed the Klingons, Epsilon Nine...
+C: SPOCK
+D: These read as identical composition... ... however, Captain, they measure several hundred times more powerful!
+E: interrupting; from science console turns to Kirk
+C: KIRK
+D: High mag, Mr. Sulu!
+N: Sulu adjusts the viewer through several IMAGE MAGNI- FICATIONS until we SEE the huge OMINOUS GREEN DEVICES more clearly.
+C: SULU
+D: The third one is moving off too -- a fourth one is forming...
+C: UHURA
+D: Urgent signal from Starfleet, Captain! All Earth defense systems have gone dead.
+E: overlapping turns, shaken
+N: Kirk reacts hard at this. Uhura gets another message.
+C: UHURA
+D: Sir, Starfleet computes their trajectories as moving toward equidistant positions over Earth.
+E: continuing
+N: 331 ANOTHER ANGLE - KIRK AND SPOCK 331 exchanging significant glances.
+C: SPOCK
+D: From four equidistant positions, Captain, a detonation would blanket the entire surface of the planet.
+C: DIFALCO
+D: I plot them as reaching equidistant positions in... twenty-nine minutes, sir... mark!
+N: 332 ACROSS KIRK TO DECKER AND "ILIA" 332 as Kirk vaults from his chair, strides to a handrail to confront the "Ilia"-probe.
+C: KIRK
+D: Why...?!
+C: "ILIA"
+D: The carbon-units infection will now be removed from the Creator's planet.
+C: KIRK
+D: Why?!
+C: "ILIA"
+D: The Creator has not answered.
+C: KIRK
+D: The carbon-units are not responsible for that.
+C: "ILIA"
+D: You infest and control Enterprise. V'ger believes carbon-units interfere with the Creator in the same manner.
+C: SPOCK
+D: Then V'ger believes the Creator to be a machine too.
+E: to Kirk
+C: DECKER
+D: It seems we all imagine God in our own image.
+E: nods
+N: 333 ANGLE ON MAIN VIEWER - INCLUDING CHEKOV (O) 333 Three of the four OMINOUS SWIRLING GREEN OBJECTS have all moved away from V'ger now, in different directions, growing smaller in the distance. The fourth object is holding position nearby, seeming to grow in size and intensity. 334 ANGLE EMPHASIZING KIRK 334 as he throws a look toward Spock who is now in deep meditation. Kirk turns and takes "Ilia's" shoulders and carefully turns her to face him. McCOY '... similar life forms...?' Jim, V'ger's saying the Creator is a machine...!
+C: DECKER
+D: Of course: we all create God in our own image.
+E: grimly amused
+N: Kirk peers at Decker a moment, ingesting this thought. Then he addresses "Ilia" again, this time with emotion: after all, he is pleading for the survival of the entire planet:
+C: KIRK
+D: V'ger! If we are lesser beings, we are still, like you, living. And because we are alive, we -- like you -- wish to survive. You must not destroy --
+N: Kirk pauses abruptly: "Ilia" is regarding him blandly, stonily -- not the slightest reaction or response; clearly Kirk's plea is being ignored. Kirk draws in his breath to continue, realizes the futility, turns helplessly to Spock. 335 ACROSS KIRK TO SPOCK 335 who has been listening intently, with near fascination -- an idea forming in his mind. Quickly, he steps down to Kirk:
+C: SPOCK
+D: Captain... Treat V'ger as you would... a child.
+E: quiet, terse reaches Kirk
+N: 336 FAVORING KIRK 336 startled at this, not sure he's heard correctly.
+C: KIRK
+D: Child...!?
+C: SPOCK
+D: Yes, Captain, a child: evolving into adulthood -- learning, searching -- instinctively needing.
+C: DECKER
+D: Needing what...?
+E: intrigued
+N: McCOY Spock, this 'child' is about to eliminate all life on Earth; how do we teach it that that's 'wrong'? With a spanking...!? Spock peers at McCoy almost sadly, then replies to Decker.
+C: SPOCK
+D: It doesn't know what it needs, Comm ander... It does not know.
+E: to Kirk
+N: Kirk says nothing, looks at Spock who is awaiting a reaction; then Kirk glances at "Ilia" -- his brain is racing, struggling to reach a decision. And then:
+C: KIRK
+D: The carbon--units-know-why-the Creator-has-not-responded.
+E: abruptly to "Ilia"
+N: McCOY (shocked) Jim...!
+C: DECKER
+D: Ilia... we can help V'ger find what it needs --
+E: to "Ilia," urgingly
+N: "Ilia" studies Decker just a bland beat, then turns to Kirk:
+C: "ILIA"
+D: Disclose the information.
+E: to Kirk, hard
+C: KIRK
+D: Not until V'ger withdraws the devices orbiting the third planet.
+E: cool, calm
+C: "ILIA" KIRK UNIT! DISCLOSE THE
+D: INFORMATION!
+N: Kirk studies her a moment, then decides to press his bet:
+C: KIRK
+D: No. Secure all stations. Clear the bridge.
+E: to "Ilia," almost pleasant then to crew commandingly
+N: A moment where all are startled at this order -- but no time for questions as just then the ship is ROCKED BY A FURIOUS POWERFUL ERUPTION NEARBY within V'ger.
+C: DECKER
+D: Bridge to all decks,secure your stations.
+E: amplified
+N: McCOY Your child is having a tantrum, Spock.
+C: SULU
+D: Clear the bridge, Captain...?
+C: KIRK
+D: That was the order, Mr. Sulu: Clear the bridge.
+N: Just then another ERUPTION -- the ship is ROCKED AGAIN.
+S: 337 INT. INSIDE V'GER - THE ENTERPRISE 337
+N: rocked about by the furious powerfields -- with frightening displays of ray energy.
+S: 338 INT. BRIDGE 338
+N: as all react to the powerful blasts, holding on to railings, etc, at the same time attempting to secure their stations for the evacuation. The DAMAGE REPAIR TECHNICIAN leaves his station, crossing to exit.
+C: DAMAGE TECH.
+D: Severe stress on engine pylons, sir.
+E: leaving bridge; to Captain
+C: "ILIA"
+D: V'ger requires the information.
+E: to Kirk; flat
+N: Kirk merely looks at her, then to the evacuating crew:
+C: KIRK
+D: Bridge secure all stations! Move out!
+N: McCOY Jim, what the hell kind of strategy is this...? Meanwhile, Decker has crossed to Chekov's now abandoned console, checks it.
+C: DECKER
+D: All ship's functions going to automatic, Captain.
+N: 339 ANGLE ON KIRK 339 turning to confront "Ilia":
+C: KIRK
+D: If V'ger destroys the Enterprise, the information V'ger requires will also be destroyed.
+N: 339A INCLUDING VIEWER 339A as LIGHT SHOW outside perceptically recedes, and simul- taneously the ROCKING CEASES. At the same time, "Ilia" is saying:
+C: "ILIA"
+D: It is illogical to withhold required information.
+N: Kirk does not reply to this, turns away to observe the withdrawing crew. Most are out; only Spock, Decker and McCoy remain behind -- with McCoy on his way. The bridge lighting dims, and now Kirk looks at Spock, who nods approvingly; clearly Spock is the only person who seems to comprehend what Kirk is doing, and why. As Kirk now moves toward the exit, and the lights are dimmed even further:
+C: "ILIA"
+D: Kirk-unit, why do you not disclose information?
+E: almost polite
+C: KIRK
+D: Because V'ger is going to destroy all the carbon units on the third planet.
+C: "ILIA"
+D: They have repressed the Creator.
+C: KIRK
+D: The information will not be disclosed.
+N: And, gesturing the others ahead of him, Kirk starts toward the bridge elevator. "Ilia" calls after him:
+C: "ILIA"
+D: V'ger needs the information.
+E: almost a plea
+N: 340 AT THE ELEVATORS 340 Decker and McCoy about to enter, Spock and Kirk just behind -- all stopping abruptly now at "Ilia's" state- ment. The very tone of her voice is enough for them to realize they have made a very telling point. Kirk follows fast:
+C: KIRK
+D: Then V'ger must withdraw its orbiting devices.
+C: "ILIA"
+D: V'ger will comply if the carbon units disclose the information.
+N: 341 ANGLE ON McCOY 341 wryly reacting to this: McCOY It learns fast, doesn't it...? 342 ACROSS McCOY TO KIRK AND SPOCK 342 as Kirk looks at Spock, Kirk's whole expression convey- ing the obvious question: "What the hell do we do now?" But Spock is ready with an answer:
+C: SPOCK
+D: Captain, the vessel -- V'ger -- obviously operates from a central brain complex...
+N: Spock allows the sentence to hang, as he and Kirk eye each other significantly, the CAMERA SWINGING OVER TO KIRK so we can perceive that to Kirk this idea has an even greater significance.
+C: KIRK
+D: The orbiting devices would be controlled from the point, then...?
+E: to Spock
+C: SPOCK
+D: Precisely.
+N: Kirk nods grimly, faces "Ilia" again; this time he's playing for all the stakes.
+C: KIRK
+D: The carbon units' information cannot be disclosed to V'ger's probe... only to V'ger directly.
+N: 343 ANOTHER ANGLE - REACTIONS 343 all wait with hushed expectancy, all eyes on "Ilia" who seems momentarily in some internal communication. She turns away from Kirk and steps forward looking at the Main Viewer. McCOY (indicating viewer) Jim...! 344 PAST THEM TO VIEWER 344 the image of the chamber in which the Enterprise is imprisoned. But now, toward the chamber-end, where further passage had previously been barred by the lace- work energy barriers -- an OPENING APPEARS. And at the same time there is a GENTLE LURCHING EFFECT, and:
+C: DECKER
+D: Forward motion, Captain...!
+C: SPOCK
+D: A tractor beam...
+N: "Ilia" steps down from the platform and into the well where she is closer to the viewer.
+C: DECKER
+D: Captain, what's the next move?
+C: KIRK
+D: The question is, Mr. Decker, is there a next move...
+S: 345 INT. V'GER - THE ENTERPRISE 345
+N: moving through the chamber, pulled by the invisible tractor beam, toward the OPENING -- toward the next chamber which, from this POV seems even larger, more forbidding.
+S: 346 INT. BRIDGE 346
+N: as the four officers step down onto the bridge, Spock hurrying to his science station, Kirk to the center seat.
+C: KIRK
+D: Resume duty stations, Mr. Decker.
+N: As Kirk attends to his console, Deck is at an intercom:
+C: DECKER
+D: All personnel resume stations...!
+E: into intercom, voice amplified
+N: At the same time the lights are brightening -- and members of the bridge crew begin returning. All this time there is an ever increasing sense of movement. Kirk glances at Decker:
+C: KIRK
+D: Well, Mr. Decker, it seems my bluff is being called.
+C: DECKER
+D: I'm afraid our hand is pretty weak, Captain. But it's the only game in town.
+E: slight smile
+N: Kirk reacts, pleased, a split beat at Decker's "our" hand, and goes on: Kirk throws him a look of appreciation, then, abruptly his manner changes as he addresses Chekov:
+C: KIRK
+D: Mr. Chekov, when do those devices activate?
+C: CHEKOV
+D: They reach final position in... Twenty-seven minutes -- mark.
+C: KIRK
+D: Engineering...
+E: a beat; then into intercom
+S: 347 INT. ENGINEERING - SCOTT 347
+N: at his console, a female engineering technician (CHIEF ROSS) nearby, the usual engine room ambience in the b.g., as:
+C: SCOTT
+D: Scott, here, sir.
+S: 348 INT. BRIDGE - KIRK WITH AN ANGLE ON SPOCK 348
+N: as Kirk hesitates, glances around at the crew -- now all having resumed their stations -- and then grimly looks at "Ilia" who still remains at the rail.
+C: KIRK
+D: Mr. Scott, be prepared to execute Starfleet order two zero zero five.
+E: into intercom, eyes on "Ilia"
+N: Hearing this, Spock whirls around -- peers incredulously at Kirk. He appears for a moment to be incensed at Kirk's words. Then he realizes and understands Kirk's position and turns, sadly resigned, back to his work.
+S: 349 INT. ENGINEERING 349
+N: as Scott, too, hears this, but his reaction is of grim acceptance. Not so Chief Ross; she is horrified.
+C: SCOTT
+D: When, Captain?
+E: with a glance at Ross, into intercom
+C: KIRK'S INTERCOM VOICE
+D: On my command.
+C: SCOTT
+D: Aye, sir.
+E: somberly, into intercom
+N: And Scott hits buttons on his console, now moves to step from his station, nearly collides with Ross, who clearly is bravely struggling to maintain her poise and dignity:
+C: ROSS
+D: Why has the Captain ordered self- destruct, sir?
+C: SCOTT
+D: I would say, lass, because he thinks -- he hopes -- that when we go up... we'll take V'ger with us.
+E: a beat; gently
+C: ROSS
+D: Will we?
+C: SCOTT
+D: When that much matter and anti- matter are brought together? Oh, yes; we will, indeed.
+E: with grim satisfaction
+S: 350 EXT. ENTERPRISE - INT. V'GER 350
+N: The ship passing now through a chamber that is vastly more active than anything we have previously seen. Directly ahead appears to be an area that dispatches powerfields; a tremendous volume of them seem to ema- nate and converge there. The medium from which the ship moves appears almost solid, to the point where it seems incredible that the ship can be pulled through it at all. The entire chamber pulses with machine- like, alien life. This should even be evidenced in the booming POWERFIELD LIGHTENING BOLTS as they course in ever more frighteningly close proximity to the ship as:
+S: 350A INT BRIDGE - INCLUDING THE VIEWER 350A
+N: The crew all watching the awesome spectacle of V'ger's interior (on the viewer) as the Enterprise is being pulled toward the brain complex. All are somewhat sub- dued, for all realize how their journey will end -- but at the same time they also realize there is no other way. The CAMERA PANS, catching facial reactions -- as, in the b.g., we HEAR a constant flow of AD-LIBBED crew comments:
+C: CHEKOV
+D: Twenty-five minutes to device activation, sir.
+C: ALT.
+D: ALT.
+E: Twenty-two Eighteen
+C: UHURA
+D: Starfleet has been apprised of our situation, Captain.
+C: SULU
+D: Tractor beam remains constant...
+C: DIFALCO
+D: We are seventeen kilometers inside the vessel...
+N: 351 ANGLE ON SPOCK 351 His back to the viewer, the angle does not reveal his facial features, but we can discern him struggling to contain his feelings. 352 WIDER ANGLE (INCLUDE KIRK, McCOY, AND DECKER) 352 Kirk's back to Spock as he watches the viewer, Kirk now turning toward Spock.
+C: KIRK
+D: Spock... Spock...
+N: Spock does not respond, then Kirk reacts with momentary annoyance, then realizes Spock is totally distracted. Kirk peers at him a moment, then suddenly rises and steps up to: 353 SPOCK'S STATION - KIRK AND SPOCK (McCOY IN B.G.) 353 as Kirk arrives, with Spock still facing away from him, clearly distracted.
+C: KIRK
+D: Mr. Spock -- I think...
+E: starts
+N: Spock moves to face him, turning fully INTO the CAMERA so we can see now, just under Spock's eye: A tear! Welling fom the eye, rolling down his cheek. Kirk is speechless a moment, glances at McCoy who has also witnessed this phenomenon, and started toward Spock; but Kirk gestures McCoy to stay back, as he addresses Spock:
+C: KIRK
+D: Not for us?
+E: quiet, feeling
+C: SPOCK
+D: No, Captain, not for us... for V'ger.
+N: Spock pauses as Kirk peers incredulously at him, then continues:
+C: SPOCK
+D: I weep for V'ger, as I would for a brother -- far more knowledgeable than I -- and yet one step behind.
+E: continuing
+N: 354 ANGLE ON McCOY AND DECKER 354 Listening, McCoy's face reflecting concern; Decker's face compassion and understanding, with Decker step- ping closer to Spock, as Spock continues:
+C: SPOCK
+D: As I was -- when I came aboard... so is V'ger now: empty, incomplete. Searching. Logic and knowledge are not enough.
+N: McCOY (with empathy) Spock, are you saying that you found, what you needed -- but V'ger hasn't?
+C: SPOCK
+D: Has not, Doctor -- and now, because of what we are planning... will not...
+C: KIRK
+D: There is no alternative.
+E: almost hard
+C: DECKER
+D: Mr. Spock, what would V'ger need to fulfill itself?
+E: gently pressing
+C: SPOCK
+D: V'ger has begun to understand the true limits of our universe, thereby realizing the existence of other dimensions. To fulfill itself it must evolve to a higher dimension; V'ger believes this can be achieved only by joining with the Creator.
+C: SPOCK
+D: Each of us, at some time in our life, turns to someone, a father, a brother, a God and asks 'Why am I here?' 'What was I meant to be?' V'ger hopes to touch its Creator to find its answers.
+E: ALTERNATIVE
+N: 355 ACROSS KIRK TO DECKER 355 as Decker reacts with sudden, almost evangelical en- lightenment, as Kirk Says:
+C: KIRK
+D: 'Is this all that I am? Is there nothing more?
+E: understanding
+N: ON DIFALCO reacting to the (O.S.) viewer, AD-LIBBING a terse:
+C: DIFALCO
+D: Captain...!
+N: PAST KIRK AND SPOCK TO THE VIEWER where another opening is suddenly visible -- another chamber. But the violent and color energy effects of the previous chambers are no longer evident. Instead, the entire chamber appears beautifully symmetrical, with a strange, subdued glow, which increases as we move closer.
+C: SPOCK
+D: Captain, I believe that is our destination.
+E: flat
+S: 356 EXT. ENTERRISE - INT. V'GER - NEAR THE "ISLAND" 356
+N: COMPLEX This enormous chamber resembles a hemisphere, laced throughout with dazzling energy patterns, not at all ominous, but quite lovely in effect. As the Enterprise continues forward motion, now ahead you will to SEE a small "island." Floating in the exact center of the hemisphere, the "island" seems alive with PULSING LIGHT, with more of the lovely and delicate ENERGY FORMS and COLORS. On the "island," vague at this distance, ap pears to be a "solid" matter form.
+S: 357 INT. BRIDGE - INCLUDING VIEWER 357
+N: The "island" looming larger in the distance. And the Enterprise (as evidenced from the viewer) perceptibly slowing. Kirk just resuming his command chair, as:
+C: SULU
+D: Forward motion slowing, Captain...!
+N: Kirk says nothing a moment, studies the viewer -- and then:
+C: KIRK
+D: Engineering... Status, Mr. Scott?
+E: into intercom
+C: SCOTT'S INTERCOM VOICE
+D: We're ready, sir.
+E: somber
+C: KIRK
+D: Thank you, Scotty. Stand by.
+E: into intercom
+N: 358 ACROSS KIRK TO McCOY 358 as Kirk turns from the intercom and glances at McCoy. Between them a total look of understanding.
+S: 359 EXT. ENTERPRISE (INT. V'GER) 359
+N: The Enterprise approaching the edge of the "island" -- slowing, but still quite clearly being pulled by the tractor beam. The "solid matter" in the "island" cen- ter still obscured by the STRANGE LIGHT GLOW emanating from that area. The Enterprise is now nearly at the "island" edge.
+S: 360 INT. BRIDGE - INCLUDING VIEWER 360
+N: as all watching "island" loom closer and closer.
+C: CHEKOV
+D: Tractor beam strength lessening, Captain.
+C: KIRK
+D: Mr. Scott... on my next signal.
+E: into intercom
+C: SPOCK
+D: Captain, the orbital device will not be triggered for twenty-two minutes...
+E: fast ALT. nineteen... fifteen...
+C: KIRK
+D: The point...
+E: Your
+C: SPOCK
+D: The point is, Captain, twenty-two (ALT.
+E: eying "Ilia"; carefully
+N: should minutes. We could have that much loop "19" & more time... "15") Kirk glances at the Viewer, the oncoming "island," then at Spock:
+C: KIRK
+D: , if we do not provide V'ger with certain information, we won't have twenty-two seconds; the plan must be implemented upon arrival.
+E: shakes head, no ALT: "19", Mr. Spock "15
+C: DECKER
+D: Captain, we can't be sure that our... move... will actually save Earth.
+C: KIRK
+D: No!
+N: Decker's last word is interrupted by an almost gentle BUMP -- and on the Viewer all perceptible motion has stopped. At the same time:
+C: SULU
+D: Forward motion stopped, Captain.
+C: CHEKOV
+D: Tractor beam is released.
+S: 361 INT. INSIDE V'GER - THE ENTERPRISE AT THE "ISLAND" 361
+N: The ship's sauce leading edge holding position at the "island" edge as though docked.
+S: 362 INT. BRIDGE "ILIA" 362
+N: watching the (O.S.) Viewer.
+C: "ILIA"
+D: V'ger...
+E: indicating viewer
+N: 363 INCLUDING THE VIEWER KIRK AND THE OTHERS 363 all very silent a moment, gazing at the sight. Now Kirk glances at the people around him: on his command their lives are about to end. Nothing is said; no time for it, no inclination to articulate the obvious. No need to.
+C: KIRK
+D: Mr. Scott...
+E: into intercom: with finality
+N: 364 ANGLE ON CHEKOV 364 reacting to a console reading with surprise.
+C: CHEKOV
+D: Captain... I read an oxygen and gravity envelope forming outside the Enterprise...!
+C: UHURA
+D: Sir, I have located the source of V'ger's radio signal: directly ahead.
+E: it's
+C: SPOCK
+D: That transmitter is a vital link between V'ger and the Creator.
+E: its
+C: DECKER
+D: We have twenty-one minutes. Captain, we can still save V'ger... and ourselves.
+E: urging ALT. "18", .... "14"
+N: All this has caused Kirk to vacillate, but he still believes his course of action is the proper one, as:-
+C: "ILIA"
+D: The carbon units will now provide V'ger the required information.
+N: "Ilia" is moving toward the elevator, turning to face the others as she says this. Kirk remains frozen, his hand on the intercom button. He glances at McCoy, as though seeking advice. McCoy peers at him blandly, levelly; Kirk must follow his own instinct. 365 FAVORING KIRK 365 gazing at "Ilia," then at Spock, his brain racing, con- sidering all the possibilities, options. He glances at the anxious faces awaiting his decision: a possible twenty-two more minutes of life -- or instant death. Another beat as he decides. Then:
+C: KIRK
+D: Mr. Scott... we're holding off; there may be a chance... Spock, Bones...
+E: into intercom rises, gestures Spock and McCoy
+N: He starts for elevator. 366 PAST DECKER TO KIRK 366 as Kirk strides toward the elevator, joining McCoy and Spock.
+C: KIRK
+D: Mr. Decker... I will contact you every five minutes. Otherwise... inform Mr. Scott immediately.
+C: DECKER
+D: Captain... I'd like to go along...
+E: calls after him
+N: Kirk studies Decker a beat -- there is something com- pelling about Decker's manner -- a certain sense of absolute necessity. Kirk seems about to deny the re- quest, then turns to Sulu:
+C: KIRK
+D: Mr. Sulu, you have the conn...
+N: And Kirk leaves; Decker, his face reflecting a strange, almost eager gratification, hurries after him.
+C: KIRK
+D: V'ger plans to literally meld to reduce both itself and the Creator to patterns...
+C: SPOCK
+D: ... and then to reassemble itself combined with the Creator. The most certain way of obtaining all the Creator's answers.
+N: A sudden STORM OF LIGHT AND STRANGE SOUND. In the midst of it, Kirk finds a SHAFT OF LIGHT very much centering on him. He sees "Ilia" watching him with none of their "former navigator" in her expression now. Kirk hesitates, gathering his thoughts:
+C: KIRK
+D: Our data is being prepared.
+E: to "Ilia"
+C: "ILIA"
+D: Answer!
+C: KIRK
+D: We will answer and present proof of our answer when it is ready!
+N: Kirk's words lead to a suggestion of FRUSTRATION in the STORM OF LIGHT AND SOUND around them.
+C: KIRK
+D: V'ger, we will bring the Creator to you! Here!
+E: continuing
+N: 367 ANGLE EMPHASIZING "ILIA" AND DECKER 367 as he moves to her:
+C: DECKER
+D: We need only a few more minutes. Believe me...
+N: Decker has reached out to touch her -- the probe spins at his touch -- the move knocks Decker from his feet, tumbling, a hard fall. Then the robe looks at him lying there -- just the slightest softening of her features now. 368 EMPHASIZING DECKER 368 slowly turning to face the probe again.
+C: DECKER
+D: Ilia, believe me... the Creator will appear!
+N: 369 EMPHASIZING "ILIA" 369 as she meets Decker's look, her expression softening still more. The STORM OF LIGHT and SOUND begins to subside a bit. She moves to him and he gets to his feet.
+C: UHURA'S INTERCOM VOICE
+D: Enterprise to Captain...
+S: 370 INT. BRIDGE 370
+N: Uhura with Sulu and Chekov there.
+C: UHURA
+D: Problem, Captain: the response signal is not in our records. Voyager Six was sent out by Earth's "United States Subdivision.' The code was probably...
+S: 371 INT. VOYAGER SIX SITE 371
+N: as Uhura continues:
+C: UHURA'S INTERCOM VOICE
+D: ... kept secret to keep Voyager's data from rival subdivisions.
+N: McCOY That's preposterous! They wouldn't have kept scientific data from one another.
+C: CHEKOV'S INTERCOM VOICE
+D: We are now checking with Starfleet Archives, Captain. Stand by.
+N: 372 ANGLE ON DECKER AND "ILIA" 372 Kirk, Spock and McCoy are standing some distance from them (out of hearing). The probe is clearly moving into still closer touch with Lt. Ilia's memory patterns as Decker takes her hand.
+C: DECKER
+D: And when V'ger melds? What will happen to you?
+C: "ILIA"
+D: It will... take me from you...
+N: 373 KIRK, SPOCK AND McCOY 373 McCoy is looking at Kirk with an incredulous expression on his face. McCOY And when it realizes what the Creator is...?
+C: KIRK
+D: There's no way to know. V'ger expected it to be a machine -- some single entity. All of us here may be reduced into patterns...
+E: indicates entire site
+C: SPOCK
+D: That seems to be what it has planned -- to have the Creator physically present here.
+N: McCOY (small smile) The God it captures is going to be a hell of a disappointment. 374 DECKER AND "ILIA" 374 at the side of Voyager Six, Decker in the midst of twisting a wing-nut which releases a hatch which swings open. Decker peers inside while "Ilia" waits. 375 KIRK, SPOCK AND McCOY 375 Decker and "Ilia" at the old capsule in b.g. as Kirk looks that way.
+C: KIRK
+D: Commander...
+N: We SEE Decker look up at Kirk's call, then ignore him and go back to inspecting inside the access hatch. At this moment, from Kirk's communicator, a SIGNAL.
+C: KIRK
+D: Kirk here.
+E: continuing; into communicator
+C: UHURA'S INTERCOM VOICE
+D: We now have the response code, sir.
+C: KIRK
+D: Stand by. Transmit it on my orders.
+N: The three of them exchange looks -- Kirk, Spock and McCoy exchanging a silent moment of friendship and resignation. Then Kirk lifts his communicator again:
+C: KIRK
+D: Enterprise... transmit.
+E: continuing
+N: 376 DECKER AND "ILIA" 376 catching Decker in the midst of pressing a control on his tricorder. Both he and "Ilia" are watching Kirk and the others closely. Now Decker looks down at the tricorder's face. He nods:
+C: DECKER
+D: Recording...
+N: 377 KIRK, SPOCK AND McCOY 377 still waiting. They continue to wait. McCoy shifts uncomfortably, throws Kirk a puzzled glance. Kirk finally lifts his communicator.
+C: KIRK
+D: Enterprise, are you transmitting?
+C: UHURA'S INTERCOM VOICE
+D: Affirmative, Captain. For some time now.
+C: KIRK
+D: Confirm code and transmitting frequency.
+C: CHEKOV'S INTERCOM VOICE
+D: Both signal and frequency confirmed, sir.
+C: DECKER
+D: Captain Kirk!
+E: calling
+N: 378 VARIOUS ANGLES 378 as the others turn to Decker and "Ilia."
+C: DECKER
+D: The fault is here, sir, not in the transmission. The antenna leads have been disconnected. V'ger never intended to accept a transmitted signal.
+E: continuing indicating into hatch
+C: KIRK
+D: Capture God! In order to retrieve V'ger's data, the Creator has to physically come here!...
+C: DECKER
+D: And plug the signal directly into the circuitry at this... ... point here, Captain. It should pick up even a tricorder playback.
+E: indicates into access
+C: KIRK
+D: Enterprise, I want that signal again. Transmit!
+E: lifting communicator
+N: Then Kirk touches a control on his tricorder exactly as Decker did earlier. Then he looks up, reacts as he sees Decker holding his own tricorder up -- and a smile playing on Decker's face. 379 ACTION ANGLE 379 as Kirk suddenly pivots, races toward Decker -- but he passes too close to the "Ilia"-probe. It sends him spinning back, tumbling to his knees. 380 AT KIRK 380 as KIRK starts up to scramble to his feet but Spock has stepped in, putting a hand on Kirk's shoulder and re straining him.
+C: SPOCK
+D: Jim... he wants it.
+C: DECKER
+D: You got the Enterprise, it's what you wanted. This is what
+C: I want.
+D: But, Jim... ... I'm the right choice for this mission.
+E: smiles now very seriously
+N: And then Decker shoves the tricorder into the access hatch. 381 VARIOUS EFFECTS SHOTS - DECKER BEING FUSED - V'GER 381 TRANSCENDING (S) For just an instant nothing happens -- and then a BLINDING SHAFT OF LIGHT STRIKES Decker. The color becomes BRIGHTER AND BRIGHTER, begins spiraling through the room. "Ilia" stes toward Decker, is caught in the LIGHT, and instantly VANISHES in a BRILLIANT WHITE GLOW. We SEE Decker seeming to grow larger -- as if his molecular pattern is expanding. A SPECTACULAR SERIES OF VISUALS., THE SPIRALING LIGHT enveloping the entire area. All this emanating from Decker's body, becoming LARGER -- also BRIGHTER AND BRIGHTER until now it is almost transparent. And the SPIRALING now expanding in all directions, and the room itself starting to dissolve, vanishing into nothingness -- and all commencing to slip into the new dimension. Kirk, Spock and McCoy stand transfixed another instant. Around them, V'ger seems to be TRANSFORMING INTO BRIL- LIANT, LOVELY PATTERNS. They all turn and race into the complex in the direction of their vessel.
+S: 382 EXT. EARTH ORBIT - AN ENERGY BOLT (S) 382
+N: It too seems to be flowering into loveliness, brilliant, graceful patterns as they seem to slip through to another dimension, vanishing.
+S: 383 EXT. V'GER - FULL SHOT 383
+N: The "FLOWERING" EFFECT now spreading outward, V'ger's massive shape becoming a spiraling pattern of twisting, graceful shapes and brilliant colors -- a transcendence into another dimension. And then all of that is left is a shimmering, jewel-like point of light -- and then it too fades -- and reveals there in the blue-black of space, the U.S.S. Enterprise.
+S: 384 INT. BRIDGE - INCLUDING THE VIEWER (O) 384
+N: which shows now only space and its familiar star patterns. All gaze at the viewer, awed at what they've seen and undergone. They exchange looks silently, no one wanting to be the first to try to comment on some- thing which is beyond mere words. We HEAR an ELEVATOR DOOR, Scott and Chapel ENTER the bridge and stand silently watching. McCOY Well, it certainly has been... interesting.
+C: KIRK
+D: Spock, we were its answer!
+C: SPOCK
+D: Yes, Captain. It needed our mortality, the fear of it, our struggle against it, our fears, our dreams...
+E: nods
+C: KIRK
+D: ... and the 'foolish' emotions which drive us?
+C: SPOCK
+D: I prefer your poet Dante's phrase -- 'the divine restlessness of the human spirit.'
+E: looks at Kirk; then
+N: McCOY Spock... you're quoting poetry? Spock's cold look at McCoy is interrupted by:
+C: UHURA
+D: Starfleet signal, Captain! Return to orbital dockyard for inspection.
+C: KIRK
+D: Ignore that signal. Shall we give the Enterprise a proper shakedown, Mr. Scott?
+E: to Scott
+C: SCOTT
+D: I'd say it's time for that, I would, sir. We can have you back on Vulcan in four days, Mr. Spock.
+E: suddenly beaming toward Spock
+C: SPOCK
+D: I have no business on Vulcan, Engineer.
+E: coolly
+N: Kirk and Spock exchange a look -- then Kirk turns to the helm.
+C: KIRK
+D: Ahead Warp One, Mr. Sulu.
+C: DIFALCO
+D: Heading, sir?
+C: KIRK
+D: Out there. Thataway.
+E: taking center seat; indicates generally
+C: SPOCK
+D: A most logical choice, Captain.
+E: nods gravely
+N: Then the trace of a smile comes over Spock's face.
+S: 385 EXT. SPACE - ENTERPRISE (S) 385
+N: Planet Earth in the distance, and receding in size as the starship heads out the other direction.
+T: FADE OUT.
+N: THE END

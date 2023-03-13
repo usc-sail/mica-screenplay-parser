@@ -139,3 +139,6 @@ dmypy.json
 
 # research experiment
 **/experiments/
+
+# GDI scripts
+data/SAIL\ Team\ Spellcheck/
