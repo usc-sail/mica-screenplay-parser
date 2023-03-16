@@ -1,20 +1,14 @@
-# author : Sabyasachee
+from movie_screenplay_parser.movieparser.create_feats import FeatureExtractor
+from movie_screenplay_parser.movieparser.scriptloader import label2id
 
-# standard library imports
 import math
 import os
 import pandas as pd
 from typing import Union, Tuple, List
-
-# third party imports
 import numpy as np
 from torch import nn
 import torch
 from sentence_transformers import SentenceTransformer
-
-# user library imports
-from movieparser.create_feats import FeatureExtractor
-from movieparser.scriptloader import label2id
 
 class ScriptParser(nn.Module):
 

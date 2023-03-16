@@ -1,17 +1,11 @@
-# author : Sabyasachee
+from movie_screenplay_parser.movieparser.parse_scripts_noindent import parse_lines
 
-# standard library
 from collections import defaultdict
 import os
 import random
 import re
 from typing import List, Tuple
-
-# third-party library
 import pandas as pd
-
-# user library
-from movieparser.parse_scripts_noindent import parse_lines
 
 def merge_empty_lines_and_strip_non_empty_lines(script, label=None):
     if label is None:

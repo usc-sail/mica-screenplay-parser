@@ -40,20 +40,15 @@ Options:
     --keep_pdf2text         If input_file is a pdf, don't remove the text file converted from the pdf
     --gpu=<gpu_id>          Use gpu. If --rules is set, then gpu is never used [default: -1]
 '''
+from movie_screenplay_parser.screenplayparser import ScreenplayParser
 
-# standard library
 import os
 import re
 import sys
-
-# third party
 import docopt
 import pandas as pd
 import pdftotext
 from tqdm import tqdm
-
-# user
-from screenplayparser import ScreenplayParser
 
 #####################################################################
 #### read cmd args

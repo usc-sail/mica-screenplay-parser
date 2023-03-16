@@ -1,16 +1,10 @@
-# author : Sabyasachee
+from movie_screenplay_parser.movieparser.scriptparser import ScriptParser
+from movie_screenplay_parser.movieparser.scriptloader import InferenceScriptLoader, label2id
 
-# standard library imports
 from typing import List, Dict, Any
-
-# third party imports
 import pandas as pd
 import torch
 from sklearn.metrics import precision_recall_fscore_support, confusion_matrix
-
-# user library imports
-from movieparser.scriptparser import ScriptParser
-from movieparser.scriptloader import InferenceScriptLoader, label2id
 
 def get_classification_report(label: List[str], pred: List[str]) -> pd.DataFrame:
     C = confusion_matrix(label, pred, labels=list(label2id.keys()))

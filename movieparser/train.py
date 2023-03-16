@@ -1,24 +1,18 @@
-# author : Sabyasachee
+from movie_screenplay_parser.movieparser.scriptloader import get_dataloaders, label2id
+from movie_screenplay_parser.movieparser.scriptparser import ScriptParser
+from movie_screenplay_parser.movieparser.evaluate import evaluate, get_classification_report
 
-# standard library imports
 import json
 import math
 import os
 import sys
 import time
 from typing import Dict, Any, List
-
-# third party imports
 import numpy as np
 from sklearn.metrics import precision_recall_fscore_support
 import torch
 from torch.optim import Adam
 from torch.multiprocessing import Pool, set_start_method, current_process
-
-# user imports
-from movieparser.scriptloader import get_dataloaders, label2id
-from movieparser.scriptparser import ScriptParser
-from movieparser.evaluate import evaluate, get_classification_report
 
 def train_movie(movie: str, device: torch.device, results_folder: str, seqlen: int, bidirectional: bool, train_batch_size: int, segment_lengths: List[int], encoder_learning_rate: float, learning_rate: float, max_epochs: int, max_norm: float, verbose = False) -> Dict[str, Any]:
     

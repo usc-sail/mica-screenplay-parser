@@ -1,20 +1,14 @@
-# author : Sabyasachee
+from movie_screenplay_parser.screenplayparser.feats import FeatureExtractor
 
-# standard library imports
 from collections import defaultdict
 import math
 import os
 from typing import Union, Tuple, List
-
-# third party imports
 import numpy as np
 import pandas as pd
 from sentence_transformers import SentenceTransformer
 from torch import nn
 import torch
-
-# user library imports
-from mica_text_parser.screenplayparser.feats import FeatureExtractor
 
 class RobustScreenplayParser(nn.Module):
 

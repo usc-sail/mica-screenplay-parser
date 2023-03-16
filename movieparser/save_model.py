@@ -1,16 +1,10 @@
-# author : Sabyasachee
+from movie_screenplay_parser.movieparser.scriptparser import ScriptParser
+from movie_screenplay_parser.movieparser.scriptloader import get_dataloaders, label2id
 
-# standard library imports
 import os
-
-# third party imports
 import numpy as np
 import torch
 from torch.optim import Adam
-
-# user library imports
-from movieparser.scriptparser import ScriptParser
-from movieparser.scriptloader import get_dataloaders, label2id
 
 def train_and_save(results_folder: str, seqlen: int, bidirectional: bool, train_batch_size: int, learning_rate: float, encoder_learning_rate: float, max_norm: float, max_epochs: int):
     device = torch.device(0) 

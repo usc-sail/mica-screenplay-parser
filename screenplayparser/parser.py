@@ -1,14 +1,8 @@
-# author : Sabyasachee
+from movie_screenplay_parser.screenplayparser.robust import RobustScreenplayParser
+from movie_screenplay_parser.screenplayparser.rule import parse_lines
 
-# standard library
 from typing import List
-
-# third party
 import torch
-
-# user library
-from mica_text_parser.screenplayparser.robust import RobustScreenplayParser
-from mica_text_parser.screenplayparser.rule import parse_lines
 
 class ScreenplayParser:
     '''

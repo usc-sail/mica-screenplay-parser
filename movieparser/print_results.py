@@ -1,16 +1,10 @@
-# author : Sabyasachee
+from movie_screenplay_parser.movieparser.parse_scripts_noindent import parse_lines
 
-# standard library imports
 import json
 import os
 import sys
-
-# third party imports
 import pandas as pd
 from sklearn.metrics import precision_recall_fscore_support
-
-# user library imports
-from movieparser.parse_scripts_noindent import parse_lines
 
 def print_results(results_folder):
     df = pd.read_csv(os.path.join(results_folder, "data.csv"), index_col=None)

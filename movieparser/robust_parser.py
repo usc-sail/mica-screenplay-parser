@@ -1,10 +1,6 @@
-# author : Sabyasachee
-
+from movie_screenplay_parser.movieparser.scriptparser import ScriptParser
 from typing import List
-
 import torch
-
-from movieparser.scriptparser import ScriptParser
 
 class MovieParser:
 

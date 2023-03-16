@@ -1,10 +1,5 @@
-# author : Sabyasachee
-
-# standard library imports
 import re
 from typing import List, Tuple, Dict
-
-# third party imports
 import spacy
 from spacy.tokens.doc import Doc
 

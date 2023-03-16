@@ -1,11 +1,6 @@
-# author : Sabyasachee
-
-# standard library
 import math
 import os
 import random
-
-# third party library
 import pandas as pd
 
 def create_seq_data(results_folder, seqlen=10):

@@ -20,16 +20,21 @@ parser. The code runs in one of the following modes:
     8. deploy               : Train and save the weights of the transformer-based screenplay parser that will be used
                               by end users.
     9. print                : [TODO]
+
+Usage:
+    python run.py --mode=evaluate_simple [--data_dir=] [--results_dir=] [--trx]
+    python run.py --mode=evaluate_issue [--data_dir=] [--results_dir=] [--trx] [--issue_file=] [--error=]+ 
+        [--error_rate=]+ [--n_trials]
 """
-from .movieparser.evaluation import evaluate_parser
-from .movieparser.evaluation_gdi import evaluate_gdi
-from .movieparser.evaluation_robust import RobustEvaluation
-from .movieparser.create_data import create_data
-from .movieparser.create_seq_data import create_seq_data
-from .movieparser.create_feats import create_features
-from .movieparser.train import train
-from .movieparser.save_model import train_and_save
-from .movieparser.print_results import print_results
+from movie_screenplay_parser.movieparser import evaluation_simple
+from movie_screenplay_parser.movieparser import evaluation_linecount
+from movie_screenplay_parser.movieparser import evaluation_issue
+from movie_screenplay_parser.movieparser import create_data
+from movie_screenplay_parser.movieparser import create_seq_data
+from movie_screenplay_parser.movieparser import create_feats
+from movie_screenplay_parser.movieparser import train
+from movie_screenplay_parser.movieparser import save_model
+from movie_screenplay_parser.movieparser import print_results
 
 from absl import app
 from absl import flags
@@ -39,8 +44,9 @@ FLAGS = flags.FLAGS
 flags.DEFINE_enum("mode", "train", enum_values=["evaluate_simple", "evaluate_issue", "evaluate_linecount", 
                                                 "create_data", "create_seqdata", "create_features", "train", "deploy", 
                                                 "print"], help="run mode")
-flags.DEFINE_string("data_dir", default=None, required=True, help="data directory")
-flags.DEFINE_string("results_dir", default=None, required=True, help="results directory")
+flags.DEFINE_string("data_dir", default="data/", help="data directory")
+flags.DEFINE_string("results_dir", default="results/", help="results directory")
+flags.DEFINE_string("issue_file", default=None, help="output file for issue evaluation")
 flags.DEFINE_string("linecounts_dir", default=None, help="directory containing scripts and word document files "
                     "containing character line counts")
 flags.DEFINE_multi_string("ignore_script_linecount", default=[], help="script name that will be ignored from the "
@@ -51,8 +57,21 @@ flags.DEFINE_bool("recount", default=False, help="overwrite existing line count 
 flags.DEFINE_integer("seqlen", default=10, help="number of sentences in a training sample")
 flags.DEFINE_integer("batch_size", default=256, help="batch size used in training")
 flags.DEFINE_string("eval_movie", default=None, help="movie left out in leave-one-movie-out validation")
-flags.DEFINE_multi_string("eval_seqlen",default=[10, 50, 100, 1000000], help="number of sentences in an inference "
+flags.DEFINE_multi_integer("eval_seqlen",default=[10, 50, 100, 1000000], help="number of sentences in an inference "
                           "batch")
+flags.DEFINE_multi_enum("error", default=[], 
+                        enum_values=["replace_name_with_scene_kw",
+                                     "replace_name_with_transition_kw",
+                                     "remove_scene_kw",
+                                     "lowercase_scene_line",
+                                     "lowercase_character_line",
+                                     "create_watermark_line",
+                                     "insert_asterisks_or_numbers",
+                                     "insert_dialogue_expressions"], 
+                        help="error types for issue-based evaluation")
+flags.DEFINE_multi_float("error_rate", default=[], lower_bound=0, upper_bound=1, 
+                         help="error rates for issue-based evaluation")
+flags.DEFINE_integer("n_trials", default=10, help="number of trials for issue-based evaluation")
 flags.DEFINE_float("lr", default=1e-3, help="model learning rate")
 flags.DEFINE_float("sent_lr", default=1e-5, help="learning rate of the sentence encoder")
 flags.DEFINE_float("max_norm", default=1, help="maximum norm of the weights used for gradient clipping")
@@ -70,6 +89,7 @@ def movieparse(argv):
     mode = FLAGS.mode
     data_dir = FLAGS.data_dir
     results_dir = FLAGS.results_dir
+    issue_file = FLAGS.issue_file
     linecounts_dir = FLAGS.linecounts_dir
     ignore_scripts_linecount = FLAGS.ignore_script_linecount
     trx = FLAGS.trx
@@ -79,6 +99,9 @@ def movieparse(argv):
     batch_size = FLAGS.batch_size
     eval_movie = FLAGS.eval_movie
     eval_seqlen = FLAGS.eval_seqlen
+    errors = FLAGS.error
+    error_rates = FLAGS.error_rate
+    n_trials = FLAGS.n_trials
     lr = FLAGS.lr
     sent_lr = FLAGS.sent_lr
     max_norm = FLAGS.max_norm
@@ -91,36 +114,37 @@ def movieparse(argv):
     annotator_1 = os.path.join(data_dir, "Annotator_1.xlsx")
     annotator_2 = os.path.join(data_dir, "Annotator_2.xlsx")
     annotator_3 = os.path.join(data_dir, "Annotator_3.xlsx")
-    parsed_folder = os.path.join(data_dir, "SAIL_annotation_screenplays")
-    screenplays_folder = os.path.join(data_dir, "SAIL_annotation_screenplays/screenplays")
-    line_indices = os.path.join(data_dir, "SAIL_annotation_screenplays/line_indices.txt")
+    parsed_folder = os.path.join(data_dir, "screenplays")
+    screenplays_folder = os.path.join(data_dir, "screenplays/screenplays")
+    line_indices = os.path.join(data_dir, "screenplays/line_indices.txt")
     names_file = os.path.join(data_dir, "names.txt")
 
     if mode == "evaluate_simple":
-        evaluate_parser(annotator_1, annotator_2, annotator_3, parsed_folder, line_indices, use_robust=trx)
+        evaluation_simple.evaluate(annotator_1, annotator_2, annotator_3, parsed_folder, line_indices, results_dir, 
+                                   trx=trx)
     
     elif mode == "evaluate_issue":
-        robust_eval = RobustEvaluation(annotator_1, annotator_2, annotator_3, screenplays_folder, line_indices, 
-                                       names_file=names_file, results_folder=results_dir, use_robust_parser=trx)
-        robust_eval.robust_evaluate()
+        evaluation_issue.IssueEvaluation(annotator_1, annotator_2, annotator_3, screenplays_folder, line_indices, 
+                                         results_dir, issue_file, names_file=names_file, errors=errors, 
+                                         error_rates=error_rates, n_trials=n_trials, trx=trx)
 
     elif mode == "evaluate_linecount":
         gdi_folder = os.path.join(data_dir, "SAIL Team Spellcheck")
-        evaluate_gdi(gdi_folder, linecounts_dir, ignore_scripts=ignore_scripts_linecount, use_robust_parser=trx,
-                     ignore_existing_parse=reparse, recalculate_line_counts=recount)
+        evaluation_linecount.evaluate(gdi_folder, linecounts_dir, ignore_scripts=ignore_scripts_linecount, trx=trx,
+                                      ignore_existing_parse=reparse, recalculate_line_counts=recount)
     
-    elif mode == "create-data":
-        create_data(annotator_1, annotator_2, annotator_3, line_indices, names_file=names_file, 
-                    results_folder=results_dir, screenplays_folder=screenplays_folder)
+    elif mode == "create_data":
+        create_data.create_data(annotator_1, annotator_2, annotator_3, line_indices, names_file=names_file, 
+                                results_folder=results_dir, screenplays_folder=screenplays_folder)
     
-    elif mode == "create-seq":
-        create_seq_data(results_dir, seqlen)
+    elif mode == "create_seq":
+        create_seq_data.create_seq_data(results_dir, seqlen)
 
-    elif mode == "create-feats":
-        create_features(results_dir)
+    elif mode == "create_feats":
+        create_feats.create_features(results_dir)
     
     elif mode == "train":
-        train(data_folder=data_dir, 
+        train.train(data_folder=data_dir, 
               results_folder=results_dir, 
               seqlen=seqlen, 
               bidirectional=bi,
@@ -136,7 +160,7 @@ def movieparse(argv):
               verbose=verbose)
     
     elif mode == "deploy":
-        train_and_save(results_folder=results_dir, 
+        save_model.train_and_save(results_folder=results_dir, 
                        seqlen=seqlen, 
                        bidirectional=bi, 
                        train_batch_size=batch_size, 
@@ -146,7 +170,7 @@ def movieparse(argv):
                        max_epochs=max_epochs)
 
     elif mode == "print":
-        print_results(results_folder=results_dir)
+        print_results.print_results(results_folder=results_dir)
 
 if __name__ == '__main__':
     app.run(movieparse)

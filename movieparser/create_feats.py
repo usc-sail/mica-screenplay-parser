@@ -1,11 +1,6 @@
-# author : Sabyasachee
-
-# standard library imports
 import os
 import re
 from typing import List, Tuple
-
-# third party imports
 import pandas as pd
 import spacy
 from spacy.tokens.doc import Doc
