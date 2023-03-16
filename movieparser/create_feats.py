@@ -1,3 +1,5 @@
+"""Find features for each screenplay line of the MovieParse dataset.
+"""
 import os
 import re
 from typing import List, Tuple
@@ -8,7 +10,8 @@ from tqdm import tqdm
 
 def get_pos_features(doc: Doc) -> Tuple[List[float], List[str]]:
     feature = []
-    header = ["num_noun", "frac_noun", "num_verb", "frac_noun", "num_adjective", "frac_adjective", "num_adverb", "frac_adverb"]
+    header = ["num_noun", "frac_noun", "num_verb", "frac_noun", "num_adjective", "frac_adjective", "num_adverb", 
+              "frac_adverb"]
     for pos_prefix in ["NN","VB","JJ","RB"]:
         n_pos_words = sum(token.tag_.startswith(pos_prefix) for token in doc)
         if len(doc):
@@ -19,7 +22,8 @@ def get_pos_features(doc: Doc) -> Tuple[List[float], List[str]]:
 
 def get_entity_features(doc: Doc) -> Tuple[List[float], List[str]]:
     feature = []
-    header = ["num_person", "frac_person", "num_geopolitical", "frac_geopolitical", "num_location", "frac_location", "num_organization", "frac_organization", "num_time", "frac_time", "num_date", "frac_date"]
+    header = ["num_person", "frac_person", "num_geopolitical", "frac_geopolitical", "num_location", "frac_location", 
+              "num_organization", "frac_organization", "num_time", "frac_time", "num_date", "frac_date"]
     for label in ["PERSON","GPE","LOC","ORG","TIME","DATE"]:
         n_ent_words = sum(token.ent_type_ == label for token in doc)
         if len(doc):
@@ -50,7 +54,8 @@ def get_parentheses_features(doc: Doc) -> Tuple[List[float], List[str]]:
     return feature, header
 
 def get_keyphrase_features(doc: Doc) -> Tuple[List[float], List[str]]:
-    uncased_transition_keyphrases = ["cut to", "cut back to", "transition to", "close on", "dissolve to", "shock cut to", "fade in", "fade up", "fade to", "fade out"]
+    uncased_transition_keyphrases = ["cut to", "cut back to", "transition to", "close on", "dissolve to", 
+                                     "shock cut to", "fade in", "fade up", "fade to", "fade out"]
     uncased_scene_keyphrases = ["int", "ext"]
     uncased_keyphrases = uncased_transition_keyphrases + uncased_scene_keyphrases
     feature = []
@@ -71,7 +76,8 @@ def create_features(results_folder:str):
     data = []
     header = []
 
-    feature_functions = [get_pos_features, get_entity_features, get_length_features, get_capitalization_features, get_parentheses_features, get_keyphrase_features]
+    feature_functions = [get_pos_features, get_entity_features, get_length_features, get_capitalization_features, 
+                         get_parentheses_features, get_keyphrase_features]
     
     for doc in tqdm(nlp.pipe(sentences, batch_size=1024), total=len(sentences), desc="feature extraction"):
         header = []
@@ -92,7 +98,8 @@ class FeatureExtractor:
         self.nlp = spacy.load("en_core_web_lg", disable=["parser"])
     
     def __call__(self, sentences: List[str]) -> List[List[float]]:
-        feature_functions = [get_pos_features, get_entity_features, get_length_features, get_capitalization_features, get_parentheses_features, get_keyphrase_features]
+        feature_functions = [get_pos_features, get_entity_features, get_length_features, get_capitalization_features, 
+                             get_parentheses_features, get_keyphrase_features]
         vectors = []
         for doc in self.nlp.pipe(sentences, batch_size=1024):
             vector = []

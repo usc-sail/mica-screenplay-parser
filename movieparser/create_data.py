@@ -1,10 +1,13 @@
+"""Creates the MovieParse dataset from human-annotated movie parsing data. The library creates a dataframe containing
+the movie script line (original or modified), the human-annotated tag, and error type (no error or some specific 
+formatting error).
+"""
 from movie_screenplay_parser.movieparser.parse_scripts_noindent import parse_lines
 
 from collections import defaultdict
 import os
 import random
 import re
-from typing import List, Tuple
 import pandas as pd
 
 def merge_empty_lines_and_strip_non_empty_lines(script, label=None):
@@ -124,7 +127,8 @@ def insert_dialogue_expressions(script, label, prob=0.1):
 
     return new_script, new_label
 
-def create_data(annotator_1_file, annotator_2_file, annotator_3_file, line_indices_file, names_file="data/names.txt", results_folder="results", screenplays_folder="data/SAIL_annotation_screenplays/screenplays"):
+def create_data(annotator_1_file, annotator_2_file, annotator_3_file, line_indices_file, names_file="data/names.txt", 
+                results_folder="results/", screenplays_folder="data/screenplays/screenplays"):
 
     random.seed(0)
 

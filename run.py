@@ -40,9 +40,20 @@ from absl import app
 from absl import flags
 import os
 
+error_values = ["replace_name_with_scene_kw", "replace_name_with_transition_kw", "remove_scene_kw",
+                "lowercase_scene_line", "lowercase_character_line", "create_watermark_line",
+                "insert_asterisks_or_numbers", "insert_dialogue_expressions"]
+error_rates = [0.1, 0.5, 0.9, 0.01, 0.05, 0.15, 0.2, 0.3, 0.4, 0.6, 0.7, 0.8]
+movies = ["44_inch_chest","american_psycho","basic_instinct","bodyguard","bounty_hunter_the","broken_embraces",
+          "burn_after_reading","candle_to_water","changeling","custody","dry_white_season_a","event_horizon","extract",
+          "flight","gamer","grosse_pointe_blank","i_am_number_four","kids","lord_of_the_rings_fellowship_of","machete",
+          "man_who_knew_too_much_the","memento","men_in_black_3","mirrors","nine","pandorum","petulia",
+          "shawshank_redemption_the","spartan","star_trek_01_the_motion_picture","strange_days","stuntman_the",
+          "suspect_zero","true_romance","up_in_the_air","up","willow","wolf_of_wall_street_the","xmen"]
+
 FLAGS = flags.FLAGS
 flags.DEFINE_enum("mode", "train", enum_values=["evaluate_simple", "evaluate_issue", "evaluate_linecount", 
-                                                "create_data", "create_seqdata", "create_features", "train", "deploy", 
+                                                "create_data", "create_seq", "create_feats", "train", "deploy", 
                                                 "print"], help="run mode")
 flags.DEFINE_string("data_dir", default="data/", help="data directory")
 flags.DEFINE_string("results_dir", default="results/", help="results directory")
@@ -56,20 +67,13 @@ flags.DEFINE_bool("reparse", default=False, help="overwrite existing parse outpu
 flags.DEFINE_bool("recount", default=False, help="overwrite existing line count dataframe by recounting line counts")
 flags.DEFINE_integer("seqlen", default=10, help="number of sentences in a training sample")
 flags.DEFINE_integer("batch_size", default=256, help="batch size used in training")
-flags.DEFINE_string("eval_movie", default=None, help="movie left out in leave-one-movie-out validation")
+flags.DEFINE_enum("eval_movie", default=movies[0], enum_values=movies, 
+                  help="movie left out in leave-one-movie-out validation")
 flags.DEFINE_multi_integer("eval_seqlen",default=[10, 50, 100, 1000000], help="number of sentences in an inference "
                           "batch")
-flags.DEFINE_multi_enum("error", default=[], 
-                        enum_values=["replace_name_with_scene_kw",
-                                     "replace_name_with_transition_kw",
-                                     "remove_scene_kw",
-                                     "lowercase_scene_line",
-                                     "lowercase_character_line",
-                                     "create_watermark_line",
-                                     "insert_asterisks_or_numbers",
-                                     "insert_dialogue_expressions"], 
+flags.DEFINE_multi_enum("error", default=error_values, enum_values=error_values + ["none"], 
                         help="error types for issue-based evaluation")
-flags.DEFINE_multi_float("error_rate", default=[], lower_bound=0, upper_bound=1, 
+flags.DEFINE_multi_float("error_rate", default=error_rates, lower_bound=0, upper_bound=1, 
                          help="error rates for issue-based evaluation")
 flags.DEFINE_integer("n_trials", default=10, help="number of trials for issue-based evaluation")
 flags.DEFINE_float("lr", default=1e-3, help="model learning rate")

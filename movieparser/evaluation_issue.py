@@ -227,7 +227,7 @@ class IssueEvaluation:
         types = []
         probs = []
 
-        if not errors:
+        if errors == ["none"]:
 
             #####################################################################
             #### read annotator excel files
@@ -348,7 +348,7 @@ class IssueEvaluation:
             #### save ann for parsed original and contiguous
             #####################################################################
         
-            ann_file = os.path.join(results_folder, f"ann_{parser_type}.json")
+            ann_file = os.path.join(results_folder, f"ann.json")
             with open(ann_file, "w") as fw:
                 json.dump(ann, fw)
         
@@ -358,7 +358,7 @@ class IssueEvaluation:
             #### read ann file
             #####################################################################
             
-            ann_file = os.path.join(results_folder, f"ann_{parser_type}.json")
+            ann_file = os.path.join(results_folder, f"ann.json")
             with open(ann_file, "r") as fr:
                 ann = json.load(fr)
 

@@ -31,7 +31,7 @@ def evaluate(annotator_1_file, annotator_2_file, annotator_3_file, parsed_screen
     """
 
     parser_type = "trx" if trx else "rule"
-    output_file = open(os.path.join(results_dir, f"simple_{parser_type}.txt"), "w")
+    output_file = open(os.path.join(results_dir, f"evaluation_simple/{parser_type}.txt"), "w")
 
     if trx:
         parsed_screenplays_folder = os.path.join(parsed_screenplays_folder, "parsed-robust-screenplays")

@@ -1,3 +1,6 @@
+"""Create sequences of the screenplay lines from the MovieParse dataset. This will be used for training, validating,
+and testing the transformer-based parser.
+"""
 import math
 import os
 import random
@@ -12,7 +15,8 @@ def create_seq_data(results_folder, seqlen=10):
     df = df.sort_values(by=["movie", "error", "line_no"])
 
     data = []
-    header = ["movie", "start_line_no", "end_line_no"] + ["line_{}".format(i + 1) for i in range(seqlen)] + ["label", "error"]
+    header = (["movie", "start_line_no", "end_line_no"] + ["line_{}".format(i + 1) for i in range(seqlen)] 
+             + ["label", "error"])
 
     for (movie, error), mdf in df.groupby(["movie", "error"]):
         lines = mdf["text"].values
@@ -24,7 +28,8 @@ def create_seq_data(results_folder, seqlen=10):
             if len(sample_lines) < seqlen:
                 sample_lines.extend(["" for _ in range(seqlen - len(sample_lines))])
                 sample_label.extend(["O" for _ in range(seqlen - len(sample_label))])
-            data.append([movie, i * seqlen, min((i + 1) * seqlen, len(lines))] + sample_lines + ["".join(sample_label), error])
+            data.append([movie, i * seqlen, min((i + 1) * seqlen, len(lines))] + sample_lines 
+                        + ["".join(sample_label), error])
     
     df = pd.DataFrame(data, columns=header)
     df = df.sort_values(by=["movie", "error", "start_line_no"])
