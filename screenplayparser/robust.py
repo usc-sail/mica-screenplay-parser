@@ -1,4 +1,4 @@
-from movie_screenplay_parser.screenplayparser.feats import FeatureExtractor
+from .feats import FeatureExtractor
 
 from collections import defaultdict
 import math

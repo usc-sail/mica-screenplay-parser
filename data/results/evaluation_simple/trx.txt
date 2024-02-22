@@ -1,0 +1,95 @@
+agreement scores by movie:
+	44_inch_chest                        92.9% all agree,  22 two agree,   0 all disagree
+	american_psycho                      98.8% all agree,   3 two agree,   1 all disagree
+	basic_instinct                       96.1% all agree,  13 two agree,   0 all disagree
+	bodyguard                            97.5% all agree,   7 two agree,   0 all disagree
+	bounty_hunter_the                    99.5% all agree,   2 two agree,   0 all disagree
+	broken_embraces                      97.2% all agree,  15 two agree,   0 all disagree
+	burn_after_reading                   99.2% all agree,   3 two agree,   0 all disagree
+	candle_to_water                      98.0% all agree,   8 two agree,   0 all disagree
+	changeling                           99.7% all agree,   1 two agree,   0 all disagree
+	custody                              98.2% all agree,   7 two agree,   0 all disagree
+	dry_white_season_a                   98.6% all agree,   4 two agree,   0 all disagree
+	event_horizon                        99.4% all agree,   2 two agree,   0 all disagree
+	extract                              99.7% all agree,   1 two agree,   0 all disagree
+	flight                               98.9% all agree,   4 two agree,   0 all disagree
+	gamer                               100.0% all agree,   0 two agree,   0 all disagree
+	grosse_pointe_blank                 100.0% all agree,   0 two agree,   0 all disagree
+	i_am_number_four                     98.9% all agree,   4 two agree,   0 all disagree
+	kids                                100.0% all agree,   0 two agree,   0 all disagree
+	lord_of_the_rings_fellowship_of      98.9% all agree,   4 two agree,   0 all disagree
+	machete                              97.8% all agree,   9 two agree,   0 all disagree
+	man_who_knew_too_much_the            99.2% all agree,   3 two agree,   0 all disagree
+	memento                              99.7% all agree,   1 two agree,   0 all disagree
+	men_in_black_3                       97.6% all agree,   9 two agree,   0 all disagree
+	mirrors                              98.3% all agree,   4 two agree,   3 all disagree
+	nine                                100.0% all agree,   0 two agree,   0 all disagree
+	pandorum                             99.5% all agree,   2 two agree,   0 all disagree
+	petulia                              99.7% all agree,   1 two agree,   0 all disagree
+	shawshank_redemption_the             99.1% all agree,   2 two agree,   1 all disagree
+	spartan                              99.4% all agree,   2 two agree,   0 all disagree
+	star_trek_01_the_motion_picture      97.0% all agree,  10 two agree,   0 all disagree
+	strange_days                        100.0% all agree,   0 two agree,   0 all disagree
+	stuntman_the                         97.9% all agree,   2 two agree,   5 all disagree
+	suspect_zero                         99.7% all agree,   1 two agree,   0 all disagree
+	true_romance                         98.1% all agree,   7 two agree,   0 all disagree
+	up_in_the_air                       100.0% all agree,   0 two agree,   0 all disagree
+	up                                   99.8% all agree,   1 two agree,   0 all disagree
+	willow                              100.0% all agree,   0 two agree,   0 all disagree
+	wolf_of_wall_street_the              93.7% all agree,  19 two agree,   2 all disagree
+	xmen                                 98.4% all agree,   6 two agree,   0 all disagree
+
+
+interrater reliability scores:
+	 99.1% rater pairs agree
+	0.9879 fleiss kappa
+	0.9905 krippendorff alpha
+
+parser accuracy by movie:
+	44_inch_chest                       acc =  97.7%
+	american_psycho                     acc =  99.7%
+	basic_instinct                      acc = 100.0%
+	bodyguard                           acc =  98.9%
+	bounty_hunter_the                   acc =  99.7%
+	broken_embraces                     acc =  99.8%
+	burn_after_reading                  acc =  99.2%
+	candle_to_water                     acc =  98.3%
+	changeling                          acc =  99.1%
+	custody                             acc =  99.0%
+	dry_white_season_a                  acc =  99.0%
+	event_horizon                       acc = 100.0%
+	extract                             acc =  99.2%
+	flight                              acc =  99.2%
+	gamer                               acc =  99.7%
+	grosse_pointe_blank                 acc =  99.5%
+	i_am_number_four                    acc =  98.7%
+	kids                                acc =  98.6%
+	lord_of_the_rings_fellowship_of     acc =  98.9%
+	machete                             acc =  98.5%
+	man_who_knew_too_much_the           acc =  99.5%
+	memento                             acc =  99.7%
+	men_in_black_3                      acc =  97.1%
+	mirrors                             acc =  99.3%
+	nine                                acc =  99.4%
+	pandorum                            acc =  99.0%
+	petulia                             acc =  99.2%
+	shawshank_redemption_the            acc =  99.1%
+	spartan                             acc = 100.0%
+	star_trek_01_the_motion_picture     acc =  99.4%
+	strange_days                        acc =  99.7%
+	stuntman_the                        acc =  98.5%
+	suspect_zero                        acc = 100.0%
+	true_romance                        acc =  99.2%
+	up_in_the_air                       acc = 100.0%
+	up                                  acc =  99.6%
+	willow                              acc =  99.7%
+	wolf_of_wall_street_the             acc =  96.4%
+	xmen                                acc =  99.7%
+
+parser precision, recall, and F1 by tag:
+	S: p = 91.7, r = 100.0, f1 = 95.7
+	N: p = 98.8, r = 98.7, f1 = 98.7
+	C: p = 99.8, r = 99.7, f1 = 99.8
+	D: p = 99.5, r = 99.0, f1 = 99.3
+	E: p = 96.8, r = 100.0, f1 = 98.4
+	T: p = 94.4, r = 100.0, f1 = 97.1

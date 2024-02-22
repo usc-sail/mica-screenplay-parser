@@ -135,10 +135,11 @@ dmypy.json
 *.pt
 
 # notebooks
-**/notebooks/
+notebooks/
 
 # research experiment
-**/experiments/
+experiments/
 
-# GDI scripts
-data/SAIL\ Team\ Spellcheck/
+# data
+data/sail-team-spellcheck
+

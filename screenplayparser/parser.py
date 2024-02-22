@@ -1,8 +1,9 @@
-from movie_screenplay_parser.screenplayparser.robust import RobustScreenplayParser
-from movie_screenplay_parser.screenplayparser.rule import parse_lines
+from .robust import RobustScreenplayParser
+from .rule import parse_lines
 
 from typing import List
 import torch
+import os
 
 class ScreenplayParser:
     '''
@@ -71,7 +72,9 @@ class ScreenplayParser:
                 device_id = -1
                 device = torch.device("cpu")
             self.parser = RobustScreenplayParser(38, 8, True, device_index=device_id)
-            self.parser.load_state_dict(torch.load("screenplayparser/model.pt", map_location=device))
+            self.parser.load_state_dict(torch.load(os.path.join(os.getenv("PROJ_DIR"), 
+                                                                "mica-screenplay-parser/screenplayparser/model.pt"), 
+                                        map_location=device))
             self.parser.to(device)
             self.parser.eval()
 

@@ -67,10 +67,12 @@ input_files = []
 output_files = []
 
 if os.path.isdir(input):
-    input_files = [file for file in os.listdir(input) if file.endswith(".txt") or file.endswith(".pdf")]
+    input_files = [os.path.join(input, file) for file in os.listdir(input) 
+                   if file.endswith(".txt") or file.endswith(".pdf")]
     
     if os.path.isdir(output):
-        output_files = [re.sub("\.(txt|pdf)$", "_parsed.csv", file) for file in input_files]
+        output_files = [re.sub("\.(txt|pdf)$", "_parse.txt", file) for file in input_files]
+
     else:
         print("<output> has to be a directory")
         sys.exit(-1)
@@ -79,7 +81,7 @@ elif input.endswith(".txt") or input.endswith(".pdf"):
     input_files = [input]
     
     if output is None:
-        output = re.sub("\.(txt|pdf)$", "_parsed.csv", input)
+        output = re.sub("\.(txt|pdf)$", "_parse.txt", input)
     output_files = [output]
 
 else:
@@ -99,7 +101,7 @@ else:
 #### parse files
 #####################################################################
 
-for input_file, output_file in tqdm(input_files):
+for input_file, output_file in tqdm(zip(input_files, output_files), total=len(input_files)):
 
     script = []
 
@@ -120,8 +122,5 @@ for input_file, output_file in tqdm(input_files):
             script = fr.read().splitlines()
     
     tags = parser.parse(script)
-
-    df = pd.DataFrame()
-    df["text"] = script
-    df["label"] = tags
-    df.to_csv(output_file, index=False, sep=",")
+    with open(output_file, "w") as fw:
+        fw.write("\n".join(tags))
