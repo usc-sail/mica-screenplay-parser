@@ -26,15 +26,15 @@ Usage:
     python run.py --mode=evaluate_issue [--data_dir=] [--results_dir=] [--trx] [--issue_file=] [--error=]+ 
         [--error_rate=]+ [--n_trials]
 """
-from movie_screenplay_parser.movieparser import evaluation_simple
-from movie_screenplay_parser.movieparser import evaluation_linecount
-from movie_screenplay_parser.movieparser import evaluation_issue
-from movie_screenplay_parser.movieparser import create_data
-from movie_screenplay_parser.movieparser import create_seq_data
-from movie_screenplay_parser.movieparser import create_feats
-from movie_screenplay_parser.movieparser import train
-from movie_screenplay_parser.movieparser import save_model
-from movie_screenplay_parser.movieparser import print_results
+from training import evaluation_simple
+from training import evaluation_linecount
+from training import evaluation_issue
+from training import create_data
+from training import create_seq_data
+from training import create_feats
+from training import train
+from training import save_model
+from training import print_results
 
 from absl import app
 from absl import flags
