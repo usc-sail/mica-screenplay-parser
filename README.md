@@ -49,3 +49,34 @@ rule_tags = rule_parser.parse(script)
 ```
 
 The transformer-based parser is much slower (100x), but more accurate than the rule-based parser.
+
+## Citation
+
+If you use this parser, please cite the following paper:
+
+```
+Sabyasachee Baruah and Shrikanth Narayanan. 2023. Character Coreference Resolution in Movie Screenplays.
+In Findings of the Association for Computational Linguistics: ACL 2023, pages 10300–10313, Toronto, Canada.
+Association for Computational Linguistics.
+```
+
+The bibtex is:
+
+```bibtex
+@inproceedings{baruah-narayanan-2023-character,
+    title = "Character Coreference Resolution in Movie Screenplays",
+    author = "Baruah, Sabyasachee  and
+      Narayanan, Shrikanth",
+    editor = "Rogers, Anna  and
+      Boyd-Graber, Jordan  and
+      Okazaki, Naoaki",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2023",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.findings-acl.654",
+    doi = "10.18653/v1/2023.findings-acl.654",
+    pages = "10300--10313",
+}
+```
