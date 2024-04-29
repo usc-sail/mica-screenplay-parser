@@ -132,7 +132,7 @@ dmypy.json
 **/*.code-workspace
 
 # pytorch model files
-*.pt
+# *.pt
 
 # notebooks
 notebooks/
